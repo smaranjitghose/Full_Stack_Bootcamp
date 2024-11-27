@@ -1,6 +1,7 @@
 
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|Neeti Darji|2303031087080|NeetiDarji|NeetiDarji|
 |Hardeep Ijardar|2203031080031|https://www.linkedin.com/in/hardeep-ijardar-711874266/|https://github.com/HardeepIjardar|
 |Alisha |2203031080202|https://www.linkedin.com/in/alisha-kaur-2460b4261|Alishakaur431|
 |Vignesh Gaddam|2203031080131|www.linkedin.com/in/vignesh-gaddam|mrvigneshgaddam|
