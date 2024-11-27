@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|utsav hirapra|2203031080002|[Linkedin](https://www.linkedin.com/in/utsav-hirapra-6078b6271/)|[GitHub](https://github.com/utsav1213)|
 |Bhavin|2203031080042| [Bhavin parmar](https://www.linkedin.com/in/bhavin-parmar-2b7a362b0)|[bhavinbvn](https://github.com/bhavinbvn)|
 |Pratik| 2203031080174|[LinkedIN](https://www.linkedin.com/in/pratik-patel-17891b23a/)|[Github](https://github.com/Pratik00531)|
 |dhyan patel|2203031080216|https://www.linkedin.com/in/dhyan-patel-203437282/|https://github.com/dhyanpatel3|
@@ -15,4 +16,3 @@
 |Jenish|2203031080007|[Jenish Paghadal](https://www.linkedin.com/in/jenish-paghadal-391a17259/)|[ItsJesh](https://github.com/ItsJESH/)|
 |Yash|2203031080015|[Linkedin](https://www.linkedin.com/in/yash-sakhareliya/)|[Github](https://github.com/YashSakhareliya/)|
 |Mansha|2203031080121|[LinkedIn](www.linkedin.com/in/mansha-soni-321193270)|[Github](https://github.com/mansha-6)|
-
