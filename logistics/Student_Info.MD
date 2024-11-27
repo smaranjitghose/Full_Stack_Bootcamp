@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|Harsh Surani|2203031080123|[linkedIn.com/in/suraniharsh](https://www.linkedin.com/in/suraniharsh/)|[github.com/suraniharsh](https://github.com/suraniharsh)|
 |utsav hirapra|2203031080002|[Linkedin](https://www.linkedin.com/in/utsav-hirapra-6078b6271/)|[GitHub](https://github.com/utsav1213)|
 |Bhavin|2203031080042| [Bhavin parmar](https://www.linkedin.com/in/bhavin-parmar-2b7a362b0)|[bhavinbvn](https://github.com/bhavinbvn)|
 |Pratik| 2203031080174|[LinkedIN](https://www.linkedin.com/in/pratik-patel-17891b23a/)|[Github](https://github.com/Pratik00531)|
