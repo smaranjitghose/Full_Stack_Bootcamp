@@ -1,6 +1,7 @@
 
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|pranjal pandey|2203031080144|https://www.linkedin.com/in/pranjal15/|https://github.com/Pranjallpandey1504|
 |Neeti Darji|2303031087080|NeetiDarji|NeetiDarji|
 |Hardeep Ijardar|2203031080031|https://www.linkedin.com/in/hardeep-ijardar-711874266/|https://github.com/HardeepIjardar|
 |Alisha |2203031080202|https://www.linkedin.com/in/alisha-kaur-2460b4261|Alishakaur431|
