@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|Pratik| 2203031080174|[LinkedIN](https://www.linkedin.com/in/pratik-patel-17891b23a/)|[Github](https://github.com/Pratik00531)|
 |dhyan patel|2203031080216|https://www.linkedin.com/in/dhyan-patel-203437282/|https://github.com/dhyanpatel3|
 | Darsh Kalani | 2203031080032 |https://www.linkedin.com/in/darsh-kalani-b03392250 |https://github.com/Darshkalani28|
 |Harsh choudhary|2203031080132|www.linkedin.com/in/harsh-choudhary5|https://github.com/mrHarshchoudhary|
