@@ -35,11 +35,6 @@ This intensive course takes you from zero programming knowledge to building full
 | 10 | 🧪 Testing & Performance | Jest, Performance Optimization, SEO ||T.B.D  |  |
 | 11 | ⚛️ Frontend with React | Components, Hooks, State Management | | T.B.D |  |
 
-
-## 🛠️ Technologies Covered
-
-## 🛠️ Technologies Covered
-
 ## 🛠️ Technologies Covered
 
 <div align="center">
