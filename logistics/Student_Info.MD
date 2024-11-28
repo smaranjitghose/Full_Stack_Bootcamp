@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|Vinit Patel| 2203031080139 | www.linkedin.com/in/Vinitpatel28 | https://github.com/Vinitpatel28|
 | mann |2203031080260|https://www.linkedin.com/in/mannsolanki/|https://github.com/HarmonyHacker/|
 |Harsh Surani|2203031080123|[linkedIn.com/in/suraniharsh](https://www.linkedin.com/in/suraniharsh/)|[github.com/suraniharsh](https://github.com/suraniharsh)|
 |utsav hirapra|2203031080002|[Linkedin](https://www.linkedin.com/in/utsav-hirapra-6078b6271/)|[GitHub](https://github.com/utsav1213)|
