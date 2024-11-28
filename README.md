@@ -121,5 +121,3 @@ This intensive course takes you from zero programming knowledge to building full
 - ✨ Follow industry best practices
 
 
-## 📝 License
-This course is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
