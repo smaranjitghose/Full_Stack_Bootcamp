@@ -1,5 +1,5 @@
 ---
-name: Assignment Submissio
+name: Assignment Submission
 about: Template for creating new assignment submissions
 title: "[Assignment <number>] - <brief title>"
 labels: assignment
