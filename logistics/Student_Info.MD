@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|vishang lad | 2203031080035 | vishanglad | https://github.com/vishangl |
 |Rutuja|2303031087089|https://www.linkedin.com/in/rutuja-waghchaure-8b036826b/|https://github.com/rutujawaghchaure|
 | Bharvi | 2303031087002 | Not available | bharvivaland |
 |Sparsh Patel|2203031080053|[Sparsh Patel](https://www.linkedin.com/in/sparsh-patel-53aa24294/)|[SparshPatel1115](https://github.com/SparshPatel1115)|
