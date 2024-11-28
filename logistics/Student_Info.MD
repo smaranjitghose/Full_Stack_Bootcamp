@@ -1,6 +1,4 @@
 
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
-|Sagariya Vaishnavi|2203031080013|www.linkedin.com/in/vaishnavi-sagariya-746b81264|https://github.com/sagariyavaishnavi 
-|Jenish|2203031080007|[Jenish Paghadal](https://www.linkedin.com/in/jenish-paghadal-391a17259/)|[ItsJesh](https://github.com/ItsJESH/)|
-|Yash|2203031080015|[Linkedin](https://www.linkedin.com/in/yash-sakhareliya/)|[Github](https://github.com/YashSakhareliya/)|
+|Rajdeepsinh|2203031080069|[Dabhi Rajdeepsinh](https://www.linkedin.com/in/dabhi-rajdeepsinh-68a46b2a9/)|[Rajdeepsinh1410](https://github.com/Rajdeepsinh1410/)|
