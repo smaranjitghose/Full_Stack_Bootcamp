@@ -1,0 +1,31 @@
+1. 
+	a.db.movies.find({runtime:{$gt:150}},{title:true,_id:false})
+	b.db.movies.find({runtime:{$gt:150}},{title:true,_id:false})
+	c.db.movies.find({year:{$gt:2000,$lt:2015}},{title:true,_id:false})
+	d.db.movies.find({$or:[{boxOffice:{$lt:500}},{boxOffice:{$gt:1000}}]},{title:true,_id:false})
+
+2. db.movies.find({$and:[{director:"Christopher Nolan"},{isOscarWinner:true},{boxOffice:{$gt:700}},{streamingOn:{$in:["Netflix"]}}]},{title:true,_id:false})
+
+3.db.movies.find({"specialFeatures.behindTheScenes":true,"specialFeatures.deletedScenes":true},{title:true,_id:false})
+
+4.db.movies.find({    cast: { $in: ["Carrie-Anne Moss", "Morgan Freeman"] },    languages: { $exists: true, $not: { $size: 0 } },    streamingOn: { $exists: true, $not: { $size: 1 } }},{title:true,_id:false})
+
+5.db.movies.updateOne({title:"Inception"}, {$addToSet:{languages:"Chinese"}})
+
+6.  db.movies.updateMany({director:"Christopher Nolan"},{$addToSet:{cast:"Michael Caine"}})
+
+7. db.movies.updateMany({runtime:{$gt:140}},{$addToSet:{streamingOn:"Disney+"}})
+
+8. db.movies.find({$and:[{genre:{$size:2}},{boxOffice:{$exists:true}},{specialFeatures:{$exists:false}}]})
+
+9. db.movies.deleteMany({ rating: { $lt: 8.0 } })
+
+10. db.movies.updateMany({ year: { $lt: 2000 }, streamingOn: "Netflix" }, { $pull: { streamingOn: "Netflix" } })
+
+11. db.movies.find({$expr:{ $gt: ["$boxOffice", { $multiply: ["$runtime", 10] }]}})
+
+12. 
+
+13. 
+
+14. db.movies.find({cast:{$size:3}})
