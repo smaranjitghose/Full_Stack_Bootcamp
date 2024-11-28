@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|Rajdeepsinh|2203031080069|[Dabhi Rajdeepsinh](https://www.linkedin.com/in/dabhi-rajdeepsinh-68a46b2a9/)|[Rajdeepsinh1410](https://github.com/Rajdeepsinh1410/)|
 |vishang lad | 2203031080035 | vishanglad | https://github.com/vishangl |
 |Rutuja|2303031087089|https://www.linkedin.com/in/rutuja-waghchaure-8b036826b/|https://github.com/rutujawaghchaure|
 | Bharvi | 2303031087002 | Not available | bharvivaland |
@@ -26,4 +27,3 @@
 | Suhani | 2203031080260 | https://www.linkedin.com/in/suhanitandel | https://github.com/SuhaniTandel |
 |Hani|2303031087088|[Linkedin](https://www.linkedin.com/in/hani-vaghani-440a7b271)|[GitHub](https://github.com/hanivaghani)|
 |Mansha|2203031080121|[LinkedIn](www.linkedin.com/in/mansha-soni-321193270)|[Github](https://github.com/mansha-6)|
-
