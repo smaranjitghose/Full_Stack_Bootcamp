@@ -49,4 +49,4 @@ This intensive course takes you from zero programming knowledge to building full
 
 
 ## 📝 License
-This course is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This course is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
