@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|raj|2203031080105|[raj](https://www.linkedin.com/in/raj-patel-45370b33a/)|https://github.com/RajPatel08 |
 |Vinit Patel| 2203031080139 | www.linkedin.com/in/Vinitpatel28 | https://github.com/Vinitpatel28|
 | mann |2203031080260|https://www.linkedin.com/in/mannsolanki/|https://github.com/HarmonyHacker/|
 |Harsh Surani|2203031080123|[linkedIn.com/in/suraniharsh](https://www.linkedin.com/in/suraniharsh/)|[github.com/suraniharsh](https://github.com/suraniharsh)|
