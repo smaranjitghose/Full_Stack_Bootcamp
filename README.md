@@ -35,6 +35,84 @@ This intensive course takes you from zero programming knowledge to building full
 | 10 | 🧪 Testing & Performance | Jest, Performance Optimization, SEO ||T.B.D  |  |
 | 11 | ⚛️ Frontend with React | Components, Hooks, State Management | | T.B.D |  |
 
+
+## 🛠️ Technologies Covered
+
+## 🛠️ Technologies Covered
+
+## 🛠️ Technologies Covered
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Terminal" />
+        <br>Terminal
+      </td>
+      <td align="center" width="96">
+        <img src="https://ollama.ai/public/ollama.png" width="48" height="48" alt="Ollama" />
+        <br>Ollama
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+        <br>Express.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
+        <br>Bun
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="48" height="48" alt="Deno" />
+        <br>Deno
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" width="48" height="48" alt="Hono" />
+        <br>Hono
+      </td>
+      <td align="center" width="96">
+        <img src="https://js.langchain.com/img/favicon.ico" width="48" height="48" alt="LangChain" />
+        <br>LangChain
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <br>Postman
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## ✅ Prerequisites
 - 💻 Basic computer knowledge
 - ⏰ Dedication to practice 15-20 hours weekly
