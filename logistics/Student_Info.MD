@@ -1,5 +1,6 @@
 |Name|Enrollment Number | LinkedIN | Github |
 |---|---|---|---|
+|pranav faladu|2303031087022|[LinkedIn.com/in/pranavfaladu](https://www.linkedin.com/in/pranav-faladu/)|[github.com/pranavfaladu](https://github.com/PranavFaladu/Full_Stack_Bootcamp/tree/main) 
 |Rishabh|2203031080114|https://www.linkedin.com/in/rishabh-rai-88b2342ba/|[rishabh653](https://github.com/Rishabhrai29)|
 |Vekariya Aryan|2203031080125|[Linkedin](https://www.linkedin.com/in/aaryan-vekariya-647257272/)|[GitHub](https://github.com/aaryanvekariya)|
 |Rajdeepsinh|2203031080069|[Dabhi Rajdeepsinh](https://www.linkedin.com/in/dabhi-rajdeepsinh-68a46b2a9/)|[Rajdeepsinh1410](https://github.com/Rajdeepsinh1410/)|
