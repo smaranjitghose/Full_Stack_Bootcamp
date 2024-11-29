@@ -1,0 +1,14 @@
+1) Frist
+    1) db.Ass1.find({runtime:{$gt:150}},{title:1,_id:0})
+
+    2) db.Ass1.find({rating:{$gt:8.5}},{title:1,_id:0})
+
+    3) db.Ass1.find({year:{$gte:2000,$lte:2015}},{title:1,_id:0})
+
+    4) db.Ass1.find({$or:[{boxOffice:{$lte:500}},{boxOffice:{$gte:1000}}]},{title:1,_id:0})
+
+2) db.Ass1.find({$and:[{director:"Christopher Nolan"},{isOscarWinner:{$exists:1}},{boxOffice:{$gt:700}},{streamingOn:{$in:["Netflix"]}}]},{title:1,_id:0})
+
+3) db.Ass1.find({ "specialFeatures.behindTheScenes": true, "specialFeatures.deletedScenes":true} ,{title:1,_id:0})
+
+4) db.Ass1.find( { $and : [ {cast: {$in:['Carrie-Anne Moss','Morgan Freeman']} }, {languages:{$exists:1}},{streamingOn:{$exists:1}}, {$expr:{$gte: [{$size:"$streamingOn"},2] } } ] },{title:1,_id:0})

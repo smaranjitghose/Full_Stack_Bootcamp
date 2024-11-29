@@ -1,0 +1,8 @@
+1. - db.movies.find({runtime:{$gt:150}}).count()
+   -movieflix> db.movies.find({rating:{$gt:8.5}}).count()
+   -movieflix> db.movies.find({year:{$gt:2000,$lt:2015}}).count()
+   -movieflix> db.movies.find({boxOffice:{$gt:500.0,$lt:1000.0}}).count()
+
+2.  db.movies.find({$and:[{director:"Christopher Nolan"},{isOscarWinner:true},{boxOffice:{$gt:700}},{streamingOn:"Netflix"}]},{title:true,_id:false})
+
+3.  db.movies.find({"specialFeatures.behindTheScenes":true, "specialFeatures.deletedScenes":true},{_id:false})
