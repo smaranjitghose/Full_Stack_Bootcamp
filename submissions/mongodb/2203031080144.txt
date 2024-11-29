@@ -1,0 +1,10 @@
+1.db.movies.find({runtime:{$gt:150}})
+    db.movies.find({rating:{$gt:8.5}})
+    db.movies.find({$and:[{year:{$gt:2000,$lt:2015}}]})
+
+2.db.movies.find({  director: "Christopher Nolan",  isOscarWinner: true,  boxOffice: { $gt: 700 },  streamingOn: "Netflix"})
+3.db.movies.find({    "specialFeatures.behindTheScenes": true,    "specialFeatures.deletedScenes": true})
+4.db.movies.find({    $or: [        { cast: "Carrie-Anne Moss" },        { cast: "Morgan Freeman" }    ],    languages: { $exists: true },    "streamingOn.1": { $exists: true }})
+5.db.movies.updateOne(    { title: "Inception" },    { $set: { languages: "Chinese" } })
+6.db.movies.updateMany(    { director: "Christopher Nolan" },    { $set: { cast: "Michael Caine" } })
+7.  db.movies.updateMany(    { runtime: { $gt: 140 } },    {$set: { streamingOn: "Disney+" } })
