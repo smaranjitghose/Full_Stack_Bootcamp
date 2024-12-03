@@ -23,7 +23,7 @@ This intensive course takes you from zero programming knowledge to building full
 
 | Sl No | Chapter | Topics | Reference Material | Quiz | Assignment |
 |------|---------|---------|-------------------|------|------------|
-| 1 | 🌐 Intro to Web | Internet Basics, Client-Server, HTTP/HTTPS, Browsers || [Quiz 1](https://forms.gle/sPPMiB86fXVCFMvo7) | |
+| 1 | 🌐 Intro to Web | Internet Basics, Client-Server, HTTP/HTTPS, Browsers |[Intro to Course](https://www.canva.com/design/DAGXc7VhIKM/OyH8BspvdBhjpOfeUgmtEw/edit?utm_content=DAGXc7VhIKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)| [Quiz 1](https://forms.gle/sPPMiB86fXVCFMvo7) | |
 | 2 | 📊 Version Control | Git Basics, GitHub, Branching, PRs, Markdown |  | [Quiz 2](https://forms.gle/ueKHyss2c9rG9xaT6)<br>[Quiz 3](https://forms.gle/Kp1fshAGkAjTi62j7)<br>[Quiz 4](https://forms.gle/tqT6AjZGzCGvaBBU8)<br>[Quiz 6](https://forms.gle/ekXQ9K2GWfXQ3dg3A) |  |
 | 3 | 🤖 LLMs & Ollama | AI Basics, Prompting, Local Models, Ollama Setup |  | [Quiz 5](https://forms.gle/XrniXMAWYupqFxJPA) |  |
 | 4 | 🗄️ MongoDB | CRUD Operations, Aggregation, Mongoose ODM |  | [Quiz 7](https://forms.gle/a5XLEpxW9iS5VgcZ7) | |
