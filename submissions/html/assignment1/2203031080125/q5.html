@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1>Survey Form</h1>
+
+    
+        
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your name">
+            <br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            <br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="100" required placeholder="Enter your age">
+            <br>
+        </fieldset>
+
+      
+        <fieldset>
+            <legend>Survey Questions</legend>
+
+            <label for="coding">Do you like coding?</label><br>
+            <input type="radio" id="yes" name="coding" value="yes" required>
+            <label for="yes">Yes</label>
+            <input type="radio" id="no" name="coding" value="no">
+            <label for="no">No</label>
+            <br>
+
+            <label for="languages">Which programming languages do you know?</label><br>
+            <input type="checkbox" id="html" name="languages" value="HTML">
+            <label for="html">HTML</label>
+            <input type="checkbox" id="css" name="languages" value="CSS">
+            <label for="css">CSS</label>
+            <input type="checkbox" id="js" name="languages" value="JavaScript">
+            <label for="js">JavaScript</label>
+            <input type="checkbox" id="python" name="languages" value="Python">
+            <label for="python">Python</label>
+            <br>
+
+            <label for="experience">How many years of coding experience do you have?</label>
+            <select id="experience" name="experience" required>
+                <option value="0-1">0-1 years</option>
+                <option value="2-3">2-3 years</option>
+                <option value="4-5">4-5 years</option>
+                <option value="5+">More than 5 years</option>
+            </select>
+            <br>
+
+            <label for="comments">Any additional comments or feedback?</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="50" placeholder="Enter your comments here"></textarea>
+            <br>
+        </fieldset>
+
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
