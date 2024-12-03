@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+
+    <h1>Customer Feedback Survey</h1>
+
+    <form action="#" method="POST">
+        <!-- Personal Information -->
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="120" required><br><br>
+        </fieldset>
+
+        <!-- Feedback Section -->
+        <fieldset>
+            <legend>Feedback</legend>
+            <label>How would you rate our service?</label><br>
+            <input type="radio" id="excellent" name="service" value="Excellent" required>
+            <label for="excellent">Excellent</label><br>
+            <input type="radio" id="good" name="service" value="Good">
+            <label for="good">Good</label><br>
+            <input type="radio" id="average" name="service" value="Average">
+            <label for="average">Average</label><br>
+            <input type="radio" id="poor" name="service" value="Poor">
+            <label for="poor">Poor</label><br><br>
+
+            <label for="comments">Additional Comments:</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="50" placeholder="Enter your comments here..."></textarea><br><br>
+        </fieldset>
+
+        <!-- Preferences -->
+        <fieldset>
+            <legend>Preferences</legend>
+            <label>What types of products are you interested in?</label><br>
+            <input type="checkbox" id="electronics" name="products" value="Electronics">
+            <label for="electronics">Electronics</label><br>
+            <input type="checkbox" id="fashion" name="products" value="Fashion">
+            <label for="fashion">Fashion</label><br>
+            <input type="checkbox" id="home" name="products" value="Home">
+            <label for="home">Home</label><br><br>
+
+            <label for="newsletter">Would you like to receive our newsletter?</label><br>
+            <select id="newsletter" name="newsletter">
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select><br><br>
+        </fieldset>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit Survey</button>
+    </form>
+
+</body>
+</html>
