@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 5: Forms</title>
+</head>
+<body>
+    <h1>Survey Form</h1>
+    <form action="/submit-survey" method="post">
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            <br><br>
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            <br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required min="18" max="100" placeholder="Enter your age">
+        </fieldset>
+        <br>
+
+        <fieldset>
+            <legend>Preferences</legend>
+
+            <p>What is your preferred mode of communication?</p>
+            <label><input type="radio" name="communication" value="Email" required>Email</label>
+            <label><input type="radio" name="communication" value="Phone">Phone</label>
+            <label><input type="radio" name="communication" value="In-person">In-person</label>
+            <br><br>
+
+            <p>Select your areas of interest:</p>
+            <label><input type="checkbox" name="interests" value="Technology">Technology</label>
+            <label><input type="checkbox" name="interests" value="Sports">Sports</label>
+            <label><input type="checkbox" name="interests" value="Art">Art</label>
+            <label><input type="checkbox" name="interests" value="Music">Music</label>
+        </fieldset>
+        <br>
+
+        <fieldset>
+            <legend>Feedback</legend>
+
+            <label for="satisfaction">How satisfied are you with our services?</label>
+            <select id="satisfaction" name="satisfaction" required>
+                <option value="">-- Select an option --</option>
+                <option value="Very Satisfied">Very Satisfied</option>
+                <option value="Satisfied">Satisfied</option>
+                <option value="Neutral">Neutral</option>
+                <option value="Dissatisfied">Dissatisfied</option>
+                <option value="Very Dissatisfied">Very Dissatisfied</option>
+            </select>
+            <br><br>
+
+            <label for="comments">Additional Comments:</label>
+            <textarea id="comments" name="comments" rows="4" cols="50" placeholder="Enter your comments here"></textarea>
+        </fieldset>
+        <br>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>
