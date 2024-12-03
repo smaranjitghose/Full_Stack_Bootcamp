@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+
+<h1>Survey Form</h1>
+<form action="#" method="post">
+    <!-- Personal Information Section -->
+
+        <legend>Personal Information</legend><br>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" placeholder="Enter your age" min="1" max="100" required>
+    
+    <br><br>
+
+    <!-- Preferences Section -->
+    
+        <legend>Preferences</legend>
+        <label for="language">Favorite Programming Language:</label>
+        <select id="language" name="language" required>
+            <option value="">--Select--</option>
+            <option value="python">Python</option>
+            <option value="javascript">JavaScript</option>
+            <option value="java">Java</option>
+            <option value="csharp">C#</option>
+        </select>
+        <br><br>
+
+        <label>How often do you code?</label><br>
+        <input type="radio" id="daily" name="coding_frequency" value="daily" required>
+        <label for="daily">Daily</label>
+        <br>
+        <input type="radio" id="weekly" name="coding_frequency" value="weekly">
+        <label for="weekly">Weekly</label>
+        <br>
+        <input type="radio" id="monthly" name="coding_frequency" value="monthly">
+        <label for="monthly">Monthly</label>
+        <br><br>
+
+        <label>Topics of Interest:</label><br>
+        <input type="checkbox" id="web" name="interests" value="web">
+        <label for="web">Web Development</label>
+        <br>
+        <input type="checkbox" id="data" name="interests" value="data">
+        <label for="data">Data Science</label>
+        <br>
+        <input type="checkbox" id="ai" name="interests" value="ai">
+        <label for="ai">Artificial Intelligence</label>
+    
+    <br><br>
+
+    
+   
+        <label for="comments">Comments:</label><br>
+        <textarea id="comments" name="comments" rows="4" cols="50" placeholder="Enter your comments here"></textarea>
+    
+    <br>
+
+    <!-- Submit Button -->
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
