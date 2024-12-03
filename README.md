@@ -27,7 +27,7 @@ This intensive course takes you from zero programming knowledge to building full
 | 2 | 📊 Version Control | Git Basics, GitHub, Branching, PRs, Markdown |  | [Quiz 2](https://forms.gle/ueKHyss2c9rG9xaT6)<br>[Quiz 3](https://forms.gle/Kp1fshAGkAjTi62j7)<br>[Quiz 4](https://forms.gle/tqT6AjZGzCGvaBBU8)<br>[Quiz 6](https://forms.gle/ekXQ9K2GWfXQ3dg3A) |  |
 | 3 | 🤖 LLMs & Ollama | AI Basics, Prompting, Local Models, Ollama Setup |  | [Quiz 5](https://forms.gle/XrniXMAWYupqFxJPA) |  |
 | 4 | 🗄️ MongoDB | CRUD Operations, Aggregation, Mongoose ODM |  | [Quiz 7](https://forms.gle/a5XLEpxW9iS5VgcZ7) | |
-| 5 | 📝 HTML | HTML5, Semantic Elements, Forms, SEO |  | T.B.D | |
+| 5 | 📝 HTML | Intro to HTML, Headings, Text Formatting, Unordered and Ordered Lists, URLs, Images, Tables, Forms-input&buttons, Div | [MDN Docs - HTML](developer.mozilla.org/en-us/docs/web/html) | T.B.D | [HTML Assignment 1](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/HTML_1.MD) |
 | 6 | 🎨 CSS | CSS3, Flexbox, Grid, Animations | | T.B.D  | |
 | 7 | 💻 JavaScript Deep Dive | ES6+, DOM, Async Programming | |T.B.D  |  |
 | 8 | 🔙 Backend with Node/Express | RESTful APIs, Middleware, Error Handling | |T.B.D  |  |
