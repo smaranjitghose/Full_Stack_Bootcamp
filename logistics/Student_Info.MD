@@ -33,3 +33,4 @@
 |Mansha|2203031080121|[LinkedIn](www.linkedin.com/in/mansha-soni-321193270)|[Github](https://github.com/mansha-6)|
 |Ankit kumar|2203031080184|Linkedin|[Github](https://github.com/Ankiitsuthar)|
 |Deep Menpara|2203031080091|[Linkedin](https://www.linkedin.com/in/deep-menpara-628617326/)|[Github](https://github.com/Deep7133)|
+| mann |2203031080260|https://www.linkedin.com/in/mannsolanki/|https://github.com/HarmonyHacker/|
