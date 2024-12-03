@@ -10,22 +10,24 @@
 
 4.db.movies.find({    cast: { $in: ["Carrie-Anne Moss", "Morgan Freeman"] },    languages: { $exists: true, $not: { $size: 0 } },    streamingOn: { $exists: true, $not: { $size: 1 } }},{title:true,_id:false})
 
-5.db.movies.updateOne({title:"Inception"}, {$addToSet:{languages:"Chinese"}})
+5. db.movies.updateOne({title:"Inception"},{$push:{languages:"Chinese"}})
 
-6. 
+6. db.movies.updateMany({director:{$in:["Christopher Nolan"]}},{$push:{cast:"Michael Caine"}})
 
-7. 
+7. db.movies.updateMany({runtime:{$gt:140}},{$push:{streamingOn:"Disney+"}})
 
-8. 
+8. db.movies.find({genre:{$size:2},boxOffice:{$exists:true},specialFeatures:{$exists:false}},{title:true,_id:false})
 
-9. 
+9. db.movies.deleteMany({rating:{$lt:8}})
 
-10. 
+10. db.movies.updateMany({year:{$lt:2000}},{$pull:{streamingOne:"Netflix"}})
 
 11. 
 
-12. 
+12. db.movies.find({streamingOn:{$all:["Netflix","Amazon Prime"],$size:2}},{title:true,_id:false})
 
-13. 
+13. db.movies.find({genre:{$all:["Action","Sci-Fi"]}},{title:true,_id:false})
 
-14. db.movies.find({cast:{$size:3}})
+14. 
+
+15. db.movies.find({cast:{$size:3}})
