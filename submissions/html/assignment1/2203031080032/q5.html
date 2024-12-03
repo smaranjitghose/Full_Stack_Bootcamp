@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        fieldset {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+        legend {
+            font-weight: bold;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select, textarea, button {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="radio"], input[type="checkbox"] {
+            width: auto;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form action="/submit-survey" method="POST">
+        <h1>Survey Form</h1>
+        
+        <fieldset>
+            <legend>Personal Information</legend>
+            
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required min="10" max="100" placeholder="Enter your age">
+        </fieldset>
+        
+        <fieldset>
+            <legend>Preferences</legend>
+            
+            <label>What is your favorite color?</label>
+            <label for="color-red"><input type="radio" id="color-red" name="favorite_color" value="red" required>Red</label>
+            <label for="color-blue"><input type="radio" id="color-blue" name="favorite_color" value="blue">Blue</label>
+            <label for="color-green"><input type="radio" id="color-green" namavorite_color" value="green">Green</label>
+            
+            <label>Which hobbies do you enjoy? </label>
+            <label for="hobby-reading"><input type="checkbox" id="hobby-reading" name="hobbies" value="reading">Reading </label>
+            <label for="hobby-traveling"><input type="checkbox" id="hobby-traveling" name="hobbies" value="traveling">Traveling</label>
+            <label for="hobby-sports"><input type="checkbox" id="hobby-sports" name="hobbies" value="sports">Sports</label>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Feedback</legend>
+            
+            <label for="satisfaction">How satisfied are you with our service?</label>
+            <select id="satisfaction" name="satisfaction" required>
+                <option value="">Select an option</option>
+                <option value="very_satisfied">Very Satisfied</option>
+                <option value="satisfied">Satisfied</option>
+                <option value="neutral">Neutral</option>
+                <option value="dissatisfied">Dissatisfied</option>
+                <option value="very_dissatisfied">Very Dissatisfied</option>
+            </select>
+            
+            <label for="comments">Additional Comments:</label>
+            <textarea id="comments" name="comments" rows="5" placeholder="Write your comments here..."></textarea>
+        </fieldset>
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
