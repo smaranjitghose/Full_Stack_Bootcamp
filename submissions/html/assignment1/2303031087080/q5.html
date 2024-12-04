@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Survey Form</h1>
+
+    <form action="/submit" method="post">
+        <!-- Personal Information Section -->
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="100" required><br><br>
+        </fieldset>
+
+        <!-- Survey Questions Section -->
+        <fieldset>
+            <legend>Survey Questions</legend>
+            
+            <label>What is your preferred mode of your transportation?</label><br>
+            <input type="radio" id="car" name="transport" value="Car" required>
+            <label for="car">Car</label><br>
+            <input type="radio" id="bike" name="transport" value="Bike">
+            <label for="bike">Bike</label><br>
+            <input type="radio" id="public" name="transport" value="Public Transport">
+            <label for="public">Public Transport</label><br><br>
+
+            <label for="hobbies">Select your hobbies (Can choose multiple):</label><br>
+            <input type="checkbox" id="reading" name="hobbies" value="Reading">
+            <label for="reading">Reading</label><br>
+            <input type="checkbox" id="sports" name="hobbies" value="Sports">
+            <label for="sports">Sports</label><br>
+            <input type="checkbox" id="travel" name="hobbies" value="Travel">
+            <label for="travel">Travel</label><br><br>
+
+            <label for="city">Which city do you live in?</label><br>
+            <select id="city" name="city" required>
+                <option value="">Select City</option>
+                <option value="Surat">Surat</option>
+                <option value="Rajkot">Rajkot</option>
+                <option value="Vadodara">Vadodara</option>
+                <option value="Vapi">Vapi</option>
+            </select><br><br>
+        </fieldset>
+
+        <!-- Additional Comments Section -->
+        <fieldset>
+            <legend>Additional Comments</legend>
+            <label for="comments">Please provide any additional feedback:</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="50"></textarea><br><br>
+        </fieldset>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

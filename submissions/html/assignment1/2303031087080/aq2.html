@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Product Customization</h1>
+
+    <form action="/submit" method="post">
+        <!-- Color Selection -->
+        <label for="color">Choose a color:</label>
+        <input type="color" id="color" name="color"><br><br>
+
+        <!-- Size/Quantity Selection -->
+        <label for="size">Select Size (1 to 10):</label>
+        <input type="range" id="size" name="size" min="1" max="10" step="1" value="5"><br><br>
+
+        <!-- Delivery Date -->
+        <label for="delivery-date">Select Delivery Date:</label>
+        <input type="date" id="delivery-date" name="delivery-date" required><br><br>
+
+        <!-- Delivery Time -->
+        <label for="delivery-time">Select Delivery Time:</label>
+        <input type="time" id="delivery-time" name="delivery-time" required><br><br>
+
+        <!-- File Upload for Custom Design -->
+        <label for="design">Upload Custom Design:</label>
+        <input type="file" id="design" name="design"><br><br>
+
+        <!-- Datalist for Preset Options -->
+        <label for="preset-options">Choose a preset option:</label>
+        <input list="preset-options" id="preset" name="preset">
+        <datalist id="preset-options">
+            <option value="Preset 1">
+            <option value="Preset 2">
+            <option value="Preset 3">
+            <option value="Preset 4">
+        </datalist><br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
