@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Here i have writen the code to Find the Greates Common Divisor Using C </h2>
+    <pre>
+        <p>Saved the file with the extention c</p>
+        <code>
+            #include<stdio.h>
+
+                int GCD(int <var>a</var>,int <var>b</var>)
+                {
+                    if(<var>b</var>==0)
+                    {
+                        return <var>a</var>;
+                    }
+                    else
+                    {
+                        GCD(<var>b</var>,<var>a</var>% <var>b</var>);
+                    }
+                
+                }
+                int main()
+                {
+                    int <var>n1</var>,<var>n2</var>;
+                    printf("Enter two numbers:\n");
+                    scanf("%d%d",&<var>n1</var>,&<var>n2</var>);
+                    printf("%d",GCD( <var>n1</var>, <var>n2</var>));
+                }
+        </code>
+        </pre>
+        
+        <p>Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save.</p>
+
+        <h2>Sample Input and Output:</h2>
+        <pre>
+            Input: Enter two integers: 56 98
+            Output: GCD of 56 and 98 is: <samp>14</samp>
+        </pre>
+</body>
+</html>
