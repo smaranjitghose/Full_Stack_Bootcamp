@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, select, button {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1em;
+        }
+        button {
+            background-color: #02f306;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #aedcb0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Customize Your Product</h1>
+    <form action="/submit-customization" method="post">
+
+        <label for="product-color">Choose a Color:</label>
+        <input type="color" id="product-color" name="product-color" value="#000000">
+
+        <label for="product-size">Select Size (in cm):</label>
+        <input type="range" id="product-size" name="product-size" min="10" max="100" value="50">
+
+        <label for="delivery-date">Select Delivery Date:</label>
+        <input type="date" id="delivery-date" name="delivery-date" required>
+
+        <label for="delivery-time">Select Delivery Time:</label>
+        <input type="time" id="delivery-time" name="delivery-time" required>
+
+        <label for="custom-design">Upload Custom Design:</label>
+        <input type="file" id="custom-design" name="custom-design" accept="image/*">
+
+        <label for="preset-options">Choose a Preset Option:</label>
+        <input list="preset-options" name="preset-option" id="preset-option">
+        <datalist id="preset-options">
+            <option value="Option 1">
+            <option value="Option 2">
+            <option value="Option 3">
+            <option value="Option 4">
+        </datalist>
+
+        <button type="submit">Submit Customization</button>
+
+    </form>
+</body>
+</html>
