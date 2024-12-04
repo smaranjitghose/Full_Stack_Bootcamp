@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+</head>
+<body>
+
+    <form>
+        <h2>Select Cake Specification</h2>
+        <label>
+            Color
+            <input type="color" name="pcolor">
+        </label><br>
+        <label>
+            Quantity
+            <input type="range" name="quantity">
+        </label><br>
+        <label>
+            Dilivery Date
+            <input type="date" name="diliverydate">
+        </label><br>
+        <label>
+            Time
+            <input type="time" name="dtime">
+        </label><br>
+        <label>
+            Flavors
+            <datalist id="data">
+                <option value="Chocolate">Chocolate</option>
+                <option value="Vanilla">Vanilla</option>
+                <option value="Strawberry">Strawberry</option>
+                <option value="Apple Orchard">Apple Orchard</option>
+            </datalist>
+        </label><br>
+        <label>
+            Any Specificed Theme 
+            <input type="file" name="file" itemtype=".png,.jpg,.pdf">
+        </label>
+    </form>
+</body>
+</html>

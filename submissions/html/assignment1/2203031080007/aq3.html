@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Tutorial</title>
+</head>
+<body>
+    <h2>TPP Server</h2>
+    <pre>
+        <h4>Tpp server side</h4>
+        <code>
+            import socket
+
+            # Initialize the server
+            server_socket.bind(('127.0.0.1', 65432))  # Bind to localhost and port 65432
+            server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            server_socket.listen(1)  # Listen for one connection
+            print("Server is ready to receive...")
+
+            # Accept client connection
+            connection, address = server_socket.accept()
+
+            print(f"Connected to client at {address}")
+            # Two-Phase Protocol
+            try:
+
+                # Phase 1: Prepare phase
+                connection.sendall(b"Prepare to commit?")
+                response = connection.recv(1024).decode()
+                print(f"Client response: {response}")
+
+                # Phase 2: Commit or Abort phase
+                if response.strip().upper() == "YES":
+                    connection.sendall(b"Commit transaction")
+                    print("Transaction committed.")
+                else:
+                    connection.sendall(b"Abort transaction")
+                    print("Transaction aborted.")
+
+            except Exception as e:
+                print(f"An error occurred: {e}")
+            finally:
+                # Close the connection
+                connection.close()
+                server_socket.close()
+        </code>
+
+        <br/>
+        Package used
+        <var>
+            Socket
+        </var>
+    </pre>
+        
+        <p>Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save.</p>
+        <p>go to Terminal & run The Program</p>
+    <samp src="./aq3.png">OutPut<br>
+        <img src="./Resources/aq3.png" title="output" width="500">
+    </samp>
+</body>
+</html>
