@@ -6,58 +6,45 @@
     <title>Product Customization Form</title>
 </head>
 <body>
-    <h1>Product Customization Form</h1>
-    <form action="/submit" method="post">
-
+    <h1>Product Customization</h1>
+    <form>
         <!-- Color Selection -->
-        <label for="color">Choose a color:</label>
-        <input type="color" id="color" name="product-color" value="#ff0000">
+        <label for="product-color">Choose product color:</label>
+        <input type="color" id="product-color" name="product-color">
         <br><br>
-
-        <!-- Quantity/Size Selection -->
-        <label for="size">Select quantity/size:</label>
-        <input type="range" id="size" name="product-size" min="1" max="100" value="50">
-        <output for="size" id="sizeOutput">50</output>
+        
+        <!-- Size Selection -->
+        <label for="size">Select size (cm):</label>
+        <input type="range" id="size" name="size" min="10" max="50" value="25">
         <br><br>
-
+        
         <!-- Delivery Date -->
-        <label for="delivery-date">Choose a delivery date:</label>
+        <label for="delivery-date">Choose delivery date:</label>
         <input type="date" id="delivery-date" name="delivery-date">
         <br><br>
-
+        
         <!-- Delivery Time -->
-        <label for="delivery-time">Choose a delivery time:</label>
+        <label for="delivery-time">Choose delivery time:</label>
         <input type="time" id="delivery-time" name="delivery-time">
         <br><br>
-
-        <!-- Custom Design Upload -->
-        <label for="design-upload">Upload a custom design:</label>
-        <input type="file" id="design-upload" name="custom-design" accept=".png, .jpg, .jpeg, .svg">
+        
+        <!-- File Upload -->
+        <label for="custom-design">Upload custom design:</label>
+        <input type="file" id="custom-design" name="custom-design">
         <br><br>
-
+        
         <!-- Preset Options -->
-        <label for="preset-options">Choose a style:</label>
-        <input list="styles" id="preset-options" name="product-style">
-        <datalist id="styles">
-            <option value="Classic"></option>
-            <option value="Modern"></option>
-            <option value="Vintage"></option>
-            <option value="Minimalist"></option>
+        <label for="preset-options">Choose an option:</label>
+        <input list="suggestions" id="preset-options" name="preset-options">
+        <datalist id="suggestions">
+            <option value="Option 1">
+            <option value="Option 2">
+            <option value="Option 3">
         </datalist>
         <br><br>
-
+        
         <!-- Submit Button -->
-        <button type="submit">Submit Customization</button>
+        <button type="submit">Submit</button>
     </form>
-
-    <script>
-        // Update the output value dynamically for the range input
-        const sizeInput = document.getElementById('size');
-        const sizeOutput = document.getElementById('sizeOutput');
-
-        sizeInput.addEventListener('input', () => {
-            sizeOutput.textContent = sizeInput.value;
-        });
-    </script>
 </body>
 </html>
