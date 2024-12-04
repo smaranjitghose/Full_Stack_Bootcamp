@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 7</title>
+</head>
+<body>
+    <form action="">
+        <label for="product-color">choose the color:</label>
+        <input type="color" name="product-color" id="products">
+        <br>
+        <br>
+        <label for="size">select the size (m):</label>
+        <input type="range" id="size" min="20" max="60" value="80">
+        <br>
+        <br>
+        <label for="delivery-date">Date of delivery:</label>
+        <input type="date" name="delivery-date" id="date">
+        <br>
+        <br>
+        <label for="delivery-time">Time of delivery:</label>
+        <input type="time" name="delivery-time" id="time">
+        <br>
+        <br>
+        <label for="uplod-file">Uplode the file:</label>
+        <input type="file" name="uplod-file" id="files">
+        <br>
+        <br>
+        <input list="suggestions" name="custom-options">
+        <datalist id="suggestions">
+            <option value="Option 1">
+            <option value="Option 2">
+        </datalist>
+    </form>
+</body>
+</html>
