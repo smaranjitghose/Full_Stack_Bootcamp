@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1em;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            text-align: center;
+            padding: 10px;
+        }
+
+        colgroup col:first-child {
+            background-color: #f9f9f9;
+        }
+
+        tfoot {
+            background-color: #f0f0f0;
+            font-weight: bold;
+        }
+
+        table.nested {
+            width: 80%;
+            margin: auto;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Product Comparison Table</h1>
+
+    <table>
+        
+        <colgroup>
+            <col span="1" style="background-color: #f9f9f9;">
+            <col span="2">
+        </colgroup>
+
+        
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Basic</th>
+                <th scope="col">Premium</th>
+            </tr>
+        </thead>
+
+        
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$9.99</td>
+                <td>$19.99</td>
+            </tr>
+            <tr>
+                <th scope="row">Storage</th>
+                <td>50 GB</td>
+                <td>1 TB</td>
+            </tr>
+            <tr>
+                <th scope="row">Support</th>
+                <td>Email</td>
+                <td>Email and Phone</td>
+            </tr>
+            <tr>
+                <th scope="row">Features</th>
+                <td>
+                    <!-- Nested Table -->
+                    <table class="nested">
+                        <thead>
+                            <tr>
+                                <th>Included Features</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>Basic Reporting</td></tr>
+                            <tr><td>Limited Customization</td></tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <!-- Nested Table -->
+                    <table class="nested">
+                        <thead>
+                            <tr>
+                                <th>Included Features</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>Advanced Reporting</td></tr>
+                            <tr><td>Full Customization</td></tr>
+                            <tr><td>Priority Support</td></tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+
+        
+        <tfoot>
+            <tr>
+                <td colspan="3">Prices are monthly subscriptions. Upgrade anytime.</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
