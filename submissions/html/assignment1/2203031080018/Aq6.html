@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        colgroup col {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Product Comparison</h1>
+
+    <table>
+        <colgroup>
+            <col span="1" style="background-color: #e0f7fa">
+            <col span="2" style="background-color: #ffffff">
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Basic</th>
+                <th scope="col">Premium</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row">Price</td>
+                <td>$199</td>
+                <td>$299</td>
+            </tr>
+            <tr>
+                <td scope="row">Storage</td>
+                <td>256 GB</td>
+                <td>512 GB</td>
+            </tr>
+            <tr>
+                <td scope="row">Battery Life</td>
+                <td>10 hours</td>
+                <td>15 hours</td>
+            </tr>
+            <tr>
+                <td scope="row">Display</td>
+                <td>Full HD</td>
+                <td>4K UHD</td>
+            </tr>
+            <tr>
+                <td scope="row">Customer Support</td>
+                <td>Standard</td>
+                <td>24/7 Premium</td>
+            </tr>
+            <tr>
+                <td scope="row">Warranty</td>
+                <td>1 year</td>
+                <td>2 years</td>
+            </tr>
+            <tr>
+                <td scope="row">Included Accessories</td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>Charger</td>
+                        </tr>
+                        <tr>
+                            <td>Basic Case</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>Charger</td>
+                        </tr>
+                        <tr>
+                            <td>Premium Case</td>
+                        </tr>
+                        <tr>
+                            <td>Screen Protector</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td scope="row">Summary</td>
+                <td><strong>Total: $199</strong></td>
+                <td><strong>Total: $299</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>
