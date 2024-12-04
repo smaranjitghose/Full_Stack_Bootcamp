@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        colgroup col {
+            background-color: #f0f0f0;
+        }
+        .summary {
+            background-color: #f9f9f9;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Product Comparison Table</h1>
+
+    <table>
+        <colgroup>
+            <col style="width: 25%;">
+            <col style="width: 25%;">
+            <col style="width: 25%;">
+            <col style="width: 25%;">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Product A</th>
+                <th scope="col">Product B</th>
+                <th scope="col">Product C</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td scope="row">Price</td>
+                <td>$199</td>
+                <td>$249</td>
+                <td>$229</td>
+            </tr>
+            <tr>
+                <td scope="row">Weight</td>
+                <td>1.5 kg</td>
+                <td>1.3 kg</td>
+                <td>1.4 kg</td>
+            </tr>
+            <tr>
+                <td scope="row">Battery Life</td>
+                <td>10 hours</td>
+                <td>12 hours</td>
+                <td>11 hours</td>
+            </tr>
+            <tr>
+                <td scope="row">Features</td>
+                <td>
+                    <table>
+                        <colgroup>
+                            <col style="width: 50%;">
+                            <col style="width: 50%;">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th scope="col">Standard</th>
+                                <th scope="col">Premium</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Wi-Fi</td>
+                                <td>Bluetooth</td>
+                            </tr>
+                            <tr>
+                                <td>GPS</td>
+                                <td>Waterproof</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <colgroup>
+                            <col style="width: 50%;">
+                            <col style="width: 50%;">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th scope="col">Basic</th>
+                                <th scope="col">Advanced</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Wi-Fi</td>
+                                <td>GPS</td>
+                            </tr>
+                            <tr>
+                                <td>Bluetooth</td>
+                                <td>Fingerprint Scanner</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <colgroup>
+                            <col style="width: 50%;">
+                            <col style="width: 50%;">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th scope="col">Basic</th>
+                                <th scope="col">Advanced</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Bluetooth</td>
+                                <td>Wi-Fi</td>
+                            </tr>
+                            <tr>
+                                <td>GPS</td>
+                                <td>Fingerprint Scanner</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr class="summary">
+                <td scope="row">Average Price</td>
+                <td>$199</td>
+                <td>$249</td>
+                <td>$229</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>

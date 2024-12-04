@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization Form</title>
+</head>
+<body>
+    <h1>Product Customization Form</h1>
+    <form action="#" method="POST">
+        <!-- Color Selection -->
+        <label for="color">Choose a color:</label>
+        <input type="color" id="color" name="color" value="#ff0000">
+        <br><br>
+
+        <!-- Size Selection using Range -->
+        <label for="size">Select size (1 to 100):</label>
+        <input type="range" id="size" name="size" min="1" max="100" value="50">
+        <span id="size-value">50</span>
+        <br><br>
+
+        <!-- Delivery Date -->
+        <label for="delivery-date">Select delivery date:</label>
+        <input type="date" id="delivery-date" name="delivery-date">
+        <br><br>
+
+        <!-- Delivery Time -->
+        <label for="delivery-time">Select delivery time:</label>
+        <input type="time" id="delivery-time" name="delivery-time">
+        <br><br>
+
+        <!-- File Upload for Custom Design -->
+        <label for="custom-design">Upload custom design:</label>
+        <input type="file" id="custom-design" name="custom-design">
+        <br><br>
+
+        <!-- Datalist for Preset Options -->
+        <label for="preset-options">Choose a preset option:</label>
+        <input list="options" id="preset-options" name="preset-options">
+        <datalist id="options">
+            <option value="Option A">
+            <option value="Option B">
+            <option value="Option C">
+            <option value="Option D">
+        </datalist>
+        <br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        // Update the displayed value of the range input
+        const sizeInput = document.getElementById("size");
+        const sizeValue = document.getElementById("size-value");
+        
+        sizeInput.addEventListener("input", function() {
+            sizeValue.textContent = sizeInput.value;
+        });
+    </script>
+</body>
+</html>
