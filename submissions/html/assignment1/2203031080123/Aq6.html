@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+</head>
+<body>
+    <h1>Product Comparison</h1>
+
+    <table border="1">
+        <colgroup>
+            <col span="1" style="background-color: #f0f0f0;">
+            <col span="2">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Basic</th>
+                <th scope="col">Premium</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$10/month</td>
+                <td>$20/month</td>
+            </tr>
+            <tr>
+                <th scope="row">Storage</th>
+                <td>10GB</td>
+                <td>100GB</td>
+            </tr>
+            <tr>
+                <th scope="row">Support</th>
+                <td>Email Only</td>
+                <td>24/7 Phone & Email</td>
+            </tr>
+            <tr>
+                <th scope="row">Features</th>
+                <td colspan="2">
+                    <table border="1">
+                        <thead>
+                            <tr>
+                                <th scope="col">Feature</th>
+                                <th scope="col">Availability</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Custom Branding</td>
+                                <td>Premium Only</td>
+                            </tr>
+                            <tr>
+                                <td>Multi-User Access</td>
+                                <td>Both</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <th scope="row">Summary</th>
+                <td>Best for Individuals</td>
+                <td>Best for Teams</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
