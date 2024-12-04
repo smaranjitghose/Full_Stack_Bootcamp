@@ -4,40 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Survey Form</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        form {
-            max-width: 500px;
-            margin: 0 auto;
-        }
-        fieldset {
-            border: 1px solid #ccc;
-            padding: 15px;
-            margin-bottom: 15px;
-        }
-        legend {
-            font-weight: bold;
-        }
-        label {
-            display: block;
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-        input, select, textarea, button {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 10px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-        input[type="radio"], input[type="checkbox"] {
-            width: auto;
-            margin-right: 10px;
-        }
-    </style>
 </head>
 <body>
     <form action="/submit-survey" method="POST">
@@ -59,15 +25,20 @@
         <fieldset>
             <legend>Preferences</legend>
             
+            
             <label>What is your favorite color?</label>
+            <br>
             <input type="radio" id="color-red" name="favorite_color" value="red" required>
+            
+
             <label for="color-red">Red</label>
             <input type="radio" id="color-blue" name="favorite_color" value="blue">
             <label for="color-blue">Blue</label>
             <input type="radio" id="color-green" namavorite_color" value="green">
-            <label for="color-green">Green</label>
-            
+            <label for="color-green">Green</lat bel>
+            <br>
             <label>Which hobbies do you enjoy?
+                <br>
             <input type="checkbox" id="hobby-reading" name="hobbies" value="reading">
         </label>
             <label for="hobby-reading">Reading
@@ -82,6 +53,8 @@
             <legend>Feedback</legend>
             
             <label for="satisfaction">How satisfied are you with our service?</label>
+            <br>
+
             <select id="satisfaction" name="satisfaction" required>
                 <option value="">Select an option</option>
                 <option value="very_satisfied">Very Satisfied</option>
@@ -90,8 +63,9 @@
                 <option value="dissatisfied">Dissatisfied</option>
                 <option value="very_dissatisfied">Very Dissatisfied</option>
             </select>
-            
+            <br>
             <label for="comments">Additional Comments:</label>
+            <br>
             <textarea id="comments" name="comments" rows="5" placeholder="Write your comments here..."></textarea>
         </fieldset>
         

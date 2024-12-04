@@ -1,0 +1,21 @@
+1.db.movies.find({runtime:{$gt:150}})
+    db.movies.find({rating:{$gt:8.5}})
+    db.movies.find({$and:[{year:{$gt:2000,$lt:2015}}]})
+
+2.db.movies.find({  director: "Christopher Nolan",  isOscarWinner: true,  boxOffice: { $gt: 700 },  streamingOn: "Netflix"})
+3.db.movies.find({    "specialFeatures.behindTheScenes": true,    "specialFeatures.deletedScenes": true})
+4.db.movies.find({    $or: [        { cast: "Carrie-Anne Moss" },        { cast: "Morgan Freeman" }    ],    languages: { $exists: true },    "streamingOn.1": { $exists: true }})
+5.db.movies.updateOne(    { title: "Inception" },    { $set: { languages: "Chinese" } })
+6.db.movies.updateMany(    { director: "Christopher Nolan" },    { $set: { cast: "Michael Caine" } })
+7.  db.movies.updateMany(    { runtime: { $gt: 140 } },    {$set: { streamingOn: "Disney+" } })
+8.db.movies.find({ genre: { $size: 2 },boxOffice: { $exists: true },specialFeatures: { $exists: false }});
+9.db.movies.deleteMany({ rating: { $lt: 8.0 } });
+10.db.movies.updateMany( { year: { $lt: 2000 } }, { $pull: { streamingOn: "Netflix" } });
+11.db.movies.find({ $expr: { $gt: ["$boxOffice", { $multiply: ["$runtime", 10] }] }});
+13.db.movies.find({ genre: { $all: ["Action", "Sci-Fi"] } });
+14.db.movies.find({ "genre.0": "Action" });
+15.db.movies.find({ cast: { $size: 3 } });
+
+
+
+
