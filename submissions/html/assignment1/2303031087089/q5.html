@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1>Survey Form</h1>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your name"><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email"><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="1" max="120" required><br><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Survey Questions</legend>
+            <label>How did you hear about us?</label><br>
+            <input type="radio" id="friend" name="referral" value="friend" required>
+            <label for="friend">Friend</label><br>
+            <input type="radio" id="ad" name="referral" value="ad">
+            <label for="ad">Advertisement</label><br>
+            <input type="radio" id="internet" name="referral" value="internet">
+            <label for="internet">Internet</label><br><br>
+
+            <label for="interests">Select your interests:</label><br>
+            <input type="checkbox" id="tech" name="interests" value="tech">
+            <label for="tech">Technology</label><br>
+            <input type="checkbox" id="music" name="interests" value="music">
+            <label for="music">Music</label><br>
+            <input type="checkbox" id="sports" name="interests" value="sports">
+            <label for="sports">Sports</label><br><br>
+
+            <label for="feedback">Please provide your feedback:</label><br>
+            <textarea id="feedback" name="feedback" rows="4" cols="50" required placeholder="Your feedback..."></textarea><br><br>
+
+            <label for="country">Select your country:</label>
+            <select id="country" name="country" required>
+                <option value="">--Please choose an option--</option>
+                <option value="surat">surat</option>
+                <option value="vadodara">vadodara</option>
+                <option value="vapi">vapi</option>
+                <option value="amdavad">amdavad</option>
+            </select><br><br>
+        </fieldset>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+</head>
+<body>
+    <h1>Multimedia Gallery</h1>
+
+    <h2>Audio Section</h2>
+    <figure>
+        <audio controls>
+            <source src="audio-file.mp3" type="audio/mpeg">
+            <source src="audio-file.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+        </audio>
+        <figcaption>Relaxing Music - Enjoy a moment of calm.</figcaption>
+    </figure>
+
+    <h2>Video Section</h2>
+    <figure>
+        <video width="640" height="360" poster="video-poster.jpg" controls>
+            <source src="video-file.mp4" type="video/mp4">
+            <source src="video-file.webm" type="video/webm">
+            <track src="subtitles-en.vtt" kind="subtitles" srclang="en" label="English">
+            <track src="subtitles-es.vtt" kind="subtitles" srclang="es" label="Spanish">
+            Your browser does not support the video tag.
+        </video>
+        <figcaption>A Nature Documentary - Experience the beauty of the wild.</figcaption>
+    </figure>
+
+    <h2>Fallback Content</h2>
+    <p>If you cannot view the audio or video, please ensure your browser is up to date or try using a different browser.</p>
+
+</body>
+</html>

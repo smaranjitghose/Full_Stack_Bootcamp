@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Assessment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .assessment {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        .assessment h2 {
+            text-align: center;
+        }
+        .skill {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+        }
+        .progress-bar {
+            margin-top: 10px;
+            width: 100%;
+        }
+        .skill-level {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="assessment">
+        <h2>Skills Assessment</h2>
+
+        <!-- Skill 1: Programming -->
+        <div class="skill">
+            <label for="programming">Programming (JavaScript)</label>
+            <progress id="programming" value="70" max="100" class="progress-bar"></progress>
+            <p>Completion: <strong>70%</strong></p>
+        </div>
+
+        <!-- Skill 2: Web Design -->
+        <div class="skill">
+            <label for="web-design">Web Design (CSS)</label>
+            <progress id="web-design" value="50" max="100" class="progress-bar"></progress>
+            <p>Completion: <strong>50%</strong></p>
+        </div>
+
+        <!-- Skill 3: Communication -->
+        <div class="skill">
+            <label for="communication">Communication Skills</label>
+            <progress id="communication" value="90" max="100" class="progress-bar"></progress>
+            <p>Completion: <strong>90%</strong></p>
+        </div>
+
+        <!-- Skill Level (Meter) -->
+        <div class="skill-level">
+            <h3>Skill Levels</h3>
+
+            <!-- Skill 1: Programming -->
+            <label for="programming-level">Programming Skill Level</label>
+            <meter id="programming-level" value="0.7" min="0" max="1" low="0.3" high="0.7" optimum="0.85"></meter>
+            <p>Skill Level: <strong>Medium</strong></p>
+
+            <!-- Skill 2: Web Design -->
+            <label for="web-design-level">Web Design Skill Level</label>
+            <meter id="web-design-level" value="0.5" min="0" max="1" low="0.3" high="0.7" optimum="0.85"></meter>
+            <p>Skill Level: <strong>Medium</strong></p>
+
+            <!-- Skill 3: Communication -->
+            <label for="communication-level">Communication Skill Level</label>
+            <meter id="communication-level" value="0.9" min="0" max="1" low="0.3" high="0.7" optimum="0.85"></meter>
+            <p>Skill Level: <strong>High</strong></p>
+        </div>
+
+    </div>
+
+</body>
+</html>
