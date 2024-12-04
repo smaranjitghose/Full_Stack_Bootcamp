@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+        <colgroup>
+            <col span="1" style="background-color: #f0f0f0;">
+            <col span="2">
+        </colgroup>
+        <thead>
+            <tr style="background-color: #d0d0d0;">
+                <th scope="col">Feature</th>
+                <th scope="col">Basic</th>
+                <th scope="col">Premium</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$10/month</td>
+                <td>$25/month</td>
+            </tr>
+            <tr>
+                <th scope="row">Storage</th>
+                <td>50GB</td>
+                <td>200GB</td>
+            </tr>
+            <tr>
+                <th scope="row">Support</th>
+                <td>Email Only</td>
+                <td>Email & 24/7 Phone Support</td>
+            </tr>
+            <tr>
+                <th scope="row">Advanced Features</th>
+                <td colspan="2">
+                    <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+                        <thead>
+                            <tr style="background-color: #e0e0e0;">
+                                <th scope="col">Feature</th>
+                                <th scope="col">Available?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">Custom Reports</th>
+                                <td>Premium Only</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">API Access</th>
+                                <td>Premium Only</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row" colspan="3" style="background-color: #f0f0f0;">Summary</th>
+            </tr>
+            <tr>
+                <td colspan="3">The Basic plan is ideal for individuals, while the Premium plan suits businesses needing advanced features and enhanced support.</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

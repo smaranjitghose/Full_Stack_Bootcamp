@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="product color">Choose color</label>
+        <input type="color" id="product color" name="product color">
+        <hr>
+        <label for="size">Select Size</label>
+        <input type="range" id="size" min="10" max="50" value="20">
+        <hr>
+        <label for="date">select date</label>
+        <input type="date" id ="date" name="date" value="2020-01-01">
+        <hr>
+        <label for="time">select time</label>
+        <input type="time" id="time" name="time" value="12:00">
+        <hr>
+        <label for="file">insert file</label>
+        <input type="file" id="file" >
+
+        <input list="suggestions" name="custom options">
+        <datalist id="suggestions" >
+            <option value="monday">
+            <option value="tuesday">
+            <option value="wednesday"></option>    
+            <option value="thursday"></option>    
+            <option value="friday"></option>    
+            <option value="saturday"></option>    
+            <option value="sunday"></option>    
+        </datalist>
+    </form>
+</body>
+</html>
