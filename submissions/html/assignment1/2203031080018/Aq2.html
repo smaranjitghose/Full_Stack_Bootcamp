@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization</title>
+</head>
+<body>
+    <h1>Product Customization Form</h1>
+    <form>
+        
+        <label for="product-color">Choose product color:</label>
+        <input type="color" id="product-color" name="product-color">
+        <br><br>
+
+        
+        <label for="size">Select size (cm):</label>
+        <input type="range" id="size" name="size" min="10" max="50" value="25">
+        <br><br>
+
+       
+        <label for="delivery-date">Delivery date:</label>
+        <input type="date" id="delivery-date" name="delivery-date">
+        <br><br>
+
+       
+        <label for="delivery-time">Delivery time:</label>
+        <input type="time" id="delivery-time" name="delivery-time">
+        <br><br>
+
+       
+        <label for="custom-design">Upload custom design:</label>
+        <input type="file" id="custom-design" name="custom-design" accept=".jpg,.png,.pdf">
+        <br><br>
+
+       
+        <label for="product-type">Choose product type:</label>
+        <input list="preset-options" id="product-type" name="product-type">
+        <datalist id="preset-options">
+            <option value="T-shirt">
+            <option value="Mug">
+            <option value="Poster">
+        </datalist>
+        <br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+</head>
+<body>
+    <header>
+        <h1>Multimedia Gallery</h1>
+        <p>Explore our collection of multimedia content.</p>
+    </header>
+
+    <main>
+        
+        <section>
+            <h2>Audio Track</h2>
+            <audio controls>
+                <source src="./audio/audio_thapa.mp3" type="audio/mp3">
+                <!-- <source src="audio.ogg" type="audio/ogg"> -->
+                Your browser does not support the audio element.
+            </audio>
+        </section>
+
+        
+        <section>
+            <h2>Demo Video</h2>
+            <figure>
+                <video controls  poster="./imge/html.png" width="400">
+                    <source src="./video/12742244_1920_1080_50fps.mp4" type="video/mp4" >
+                    
+                    <track kind="subtitles" src="./video/Happy_Scribe_Subtitles.vtt" srclang="en" label="English">
+                    Your browser doesn't support video playback.
+                </video>
+                <figcaption>Demo Video Title</figcaption>
+            </figure>
+        </section>
+    </main>
+
+    <footer>
+        <p>Enjoy the multimedia experience!</p>
+    </footer>
+</body>
+</html>
