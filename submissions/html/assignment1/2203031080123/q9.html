@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ</title>
+    <style>
+        /* Styling for <details> */
+        details {
+            margin-bottom: 1em;
+            padding: 0.5em;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        /* Styling for <summary> */
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        /* Open state styling */
+        details[open] {
+            background-color: #f9f9f9;
+            border-left: 4px solid #007BFF;
+        }
+
+        details[open] summary {
+            color: #007BFF;
+        }
+
+        /* Nested details styling */
+        details details {
+            margin-left: 1em;
+            border: none;
+            padding: 0.5em 0;
+        }
+
+        details details summary {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Frequently Asked Questions</h1>
+
+    <section>
+        <details>
+            <summary>What payment methods do you accept?</summary>
+            <ul>
+                <li>Credit Cards</li>
+                <li>PayPal</li>
+                <li>Bank Transfer</li>
+            </ul>
+        </details>
+
+        <details>
+            <summary>How long does shipping take?</summary>
+            <p>Shipping typically takes 5-7 business days, but it may vary based on your location.</p>
+        </details>
+
+        <details>
+            <summary>Can I return or exchange a product?</summary>
+            <p>Yes, we offer a 30-day return or exchange policy. Please ensure the product is in its original condition.</p>
+
+            <details>
+                <summary>How do I initiate a return?</summary>
+                <ol>
+                    <li>Go to the Returns page on our website.</li>
+                    <li>Fill out the return form with your order details.</li>
+                    <li>Print the provided return label and ship the item back to us.</li>
+                </ol>
+            </details>
+        </details>
+
+        <details>
+            <summary>Do you offer customer support?</summary>
+            <p>Yes, our customer support team is available 24/7 via:</p>
+            <ul>
+                <li>Email: support@example.com</li>
+                <li>Phone: +1-800-123-4567</li>
+                <li>Live Chat: Available on our website</li>
+            </ul>
+        </details>
+    </section>
+</body>
+</html>
