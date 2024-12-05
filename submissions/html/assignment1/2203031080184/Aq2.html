@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body>
+        <fieldset id="fieldset">
+            <legend>Product Selection Form</legend>
+
+        <form action="#">
+            <label for="color-selection">Choose Color</label>
+            <input type="color" name="color-selection">
+            <br>
+            <br>
+            <label for="size-selection">Select size:</label>
+            <input type="range" name="size-selection" min="10" max="50" value="25" >
+            <br><br>
+            <label for="select-quantity">Select Quantity</label>
+            <input type="number" min="2" max="10" placeholder="5">
+            <br><br>
+            <label for="delivery-date">Select date</label>
+            <input type="date" name="delivery-date">
+
+            <br><br>
+            <label for="delivery-time">Select time</label>
+            <input type="time" name="delivery-time" id="delivery-time">
+
+            <br><br>
+            <label for="custom-option">Choose custom option:</label>
+            <input list="suggesion" name="custom-option" id="custom-option">
+            <datalist id="suggesion">
+                <option value="Option 1"></option>
+                <option value="option 2"></option>
+            </datalist>
+            <br>
+            <br>
+            <button>submit</button>
+        </form>
+    </fieldset>
+    </body>
+
+</html>
