@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Tutorial</title>
+</head>
+<body>
+    <h1>Basic Python Tutorial</h1>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>In this tutorial, we will learn how to write a simple Python program that takes user input, performs a calculation, and displays the output.</p>
+    </section>
+
+    <section>
+        <h2>Step 1: Create a Python File</h2>
+        <p>Open your text editor or IDE and create a new Python file. You can name it <var>calculator.py</var>.</p>
+    </section>
+
+    <section>
+        <h2>Step 2: Write the Code</h2>
+        <p>In your <var>calculator.py</var> file, write the following code:</p>
+
+        <pre><code>
+# Simple Python Calculator
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+def divide(a, b):
+    if b == 0:
+        return "Error: Division by zero"
+    return a / b
+        </code></pre>
+        
+        <p>This code defines four functions: <code>add()</code>, <code>subtract()</code>, <code>multiply()</code>, and <code>divide()</code>.</p>
+    </section>
+
+    <section>
+        <h2>Step 3: Take User Input</h2>
+        <p>Next, we will add code to ask the user for two numbers and perform a calculation:</p>
+        
+        <pre><code>
+# Take user input
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+operation = input("Choose operation (add, subtract, multiply, divide): ")
+
+if operation == "add":
+    result = add(num1, num2)
+elif operation == "subtract":
+    result = subtract(num1, num2)
+elif operation == "multiply":
+    result = multiply(num1, num2)
+elif operation == "divide":
+    result = divide(num1, num2)
+else:
+    result = "Invalid operation"
+        </code></pre>
+    </section>
+
+    <section>
+        <h2>Step 4: Display the Output</h2>
+        <p>Finally, we will display the result of the operation:</p>
+
+        <pre><code>
+# Output the result
+print("Result:", result)
+        </code></pre>
+    </section>
+
+    <section>
+        <h2>Step 5: Running the Program</h2>
+        <p>Once the code is ready, save the file and run it. You can run the program in your terminal or command prompt by navigating to the directory where the file is saved and typing the following command:</p>
+
+        <p><kbd>python calculator.py</kbd></p>
+
+        <p>When prompted, enter two numbers and choose an operation. For example:</p>
+
+        <pre><samp>
+Enter first number: 5
+Enter second number: 3
+Choose operation (add, subtract, multiply, divide): add
+Result: 8.0
+        </samp></pre>
+    </section>
+
+    <section>
+        <h2>Conclusion</h2>
+        <p>In this tutorial, you learned how to create a basic Python calculator that takes user input, performs a calculation, and displays the result. You can now experiment by adding more operations or improving the user interface!</p>
+    </section>
+
+</body>
+</html>

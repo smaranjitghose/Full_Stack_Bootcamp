@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+</head>
+<body>
+    <h1>Multimedia Gallery</h1>
+
+    <section class="gallery">
+        
+        <figure>
+            <video controls poster="preview.jpg">
+                <source src="video.mp4" type="video/mp4">
+                <track kind="subtitles" src="captions.vtt" srclang="en" label="English">
+                Your browser does not support the video tag.
+            </video>
+            <figcaption>Demo Video Title</figcaption>
+        </figure>
+        <figure>
+            <audio controls>
+                <source src="audio.mp3" type="audio/mpeg">
+                <source src="audio.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+            </audio>
+            <figcaption>Demo Audio Title</figcaption>
+        </figure>
+    </section>
+</body>
+</html>
