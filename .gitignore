@@ -7,4 +7,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Live Server specific
-.history/
+*.mp4
+*.jpg
+
