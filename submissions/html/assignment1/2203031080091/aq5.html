@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+</head>
+<body>
+    <h1>Welcome to the Multimedia Gallery</h1>
+
+    <section>
+        <h2>Audio Gallery</h2>
+        
+        <figure>
+            <audio controls>
+                <source src="sample-audio.mp3" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+            <figcaption>Relaxing Soundscape - 5 minutes of calming music</figcaption>
+        </figure>
+
+        <figure>
+            <audio controls>
+                <source src="sample-audio-2.mp3" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+            <figcaption>Nature Sounds - 10 minutes of soothing nature sounds</figcaption>
+        </figure>
+    </section>
+
+    <section>
+        <h2>Video Gallery</h2>
+
+        <figure>
+            <video controls poster="video-thumbnail.jpg">
+                <source src="sample-video.mp4" type="video/mp4">
+                <source src="sample-video.webm" type="video/webm">
+                Your browser does not support the video tag.
+                <track src="video-subtitles-en.vtt" kind="subtitles" srclang="en" label="English">
+            </video>
+            <figcaption>Exploring the Mountains - A breathtaking journey through the Alps</figcaption>
+        </figure>
+    </section>
+</body>
+</html>
