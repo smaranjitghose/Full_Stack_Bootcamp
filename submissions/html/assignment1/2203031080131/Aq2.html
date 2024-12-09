@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Product Information</h1>
+    <p>Here are some basic information to selecct about your product so please fill them properly</p>
+    <form>
+        <label for="product-color">Choose product color:</label>
+        <input type="color" id="product-color" name="product-color">
+        <br>
+        <label for="size">Select size (cm):</label>
+        <input type="range" id="size" min="10" max="50" value="25">
+        <br>
+        <input list="suggestions" name="custom-options">
+        <datalist id="suggestions">
+            <option value="Micro">
+            <option value="Sedan">
+            <option value="Roadster">
+            <option value="Suv">
+        </datalist>
+    </form>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Page</title>
+    <style>
+        details { margin-bottom: 10px; padding: 5px; background: #f4f4f4; cursor: pointer; }
+        summary { font-weight: bold; }
+        details[open] { background: #e0ffe0; }
+        details details { margin-left: 20px; background: #f9f9f9; }
+        details p, details code { font-size: 1em; }
+    </style>
+</head>
+<body>
+    <h1>FAQ</h1>
+
+    <details>
+        <summary>What is HTML?</summary>
+        <p>HTML structures web content with elements like headings, paragraphs, and images.</p>
+        <details>
+            <summary>What are HTML elements?</summary>
+            <p>HTML elements consist of tags like <code>&lt;h1&gt;</code> for headings.</p>
+        </details>
+    </details>
+
+    <details>
+        <summary>What is CSS?</summary>
+        <p>CSS styles web pages by defining the layout, fonts, and colors.</p>
+        <details>
+            <summary>How does CSS work?</summary>
+            <p>CSS uses selectors like <code>body { background-color: blue; }</code> to style elements.</p>
+        </details>
+    </details>
+
+    <details>
+        <summary>What is JavaScript?</summary>
+        <p>JavaScript adds interactivity to web pages, such as form validation and animations.</p>
+        <details>
+            <summary>How is JavaScript used with HTML?</summary>
+            <p>JavaScript is added with the <code>&lt;script&gt;</code> tag in HTML documents.</p>
+        </details>
+    </details>
+
+</body>
+</html>

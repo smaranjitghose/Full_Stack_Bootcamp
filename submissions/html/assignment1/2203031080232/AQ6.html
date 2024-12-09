@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Product Comparison</h1>
+    <table border="1">
+        <colgroup>
+            <col span="1" style="background-color: ;">
+            <col span="2">
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Product A</th>
+                <th scope="col">Product B</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$499</td>
+                <td>$599</td>
+            </tr>
+            <tr>
+                <th scope="row">Specifications</th>
+                <td>
+                    <table class="nested-table">
+                        <tr><td>8GB RAM</td></tr>
+                        <tr><td>256GB SSD</td></tr>
+                        <tr><td>Intel i5</td></tr>
+                    </table>
+                </td>
+                <td>
+                    <table class="nested-table">
+                        <tr><td>16GB RAM</td></tr>
+                        <tr><td>512GB SSD</td></tr>
+                        <tr><td>Intel i7</td></tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Battery Life</th>
+                <td>10 hours</td>
+                <td>12 hours</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3">Summary: Product A is more affordable, while Product B offers better performance and battery life.</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

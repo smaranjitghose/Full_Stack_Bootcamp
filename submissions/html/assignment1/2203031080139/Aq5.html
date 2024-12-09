@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        figure {
+            text-align: center;
+            width: 300px;
+        }
+        video, audio {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Multimedia Gallery</h1>
+
+    <div class="gallery">
+        <!-- Audio section -->
+        <figure>
+            <audio controls>
+                <source src="audio/song.mp3" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+            <figcaption>Relaxing Music</figcaption>
+        </figure>
+
+        <!-- Video section -->
+        <figure>
+            <video controls poster="video/poster.jpg">
+                <source src="Tokyo.mp4" type="video/mp4">
+                <track src="video/subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+                <track src="video/subtitles_es.vtt" kind="subtitles" srclang="es" label="Spanish">
+                Your browser does not support the video element.
+            </video>
+            <figcaption>Tokyo Night</figcaption>
+        </figure>
+    </div>
+
+</body>
+</html>
