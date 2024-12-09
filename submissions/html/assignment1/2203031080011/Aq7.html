@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Assessment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .skills-section {
+            margin-top: 40px;
+        }
+
+        .skill-item {
+            margin-bottom: 20px;
+        }
+
+        .skill-name {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+
+        .progress-container {
+            margin-top: 10px;
+        }
+
+        progress {
+            width: 100%;
+            height: 30px;
+        }
+
+        meter {
+            width: 100%;
+            height: 30px;
+        }
+
+        .skill-description {
+            margin-top: 5px;
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        .skill-level {
+            font-weight: bold;
+        }
+
+        .low {
+            color: red;
+        }
+
+        .medium {
+            color: orange;
+        }
+
+        .high {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Skills Assessment</h1>
+
+    <div class="skills-section">
+        <div class="skill-item">
+            <div class="skill-name">HTML</div>
+            <progress value="80" max="100"></progress>
+            <div class="skill-description">
+                <span class="skill-level high">High: 80% completion</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">CSS</div>
+            <progress value="60" max="100"></progress>
+            <div class="skill-description">
+                <span class="skill-level medium">Medium: 60% completion</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">JavaScript</div>
+            <progress value="40" max="100"></progress>
+            <div class="skill-description">
+                <span class="skill-level medium">Medium: 40% completion</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">React</div>
+            <progress value="90" max="100"></progress>
+            <div class="skill-description">
+                <span class="skill-level high">High: 90% completion</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">Node.js</div>
+            <progress value="30" max="100"></progress>
+            <div class="skill-description">
+                <span class="skill-level low">Low: 30% completion</span>
+            </div>
+        </div>
+    </div>
+
+    <h2>Skill Levels</h2>
+    <div class="skills-section">
+        <div class="skill-item">
+            <div class="skill-name">Web Development</div>
+            <meter value="0.8" min="0" max="1" optimum="0.9"></meter>
+            <div class="skill-description">
+                <span class="skill-level high">High: 80% skill level</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">Design</div>
+            <meter value="0.5" min="0" max="1" optimum="0.6"></meter>
+            <div class="skill-description">
+                <span class="skill-level medium">Medium: 50% skill level</span>
+            </div>
+        </div>
+
+        <div class="skill-item">
+            <div class="skill-name">Database Management</div>
+            <meter value="0.3" min="0" max="1" optimum="0.4"></meter>
+            <div class="skill-description">
+                <span class="skill-level low">Low: 30% skill level</span>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

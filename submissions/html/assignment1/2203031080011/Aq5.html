@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        figure {
+            margin: 20px 0;
+        }
+        figcaption {
+            font-style: italic;
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Multimedia Gallery</h1>
+
+    <section>
+        <h2>Audio Section</h2>
+        <figure>
+            <audio controls>
+                <source src="audio/three-random-tunes-girl-200030.mp3" type="audio/mpeg">
+                <source src="audio/sample-audio.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+            </audio>
+            <figcaption>A relaxing audio track to enjoy.</figcaption>
+        </figure>
+    </section>
+
+    <section>
+        <h2>Video Section</h2>
+        <figure>
+            <video controls poster="images/Screenshot 2024-12-04 155657.png" width="640" height="360">
+                <source src="video/abstract glowing cubes_preview.mp4" type="video/mp4">
+                <source src="video/sample-video.ogg" type="video/ogg">
+                <track src="subtitles/sample-subtitles.vtt" kind="subtitles" srclang="en" label="English">
+                Your browser does not support the video element.
+            </video>
+            <figcaption>An informative video with subtitles.</figcaption>
+        </figure>
+    </section>
+
+</body>
+</html>
