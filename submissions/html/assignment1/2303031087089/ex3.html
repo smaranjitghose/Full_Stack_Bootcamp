@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Factorial Tutorial</title>
+</head>
+<body>
+    <h1>Python Factorial Tutorial</h1>
+    <p>In this tutorial, we will learn how to calculate the factorial of a number using Python.</p>
+
+    <h2>What is Factorial?</h2>
+    <p>The factorial of a non-negative integer <var>n</var> is the product of all positive integers less than or equal to <var>n</var>. It is denoted by <var>n!</var>.</p>
+
+    <h2>Factorial Formula</h2>
+    <p>The formula for factorial is:</p>
+    <pre><code>n! = n × (n - 1) × (n - 2) × ... × 1</code></pre>
+
+    <h2>Python Code Example</h2>
+    <p>Below is a simple Python program to calculate the factorial of a number:</p>
+    <pre><code>
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+# Input from the user
+num = int(input("Enter a number: "))
+result = factorial(num)
+
+print("The factorial of", num, "is", result)
+    </code></pre>
+
+    <h2>How to Run the Program</h2>
+    <p>To run the program, follow these steps:</p>
+    <ol>
+        <li>Open your terminal or command prompt.</li>
+        <li>Navigate to the directory where your Python file is saved.</li>
+        <li>Run the program using the command:</li>
+        <pre><code>python filename.py</code></pre>
+        <li>When prompted, enter a number and press <kbd>Enter</kbd>.</li>
+    </ol>
+
+    <h2>Example Output</h2>
+    <p>Here is an example of what the output will look like:</p>
+    <pre><samp>
+Enter a number: 5
+The factorial of 5 is 120
+    </samp></pre>
+
+    <h2>Conclusion</h2>
+    <p>In this tutorial, you learned how to calculate the factorial of a number using a recursive function in Python. You can experiment with different values to see how the output changes.</p>
+</body>
+</html>
