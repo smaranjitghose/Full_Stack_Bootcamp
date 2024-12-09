@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <form action="/submit-survey" method="POST">
+        <h1>Survey Form</h1>
+        
+        <fieldset>
+            <legend>Personal Information</legend>
+            
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required min="10" max="100" placeholder="Enter your age">
+        </fieldset>
+        
+        <fieldset>
+            <legend>Preferences</legend>
+            
+            
+            <label>What is your favorite color?</label>
+            <br>
+            <input type="radio" id="color-red" name="favorite_color" value="red" required>
+            
+
+            <label for="color-red">Red</label>
+            <input type="radio" id="color-blue" name="favorite_color" value="blue">
+            <label for="color-blue">Blue</label>
+            <input type="radio" id="color-green" namavorite_color" value="green">
+            <label for="color-green">Green</lat bel>
+            <br>
+            <label>Which hobbies do you enjoy?
+                <br>
+            <input type="checkbox" id="hobby-reading" name="hobbies" value="reading">
+        </label>
+            <label for="hobby-reading">Reading
+            <input type="checkbox" id="hobby-traveling" name="hobbies" value="traveling">
+        </label>
+            <label for="hobby-traveling">Traveling</label>
+            <input type="checkbox" id="hobby-sports" name="hobbies" value="sports">
+            <label for="hobby-sports">Sports</label>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Feedback</legend>
+            
+            <label for="satisfaction">How satisfied are you with our service?</label>
+            <br>
+
+            <select id="satisfaction" name="satisfaction" required>
+                <option value="">Select an option</option>
+                <option value="very_satisfied">Very Satisfied</option>
+                <option value="satisfied">Satisfied</option>
+                <option value="neutral">Neutral</option>
+                <option value="dissatisfied">Dissatisfied</option>
+                <option value="very_dissatisfied">Very Dissatisfied</option>
+            </select>
+            <br>
+            <label for="comments">Additional Comments:</label>
+            <br>
+            <textarea id="comments" name="comments" rows="5" placeholder="Write your comments here..."></textarea>
+        </fieldset>
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
