@@ -1,0 +1,34 @@
+Q.1)
+db.products.insertOne({  _id: 16,  name: "Electric Scooter",  brand: "EcoRide",  category: "Vehicles",  price: 599.99,  stock: 20,  ratings: [4.5, 4.6, 4.7],  description: "Lightweight and foldable electric scooter with a range of 25 miles",  tags: ["electric", "scooter", "eco-friendly", "transport"],  lastUpdated: ISODate("2024-03-31"),  specifications: {    color: "White",    weight: "12kg",    range: "25 miles",    maxSpeed: "20 mph"  }});
+{ acknowledged: true, insertedId: 16 }
+
+Q.2)
+db.products.find({ price:{ $lt:100 }});
+
+Q.3)
+db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}});
+
+Q.4)
+db.products.deleteMany({category:"Gaming"});
+
+Q.5)
+db.products.find().sort({ price: -1 });
+
+Q.6)
+db.products.find({stock:{$gt:50,$lt:100}})
+
+Q.7)
+db.products.find({tags:{$in:['wireless','bluetooth']}})
+
+Q.8)
+db.products.find({ $expr: { $gt: [{ $avg: "$ratings" }, 4.5] } });
+
+Q.9)
+db.products.find({ lastUpdated: { $gt: ISODate("2024-02-01") } });
+
+Q.10)
+db.products.find({ ratings: { $size: 3 } });
+
+Q.11)
+db.products.find({ $text: { $search: "wireless charging" } });
+
