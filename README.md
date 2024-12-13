@@ -119,5 +119,3 @@ This intensive course takes you from zero programming knowledge to building full
 - 📊 Work with databases and APIs
 - 🚀 Deploy and maintain web applications
 - ✨ Follow industry best practices
-
-
