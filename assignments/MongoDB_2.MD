@@ -1,6 +1,22 @@
-# MongoDB 2
 
-## Dataset Setup
+
+<h1 align="center">🍃 MongoDB Assignment 2</h1>
+
+## 🛠️ Database Setup
+
+1. Create a new database named `ecommerce_db`:
+```javascript
+use ecommerce_db
+```
+
+2. Create a collection named `products`:
+```javascript
+db.createCollection("products")
+```
+
+## 💾 Dataset Setup
+
+Insert the following data into the `products` collection:
 
 ```javascript
 [
@@ -213,25 +229,44 @@
 
 ```
 
-## Practice Questions
+## 📝 Practice Questions
 
-1. Write a query to insert a new product in the collection with all required fields.
-2. Find all products with a price less than $100.
-3. Update the stock quantity of "Wireless Headphones" to 40.
-4. Delete all products from the "Gaming" category.
-5. Find all products and sort them by price in descending order.
-6. Find products with stock between 50 and 100 units.
-7. Find products that have either "wireless" or "bluetooth" in their tags.
-8. Find products where the average rating is greater than 4.5.
-9. Find products that were last updated after February 1st, 2024.
-10. Find products with exactly 3 ratings.
-11. Perform a text search to find products related to "wireless charging".
-12. Find products that contain the word "programmable" in their description.
-13. Search for products containing either "fitness" or "exercise" in their description.
-14. Write a query to list all indexes in the products collection.
-15. Create a compound index on price and stock fields.
-16. Explain the query plan for finding products by category and sorting by price.
-17. Find products using the text index and sort by relevance score.
-18. Update all products' prices with a 10% discount for items with stock > 100.
-19. Add a "featured" field to all products with an average rating > 4.5.
-20. Find all products in the "Electronics" category with a price between $50 and $200
+1. 🆕 Write a query to insert a new product in the collection with all required fields.
+
+2. 💰 Find all products with a price less than $100.
+
+3. 🔄 Update the stock quantity of "Wireless Headphones" to 40.
+
+4. ❌ Delete all products from the "Gaming" category.
+
+5. 📊 Find all products and sort them by price in descending order.
+
+6. 📦 Find products with stock between 50 and 100 units.
+
+7. 🏷️ Find products that have either "wireless" or "bluetooth" in their tags.
+
+8. ⭐ Find products where the average rating is greater than 4.5.
+
+9. 📅 Find products that were last updated after February 1st, 2024.
+
+10. 🔢 Find products with exactly 3 ratings.
+
+11. 🔍 Perform a text search to find products related to "wireless charging".
+
+12. 📝 Find products that contain the word "programmable" in their description.
+
+13. 🔎 Search for products containing either "fitness" or "exercise" in their description.
+
+14. 📑 Write a query to list all indexes in the products collection.
+
+15. 🔑 Create a compound index on price and stock fields.
+
+16. 📋 Explain the query plan for finding products by category and sorting by price.
+
+17. 📈 Find products using the text index and sort by relevance score.
+
+18. 🏷️ Update all products' prices with a 10% discount for items with stock > 100.
+
+19. ✨ Add a "featured" field to all products with an average rating > 4.5.
+
+20. 🔍 Find all products in the "Electronics" category with a price between $50 and $200.
