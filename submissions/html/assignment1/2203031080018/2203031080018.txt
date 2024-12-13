@@ -18,16 +18,38 @@
 
 7. db.movies.updateMany({runtime:{$gt:140}},{$addToSet:{streamingOn:"Disney+"}})
 
-8. 
+8. db.movies.find({
+    "genre": { $size: 2 },
+    "boxOffice": { $exists: true },
+    "specialFeatures": { $exists: false }
+})
 
-9. db.movies.deleteMany({ rating: { $lt: 8.0 } })
 
-10. 
+9. db.movies.deleteMany({ rating: { $lt: 8.0 } })
 
-11. db.movies.find({$expr:{ $gt: ["$boxOffice", { $multiply: ["$runtime", 10] }]}},{title:true,_id:false})
+10. db.movies.updateMany(
+    { "year": { $lt: 2000 } },
+    { $pull: { "streamingOn": "Netflix" } }
+)
 
-12.
 
-13. 
+11. db.movies.find({$expr:{ $gt: ["$boxOffice", { $multiply: ["$runtime", 10] }]}},{title:true,_id:false})
+
+12.db.movies.find({
+    "streamingOn": { $all: ["Netflix", "Amazon Prime"] },
+    $expr: { $eq: ["$streamingOn", ["Netflix", "Amazon Prime"]] }
+})
+
+
+13. db.movies.find({
+    "genre": { $all: ["Action", "Sci-Fi"] }
+})
+
 
 14. db.movies.find({cast:{$size:3}},{title:true,_id:false})
+Footer
+
+
+15. db.movies.find({
+    "cast": { $size: 3 }
+})
