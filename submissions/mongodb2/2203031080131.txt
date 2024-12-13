@@ -1,0 +1,20 @@
+Q1. db.products.insertOne({    "_id": 16,    "name": "Gaming Laptop",    "brand": "GamePro",    "category": "Electronics",    "price": 106000,    "stock": 25,    "ratings": [4.7, 4.5, 4.8],    "description": "A gaming laptop is a high-performance portable computer designed for gaming, featuring powerful GPUs, fast processors, high-refresh-rate displays, and advanced cooling systems.",    "tags": ["laptop", "gaming", "electronics", "rgb"],    "lastUpdated": ISODate("2024-10-14")  })
+
+
+Q2. db.products.find({price:{$lt:100}},{name:true,_id:false})
+
+Q3. db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+Q4. db.products.deleteMany({tags:{$in:["gaming"]}})
+
+Q5. db.products.find({},{name:true,_id:false}).sort({price:-1})
+
+Q6. db.products.find({stock:{$gt:50,$lt:100}},{name:true,_id:false})
+
+Q7. db.products.find({$text:{$search:"wireless bluetooth"}})
+
+Q8. 
+
+Q9. db.products.find({  lastUpdated: { $gt: new Date("2024-02-01") }})
+
+Q10. db.products.find({  ratings: { $size: 3 }})
