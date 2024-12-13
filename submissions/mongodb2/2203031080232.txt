@@ -1,0 +1,30 @@
+Q1.
+db.products.insertOne({    "_id": 16,    "name": "Gaming Keyboard",    "brand": "GamePro",    "category": "Gaming",    "price": 200.25,    "stock": 80,    "ratings": [4.7, 4.8, 4.6],    "description": "Mechanical gaming keyboard with RGB backlighting",    "tags": ["gaming", "keyboard", "mechanical", "rgb"],    "lastUpdated": ISODate("2024-03-15")  })
+{ acknowledged: true, insertedId: 16 }
+
+Q2.
+db.products.find({price:{$lt:100}})
+
+Q3.
+db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+Q4.
+db.products.deleteMany({ category: "Gaming" })
+
+Q5.
+db.products.find().sort({ price: -1 })
+
+Q6.
+db.products.find({ stock: { $gte: 50, $lte: 100 } })
+
+Q7.
+db.products.find({  tags: { $in: ["wireless", "bluetooth"] }})
+
+Q8.
+
+
+Q9.
+db.products.find({  lastUpdated: { $gt: new Date("2024-02-01") }})
+
+Q10.
+db.products.find({  ratings: { $size: 3 }})
