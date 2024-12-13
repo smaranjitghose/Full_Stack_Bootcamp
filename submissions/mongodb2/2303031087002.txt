@@ -1,0 +1,62 @@
+
+1)  Write a query to insert a new product in the collection with all required fields.
+    db.products.insertOne({
+    "_id": 101,
+    "name": "Wireless Gaming Mouse",
+    "brand": "TechGear",
+    "category": "Gaming",
+    "price": 79.99,
+    "stock": 100,
+    "ratings": [4.9, 4.7, 4.8],
+    "description": "Ergonomic wireless gaming mouse with customizable buttons and DPI settings",
+    "tags": ["gaming", "mouse", "wireless", "ergonomic"],
+    "lastUpdated": ISODate("2024-12-13T00:00:00Z")
+});
+
+2) Find all products with a price less than $100.
+db.products.find({ "price": { "$lt": 100 } });
+
+3) Update the stock quantity of "Wireless Headphones" to 40.
+db.products.find({ "tags": { "$in": ["wireless", "bluetooth"] } });
+
+4) Delete all products from the "Gaming" category.
+db.products.deleteMany({ "category": "Gaming" });
+
+5) Find all products and sort them by price in descending order.
+db.products.find().sort({ "price": -1 });
+
+6) Find products with stock between 50 and 100 units.
+db.products.find({ "stock": { "$gte": 50, "$lte": 100 } });
+7) Find products that have either "wireless" or "bluetooth" in their tags.
+db.products.find({ "tags": { "$in": ["wireless", "bluetooth"] } });
+8) Find products where the average rating is greater than 4.5
+db.products.find({    "$expr": {        "$gt": [{ "$avg": "$ratings" }, 4.5]    }});
+9) Find products that were last updated after February 1st, 2024.
+db.products.find({    "lastUpdated": { "$gt": ISODate("2024-02-01T00:00:00Z") }});
+10) Find products with exactly 3 ratings.
+db.products.find({ "ratings": { "$size": 3 } });
+11) Perform a text search to find products related to "wireless charging".
+db.products.createIndex({ "description": "text", "tags": "text" });
+db.products.find({ "$text": { "$search": "wireless charging" } });
+12) Find products that contain the word "programmable" in their description.
+db.products.find({ "description": { "$regex": "programmable", "$options": "i" } });
+13) Search for products containing either "fitness" or "exercise" in their description.
+db.products.find ({     "description": {         "$regex": "(fitness|exercise)",         "$options": "i"     }});
+
+
+
+
+
+
+Assignment3-MongoDb                                2303031087002-6A-IT
+
+
+
+
+Bharvi Valand0Page 1
+
+
+
+
+
+
