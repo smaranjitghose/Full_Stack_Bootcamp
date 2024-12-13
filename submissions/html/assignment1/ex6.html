@@ -1,0 +1,286 @@
+[2:04 PM, 12/4/2024] hani: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization Form</title>
+</head>
+<body>
+    <h1>Product Customization Form</h1>
+    <form action="#" method="post" enctype="multipart/form-data">
+        <label for="color">Select Color:</label>
+        <input type="color" id="color" name="color" value="#000000"><br><br>
+
+        <label for="size">Select Size/Quantity:</label>
+        <input type="range" id="size" name="size" min="1" max="100" value="50">
+        <output for="size" id="sizeOutput">50</output><br><br>
+
+        <label for="delivery-date">Delivery Date:</label>
+        <input type="date" id="delivery-date" name="delivery-date" required><br><br>
+
+        <label for="delivery-time">Delivery Time:</label>
+        <input type="time" id="delivery-time" name="delivery-time" required><br><br>
+
+        <label for="custom-design">Upload Custom Design:</label>
+        <input type="file" id="custom-design" name="custom-design" accept="image/*"><br><br>
+
+        <label for="preset-options">Choose a preset option:</label>
+        <input list="preset-options" id="preset" name="preset">
+        <datalist id="preset-options">
+            <option value="Option 1">
+            <option value="Option 2">
+            <option value="Option 3">
+            <option value="Option 4">
+        </datalist><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        // Update the output element with the current value of the range input
+        const sizeInput = document.getElementById('size');
+        const sizeOutput = document.getElementById('sizeOutput');
+        sizeInput.addEventListener('input', function() {
+            sizeOutput.value = sizeInput.value;
+        });
+    </script>
+</body>
+</html>
+[2:05 PM, 12/4/2024] hani: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Page</title>
+</head>
+<body>
+    <h1>Frequently Asked Questions (FAQ)</h1>
+
+    <details>
+        <summary>What is HTML?</summary>
+        <p>HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages.</p>
+        <details>
+            <summary>What are the main components of HTML?</summary>
+            <ul>
+                <li><strong>Elements:</strong> The building blocks of HTML.</li>
+                <li><strong>Attributes:</strong> Provide additional information about elements.</li>
+                <li><strong>Tags:</strong> Used to create elements, typically in pairs (opening and closing).</li>
+            </ul>
+        </details>
+    </details>
+
+    <details>
+        <summary>What is CSS?</summary>
+        <p>CSS stands for Cascading Style Sheets. It is used to style and layout web pages.</p>
+        <details>
+            <summary>How does CSS work?</summary>
+            <p>CSS works by associating rules with HTML elements. Each rule consists of a selector and a declaration block.</p>
+            <pre><code>
+selector {
+    property: value;
+}
+            </code></pre>
+        </details>
+    </details>
+
+    <details>
+        <summary>What is JavaScript?</summary>
+        <p>JavaScript is a programming language that enables interactive web pages. It is an essential part of web applications.</p>
+        <details>
+            <summary>What can you do with JavaScript?</summary>
+            <ul>
+                <li>Manipulate HTML elements</li>
+                <li>Handle events</li>
+                <li>Validate forms</li>
+                <li>Communicate with servers</li>
+            </ul>
+        </details>
+    </details>
+
+    <details>
+        <summary>How do I learn web development?</summary>
+        <p>Learning web development involves understanding HTML, CSS, and JavaScript, along with other technologies.</p>
+        <details>
+            <summary>What resources are available for learning?</summary>
+            <p>There are many resources available, including:</p>
+            <ul>
+                <li>Online courses (e.g., Codecademy, freeCodeCamp)</li>
+                <li>Books (e.g., "Eloquent JavaScript", "HTML & CSS: Design and Build Websites")</li>
+                <li>Documentation (e.g., MDN Web Docs)</li>
+            </ul>
+        </details>
+    </details>
+
+    <h2>Note:</h2>
+    <p>Click on the questions to expand and view the answers. The open state shows the details, while the closed state hides them.</p>
+</body>
+</html>
+[2:05 PM, 12/4/2024] hani: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Gallery</title>
+</head>
+<body>
+    <h1>Multimedia Gallery</h1>
+
+    <h2>Audio Section</h2>
+    <figure>
+        <audio controls>
+            <source src="audio-file.mp3" type="audio/mpeg">
+            <source src="audio-file.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+        </audio>
+        <figcaption>Relaxing Music - Enjoy a moment of calm.</figcaption>
+    </figure>
+
+    <h2>Video Section</h2>
+    <figure>
+        <video width="640" height="360" poster="video-poster.jpg" controls>
+            <source src="video-file.mp4" type="video/mp4">
+            <source src="video-file.webm" type="video/webm">
+            <track src="subtitles-en.vtt" kind="subtitles" srclang="en" label="English">
+            <track src="subtitles-es.vtt" kind="subtitles" srclang="es" label="Spanish">
+            Your browser does not support the video tag.
+        </video>
+        <figcaption>A Nature Documentary - Experience the beauty of the wild.</figcaption>
+    </figure>
+
+    <h2>Fallback Content</h2>
+    <p>If you cannot view the audio or video, please ensure your browser is up to date or try using a different browser.</p>
+
+</body>
+</html>
+[2:06 PM, 12/4/2024] hani: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+</head>
+<body>
+    <h1>Product Comparison Table</h1>
+
+    <table border="1" summary="Comparison of three different products based on features and pricing.">
+        <colgroup>
+            <col style="background-color: #f2f2f2;">
+            <col>
+            <col>
+            <col>
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Product A</th>
+                <th scope="col">Product B</th>
+                <th scope="col">Product C</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row">Price</td>
+                <td>$199</td>
+                <td>$249</td>
+                <td>$299</td>
+            </tr>
+            <tr>
+                <td scope="row">Warranty</td>
+                <td>1 year</td>
+                <td>2 years</td>
+                <td>1 year</td>
+            </tr>
+            <tr>
+                <td scope="row">Features</td>
+                <td>
+                    <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+                        <li>Feature 4</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td scope="row">Customer Reviews</td>
+                <td>
+                    <table border="1">
+                        <thead>
+                            <tr>
+                                <th scope="col">Rating</th>
+                                <th scope="col">Comment</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>4/5</td>
+                                <td>Great value for the price!</td>
+                            </tr>
+                            <tr>
+                                <td>5/5</td>
+                                <td>Excellent performance!</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table border="1">
+                        <thead>
+                            <tr>
+                                <th scope="col">Rating</th>
+                                <th scope="col">Comment</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3/5</td>
+                                <td>Average quality.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table border="1">
+                        <thead>
+                            <tr>
+                                <th scope="col">Rating</th>
+                                <th scope="col">Comment</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>5/5</td>
+                                <td>Highly recommend!</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td scope="row">Average Price</td>
+                <td colspan="3">$249</td>
+            </tr>
+            <tr>
+                <td scope="row">Best Rated</td>
+                <td colspan="3">Product C</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>
