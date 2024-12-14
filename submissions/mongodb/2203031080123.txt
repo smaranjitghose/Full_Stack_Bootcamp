@@ -1,3 +1,0 @@
-1) db.movies.find({runtime: { $gt: 150 }, rating: { $gt: 8.5 }, year: { $gte: 2000, $lte: 2015 }, $or: [{ boxOffice: { $lt: 500 } }, { boxOffice: { $gt: 1000 } }]}, {title: true, _id: false});
-2) db.movies.find({$and: [{director: "Christopher Nolan"}, {isOscarWinner:true},{boxOffice:{$gt:700}},{streamingOn:"Netflix"}]}, {title: true, _id: false})
-3) db.movies.find({"specialFeatures.behindTheScenes": true, "specialFeatures.deletedScenes": true},{title: true, _id: false})

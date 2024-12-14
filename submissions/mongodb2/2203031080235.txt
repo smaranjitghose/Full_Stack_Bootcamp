@@ -1,0 +1,30 @@
+Q1)
+db.product.insertOne({    "_id": 16,    "name": "Anarc Watch",    "brand": "Layers",    "category": "Electronics",    "price": 6999.00,    "stock": 250,    "ratings": [3.7, 4.0, 4.5],    "description": "premium health monitoring watch for developed using modern tech.",    "tags": ["smartwatch","bluetooth","health-monitor","fitness"],    "lastUpdated": ISODate("2024-11-13")  })
+
+Q2)
+
+db.products.find({price:{$lt:100}},{name:true,_id:false})
+
+Q3)
+db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+Q4) 
+db.products.deleteMany({ category: "Gaming" })
+
+Q5)
+db.products.find().sort({ price: -1 })
+
+Q6)
+db.products.find({ stock: { $gte: 50, $lte: 100 } })
+
+Q7)
+db.products.find({  tags: { $in: ["wireless", "bluetooth"] }})
+
+Q8)
+
+
+Q9)
+db.products.find({  lastUpdated: { $gt: new Date("2024-02-01") }})
+
+Q10)
+db.products.find({  ratings: { $size: 3 }})
