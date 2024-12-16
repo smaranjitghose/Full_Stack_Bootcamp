@@ -1,0 +1,30 @@
+1. Insert a new product in the collection with all required fields
+=> db.data.insertOne({_id: 16,name: "Fitness Tracker Band",brand: "HealthTech",category: "Electronics",price: 99.99,stock: 50,ratings: [4.3, 4.5, 4.4],description: "Lightweight fitness tracker with heart rate monitor and step tracking",tags: ["fitness", "tracker", "health", "bluetooth"],lastUpdated: ISODate("2024-04-01"),specifications:{color: "Black",weight: "30g",waterResistant: true}})
+
+=> 2. Find all products with a price less than $100
+db.data.find({ price: { $lt: 100 } }) 
+
+3. Update the stock quantity of "Wireless Headphones" to 40
+=> db.data.updateOne({name: "Wireless Headphones" },{$set: { stock: 40 }})
+
+4. Delete all products from the "Gaming" category
+=> db.data.deleteMany({ category: "Gaming" }) 
+
+5. Find all products and sort them by price in descending order
+=> db.data.find().sort({ price: -1 }) 
+
+6. Find products with stock between 50 and 100 units
+=> db.data.find({ stock: { $gte: 50, $lte: 100 } }) 
+
+7. Find products that have either "wireless" or "bluetooth" in their tags
+=> db.data.find({ tags: { $in: ["wireless", "bluetooth"] } }) 
+
+8. Find products where the average rating is greater than 4.5
+=> db.data.find({
+  $expr: { $gt: [{ $avg: "$ratings" }, 4.5] }}) 
+
+9. Find products that were last updated after February 1st, 2024
+=> db.data.find({ lastUpdated: { $gt: ISODate("2024-02-01") } }) 
+
+10. Find products with exactly 3 ratings
+=> db.data.find({ ratings: { $size: 3 } }) 
