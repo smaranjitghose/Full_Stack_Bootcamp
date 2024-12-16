@@ -17,7 +17,7 @@
  ==>db.products.find({}).sort({price:-1})
 
 6.Find products with stock between 50 and 100 units.
- ==>
+ ==>db.products.find({stock:{$gt:50,$lt:100}},{name:true,_id:false})
  
 7.Find products that have either "wireless" or "bluetooth" in their tags.
  ==>db.products.find({$text:{$search:"wireless bluetooth"}})
@@ -33,3 +33,39 @@
  ==>db.products.find({
   ratings: { $size: 3 }
 })
+
+11.Perform a text search to find products related to "wireless charging".
+==>db.products.createIndex({tags:"text"})
+==>db.products.find({$text:{$search:"wireless charging"}},{name:1,_id:0})
+
+12.Find products that contain the word "programmable" in their description.
+==>db.products.createIndex({description:"text"})
+==> db.products.find({$text:{$search:"programmable"}},{name:1,_id:0})
+
+13. Search for products containing either "fitness" or "exercise" in their description.
+==>db.products.createIndex({description:"text"})
+==> db.products.find({$text:{$search:"fitness exercise"}},{name:1,_id:0})
+
+14.Write a query to list all indexes in the products collection.
+==>db.products.getIndexes()
+
+15.Create a compound index on price and stock fields.
+==>db.products.createIndex({price:1,stock:1})
+
+16. Explain the query plan for finding products by category and sorting by price.
+==> db.products.createIndex({category:"text"})
+==>db.products.find({ category: "Sports" }).sort({ price: 1 })
+
+17.Find products using the text index and sort by relevance score.
+==>db.products.createIndex({category:"text"})
+==>db.products.find({$text:{$search:"Electronics"}},{hamarascore:{$meta:"textScore"}}).sort({hamarascore:{$meta:"textScore"}})
+
+18.Update all products' prices with a 10% discount for items with stock > 100.
+==>
+==>
+
+19.Add a "featured" field to all products with an average rating > 4.5.
+==>
+
+20.Find all products in the "Electronics" category with a price between $50 and $200.
+==>db.products.find({$text:{$search:"Electronics"},price:{$gt:50 ,$lt:200}},{name:1,_id:0})
