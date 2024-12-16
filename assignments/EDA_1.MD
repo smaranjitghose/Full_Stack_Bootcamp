@@ -1,39 +1,29 @@
-1. How many passengers were on the Titanic?
+# Analytical Questions for Titanic Dataset Analysis
 
-2. What was the survival rate (percentage) of passengers?
+## Basic Demographics and Survival
+1. What was the overall survival rate of passengers on the Titanic?
+2. How were passengers distributed across different classes (1st, 2nd, and 3rd)?
+3. What were the survival rates for males versus females?
+4. How did survival rates vary across different passenger classes?
+5. What was the age distribution of passengers (children, teens, young adults, adults, seniors)?
 
-3. List all unique passenger classes in the dataset.
+## Economic Analysis
+6. How were ticket fares distributed across different passenger classes? What were the average, minimum, and maximum fares per class?
+7. How did family size correlate with survival rates? Were larger or smaller family groups more likely to survive?
+8. What were the survival rates for passengers embarking from different ports (Southampton, Cherbourg, Queenstown)?
+9. Did having a cabin assignment (versus no cabin information) affect survival chances?
+10. How did ticket fares correlate with survival rates? Were passengers with more expensive tickets more likely to survive?
 
-4. How many passengers embarked from each port?
+## Social and Demographic Patterns
+11. What was the average age of passengers in different classes?
+12. Did families tend to survive or perish together? What percentage of families had mixed fates?
+13. How did survival rates vary when considering both gender and passenger class together?
+14. How did age affect survival differently for males and females?
+15. What were the survival rates across different fare ranges (low, medium, high)?
 
-5. What was the average fare paid by passengers?
-
-6. Find the names and ages of all passengers who were under 18 and survived.
-
-7. Calculate the average fare for each passenger class.
-
-8. How many passengers had siblings or spouses aboard, grouped by survival status?
-
-9. List the top 10 most expensive ticket fares and the passengers who paid them.
-
-10. Find the number of passengers who had cabin information (not null) vs those who didn't.
-
-11. Calculate the survival rate for each combination of gender and passenger class.
-
-12. Find the age group (0-10, 11-20, 21-30, etc.) with the highest survival rate.
-
-13. List passengers who paid more than twice the average fare for their passenger class.
-
-14. Calculate the percentage of survivors for passengers traveling alone vs those traveling with family (SibSp + Parch > 0).
-
-15. Find cabins that had multiple passengers, along with the count of passengers in each cabin (excluding null cabins).
-
-16. Create a summary showing the survival rate by passenger class and embarkation port, but only for groups with more than 50 passengers.
-
-17. Find passengers who paid higher fares than the average fare of their respective passenger class and survived the journey.
-
-18. Calculate the median age of survivors vs non-survivors (you might need to write a more complex query depending on your SQL version).
-
-19. Create a query that ranks passengers within their class based on fare paid, and show the top 3 from each class.
-
-20. Find the most common ticket numbers (shared by multiple passengers) and calculate the average survival rate for passengers sharing these tickets.
+## Travel and Location Patterns
+16. What were the survival rates for solo travelers versus those traveling with family?
+17. How were passenger classes distributed across different ports of embarkation?
+18. What was the survival rate for children (under 12) across different passenger classes?
+19. How did ticket fares per person vary with family size?
+20. What were the survival rates across different decks (based on cabin assignments)?
