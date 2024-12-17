@@ -24,7 +24,7 @@
 
 13. db.products.find({description:"(fitness|exercise)"},{name:true,_id:false})
 
-14. 
+14. db.products.getIndexes()
 
 15. db.products.createIndex({price:1,stock:1})
 
@@ -34,6 +34,6 @@
 
 18. db.products.updateMany({stock:{$gt:100}},[{$set:{price:{$multiply:["$price",0.9]}}}])
 
-19. 
+19. db.products.updateMany({"ratings":{$exists:true},$expr:{ $gt: [{ $avg: "$ratings" }, 4.5] }},{$set:{"featured": true }})
     
-20. 
+20. db.products.find({"category":"Electronics","price":{ $gte: 50,$lte:200}})
