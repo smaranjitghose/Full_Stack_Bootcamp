@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #f4f4f9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            color: #333;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2.5em;
+            color: #444;
+        }
+
+        .buttons {
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            background-color: #4caf50;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        button#less {
+            background-color: #f44336;
+        }
+
+        button#reset {
+            background-color: #2196f3;
+        }
+
+        button:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        span {
+            font-size: 2em;
+            font-weight: bold;
+            color: #4caf50;
+        }
+        </style>
+</head>
+<body>
+    <h1>Counter</h1>
+    <div class="buttons">
+        <button id="more" onclick="more()">Increase+</button>
+        <button id="less" onclick="less()">Decrease-</button>
+        <button id="reset" onclick="reset()">Reset</button>
+    </div>
+    <h1>count: <span id="value"></span></h1>
+    <script src="./count.js"></script>
+</body>
+</html>
