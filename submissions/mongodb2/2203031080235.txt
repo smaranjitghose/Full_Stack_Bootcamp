@@ -1,0 +1,71 @@
+Q1)// insert new product
+db.product.insertOne({    "_id": 16,    "name": "Anarc Watch",    "brand": "Layers",    "category": "Electronics",    "price": 6999.00,    "stock": 250,    "ratings": [3.7, 4.0, 4.5],    "description": "premium health monitoring watch for developed using modern tech.",    "tags": ["smartwatch","bluetooth","health-monitor","fitness"],    "lastUpdated": ISODate("2024-11-13")  })
+
+Q2) // find price
+
+db.products.find({price:{$lt:100}},{name:true,_id:false})
+
+Q3) // update stock
+
+db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+Q4) // delete gaming
+
+db.products.deleteMany({ category: "Gaming" })
+
+Q5) //sort in descending
+
+db.products.find().sort({ price: -1 })
+
+Q6) // find stock btn 50 - 100
+
+db.products.find({ stock: { $gte: 50, $lte: 100 } })
+
+Q7) // find tag 
+
+db.products.find({  tags: { $in: ["wireless", "bluetooth"] }})
+
+Q8)
+
+
+Q9) // find last updated date
+
+db.products.find({  lastUpdated: { $gt: new Date("2024-02-01") }})
+
+Q10) // find ratings
+
+db.products.find({  ratings: { $size: 3 }})
+
+Q11)
+// create index
+
+db.products.createIndex({ description: "text", tags: "text" })
+
+// search text
+
+db.products.find({$text:{$search:"wireless charging"}})
+
+Q12)
+db.products.find({$text:{$search:"programmable"}})
+
+Q13)
+db.products.find({$text:{$search:"fitness exercise"}})
+
+Q14)
+db.products.getIndexes()
+
+Q15)
+db.products.createIndex({price:1},{stock:1})
+
+Q16)
+db.products.find({Category:"Electronics"}).sort({price:1}).explain("executionStats")
+
+Q17)
+db.products.find({$text:{$search:"Electronics"}},{name:1,brand:1,category:1,price:1,_id:0}).sort({price:1})
+
+Q18)
+
+Q19)
+
+Q20)
+db.products.find({category:"Electronics", price:{$gte:50, $lte:200}})
