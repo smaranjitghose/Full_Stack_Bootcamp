@@ -8,5 +8,5 @@
 | vishang Lad | 2203031080035   | [https://bb624daa.jsprojects-bpo.pages.dev/](#) | [https://github.com/vishangl/JSprojects](#)|
 |alisha kaur | 2203031080202    | [https://bucolic-torrone-ee6617.netlify.app/](#) | [https://github.com/Alishakaur431/javascript.git] (#)|
 |Yash Sakhareliya |2203031080015 |[Deployment URL](https://js-tasks-nine.vercel.app/)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
+|Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
-
