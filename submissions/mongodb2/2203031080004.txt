@@ -1,0 +1,71 @@
+A-1). db.products.insertOne({
+  "_id": 16,
+  "name": "Noise-Canceling Earbuds",
+  "brand": "SoundMax",
+  "category": "Electronics",
+  "price": 99.99,
+  "stock": 40,
+  "ratings": [4.6, 4.7, 4.8],
+  "description": "Compact noise-canceling earbuds with 20-hour battery life",
+  "tags": ["earbuds", "wireless", "noise-canceling", "audio"],
+  "lastUpdated": new ISODate("2024-03-31"),
+  "specifications": {
+    "color": "White",
+    "weight": "15g",
+    "connectivity": "Bluetooth 5.1"
+  }
+});
+
+A-2). db.products.find({ price: { $lt: 100 } });
+
+A-3). db.products.updateOne(
+  { name: "Wireless Headphones" },
+  { $set: { stock: 40 } }
+);
+
+A-4). db.products.deleteMany({ category: "Gaming" });
+
+A-5). db.products.find().sort({ price: -1 });
+
+A-6). db.products.find({ stock: { $gte: 50, $lte: 100 } });
+
+A-7). db.products.find({ tags: { $in: ["wireless", "bluetooth"] } });
+
+A-8). db.products.find({ $expr: { $gt: [{ $avg: "$ratings" }, 4.5] } });
+
+A-9). db.products.find({ lastUpdated: { $gt: ISODate("2024-02-01") } });
+
+A-10). db.products.find({ ratings: { $size: 3 } });
+
+A-11). db.products.find({ $text: { $search: "wireless charging" } });
+
+A-12). db.products.find({ description: { $regex: "\\bprogrammable\\b", $options: "i" } });
+
+A-13). db.products.find({ description: { $regex: "\\b(fitness|exercise)\\b", $options: "i" } });
+
+A-14). db.products.getIndexes();
+
+A-15). db.products.createIndex({ price: 1, stock: 1 });
+
+A-16). db.products.find({ category: "Electronics" }).sort({ price: 1 }).explain("executionStats");
+
+A-17). db.products.find(
+  { $text: { $search: "wireless charging" } },
+  { score: { $meta: "textScore" } }
+).sort({ score: { $meta: "textScore" } });
+
+A-18). db.products.updateMany(
+  { stock: { $gt: 100 } },
+  { $mul: { price: 0.9 } }
+);
+
+A-19). db.products.updateMany(
+  { $expr: { $gt: [{ $avg: "$ratings" }, 4.5] } },
+  { $set: { featured: true } }
+);
+
+A-20). db.products.find({
+  category: "Electronics",
+  price: { $gte: 50, $lte: 200 }
+});
+
