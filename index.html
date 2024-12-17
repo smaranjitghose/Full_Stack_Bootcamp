@@ -3,68 +3,120 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2x2 Table</title>
+    <title>Project</title>
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="styles.css">
     <style>
-        /* General Body Styling */
-body {
+        /* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f8f8f8;
+}
+
+/* Body Styling */
+body {
+    background-color: #443ab1;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header */
+header h1 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
     color: #333;
 }
 
-/* Table Styling */
-table {
-    width: 50%;
-    margin: 0 auto;
-    border-collapse: collapse;
-    background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+/* Cards Container */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
 }
 
-th, td {
+/* Individual Card */
+.card {
+    background: #ffffff;
     border: 1px solid #ddd;
-    padding: 10px;
-    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+    text-align: left;
+    transition: transform 0.3s ease-in-out;
 }
 
-th {
-    background-color: #007BFF;
-    color: #fff;
+/* Card Hover Effect */
+.card:hover {
+    transform: translateY(-10px);
 }
 
-tr:nth-child(even) {
-    background-color: #f2f2f2;
+/* Card Heading */
+.card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #007bff;
 }
 
-tr:hover {
-    background-color: #ddd;
-}
-
-/* Heading Styling */
-h2 {
-    text-align: center;
+/* Card Text */
+.card p {
+    font-size: 1rem;
     margin-bottom: 20px;
-    color: #007BFF;
+    color: #555;
+}
+
+/* Button Styling */
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
 }
 
     </style>
 </head>
 <body>
-    <h2>Projects</h2>
-    <table>
-        <tr>
-            <th>Project</th>
-            <th>Link</th>
-        </tr>
-        <tr>
-            <td>Resume</td>
-            <td>Feedback Form</td>
-        </tr>
-        <tr>
-            <td><a href="Resume.html">Resume</a></td>
-            <td><a href="form.html">FeedbackForm</a></td>
-        </tr>
-    </table>
+    <!-- Page Header -->
+    <header>
+        <h1>My Project Information</h1>
+    </header>
+
+    <!-- Cards Container -->
+    <div class="card-container">
+        <!-- Card 1 -->
+        <div class="card">
+            <h2>Hospicare</h2>
+            <p>Hospicare is a healthcare management system designed to improve patient care and billing efficiency.</p>
+            <a href="#" class="btn">Learn More</a>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card">
+            <h2>Tour Guide System</h2>
+            <p>An interactive tour guide project that uses advanced system design for location-based recommendations.</p>
+            <a href="#" class="btn">Explore</a>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card">
+            <h2>VR Fitness Startup</h2>
+            <p>Combining virtual reality with fitness routines to deliver an immersive workout experience.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+    </div>
 </body>
 </html>
+

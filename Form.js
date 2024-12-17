@@ -15,6 +15,7 @@ document.getElementById("op4").textContent = "D"
 document.getElementById("fd").textContent = "Feedback:"
 
 document.getElementById("sub").textContent = "Submit"
+console.log(name)
  function show(){
     document.getElementById("myP").textContent = `Thankyou for your Feedback ${name}`
  }
