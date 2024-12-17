@@ -3,30 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>2x2 Table</title>
+    <style>
+        /* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Table Styling */
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+/* Heading Styling */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #007BFF;
+}
+
+    </style>
 </head>
 <body>
-    <h3>Count : <span id="value"></span></h3>
-    <button type="button" id="mr" onclick="show()">More +</button>
-    <button type="button" id="ls" onclick="show2()">Less -</button>
-    <button type="button" id="res" onclick="show3()">Reset</button>
-    
-    <script >
-        let value = document.getElementById("value")
-// value.textContent = 1000
-let count = 0;
-function show(){
-    count += 1
-    value.textContent = count
-}
-function show2(){
-    count -= 1
-    value.textContent = count
-}
-function show3(){
-    count = 0
-    value.textContent = count
-}
-    </script>
+    <h2>Projects</h2>
+    <table>
+        <tr>
+            <th>Project</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td>Resume</td>
+            <td>Feedback Form</td>
+        </tr>
+        <tr>
+            <td><a href="Resume.html">Resume</a></td>
+            <td><a href="form.html">FeedbackForm</a></td>
+        </tr>
+    </table>
 </body>
 </html>
