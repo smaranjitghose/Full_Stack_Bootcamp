@@ -6,4 +6,4 @@
 | Jenish Paghadal | 2203031080007 | [Vercel](https://jsassignment-omega.vercel.app/) | [ItsJESH](https://github.com/ItsJESH/JSAssignment) |
 | vishang Lad | 2203031080035   | [https://bb624daa.jsprojects-bpo.pages.dev/](#) | [https://github.com/vishangl/JSprojects](#)|
 |Yash Sakhareliya |2203031080015 |[Deployment URL](https://js-tasks-nine.vercel.app/)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
-
+Deep Menpara |2203031080091 |[Deployment URL](https://javascript-eta-ten.vercel.app/)| [Repository URL](https://github.com/Deep7133/javascript.git)|
