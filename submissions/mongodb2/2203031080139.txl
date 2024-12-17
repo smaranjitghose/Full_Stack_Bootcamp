@@ -34,6 +34,6 @@
 
 18. db.products.updateMany({stock:{$gt:100}},[{$set:{price:{$multiply:["$price",0.9]}}}])
 
-19. db.products.updateMany({"ratings":{$exists:true},$expr:{ $gt: [{ $avg: "$ratings" }, 4.5] }},{$set:{"featured": true }})
+19. db.products.updateMany({"ratings":{$exists:true},$expr:{ $gt: [{ $avg: "$ratings" }, 4.5] }},{$set:{"featured": true }})db.products.find({"category":"Electronics","price":{ $gte: 50,$lte:200}}).sort({price:1})
     
 20. db.products.find({"category":"Electronics","price":{ $gte: 50,$lte:200}})
