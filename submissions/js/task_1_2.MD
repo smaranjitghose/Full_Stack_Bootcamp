@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|-----------|----------------------|
+|Bhavin Parmar |2203031080042 | [URL](https://jstasks.vercel.app/)|[URL](https://github.com/bhavinsol/js_task) |
 | Daksh Kalani | 2203031080032 | https://js-project-b2n.pages.dev | https://github.com/Darshkalani28/JS_Project |
 | Harsh Surani | 2203031080123 | https://2203031080123-assignment-4.netlify.app/ | https://github.com/suraniharsh/Assignments/tree/Assignment-4 |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/ | https://github.com/HardeepIjardar/JS-Projects |
