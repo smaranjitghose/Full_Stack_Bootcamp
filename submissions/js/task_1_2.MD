@@ -10,3 +10,4 @@
 |Yash Sakhareliya |2203031080015 |[Deployment URL](https://js-tasks-nine.vercel.app/)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
+|Rishabh Rai |2203031080114 |[Deployment URL](https://js-coral-psi.vercel.app/)| [Repository URL](https://github.com/Rishabhrai29/js)|
