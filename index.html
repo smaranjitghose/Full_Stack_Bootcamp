@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Count : <span id="value"></span></h3>
+    <button type="button" id="mr" onclick="show()">More +</button>
+    <button type="button" id="ls" onclick="show2()">Less -</button>
+    <button type="button" id="res" onclick="show3()">Reset</button>
+    
+    <script >
+        let value = document.getElementById("value")
+// value.textContent = 1000
+let count = 0;
+function show(){
+    count += 1
+    value.textContent = count
+}
+function show2(){
+    count -= 1
+    value.textContent = count
+}
+function show3(){
+    count = 0
+    value.textContent = count
+}
+    </script>
+</body>
+</html>
