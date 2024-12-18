@@ -33,3 +33,4 @@
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
+| Shubham Karvariya  | 2203031080004     | [Dice Game](https://marvelous-pony-d1462f.netlify.app/dice/)|[Converter](https://marvelous-pony-d1462f.netlify.app/task6/)|[Github](https://github.com/5hubhm/J_S)|
