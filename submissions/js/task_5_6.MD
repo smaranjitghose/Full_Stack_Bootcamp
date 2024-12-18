@@ -25,7 +25,7 @@
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
-| Sagariya Vaishnavi | 2203031080013     |              |              |                   |
+| Sagariya Vaishnavi | 2203031080013     | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html |     https://github.com/sagariyavaishnavi/js_pro |
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
