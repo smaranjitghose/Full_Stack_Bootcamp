@@ -29,7 +29,7 @@
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
-| Hani               | 2303031087088     |              |              |                   |
+| Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
