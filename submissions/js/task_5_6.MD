@@ -21,7 +21,7 @@
 | Harsh choudhary    | 2203031080132     |              |              |                   |
 | Satyam             | 2203031080232     |              |              |                   |
 | pranjal pandey     | 2203031080144     |              |              |                   |
-| Neeti Darji        | 2303031087080     |              |              |                   |
+| Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
