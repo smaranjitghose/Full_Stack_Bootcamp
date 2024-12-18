@@ -33,3 +33,4 @@
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
+| Ravi Vira          | 2203031080018     | https://assignment-4-js-beige.vercel.app/dice.html | https://assignment-4-js-beige.vercel.app/converter.html | https://github.com/Ravi-vira/assignment-4-JS |
