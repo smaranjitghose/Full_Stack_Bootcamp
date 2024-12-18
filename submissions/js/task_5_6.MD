@@ -27,7 +27,7 @@
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
 | Jenish             | 2203031080007     |              |              |                   |
-| Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.ht)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
+| Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
