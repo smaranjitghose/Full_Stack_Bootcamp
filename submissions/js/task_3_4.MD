@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Task 3 URL | Task 4 URL  | GitHub Repository URL |
 |---|---|---|---|---|
+| Utsav Hirapra  | 2203031080002 | [counter](https://js-eosin.vercel.app/counter.html) | [3D](https://js-eosin.vercel.app/calc.html)  | [github](https://github.com/utsav1213/JS) |
 | Neeti Darji| 2303031087080 | https://jsprojects-6m1.pages.dev/counter | https://jsprojects-6m1.pages.dev/calculator | https://github.com/Neetidarji/Jsprojects |
 |Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/count | https://inquisitive-croquembouche-acec27.netlify.app/calculator |
 |hani vaghani|2303031087088|https://jsprojects-daw.pages.dev/counter |  https://jsprojects-daw.pages.dev/3D | https://github.com/hanivaghani/JSprojects |
