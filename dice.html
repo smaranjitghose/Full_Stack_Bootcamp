@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Dice Roller</title>
+    <style>
+        /* General Styling */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #448caf, #358bb6, #6242e0);
+            color: #fff;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Dice Styling */
+        .dice-container,.dice-container1 {
+            margin: 20px auto;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            align-items: center;
+            background-color: #fff;
+            color: #333;
+            font-size: 4rem;
+            border-radius: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            animation: glow 2s infinite alternate;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .dice-container:active {
+            transform: scale(0.9) rotate(15deg);
+        }
+
+        /* Glowing animation */
+        @keyframes glow {
+            0% {
+                box-shadow: 0 0 10px #ff9a9e, 0 0 20px #fad0c4, 0 0 30px #fbc2eb;
+            }
+            100% {
+                box-shadow: 0 0 20px #ff7eb3, 0 0 30px #fcb1d6, 0 0 40px #fce4ec;
+            }
+        }
+
+        /* Button Styling */
+        #rollButton, #rollButton1 {
+            background-color: #fff;
+            color: #333;
+            border: none;
+            padding: 12px 24px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        #rollButton:hover {
+            background-color: #ff9a9e;
+            color: #fff;
+            transform: scale(1.1);
+        }
+
+        #rollButton1:hover{
+            background-color: #ff9a9e;
+            color: #fff;
+            transform: scale(1.1);
+        }
+
+        /* Output Message */
+        #output,#output1 {
+            margin-top: 20px;
+            font-size: 1.5rem;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+        }
+    </style>
+</head>
+<body>
+    
+    <div>
+        <h1>🎲 Creative Dice Roller 🎲</h1>
+        <h2>Player 1</h2>
+        <div id="dice" class="dice-container">⚀</div>
+        <button id="rollButton">Roll the Dice</button>
+        <div id="output"></div>
+
+        <h2>Player 2</h2>
+        <div id="dice1" class="dice-container1">⚀</div>
+        <button id="rollButton1">Roll the Dice</button>
+        <div id="output1"></div>
+    </div>
+
+
+    <script>
+        // Function to generate random dice rolls
+        function rollDice() {
+            return Math.floor(Math.random() * 6) + 1; // Random number between 1 and 6
+        }
+
+        // Function to update the dice face and display result
+        function handleRoll() {
+            const diceNumber = rollDice();
+            const diceElement = document.getElementById("dice");
+            const outputElement = document.getElementById("output");
+
+            // Array of dice faces
+            const diceFaces = ["⚀", "⚁", "⚂", "⚃", "⚄", "⚅"];
+
+            // Add a shake animation temporarily
+            diceElement.style.animation = "shake 0.5s";
+            setTimeout(() => {
+                diceElement.style.animation = "";
+                diceElement.textContent = diceFaces[diceNumber - 1]; // Update dice face
+                outputElement.textContent = `You rolled a ${diceNumber}! 🎉`;
+            }, 500);
+        }
+
+
+        // Function to update the dice face and display result
+        function handleRoll1() {
+            const diceNumber = rollDice();
+            const diceElement = document.getElementById("dice1");
+            const outputElement = document.getElementById("output1");
+
+            // Array of dice faces
+            const diceFaces = ["⚀", "⚁", "⚂", "⚃", "⚄", "⚅"];
+
+            // Add a shake animation temporarily
+            diceElement.style.animation = "shake 0.5s";
+            setTimeout(() => {
+                diceElement.style.animation = "";
+                diceElement.textContent = diceFaces[diceNumber - 1]; // Update dice face
+                outputElement.textContent = `You rolled a ${diceNumber}! 🎉`;
+            }, 500);
+        }
+
+
+        // Add event listener
+        document.getElementById("rollButton").addEventListener("click", handleRoll);
+        document.getElementById("rollButton1").addEventListener("click", handleRoll1);
+
+        // Shake Animation Keyframes
+        const style = document.createElement("style");
+        style.textContent = `
+            @keyframes shake {
+                0% { transform: rotate(0deg); }
+                25% { transform: rotate(10deg); }
+                50% { transform: rotate(-10deg); }
+                75% { transform: rotate(10deg); }
+                100% { transform: rotate(0deg); }
+            }
+        `;  
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
