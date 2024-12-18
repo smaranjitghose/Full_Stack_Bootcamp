@@ -6,5 +6,4 @@
 | Surani Harsh | 2203031080123 | [Task 3](https://2203031080123-assignment-5.netlify.app/counter) | [Task 4](https://2203031080123-assignment-5.netlify.app/geometry%20calculator) | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-5) |
 |  Bhavin Parmar | 2203031080042  | [URL](https://jstasks.vercel.app/task/index.html) |[URL](https://jstasks.vercel.app/Task%204/index.html) |[GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
-
-
+| vishang Lad | 2203031080035   | [https://jsprojects3.pages.dev/counter](#) | [https://jsprojects3.pages.dev/3D_calculator](#)|[https://github.com/vishangl/JSprojects](#)|
