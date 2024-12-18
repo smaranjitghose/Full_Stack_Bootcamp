@@ -1,6 +1,6 @@
 | Student Name | Enrollment Number | Task 3 URL | Task 4 URL  | GitHub Repository URL |
 |---|---|---|---|---|
-| Satyam Singh  | 2203031080232  |[Task 3 URL](https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html)|[Task 4 URL](https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html)|[GitHub URL](https://github.com/mrSinghSatyam/JS102)|
+| Satyam Singh  | 2203031080232  |[Task 3 URL](https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html)|[Task 4 URL](https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/geometry.html|[GitHub URL](https://github.com/mrSinghSatyam/JS102)|
 | Utsav Hirapra  | 2203031080002 | [counter](https://js-eosin.vercel.app/counter.html) | [3D](https://js-eosin.vercel.app/calc.html)  | [github](https://github.com/utsav1213/JS) |
 | Neeti Darji| 2303031087080 | https://jsprojects-6m1.pages.dev/counter | https://jsprojects-6m1.pages.dev/calculator | https://github.com/Neetidarji/Jsprojects |
 |Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/count | https://inquisitive-croquembouche-acec27.netlify.app/calculator |
