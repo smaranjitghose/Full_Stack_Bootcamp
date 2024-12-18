@@ -18,7 +18,7 @@
 | Pratik             | 2203031080174     |              |              |                   |
 | dhyan patel        | 2203031080216     |              |              |                   |
 | Darsh Kalani       | 2203031080032     |              |              |                   |
-| Harsh choudhary    | 2203031080132     |https://wdf-js-all.vercel.app/dies.html              | https://wdf-js-all.vercel.app/Conversion.html             |  https://github.com/mrHarshchoudhary/WDF_JS           |
+| Harsh choudhary    | 2203031080132     |https://wdf-js-all.vercel.app/dies.html              | https://wdf-js-all.vercel.app/conversion.html             |  https://github.com/mrHarshchoudhary/WDF_JS           |
 | Satyam             | 2203031080232     |              |              |                   |
 | pranjal pandey     | 2203031080144     |              |              |                   |
 | Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
