@@ -23,3 +23,4 @@
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
 |Rishabh Rai |2203031080114 |[Deployment URL](https://js-coral-psi.vercel.app/)| [Repository URL](https://github.com/Rishabhrai29/js)|
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
+|Dhyan Patel| 2203031080216| https://javascript-projects-tau-azure.vercel.app/|https://github.com/dhyanpatel3/javascript_projects|
