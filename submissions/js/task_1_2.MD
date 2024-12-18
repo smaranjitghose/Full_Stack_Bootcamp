@@ -28,3 +28,4 @@
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
 |Dhyan Patel| 2203031080216| https://javascript-projects-tau-azure.vercel.app/|https://github.com/dhyanpatel3/javascript_projects|
 |Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/ | https://github.com/meetsondarva/javascript_projects |
+| Meet Patel | 2203031080011 |[TASK-1](https://java-script-practice-lac.vercel.app/feedback.html) [TASK-2](https://java-script-practice-lac.vercel.app/resume.html) | [Repository URL](https://github.com/MeetPatel54/JavaScript_practice.git) |
