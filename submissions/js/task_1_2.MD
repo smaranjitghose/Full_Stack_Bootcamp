@@ -12,4 +12,4 @@
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
-| Satyam Singh | 2203031080232 |[Deployment URL](https://github.com/mrSinghSatyam/JS102)|[Repository](https://vercel.com/satyam-singhs-projects-af8065ca/js-102)|
+| Satyam Singh | 2203031080232 |[Deployment URL](https://github.com/mrSinghSatyam/JS102)|[Repository URL](https://vercel.com/satyam-singhs-projects-af8065ca/js-102)|
