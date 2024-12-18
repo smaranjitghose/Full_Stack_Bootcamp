@@ -1,0 +1,131 @@
+
+MongoDB Questions and Answers
+
+1. Write a query to insert a new product in the collection with all required fields:
+  
+db.products.insertOne({
+  "_id": 16,
+  "name": "Smart Thermostat",
+  "brand": "EcoSmart",
+  "category": "Smart Home",
+  "price": 249.99,
+  "stock": 20,
+  "ratings": [4.6, 4.7, 4.8],
+  "description": "WiFi-enabled smart thermostat with energy-saving features",
+  "tags": ["smart home", "thermostat", "energy saving", "wifi"],
+  "lastUpdated": ISODate("2024-04-01"),
+  "specifications": {
+    "color": "White",
+    "dimensions": "4x4x1 inches",
+    "powerSource": "Battery"
+  }
+});
+ 
+
+2. 💰 Find all products with a price less than $100:
+  
+db.products.find({ price: { $lt: 100 } });
+ 
+
+3. 🔄 Update the stock quantity of "Wireless Headphones" to 40:
+  
+db.products.updateOne(
+  { name: "Wireless Headphones" },
+  { $set: { stock: 40 } }
+);
+ 
+
+4. ❌ Delete all products from the "Gaming" category:
+  
+db.products.deleteMany({ category: "Gaming" });
+ 
+
+5. 📊 Find all products and sort them by price in descending order:
+  
+db.products.find().sort({ price: -1 });
+ 
+
+6. 📦 Find products with stock between 50 and 100 units:
+  
+db.products.find({ stock: { $gte: 50, $lte: 100 } });
+ 
+
+7. 🏷️ Find products that have either "wireless" or "bluetooth" in their tags:
+  
+db.products.find({ tags: { $in: ["wireless", "bluetooth"] } });
+ 
+
+8. ⭐ Find products where the average rating is greater than 4.5:
+  
+db.products.find({
+  $expr: { $gt: [{ $avg: "$ratings" }, 4.5] }
+});
+ 
+
+9. 📅 Find products that were last updated after February 1st, 2024:
+  
+db.products.find({ lastUpdated: { $gt: ISODate("2024-02-01") } });
+ 
+
+10. 🔢 Find products with exactly 3 ratings:
+  
+db.products.find({ ratings: { $size: 3 } });
+ 
+
+11. 🔍 Perform a text search to find products related to "wireless charging":
+  
+db.products.find({ $text: { $search: "wireless charging" } });
+ 
+
+12. 📝 Find products that contain the word "programmable" in their description:
+  
+db.products.find({ description: { $regex: "programmable", $options: "i" } });
+ 
+
+13. 🔎 Search for products containing either "fitness" or "exercise" in their description:
+  
+db.products.find({ description: { $regex: "(fitness|exercise)", $options: "i" } });
+ 
+
+14. 📑 Write a query to list all indexes in the products collection:
+  
+db.products.getIndexes();
+ 
+
+15. 🔑 Create a compound index on price and stock fields:
+  
+db.products.createIndex({ price: 1, stock: 1 });
+ 
+
+16. 📋 Explain the query plan for finding products by category and sorting by price:
+  
+db.products.find({ category: "Electronics" }).sort({ price: 1 }).explain("executionStats");
+ 
+
+17. 📈 Find products using the text index and sort by relevance score:
+  
+db.products.find({ $text: { $search: "wireless charging" } }, { score: { $meta: "textScore" } }).sort({ score: { $meta: "textScore" } });
+ 
+
+18. 🏷️ Update all products' prices with a 10% discount for items with stock > 100:
+  
+db.products.updateMany(
+  { stock: { $gt: 100 } },
+  { $mul: { price: 0.9 } }
+);
+ 
+
+19. ✨ Add a "featured" field to all products with an average rating > 4.5:
+  
+db.products.updateMany(
+  { $expr: { $gt: [{ $avg: "$ratings" }, 4.5] } },
+  { $set: { featured: true } }
+);
+ 
+
+20. 🔍 Find all products in the "Electronics" category with a price between $50 and $200:
+db.products.find({
+  category: "Electronics",
+  price: { $gte: 50, $lte: 200 }
+});
+ 
