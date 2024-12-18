@@ -14,7 +14,7 @@
 | mann               | 2203031080260     |              |              |                   |
 | Harsh Surani       | 2203031080123     |              |              |                   |
 | utsav hirapra      | 2203031080002     |              |              |                   |
-| Bhavin             | 2203031080042     |              |              |                   |
+| Bhavin             | 2203031080042     |[Dise](https://jstasks.vercel.app/task%205/index.html)| [Converter](https://jstasks.vercel.app/Task%206/index.html)| [GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Pratik             | 2203031080174     |              |              |                   |
 | dhyan patel        | 2203031080216     |              |              |                   |
 | Darsh Kalani       | 2203031080032     |              |              |                   |
