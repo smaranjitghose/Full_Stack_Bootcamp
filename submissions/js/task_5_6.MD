@@ -24,7 +24,7 @@
 | Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
 | Alisha             | 2203031080202     |              |              |                   |
-| Vignesh Gaddam     | 2203031080131     |              |              |                   |
+| Vignesh Gaddam     | 2203031080131     |  https://js-101-theta.vercel.app/dice.html      | https://js-101-theta.vercel.app/convertor.html       | https://github.com/mrvigneshgaddam/JS101 |
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     |              |              |                   |
