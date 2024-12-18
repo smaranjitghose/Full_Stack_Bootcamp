@@ -1,6 +1,6 @@
 | Name               | Enrollment Number | Task 5       | Task 6       | Github Repository |
 |--------------------|-------------------|--------------|--------------|-------------------|
-| ayush              | 2203031080028     |              |              |                   |
+| ayush              | 2203031080028     |[Dice Game](https://ayush-projects.vercel.app/dice-game/index.html) |[Unit Converter](https://ayush-projects.vercel.app/unit-converter/index.html)|[GitHub](https://github.com/ayushvadodariya/javascript-project) |
 | pranav faladu      | 2303031087022     |              |              |                   |
 | Rishabh            | 2203031080114     |              |              |                   |
 | Vekariya Aryan     | 2203031080125     |              |              |                   |
