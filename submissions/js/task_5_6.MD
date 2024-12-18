@@ -1,7 +1,7 @@
 | Name               | Enrollment Number | Task 5       | Task 6       | Github Repository |
 |--------------------|-------------------|--------------|--------------|-------------------|
 | ayush              | 2203031080028     |              |              |                   |
-| pranav faladu      | 2303031087022     |              |              |                   |
+| pranav faladu      | 2303031087022     | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter |https://github.com/PranavFaladu/JSprojects |
 | Rishabh            | 2203031080114     |              |              |                   |
 | Vekariya Aryan     | 2203031080125     |              |              |                   |
 | Rajdeepsinh        | 2203031080069     |              |              |                   |
@@ -21,7 +21,7 @@
 | Harsh choudhary    | 2203031080132     |              |              |                   |
 | Satyam             | 2203031080232     |              |              |                   |
 | pranjal pandey     | 2203031080144     |              |              |                   |
-| Neeti Darji        | 2303031087080     |              |              |                   |
+| Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
@@ -29,7 +29,7 @@
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
-| Hani               | 2303031087088     |              |              |                   |
+| Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
