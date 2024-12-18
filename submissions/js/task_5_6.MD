@@ -16,7 +16,7 @@
 | utsav hirapra      | 2203031080002     |              |              |                   |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
-| dhyan patel        | 2203031080216     |              |              |                   |
+| dhyan patel        | 2203031080216     | https://javascript-projects-tau-azure.vercel.app/dice.html | https://javascript-projects-tau-azure.vercel.app/converter.html| https://github.com/dhyanpatel3/javascript_projects                  |
 | Darsh Kalani       | 2203031080032     |              |              |                   |
 | Harsh choudhary    | 2203031080132     |              |              |                   |
 | Satyam             | 2203031080232     |              |              |                   |
