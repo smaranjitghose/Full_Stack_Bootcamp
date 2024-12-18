@@ -33,3 +33,4 @@
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
+| Meet Patel         | 2203031080011     |[Task-5](https://java-script-practice-lac.vercel.app/currencyCon.html)  |[Task-6](https://java-script-practice-lac.vercel.app/Dice-game.html)    |[Repository URL](https://github.com/MeetPatel54/JavaScript_practice.git)|
