@@ -1,7 +1,7 @@
 | Name               | Enrollment Number | Task 5       | Task 6       | Github Repository |
 |--------------------|-------------------|--------------|--------------|-------------------|
 | ayush              | 2203031080028     |              |              |                   |
-| pranav faladu      | 2303031087022     |              |              |                   |
+| pranav faladu      | 2303031087022     | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter |https://github.com/PranavFaladu/JSprojects |
 | Rishabh            | 2203031080114     |              |              |                   |
 | Vekariya Aryan     | 2203031080125     |              |              |                   |
 | Rajdeepsinh        | 2203031080069     |              |              |                   |
