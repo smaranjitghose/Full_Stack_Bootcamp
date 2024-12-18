@@ -28,7 +28,7 @@
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     |              |              |                   |
-| Suhani             | 2203031080260     |              |              |                   |
+| Suhani             | 2203031080160     | [task-5](https://sage-marigold-86659c.netlify.app/task5) | [task-6](https://sage-marigold-86659c.netlify.app/) | [GitHub](https://github.com/SuhaniTandel/JS-Project) |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
