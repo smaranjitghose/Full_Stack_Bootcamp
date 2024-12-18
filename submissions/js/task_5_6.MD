@@ -13,7 +13,7 @@
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
 | Harsh Surani       | 2203031080123     |              |              |                   |
-| utsav hirapra      | 2203031080002     |              |              |                   |
+| utsav hirapra      | 2203031080002     | [dice](https://js-eosin.vercel.app/dice.html) | [converter](https://js-eosin.vercel.app/conveter.html) |  [github](https://github.com/utsav1213/JS)  |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
 | dhyan patel        | 2203031080216     |              |              |                   |
