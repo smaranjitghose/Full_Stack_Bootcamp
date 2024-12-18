@@ -14,3 +14,4 @@ Deep Menpara |2203031080091 |[Deployment URL](https://javascript-eta-ten.vercel.
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
+| Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
