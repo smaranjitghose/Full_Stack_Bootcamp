@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|-----------|----------------------|
+| Hani | 230303108708|https://jsprojects-daw.pages.dev/|https://github.com/hanivaghani/JSprojects|
 |Bhavin Parmar |2203031080042 | [URL](https://jstasks.vercel.app/)|[URL](https://github.com/bhavinsol/js_task) |
 | Daksh Kalani | 2203031080032 | https://js-project-b2n.pages.dev | https://github.com/Darshkalani28/JS_Project |
 | Harsh Surani | 2203031080123 | https://2203031080123-assignment-4.netlify.app/ | https://github.com/suraniharsh/Assignments/tree/Assignment-4 |
@@ -21,4 +22,3 @@
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
 |Rishabh Rai |2203031080114 |[Deployment URL](https://js-coral-psi.vercel.app/)| [Repository URL](https://github.com/Rishabhrai29/js)|
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
-
