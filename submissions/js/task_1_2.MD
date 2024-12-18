@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|-----------|----------------------|
+|Vinit Patel | 2203031080139| https://js-projects-fw8k.vercel.app/ |https://github.com/Vinitpatel28/JS-Projects.git|
 |Neeti Darji | 2303031087080 | [Deployment url](https://jsprojects-6m1.pages.dev/) | [repository url](https://github.com/Neetidarji/Jsprojects) |
 | Hani | 230303108708|https://jsprojects-daw.pages.dev/|https://github.com/hanivaghani/JSprojects|
 |Bhavin Parmar |2203031080042 | [URL](https://jstasks.vercel.app/)|[URL](https://github.com/bhavinsol/js_task) |
