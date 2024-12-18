@@ -10,6 +10,7 @@
 | Sagariya vaishnavi | 2203031080013  | [https://js-pro-nine.vercel.app/]| [https://github.com/sagariyavaishnavi/js_pro] |
 |alisha kaur | 2203031080202    | [https://bucolic-torrone-ee6617.netlify.app/](#) | [https://github.com/Alishakaur431/javascript.git] (#)|
 |Yash Sakhareliya |2203031080015 |[Deployment URL](https://js-tasks-nine.vercel.app/)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
+Deep Menpara |2203031080091 |[Deployment URL](https://javascript-eta-ten.vercel.app/)| [Repository URL](https://github.com/Deep7133/javascript.git)|
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
