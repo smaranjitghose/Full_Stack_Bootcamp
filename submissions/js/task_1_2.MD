@@ -19,7 +19,7 @@
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
-| Satyam Singh | 2203031080232 |[Deployment URL](https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/)|[Repository URL](https://github.com/mrSinghSatyam/JS102)|
+| Satyam Singh | 2203031080232 |[Deployment URL](https://js-102.vercel.app/)|[Repository URL](https://github.com/mrSinghSatyam/JS102)|
 |Harsh choudhary |2203031080132  |https://wdf-js-qmxh.vercel.app/ | [Repository URL](https://github.com/mrHarshchoudhary/WDF_JS)|
 |Deep Menpara |2203031080091 |[Deployment URL](https://javascript-eta-ten.vercel.app/)| [Repository URL](https://github.com/Deep7133/javascript.git)|
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
