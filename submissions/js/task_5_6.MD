@@ -26,7 +26,7 @@
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
-| Jenish             | 2203031080007     |              |              |                   |
+| Jenish             | 2203031080007     | [Dice Game](https://jsassignment-omega.vercel.app/dice.html) | [Converter](https://jsassignment-omega.vercel.app/conv.html) | [GitHub](https://github.com/ItsJESH) |
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |              |              |                   |
