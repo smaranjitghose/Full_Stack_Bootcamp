@@ -10,7 +10,7 @@
 | Bharvi             | 2303031087002     |              |              |                   |
 | Sparsh Patel       | 2203031080053     |              |              |                   |
 | raj                | 2203031080105     |              |              |                   |
-| Vinit Patel        | 2203031080139     |https://js-projects-fw8k.vercel.app/Task5.html|https://js-projects-fw8k.vercel.app/Task6.html|https://github.com/Vinitpatel28/JS-Projects.git|
+| Vinit Patel        | 2203031080139     |https://js-projects-fw8k.vercel.app/Task5.html|https://js-projects-fw8k.vercel.app/Task6.html|https://github.com/Vinitpatel28/JS-Projects.get|
 | mann               | 2203031080260     |              |              |                   |
 | Harsh Surani       | 2203031080123     |              |              |                   |
 | utsav hirapra      | 2203031080002     |              |              |                   |
