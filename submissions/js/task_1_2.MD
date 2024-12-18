@@ -12,4 +12,4 @@
 |Vignesh Gaddam |2203031080131 |https://js-101-theta.vercel.app/ |https://github.com/mrvigneshgaddam/JS101 |
 |Dabhi Rajdeepsinh |2203031080069 |[Deployment URL](https://jsproject-nu.vercel.app/)| [Repository URL](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
-| Meet Patel | 2203031080011 | [Deployment URL](https://java-script-practice-lac.vercel.app/)|[Repository URL](https://github.com/MeetPatel54/JavaScript_practice.git)|
+| Meet Patel | 2203031080011 | [TASK-1](https://java-script-practice-lac.vercel.app/feedback.html) [TASK-2](https://java-script-practice-lac.vercel.app/resume.html)|[Repository URL](https://github.com/MeetPatel54/JavaScript_practice.git)|
