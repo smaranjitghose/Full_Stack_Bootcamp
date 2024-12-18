@@ -30,6 +30,6 @@
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |              |              |                   |
-| Mansha             | 2203031080121     |              |              |                   |
+| Mansha             | 2203031080121     | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter |https://github.com/mansha-6/JS-Project|
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
