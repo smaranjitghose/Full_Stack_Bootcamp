@@ -7,3 +7,4 @@
 |  Bhavin Parmar | 2203031080042  | [URL](https://jstasks.vercel.app/task/index.html) |[URL](https://jstasks.vercel.app/Task%204/index.html) |[GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
 | vishang Lad | 2203031080035   | [https://jsprojects3.pages.dev/counter](#) | [https://jsprojects3.pages.dev/3D_calculator](#)|[https://github.com/vishangl/JSprojects](#)|
+|Ankit Kumar|2203031080184|[Deployment URL](https://java-script-projects-lime.vercel.app/counter.html)|[Deployment URL](https://java-script-projects-lime.vercel.app/calculator.html)|[Repository URL](https://github.com/Ankiitsuthar/JavaScript-Project)|
