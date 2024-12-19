@@ -14,7 +14,7 @@
 | Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
-| Dhyan Patel | 2203031080216 | | | |
+| Dhyan Patel | 2203031080216 |https://javascript-projects-tau-azure.vercel.app/randomguess.html | https://javascript-projects-tau-azure.vercel.app/randompassword.html | https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 | | | |
 | Ankit Kumar | 2203031080184 | | | |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator| https://github.com/HardeepIjardar/JS-Projects |
