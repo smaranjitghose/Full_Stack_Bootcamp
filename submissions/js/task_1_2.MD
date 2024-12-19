@@ -1,5 +1,8 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|-----------|----------------------|
+| Ashish Yadav | 2203031080161   | [Vercel](https://java-script-project-seven.vercel.app/) | [Github](https://github.com/AshishIT611/JavaScript_Project) |
+|Mansha | 2203031080121 | https://js-project-dka.pages.dev | https://github.com/mansha-6/JS-Project |
+|Vinit Patel | 2203031080139| https://js-projects-fw8k.vercel.app/ |https://github.com/Vinitpatel28/JS-Projects.git|
 |Neeti Darji | 2303031087080 | [Deployment url](https://jsprojects-6m1.pages.dev/) | [repository url](https://github.com/Neetidarji/Jsprojects) |
 | Hani | 230303108708|https://jsprojects-daw.pages.dev/|https://github.com/hanivaghani/JSprojects|
 |Bhavin Parmar |2203031080042 | [URL](https://jstasks.vercel.app/)|[URL](https://github.com/bhavinsol/js_task) |
@@ -23,3 +26,7 @@
 |Raj Patel |2203031080105 |[Deployment URL](https://js-five-beta.vercel.app/)| [Repository URL](https://github.com/RajPatel08/JS)|
 |Rishabh Rai |2203031080114 |[Deployment URL](https://js-coral-psi.vercel.app/)| [Repository URL](https://github.com/Rishabhrai29/js)|
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
+|Dhyan Patel| 2203031080216| https://javascript-projects-tau-azure.vercel.app/|https://github.com/dhyanpatel3/javascript_projects|
+|Alisha Kaur | 2203031080202|(https://bucolic-torrone-ee6617.netlify.app/)| (https://github.com/Alishakaur431/javascript)|
+|Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/ | https://github.com/meetsondarva/javascript_projects |
+| Meet Patel | 2203031080011 |[TASK-1](https://java-script-practice-lac.vercel.app/feedback.html) [TASK-2](https://java-script-practice-lac.vercel.app/resume.html) | [Repository URL](https://github.com/MeetPatel54/JavaScript_practice.git) |
