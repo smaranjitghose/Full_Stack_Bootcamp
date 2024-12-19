@@ -24,4 +24,4 @@
 | Utsav hirapra | 2203031080002 | https://js-eosin.vercel.app/dice.html | https://js-eosin.vercel.app/conveter.html | https://github.com/utsav1213/JS |
 | Vekariya Aryan | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
-| vishang lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
+| Vishang lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
