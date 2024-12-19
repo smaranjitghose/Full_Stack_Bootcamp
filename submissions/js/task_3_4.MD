@@ -1,6 +1,7 @@
 | Student Name | Enrollment Number | Task 3 URL | Task 4 URL | GitHub Repository URL |
 |--------------|------------------|------------|------------|----------------------|
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/task3 | https://bucolic-torrone-ee6617.netlify.app/task4 | https://github.com/Alishakaur431/javascript |
+| Ankit Kumar | 2203031080184 | https://java-script-projects-lime.vercel.app/counter.html | https://java-script-projects-lime.vercel.app/calculator.html | https://github.com/Ankiitsuthar/JavaScript-Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task/index.html | https://jstasks.vercel.app/Task%204/index.html | https://github.com/bhavinSOL/JS_task |
 | Dabhi Rajdeepsinh | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/3D_calculator.html | https://github.com/Rajdeepsinh1410/JSPROJECT.git |
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/counter | https://js-project-b2n.pages.dev/geometric | https://github.com/Darshkalani28/JS_Project |
@@ -19,6 +20,7 @@
 | Pratik Patel | 2203031080174 | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/counter.html | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/3D_calculator.html | https://github.com/Pratik00531/JavascriptProjects- |
 | Raj Patel | 2203031080105 | https://js-five-beta.vercel.app/counter.html | https://js-five-beta.vercel.app/geometry.html | https://github.com/RajPatel08/JS |
 | Ravi Vira | 2203031080018 | https://assignment-4-js-beige.vercel.app/counter.html | https://assignment-4-js-beige.vercel.app/calc.html | https://github.com/Ravi-vira/assignment-4-JS |
+| Sagariya Vaishnavi | 2203031080013 | https://js-pro-nine.vercel.app/count.html | https://js-pro-nine.vercel.app/geometry.html | https://github.com/sagariyavaishnavi/js_pro |
 | Satyam Singh | 2203031080232 | https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html | https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/geometry.html | https://github.com/mrSinghSatyam/JS102 |
 | Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/counter/ | https://marvelous-pony-d1462f.netlify.app/task4/ | https://github.com/5hubhm/J_S |
 | Sparsh Patel | 2203031080053 | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/AddCart.html | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/3D_calculator.html | https://github.com/SparshPatel1115/JS_Project/tree/js-task34 |
