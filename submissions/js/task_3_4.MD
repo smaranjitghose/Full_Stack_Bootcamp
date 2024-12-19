@@ -28,6 +28,7 @@
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/counter.html | https://js-eosin.vercel.app/calc.html | https://github.com/utsav1213/JS |
 | Vekariya Aryan | 2203031080125 | https://javascript-ecru-seven.vercel.app/task3/index.html | https://javascript-ecru-seven.vercel.app/task4/task4.html | https://github.com/aaryanvekariya/javascript |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/counter.html | https://js-101-theta.vercel.app/shape.html | https://github.com/mrvigneshgaddam/JS101 |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task3.html | https://js-projects-fw8k.vercel.app/Task4.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/counter | https://jsprojects3.pages.dev/3D_calculator | https://github.com/vishangl/JSprojects |
+| Vrushangi Mistry | 2203031080222 | https://vrushicodesjs.vercel.app/Counter.html | https://vrushicodesjs.vercel.app/3D_calculator.html | https://github.com/Vrushi14/JavaScriptProjects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%203/counter.html | https://js-tasks-nine.vercel.app/Task%204/ | https://github.com/Yashsakhareliya/JS_Task |
-|Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task3.html | https://js-projects-fw8k.vercel.app/Task4.html | https://github.com/Vinitpatel28/JS-Projects.git |
