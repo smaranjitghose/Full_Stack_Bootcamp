@@ -27,4 +27,5 @@
 |Rishabh Rai |2203031080114 |[Deployment URL](https://js-coral-psi.vercel.app/)| [Repository URL](https://github.com/Rishabhrai29/js)|
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
 |Ankit Kumar|2203031080184|[Deployment URL](https://java-script-projects-lime.vercel.app/)|[Repository URL](https://github.com/Ankiitsuthar/JavaScript-Project)|
-
+|Dhyan Patel| 2203031080216| https://javascript-projects-tau-azure.vercel.app/|https://github.com/dhyanpatel3/javascript_projects|
+|Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/ | https://github.com/meetsondarva/javascript_projects |

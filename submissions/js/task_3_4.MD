@@ -8,3 +8,4 @@
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
 | vishang Lad | 2203031080035   | [https://jsprojects3.pages.dev/counter](#) | [https://jsprojects3.pages.dev/3D_calculator](#)|[https://github.com/vishangl/JSprojects](#)|
 |Ankit Kumar|2203031080184|[Deployment URL](https://java-script-projects-lime.vercel.app/counter.html)|[Deployment URL](https://java-script-projects-lime.vercel.app/calculator.html)|[Repository URL](https://github.com/Ankiitsuthar/JavaScript-Project)|
+| Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
