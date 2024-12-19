@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/guessnumber|https://inquisitive-croquembouche-acec27.netlify.app/rendompass|https://github.com/PranavFaladu/JSprojects|
 | Bharvi Valand | 2303031087002 | https://celebrated-pegasus-172baa.netlify.app/numbergame | https://celebrated-pegasus-172baa.netlify.app/randompass | https://github.com/bharvivaland/JSprojects.git |
 | Neeti Darji | 2303031087080 |https://jsprojects-6m1.pages.dev/randomnumber | https://jsprojects-6m1.pages.dev/passwordgenerator | https://github.com/Neetidarji/Jsprojects |
-| Suhani Tandel | 2203031080160 |https://loquacious-fenglisu-33dd21.netlify.app/random-number/task7 |https://loquacious-fenglisu-33dd21.netlify.app/random-password/task8 | https://github.com/SuhaniTandel/JS-Project |
+| Suhani Tandel | 2203031080160 | https://heroic-biscochitos-72645a.netlify.app/random-number/task7 | https://heroic-biscochitos-72645a.netlify.app/random-password/task8 | https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 | | | |
 | Rutuja Waghchaure | 2303031087089 |(https://jsproject-cin.pages.dev/random_number) |(https://jsproject-cin.pages.dev/random_passwd )| (https://github.com/rutujawaghchaure/jsproject)|
