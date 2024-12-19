@@ -20,7 +20,7 @@
 | Darsh Kalani       | 2203031080032     |              |              |                   |
 | Harsh choudhary    | 2203031080132     |              |              |                   |
 | Satyam             | 2203031080232     |              |              |                   |
-| pranjal pandey     | 2203031080144     |              |              |                   |
+| pranjal pandey     | 2203031080144     | [https://assignment4-gamma-eight.vercel.app] | [https://assignment4-gamma-eight.vercel.app]|[https://github.com/Pranjallpandey1504/assignment4]|
 | Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
 | Alisha             | 2203031080202     |              |              |                   |
