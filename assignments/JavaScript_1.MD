@@ -115,7 +115,7 @@ Create a two-player dice game where each player rolls a die, and the player with
 # 🎯 Task 6: Number Guessing Game with While Loop
 
 ## 📝 Task Description
-Create a number guessing game that uses a while loop to continuously ask for user input until they guess the correct number. The program should generate a random number between a minimum and maximum value provided by the user.
+Create a number guessing game that uses a while loop to continuously ask for user input until they guess the correct number. The program should generate a random number between a minimum and maximum value provided by the user
 
 ## ✅ Requirements
 1. The program should:
