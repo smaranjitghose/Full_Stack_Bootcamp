@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | | | |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/guess.html | https://js-101-phi.vercel.app/pass.html | https://github.com/BharudeSahil/JS_101 |
-| Aryan Vekariya | 2203031080125 | | | |
+| Aryan Vekariya | 2203031080125 |[Guess Game](https://javascript-ecru-seven.vercel.app/task7/Guess%20Game.html) |[Password generator](https://javascript-ecru-seven.vercel.app/task8/Password.html) |[Github](https://github.com/aaryanvekariya/javascript) |
 | Sparsh Patel | 2203031080053 | | | |
 | Pratik Patel | 2203031080174 | | | |
 | Ravi Vira | 2203031080018 |[Number Guessing](https://assignment-4-js-beige.vercel.app/gusse.html) | [password generator](https://assignment-4-js-beige.vercel.app/password.html) |[GitHub](https://github.com/Ravi-vira/assignment-4-JS) |
