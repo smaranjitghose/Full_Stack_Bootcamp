@@ -72,6 +72,40 @@ Create an interactive calculator that computes volume and surface area for vario
 - Add animations or 3D visualizations of shapes
 - Include a "compare shapes" feature to display multiple results side by side
 
+# 🎲 Task 5: Dice Game Simulator
 
-5. Create a multiplayer dice
+## 📝 Task Description
+Create a two-player dice game where each player rolls a die, and the player with the higher number wins. The game should simulate real dice rolls and display the results dynamically.
+
+## ✅ Requirements
+1. Create a user interface with:
+  - Two clearly labeled player sections
+  - A "Roll Dice" button for each player
+  - Display areas for each player's roll result
+  - A section announcing the winner
+  - A "New Game" or "Play Again" button
+
+2. Implement the following functionality:
+  - Generate random numbers between 1 and 6 for each roll
+  - Player 1 must roll first, then Player 2
+  - After both players roll, immediately display:
+    * Each player's roll value
+    * The winner (or "Tie" if equal)
+  - Disable Player 2's roll button until Player 1 has rolled
+  - Reset the game state when "New Game" is clicked
+
+## 🛠️ Technical Requirements
+1. Use Math.random() for generating random numbers
+2. Implement proper button state management (enable/disable)
+3. Clear display of current game state
+4. Ensure fair and random number generation
+5. Handle all possible game outcomes (P1 wins, P2 wins, tie)
+
+## ⭐ Bonus Challenges
+- Add dice roll animations
+- Keep track of score across multiple games
+- Add sound effects for rolling dice
+- Include dice face graphics instead of numbers
+- Add a "Best of 3" game mode
+
 6. Random Number Guesser
