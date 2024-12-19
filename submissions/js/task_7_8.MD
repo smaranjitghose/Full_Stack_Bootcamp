@@ -10,7 +10,7 @@
 | Utsav Hirapra | 2203031080002 | | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
 | Satyam Singh | 2203031080232 | | | |
-| Vaishnavi Sagariya | 2203031080013 | | | |
+| Vaishnavi Sagariya | 2203031080013 | [Number guess game](https://js-pro-nine.vercel.app/Number%20Guessing%20Game/numguess.html)|[Password Generator](https://js-pro-nine.vercel.app/Random%20Password%20Generator/password.html) | [GitHub](https://github.com/sagariyavaishnavi/js_pro)|
 | Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
