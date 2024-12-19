@@ -14,6 +14,7 @@
 | Meet Patel | 2203031080011 | https://java-script-practice-lac.vercel.app/currencyCon.html | https://java-script-practice-lac.vercel.app/Dice-game.html | https://github.com/MeetPatel54/JavaScript_practice.git |
 | Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/dice.html | https://javascript-projects-livid.vercel.app/converter.html | https://github.com/meetsondarva/javascript_projects |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/Dice | https://jsprojects-6m1.pages.dev/converter | https://github.com/Neetidarji/Jsprojects |
+|Satyam Singh | 2203031080232|https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/converter.html|https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/dice.html|https://github.com/mrSinghSatyam/JS102
 | Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter | https://github.com/PranavFaladu/JSprojects |
 | Pratik Patel | 2203031080174 | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/currency%20converter.html | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/dice.html | https://github.com/Pratik00531/JavascriptProjects- |
 | Raj | 2203031080105 | https://js-five-beta.vercel.app/task%205/index.html | https://js-five-beta.vercel.app/Task%206/index.html | https://github.com/RajPatel08/JS |
@@ -27,3 +28,4 @@
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%205/ | https://js-tasks-nine.vercel.app/Task%206/ | https://github.com/Yashsakhareliya/JS_Task |
+
