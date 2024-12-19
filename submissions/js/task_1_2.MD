@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|-----------|----------------------|
+| Rutuja waghcaure |2303031087089|https://jsproject-cin.pages.dev/ |https://github.com/rutujawaghchaure/jsproject|
 | Ashish Yadav | 2203031080161   | [Vercel](https://java-script-project-seven.vercel.app/) | [Github](https://github.com/AshishIT611/JavaScript_Project) |
 |Mansha | 2203031080121 | https://js-project-dka.pages.dev | https://github.com/mansha-6/JS-Project |
 |Vinit Patel | 2203031080139| https://js-projects-fw8k.vercel.app/ |https://github.com/Vinitpatel28/JS-Projects.git|
