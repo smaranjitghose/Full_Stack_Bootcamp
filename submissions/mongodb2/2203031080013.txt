@@ -1,0 +1,7 @@
+1.db.products.insertOne({  "_id": 16,  "name": "Electric Standing Desk",  "brand": "WorkSpacePro",  "category": "Furniture",  "price": 399.99,  "stock": 20,  "ratings": [4.8, 4.9, 5.0],  "description": "Height-adjustable electric standing desk with memory presets",  "tags": ["desk", "office", "ergonomic", "adjustable"],  "lastUpdated": ISODate("2024-04-01"),  "specifications": {    "color": "White",    "dimensions": "60x30 inches",    "maxHeight": "50 inches",    "minHeight": "28 inches"  }});
+
+2. db.products.find({price:{$lt:100}},{name:true,_id:false})
+
+3. db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+
