@@ -42,5 +42,5 @@
 | Bharvi Valand | 2303031087002 | | | |
 | Neeti Darji | 2303031087080 | | | |
 | Suhani Tandel | 2203031080160 | | | |
-| Rishabh Rai | 2203031080114 | | | |
+| Rishabh Rai | 2203031080114 |[Game](https://js-coral-psi.vercel.app/Task%207/index.html) |[Password gen](https://js-coral-psi.vercel.app/Task%208/index.html) |[GitHub](https://github.com/Rishabhrai29/js) |
 | Rutuja Waghchaure | 2303031087089 | | | |
