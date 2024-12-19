@@ -19,7 +19,7 @@
 | dhyan patel        | 2203031080216     |              |              |                   |
 | Darsh Kalani       | 2203031080032     |              |              |                   |
 | Harsh choudhary    | 2203031080132     |              |              |                   |
-| Satyam             | 2203031080232     |              |              |                   |
+| Satyam             | 2203031080232     | https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/converter.html|https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/dice.html|https://github.com/mrSinghSatyam/JS102|
 | pranjal pandey     | 2203031080144     |              |              |                   |
 | Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
