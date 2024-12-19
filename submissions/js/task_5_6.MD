@@ -9,7 +9,7 @@
 | Rutuja             | 2303031087089     |              |              |                   |
 | Bharvi             | 2303031087002     |              |              |                   |
 | Sparsh Patel       | 2203031080053     |              |              |                   |
-| raj                | 2203031080105     |[Dise](https://js-five-beta.vercel.app/task%205/index.html)|[Converter](https://js-five-beta.vercel.app/Task%206/index.html)|[Github](https://github.com/RajPatel08/JS)|
+| raj                | 2203031080105     |[dise](https://js-five-beta.vercel.app/task%205/index.html)|[Converter](https://js-five-beta.vercel.app/Task%206/index.html)|[Github](https://github.com/RajPatel08/JS)|
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
 | Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
