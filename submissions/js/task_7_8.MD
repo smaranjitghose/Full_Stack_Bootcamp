@@ -2,7 +2,7 @@
 |---|---|---|---|---|
 | Shubham Karvariya | 2203031080004 |[Random Number](https://marvelous-pony-d1462f.netlify.app/task7/) | [Random Password](https://marvelous-pony-d1462f.netlify.app/task8/)| [GitHub](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | | |
-| Mansha Soni | 2203031080121 | | | |
+| Mansha Soni | 2203031080121 | https://js-project-pink.vercel.app/task7.html |https://js-project-pink.vercel.app/randompw.html |https://github.com/mansha-6/JS-Project |
 | Bhavin Parmar | 2203031080042 |[Game](https://jstasks.vercel.app/Task%207/index.html) |[Pass](https://jstasks.vercel.app/Task%208/index.html)|[GitHub](https://github.com/bhavinSOL/JS_task) |
 | Pranjal Pandey | 2203031080144 | | | |
 | Ashish Yadav | 2203031080161 | | | |
