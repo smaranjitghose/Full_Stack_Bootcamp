@@ -8,11 +8,11 @@
 | vishang lad        | 2203031080035     |https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects                  |
 | Rutuja             | 2303031087089     |              |              |                   |
 | Bharvi             | 2303031087002     |              |              |                   |
-| Sparsh Patel       | 2203031080053     |              |              |                   |
+| Sparsh Patel       | 2203031080053     |(Task-5) https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/dice.html  |(Task-6) https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/converter.html  |  https://github.com/SparshPatel1115/JS_Project/tree/js-task34  |
 | raj                | 2203031080105     |              |              |                   |
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
-| Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
+| Harsh Surani       | 2203031080123     |              |              |                   |
 | utsav hirapra      | 2203031080002     |              |              |                   |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
@@ -27,7 +27,7 @@
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
 | Jenish             | 2203031080007     |              |              |                   |
-| Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
+| Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
