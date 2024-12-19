@@ -3,7 +3,7 @@
 | ayush              | 2203031080028     |              |              |                   |
 | pranav faladu      | 2303031087022     | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter |https://github.com/PranavFaladu/JSprojects |
 | Rishabh            | 2203031080114     |              |              |                   |
-| Vekariya Aryan     | 2203031080125     |              |              |                   |
+| Vekariya Aryan     | 2203031080125     |[task5](https://javascript-ecru-seven.vercel.app/task5/dice.html)|[task6](https://javascript-ecru-seven.vercel.app/task6/Converter.html)| [github](https://github.com/aaryanvekariya/javascript)|
 | Rajdeepsinh        | 2203031080069     | [task-5](https://jsproject-nu.vercel.app/Dice.html) |[task-6](https://jsproject-nu.vercel.app/converter.html)|[GitHub](https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34)                   |
 | vishang lad        | 2203031080035     |https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects                  |
 | Rutuja             | 2303031087089     |              |              |                   |
