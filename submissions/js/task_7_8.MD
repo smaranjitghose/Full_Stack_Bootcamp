@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 |[Game](https://jstasks.vercel.app/Task%207/index.html) |[Pass](https://jstasks.vercel.app/Task%208/index.html)|[GitHub](https://github.com/bhavinSOL/JS_task) |
 | Pranjal Pandey | 2203031080144 | | | |
 | Ashish Yadav | 2203031080161 | | | |
-| Vinit Patel | 2203031080139 | | | |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task7.html | https://js-projects-fw8k.vercel.app/Task8.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Utsav Hirapra | 2203031080002 | | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
 | Satyam Singh | 2203031080232 | | | |
