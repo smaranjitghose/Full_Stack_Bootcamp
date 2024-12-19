@@ -26,3 +26,4 @@
 | Alisha | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/dice | https://bucolic-torrone-ee6617.netlify.app/converter | https://github.com/Alishakaur431/javascript |
 | Pranav faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter | https://github.com/PranavFaladu/JSprojects |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/Dice | https://jsprojects-6m1.pages.dev/converter | https://github.com/Neetidarji/Jsprojects |
+|Satyam Singh | 2203031080232|https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/converter.html|https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/dice.html|https://github.com/mrSinghSatyam/JS102
