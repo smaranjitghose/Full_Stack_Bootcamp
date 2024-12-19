@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 |https://jsprojects-6m1.pages.dev/randomnumber | https://jsprojects-6m1.pages.dev/passwordgenerator | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | | | |
 | Rishabh Rai | 2203031080114 | | | |
-| Rutuja Waghchaure | 2303031087089 | | | |
+| Rutuja Waghchaure | 2303031087089 |(https://jsproject-cin.pages.dev/random_number) |(https://jsproject-cin.pages.dev/random_passwd )| (https://github.com/rutujawaghchaure/jsproject)|
