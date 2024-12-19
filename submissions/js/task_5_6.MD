@@ -23,7 +23,7 @@
 | pranjal pandey     | 2203031080144     |              |              |                   |
 | Neeti Darji        | 2303031087080     |              |              |                   |
 | Hardeep Ijardar    | 2203031080031     |              |              |                   |
-| Alisha             | 2203031080202     |              |              |                   |
+| Alisha             | 2203031080202     |    [https://bucolic-torrone-ee6617.netlify.app/converter]       |[https://bucolic-torrone-ee6617.netlify.app/dice]             |     [https://github.com/Alishakaur431/javascript]              |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
 | Sagariya Vaishnavi | 2203031080013     |              |              |                   |
 | Jenish             | 2203031080007     |              |              |                   |
