@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 7 URL | 🔗 Task 8 URL | 🐱 GitHub Repository URL |
 |---|---|---|---|---|
-| Shubham Karvariya | 2203031080004 | | | |
+| Shubham Karvariya | 2203031080004 |[Random Number](https://marvelous-pony-d1462f.netlify.app/task7/) | [Random Password](https://marvelous-pony-d1462f.netlify.app/task8/)| [GitHub](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | | |
 | Mansha Soni | 2203031080121 | | | |
 | Bhavin Parmar | 2203031080042 |[Game](https://jstasks.vercel.app/Task%207/index.html) |[Pass](https://jstasks.vercel.app/Task%208/index.html)|[GitHub](https://github.com/bhavinSOL/JS_task) |
