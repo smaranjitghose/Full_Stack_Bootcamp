@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 3 URL | 🔗 Task 4 URL | 🐱 GitHub Repository URL |
 |---|---|---|---|---|
 | Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/counter/ | https://marvelous-pony-d1462f.netlify.app/task4/ | https://github.com/5hubhm/J_S |
-| Ayush | 2203031080028 | | | |
+| Ayush | 2203031080028 | https://ayush-projects.vercel.app/counter.html | https://ayush-projects.vercel.app/calculator.html | https://github.com/ayushvadodariya/javascript-project |
 | Mansha Soni | 2203031080121 | https://js-project-dka.pages.dev/count | https://js-project-dka.pages.dev/geometry | https://github.com/mansha-6/JS-Project.git |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task/index.html | https://jstasks.vercel.app/Task%204/index.html | https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 | https://assignment4-gamma-eight.vercel.app/ | https://assignment4-gamma-eight.vercel.app/ | https://github.com/Pranjallpandey1504/assignment4 |
