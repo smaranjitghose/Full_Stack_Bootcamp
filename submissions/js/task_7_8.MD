@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
 | Satyam Singh | 2203031080232 | | | |
 | Vaishnavi Sagariya | 2203031080013 | | | |
-| Jenish Paghadal | 2203031080007 | | | |
+| Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 | | | |
@@ -32,7 +32,7 @@
 | Harsh Choudhary | 2203031080132 | | | |
 | Jeet Dhake | 2303031087082 | | | |
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/random |https://jsprojects3.pages.dev/random_password |https://github.com/vishangl/JSprojects |
-| Hani Vaghani | 2303031087088 | | | |
+| Hani Vaghani | 2303031087088 |https://jsprojects-daw.pages.dev/random|https://jsprojects-daw.pages.dev/randompass|https://github.com/hanivaghani/JSprojects|
 | Harsh Surani | 2203031080123 |[Task 7](https://2203031080123-assignment-7.netlify.app/number%20guessing%20game) | [Task 8](https://2203031080123-assignment-7.netlify.app/password%20generator) | [Github](https://github.com/suraniharsh/Assignments/tree/Assignment-7) |
 | Yash Sakhareliya | 2203031080015 | | | |
 | Meet Upendrakumar Patel | 2203031080011 | | | |
@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 |https://jsprojects-6m1.pages.dev/randomnumber | https://jsprojects-6m1.pages.dev/passwordgenerator | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | | | |
 | Rishabh Rai | 2203031080114 | | | |
-| Rutuja Waghchaure | 2303031087089 | | | |
+| Rutuja Waghchaure | 2303031087089 |(https://jsproject-cin.pages.dev/random_number) |(https://jsproject-cin.pages.dev/random_passwd )| (https://github.com/rutujawaghchaure/jsproject)|
