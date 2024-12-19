@@ -24,6 +24,7 @@
 | Satyam Singh | 2203031080232 | https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/converter.html | https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/dice.html | https://github.com/mrSinghSatyam/JS102 |
 | Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/dice/ | https://marvelous-pony-d1462f.netlify.app/task6/ | https://github.com/5hubhm/J_S |
 | Sparsh Patel | 2203031080053 | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/dice.html | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/converter.html | https://github.com/SparshPatel1115/JS_Project/tree/js-task34 |
+| Suhani | 2203031080160 | https://sage-marigold-86659c.netlify.app/task5 | https://sage-marigold-86659c.netlify.app/ | https://github.com/SuhaniTandel/JS-Project |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/dice.html | https://js-eosin.vercel.app/conveter.html | https://github.com/utsav1213/JS |
 | Vekariya Aryan | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
