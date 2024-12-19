@@ -17,4 +17,4 @@
 |Yash Sakhareliya |2203031080015 |[Task 3](https://js-tasks-nine.vercel.app/Task%203/counter.html)| [Task 4](https://js-tasks-nine.vercel.app/Task%204/)|[Repository URL](https://github.com/Yashsakhareliya/JS_Task)|
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
 | Raj Patel | 2203031080105 |  [Counter](https://js-five-beta.vercel.app/counter.html) | [Geometry](https://js-five-beta.vercel.app/geometry.html)|[Github](https://github.com/RajPatel08/JS)|
-
+| Rishabh | 2203031080114 |  [Counter](https://js-coral-psi.vercel.app/counter.html) | [Geometry](https://js-coral-psi.vercel.app/Shapes/index.html)|[Github](https://github.com/Rishabhrai29/js)|
