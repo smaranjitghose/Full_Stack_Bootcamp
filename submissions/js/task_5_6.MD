@@ -17,7 +17,7 @@
 | Bhavin             | 2203031080042     |[Dise](https://jstasks.vercel.app/task%205/index.html)| [Converter](https://jstasks.vercel.app/Task%206/index.html)| [GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Pratik             | 2203031080174     |              |              |                   |
 | dhyan patel        | 2203031080216     |              |              |                   |
-| Darsh Kalani       | 2203031080032     |              |              |                   |
+| Darsh Kalani       | 2203031080032     | https://js-project-b2n.pages.dev/dice | https://js-project-b2n.pages.dev/converter | https://github.com/Darshkalani28/JS_Project |
 | Harsh choudhary    | 2203031080132     |https://wdf-js-all.vercel.app/dies.html              | https://wdf-js-all.vercel.app/conversion.html             |  https://github.com/mrHarshchoudhary/WDF_JS           |
 | Satyam             | 2203031080232     |              |              |                   |
 | pranjal pandey     | 2203031080144     |              |              |                   |
