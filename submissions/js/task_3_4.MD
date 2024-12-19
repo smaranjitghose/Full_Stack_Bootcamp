@@ -1,5 +1,6 @@
 | Student Name | Enrollment Number | Task 3 URL | Task 4 URL  | GitHub Repository URL |
 |---|---|---|---|---|
+|Deep Menpara   | 2203031080091   | https://deepjsprojects.vercel.app/calc.html | https://deepjsprojects.vercel.app/dice.html | https://github.com/Deep7133/javascript.git
 |Shubham Karvariya|2203031080004|[Counter](https://marvelous-pony-d1462f.netlify.app/counter/)|[3D Geometry](https://marvelous-pony-d1462f.netlify.app/task4/)|[Github](https://github.com/5hubhm/J_S)|
 |Harsh choudhary| 2203031080132   | https://wdf-js-all.vercel.app/counter.html | https://wdf-js-all.vercel.app/geometry.html  |https://github.com/mrHarshchoudhary/WDF_JS|
 | Vekariya Aryan  | 2203031080125  | [Counter](https://javascript-ecru-seven.vercel.app/task3/index.html)  | [3D Calculator](https://javascript-ecru-seven.vercel.app/task4/task4.html) | [Github](https://github.com/aaryanvekariya/javascript)|
