@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 | | | |
 | Sparsh Patel | 2203031080053 | | | |
 | Pratik Patel | 2203031080174 | | | |
-| Ravi Vira | 2203031080018 | | | |
+| Ravi Vira | 2203031080018 |[Number Guessing](https://assignment-4-js-beige.vercel.app/gusse.html) | [password generator](https://assignment-4-js-beige.vercel.app/password.html) |[GitHub](https://github.com/Ravi-vira/assignment-4-JS) |
 | Deep Menpara | 2203031080091 | | | |
 | Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
 | Darsh Kalani | 2203031080032 | | | |
