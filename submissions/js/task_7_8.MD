@@ -1,17 +1,17 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 7 URL | 🔗 Task 8 URL | 🐱 GitHub Repository URL |
 |---|---|---|---|---|
-| Shubham Karvariya | 2203031080004 | | | |
+| Shubham Karvariya | 2203031080004 |[Random Number](https://marvelous-pony-d1462f.netlify.app/task7/) | [Random Password](https://marvelous-pony-d1462f.netlify.app/task8/)| [GitHub](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | | |
 | Mansha Soni | 2203031080121 | https://js-project-pink.vercel.app/task7.html |https://js-project-pink.vercel.app/randompw.html |https://github.com/mansha-6/JS-Project |
-| Bhavin Parmar | 2203031080042 | | | |
+| Bhavin Parmar | 2203031080042 |[Game](https://jstasks.vercel.app/Task%207/index.html) |[Pass](https://jstasks.vercel.app/Task%208/index.html)|[GitHub](https://github.com/bhavinSOL/JS_task) |
 | Pranjal Pandey | 2203031080144 | | | |
 | Ashish Yadav | 2203031080161 | | | |
 | Vinit Patel | 2203031080139 | | | |
-| Utsav Hirapra | 2203031080002 | | | |
+| Utsav Hirapra | 2203031080002 |[Guess Number](https://js-eosin.vercel.app/Task%207/guess.html) |[Password Generator](https://js-eosin.vercel.app/Task%208/index.html) |[Github](https://github.com/utsav1213/JS)|
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
 | Satyam Singh | 2203031080232 | | | |
-| Vaishnavi Sagariya | 2203031080013 | | | |
-| Jenish Paghadal | 2203031080007 | | | |
+| Vaishnavi Sagariya | 2203031080013 | [Number guess game](https://js-pro-nine.vercel.app/Number%20Guessing%20Game/numguess.html)|[Password Generator](https://js-pro-nine.vercel.app/Random%20Password%20Generator/password.html) | [GitHub](https://github.com/sagariyavaishnavi/js_pro)|
+| Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 | | | |
@@ -24,23 +24,23 @@
 | Pratik Patel | 2203031080174 | | | |
 | Ravi Vira | 2203031080018 | | | |
 | Deep Menpara | 2203031080091 | | | |
-| Raj Patel | 2203031080105 | | | |
+| Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
 | Darsh Kalani | 2203031080032 | | | |
-| Vignesh Gaddam | 2203031080131 | | | |
+| Vignesh Gaddam | 2203031080131 | [Number Game](https://js-101-theta.vercel.app/number_guesser.html)| [Random Password Generator](https://js-101-theta.vercel.app/pass.html) | [Git_Hub](https://github.com/mrvigneshgaddam/JS101) |
 | Vrushangi Mistry | 2203031080222 | | | |
 | Achal Ladani | 2203031080229 | | | |
 | Harsh Choudhary | 2203031080132 | | | |
 | Jeet Dhake | 2303031087082 | | | |
-| Vishang Lad | 2203031080035 | | | |
-| Hani Vaghani | 2303031087088 | | | |
-| Harsh Surani | 2203031080123 | | | |
+| Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/random |https://jsprojects3.pages.dev/random_password |https://github.com/vishangl/JSprojects |
+| Hani Vaghani | 2303031087088 |https://jsprojects-daw.pages.dev/random|https://jsprojects-daw.pages.dev/randompass|https://github.com/hanivaghani/JSprojects|
+| Harsh Surani | 2203031080123 |[Task 7](https://2203031080123-assignment-7.netlify.app/number%20guessing%20game) | [Task 8](https://2203031080123-assignment-7.netlify.app/password%20generator) | [Github](https://github.com/suraniharsh/Assignments/tree/Assignment-7) |
 | Yash Sakhareliya | 2203031080015 | | | |
 | Meet Upendrakumar Patel | 2203031080011 | | | |
 | Vraj Mehta | 2303031087034 | | | |
 | Alisha Kaur | 2203031080202 | | | |
-| Pranav Faladu | 2303031087022 | | | |
+| Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/guessnumber|https://inquisitive-croquembouche-acec27.netlify.app/rendompass|https://github.com/PranavFaladu/JSprojects|
 | Bharvi Valand | 2303031087002 | | | |
-| Neeti Darji | 2303031087080 | | | |
+| Neeti Darji | 2303031087080 |https://jsprojects-6m1.pages.dev/randomnumber | https://jsprojects-6m1.pages.dev/passwordgenerator | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | | | |
 | Rishabh Rai | 2203031080114 | | | |
-| Rutuja Waghchaure | 2303031087089 | | | |
+| Rutuja Waghchaure | 2303031087089 |(https://jsproject-cin.pages.dev/random_number) |(https://jsproject-cin.pages.dev/random_passwd )| (https://github.com/rutujawaghchaure/jsproject)|
