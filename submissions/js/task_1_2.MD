@@ -27,6 +27,7 @@
 | Sagariya Vaishnavi | 2203031080013 | https://js-pro-nine.vercel.app/ | https://github.com/sagariyavaishnavi/js_pro |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/ | https://github.com/BharudeSahil/JS_101 |
 | Satyam Singh | 2203031080232 | https://js-102.vercel.app/ | https://github.com/mrSinghSatyam/JS102 |
+| Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/ | https://github.com/5hubhm/J_S |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/ | https://github.com/utsav1213/JS |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/ | https://github.com/mrvigneshgaddam/JS101 |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/ | https://github.com/Vinitpatel28/JS-Projects.git |
