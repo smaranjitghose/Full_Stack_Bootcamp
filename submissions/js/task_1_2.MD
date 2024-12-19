@@ -1,6 +1,7 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|----------------|----------------------|
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/ | https://github.com/Alishakaur431/javascript |
+| Ankit Kumar | 2203031080184 | https://java-script-projects-lime.vercel.app/ | https://github.com/Ankiitsuthar/JavaScript-Project |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/ | https://github.com/aaryanvekariya/javascript |
 | Ashish Yadav | 2203031080161 | https://java-script-project-seven.vercel.app/ | https://github.com/AshishIT611/JavaScript_Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/ | https://github.com/bhavinsol/js_task |
