@@ -33,7 +33,7 @@
 | Jeet Dhake | 2303031087082 | | | |
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/random |https://jsprojects3.pages.dev/random_password |https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 | | | |
-| Harsh Surani | 2203031080123 | | | |
+| Harsh Surani | 2203031080123 |[Task 7](https://2203031080123-assignment-7.netlify.app/number%20guessing%20game) | [Task 8](https://2203031080123-assignment-7.netlify.app/password%20generator) | [Github](https://github.com/suraniharsh/Assignments/tree/Assignment-7) |
 | Yash Sakhareliya | 2203031080015 | | | |
 | Meet Upendrakumar Patel | 2203031080011 | | | |
 | Vraj Mehta | 2303031087034 | | | |
