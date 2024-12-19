@@ -1,0 +1,47 @@
+Q1. db.products.insertOne({    "_id": 16,    "name": "Gaming Laptop",    "brand": "GamePro",    "category": "Electronics",    "price": 106000,    "stock": 25,    "ratings": [4.7, 4.5, 4.8],    "description": "A gaming laptop is a high-performance portable computer designed for gaming, featuring powerful GPUs, fast processors, high-refresh-rate displays, and advanced cooling systems.",    "tags": ["laptop", "gaming", "electronics", "rgb"],    "lastUpdated": ISODate("2024-10-14")  })
+
+Q2. db.products.find({price:{$lt:100}},{name:true,_id:false})
+
+Q3. db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
+
+Q4. db.products.deleteMany({tags:{$in:["gaming"]}})
+
+Q5. db.products.find({},{name:true,_id:false}).sort({price:-1})
+
+Q6. db.products.find({stock:{$gt:50,$lt:100}},{name:true,_id:false})
+
+Q7. db.product.find({tags:"text"})
+    db.products.find({$text:{$search:"wireless bluetooth"}})
+
+Q8. 
+
+Q9. db.products.find({  lastUpdated: { $gt: new Date("2024-02-01") }})
+
+Q10. db.products.find({  ratings: { $size: 3 }})
+
+Q11. db.products.createIndex({tags:"text"})
+     db.products.find({$text:{$search:"wireless charging"}})
+
+Q12. db.products.creatIndex({description:"text"})
+     db.products.find({$text:{$search:"programmable"}})
+
+Q13. db.products.creatIndex({description:"text"})
+     db.products.find({$text:{$search:"fitness exercise"}})
+
+Q14. db.products.getIndexes()
+
+Q15. db.products.createIndex({price:1,stock:1})
+
+Q16. db.products.createIndex({category:"text"})
+     db.products.find({$text:{$search:"Smart Home"}},{name:true,_id:false,price:true}).sort({price:1})
+     //Here aboe i am finding the documents which comes in the smart home category so first we have to make an index of category for easy search and display it by also sorting them in ascending order on their price.
+
+Q17. db.products.createIndex({category:"text"})
+     db.products.find({$text:{$search:"Electronics"}},{score:{$meta:"textScore"}})
+
+Q18. db.products.updateMany({stock:{$gt:100}},{$mul:{price:0.9}})
+
+Q19. 
+
+Q20. db.products.createIndex({category:"text"})
+     db.products.find({price:{$gt:50,$lt:200},$text:{$search:"Electronics"}},{name:true,_id:false})
