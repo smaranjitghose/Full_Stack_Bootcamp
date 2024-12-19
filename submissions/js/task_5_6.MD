@@ -12,7 +12,7 @@
 | raj                | 2203031080105     |              |              |                   |
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
-| Harsh Surani       | 2203031080123     |              |              |                   |
+| Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
 | utsav hirapra      | 2203031080002     |              |              |                   |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
