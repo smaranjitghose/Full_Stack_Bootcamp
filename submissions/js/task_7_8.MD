@@ -26,7 +26,7 @@
 | Deep Menpara | 2203031080091 | | | |
 | Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
 | Darsh Kalani | 2203031080032 | | | |
-| Vignesh Gaddam | 2203031080131 | | | |
+| Vignesh Gaddam | 2203031080131 | [Number Game](https://js-101-theta.vercel.app/number_guesser.html)| [Random Password Generator](https://js-101-theta.vercel.app/pass.html) | [Git_Hub](https://github.com/mrvigneshgaddam/JS101) |
 | Vrushangi Mistry | 2203031080222 | | | |
 | Achal Ladani | 2203031080229 | | | |
 | Harsh Choudhary | 2203031080132 | | | |
