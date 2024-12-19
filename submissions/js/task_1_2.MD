@@ -28,3 +28,4 @@
 | Utsav Hirapra | 2203031080002 | [Vercel](https://js-eosin.vercel.app/) | [Github](https://github.com/utsav1213/JS) |
 |Dhyan Patel| 2203031080216| https://javascript-projects-tau-azure.vercel.app/|https://github.com/dhyanpatel3/javascript_projects|
 |Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/ | https://github.com/meetsondarva/javascript_projects |
+|Mann Solanki | 2203031080260 |[Projects](https://mann-projects.netlify.app/)|[Github](https://github.com/HarmonyHacker/javascript_projects)|
