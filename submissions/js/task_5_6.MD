@@ -1,6 +1,7 @@
 | Name | Enrollment Number | Task 5 | Task 6 | Github Repository |
 |------|------------------|---------|---------|-------------------|
 | Alisha | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/dice | https://bucolic-torrone-ee6617.netlify.app/converter | https://github.com/Alishakaur431/javascript |
+| Ayush | 2203031080028 | https://ayush-projects.vercel.app/dice-game/index.html | https://ayush-projects.vercel.app/unit-converter/index.html | https://github.com/ayushvadodariya/javascript-project |
 | Bhavin | 2203031080042 | https://jstasks.vercel.app/task%205/index.html | https://jstasks.vercel.app/Task%206/index.html | https://github.com/bhavinSOL/JS_task |
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/dice | https://js-project-b2n.pages.dev/converter | https://github.com/Darshkalani28/JS_Project |
 | Deep Menpara | 2203031080091 | https://deepjsprojects.vercel.app/counter.html | https://deepjsprojects.vercel.app/convertor.html | https://github.com/Deep7133/javascript.git |
