@@ -17,9 +17,8 @@
 | Dhyan Patel | 2203031080216 | | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | | |
 | Ankit Kumar | 2203031080184 | | | |
-| Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator
- | https://github.com/HardeepIjardar/JS-Projects |
-| Sahil Bharude | 2203031080235 | | | |
+| Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator| https://github.com/HardeepIjardar/JS-Projects |
+| Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/guess.html | https://js-101-phi.vercel.app/pass.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 | | | |
 | Sparsh Patel | 2203031080053 | | | |
 | Pratik Patel | 2203031080174 | | | |
