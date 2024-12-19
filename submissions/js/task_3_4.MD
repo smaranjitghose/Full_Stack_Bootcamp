@@ -10,6 +10,7 @@
 | Hani Vaghani | 2303031087088 | https://jsprojects-daw.pages.dev/counter | https://jsprojects-daw.pages.dev/3D | https://github.com/hanivaghani/JSprojects |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
 | Harsh Choudhary | 2203031080132 | https://wdf-js-all.vercel.app/counter.html | https://wdf-js-all.vercel.app/geometry.html | https://github.com/mrHarshchoudhary/WDF_JS |
+| Jenish Paghadal | 2203031080007 | https://jsassignment-git-jsass4-jenish-paghadals-projects.vercel.app/counter.html | https://jsassignment-omega.vercel.app/calc.html | https://github.com/ItsJESH/JSAssignment |
 | Mann Solanki | 2203031080260 | https://mann-projects.netlify.app/counter | https://mann-projects.netlify.app/calculator | https://github.com/HarmonyHacker/javascript_projects |
 | Mansha | 2203031080121 | https://js-project-dka.pages.dev/count | https://js-project-dka.pages.dev/geometry | https://github.com/mansha-6/JS-Project.git |
 | Meet Patel | 2203031080011 | https://java-script-practice-lac.vercel.app/shapes.html | https://java-script-practice-lac.vercel.app/counter.html | https://github.com/MeetPatel54/JavaScript_practice.git |
