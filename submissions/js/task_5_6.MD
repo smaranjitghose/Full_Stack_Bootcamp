@@ -32,4 +32,4 @@
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     |              |              |                   |
 | Ankit kumar        | 2203031080184     |              |              |                   |
-| Deep Menpara       | 2203031080091     |https://deepjsprojects.vercel.app/              |https://deepjsprojects.vercel.app/              |https://github.com/Deep7133/javascript.git                   |
+| Deep Menpara       | 2203031080091     |https://deepjsprojects.vercel.app/counter.html              |https://deepjsprojects.vercel.app/convertor.html              |https://github.com/Deep7133/javascript.git                   |
