@@ -30,7 +30,7 @@
 | Vignesh Gaddam | 2203031080131 | [Number Game](https://js-101-theta.vercel.app/number_guesser.html)| [Random Password Generator](https://js-101-theta.vercel.app/pass.html) | [Git_Hub](https://github.com/mrvigneshgaddam/JS101) |
 | Vrushangi Mistry | 2203031080222 | | | |
 | Achal Ladani | 2203031080229 | | | |
-| Harsh Choudhary | 2203031080132 | | | |
+| Harsh Choudhary | 2203031080132 | [Game](https://wdf-js-qmxh.vercel.app/randomguss.html)| [Password gen](https://wdf-js-qmxh.vercel.app/task8.html)|[Github](https://github.com/mrHarshchoudhary/WDF_JS) |
 | Jeet Dhake | 2303031087082 | | | |
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/random |https://jsprojects3.pages.dev/random_password |https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 |https://jsprojects-daw.pages.dev/random|https://jsprojects-daw.pages.dev/randompass|https://github.com/hanivaghani/JSprojects|
