@@ -32,3 +32,4 @@
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/counter | https://jsprojects3.pages.dev/3D_calculator | https://github.com/vishangl/JSprojects |
 | Vrushangi Mistry | 2203031080222 | https://vrushicodesjs.vercel.app/Counter.html | https://vrushicodesjs.vercel.app/3D_calculator.html | https://github.com/Vrushi14/JavaScriptProjects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%203/counter.html | https://js-tasks-nine.vercel.app/Task%204/ | https://github.com/Yashsakhareliya/JS_Task |
+| Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/count.html | https://js-101-phi.vercel.app/geometry.html | https://github.com/BharudeSahil/JS_101 |
