@@ -1,7 +1,7 @@
 | Name               | Enrollment Number | Task 5       | Task 6       | Github Repository |
 |--------------------|-------------------|--------------|--------------|-------------------|
 | ayush              | 2203031080028     |              |              |                   |
-| pranav faladu      | 2303031087022     |              |              |                   |
+| pranav faladu      | 2303031087022     | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter |https://github.com/PranavFaladu/JSprojects |
 | Rishabh            | 2203031080114     |              |              |                   |
 | Vekariya Aryan     | 2203031080125     |              |              |                   |
 | Rajdeepsinh        | 2203031080069     |              |              |                   |
@@ -12,7 +12,7 @@
 | raj                | 2203031080105     |              |              |                   |
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
-| Harsh Surani       | 2203031080123     |              |              |                   |
+| Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
 | utsav hirapra      | 2203031080002     |              |              |                   |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
@@ -21,15 +21,15 @@
 | Harsh choudhary    | 2203031080132     |              |              |                   |
 | Satyam             | 2203031080232     |              |              |                   |
 | pranjal pandey     | 2203031080144     |              |              |                   |
-| Neeti Darji        | 2303031087080     |              |              |                   |
-| Hardeep Ijardar    | 2203031080031     |              |              |                   |
+| Neeti Darji        | 2303031087080     | [task-5](https://jsprojects-6m1.pages.dev/Dice) | [task-6](https://jsprojects-6m1.pages.dev/converter) | https://github.com/Neetidarji/Jsprojects |
+| Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
-| Sagariya Vaishnavi | 2203031080013     |              |              |                   |
+| Sagariya Vaishnavi | 2203031080013     | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html |     https://github.com/sagariyavaishnavi/js_pro |
 | Jenish             | 2203031080007     |              |              |                   |
-| Yash               | 2203031080015     |              |              |                   |
+| Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
 | Suhani             | 2203031080260     |              |              |                   |
-| Hani               | 2303031087088     |              |              |                   |
+| Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter |https://github.com/mansha-6/JS-Project|
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
