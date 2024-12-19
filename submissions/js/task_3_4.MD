@@ -17,6 +17,7 @@
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/counter.html |https://js-101-theta.vercel.app/shape.html | https://github.com/mrvigneshgaddam/JS101 |
 | Meet Sondarva | 2203031080146|https://javascript-projects-livid.vercel.app/counter.html | https://javascript-projects-livid.vercel.app/calculator.html | https://github.com/meetsondarva/javascript_projects |
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
+| ravi Vira| 2203031080018 | https://assignment-4-js-beige.vercel.app/counter.html | https://assignment-4-js-beige.vercel.app/calc.html | https://github.com/Ravi-vira/assignment-4-JS |
 |MAnn Solanki|2203031080260|[Deployment URL](https://mann-projects.netlify.app/counter)|[Deployment URL](https://mann-projects.netlify.app/calculator)|[GitHub Repository URL](https://github.com/HarmonyHacker/javascript_projects)|
 |Yash Sakhareliya |2203031080015 |[Task 3](https://js-tasks-nine.vercel.app/Task%203/counter.html)| [Task 4](https://js-tasks-nine.vercel.app/Task%204/)|[Repository URL](https://github.com/Yashsakhareliya/JS_Task)|
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
@@ -26,4 +27,3 @@
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/counter | https://js-project-b2n.pages.dev/geometric | https://github.com/Darshkalani28/JS_Project |
 | Pratik Patel | 2203031080174 |  [Counter](https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/counter.html) | [Geometry](https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/3D_calculator.html)|[Github](https://github.com/Pratik00531/JavascriptProjects-)|
-
