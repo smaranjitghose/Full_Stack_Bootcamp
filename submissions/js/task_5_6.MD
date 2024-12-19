@@ -26,7 +26,7 @@
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |  https://js-101-theta.vercel.app/dice.html      | https://js-101-theta.vercel.app/convertor.html       | https://github.com/mrvigneshgaddam/JS101 |
 | Sagariya Vaishnavi | 2203031080013     | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html |     https://github.com/sagariyavaishnavi/js_pro |
-| Jenish             | 2203031080007     |              |              |                   |
+| Jenish             | 2203031080007     | [Dice Game](https://jsassignment-omega.vercel.app/dice.html) | [Converter](https://jsassignment-omega.vercel.app/conv.html) | [GitHub](https://github.com/ItsJESH) |
 | Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
