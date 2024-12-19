@@ -27,7 +27,9 @@
 | Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
 | Darsh Kalani | 2203031080032 | | | |
 | Vignesh Gaddam | 2203031080131 | | | |
-| Vrushangi Mistry | 2203031080222 | | | |
+| Vrushangi Mistry | 2203031080222 |https://vrushicodesjs.vercel.app/RandomNumberGusser.html |https://vrushicodesjs.vercel.app/RandomPasswordGenerator.html |https://github.com/Vrushi14/JavaScriptProjects/tree/main |
+
+
 | Achal Ladani | 2203031080229 | | | |
 | Harsh Choudhary | 2203031080132 | | | |
 | Jeet Dhake | 2303031087082 | | | |
