@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | | | |
 | Utsav Hirapra | 2203031080002 | | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
-| Satyam Singh | 2203031080232 | | | |
+| Satyam Singh | 2203031080232 |https://js-102.vercel.app/randomguess.html|https://js-102.vercel.app/RandomPasswoad.html|https://github.com/mrSinghSatyam/JS102 |
 | Vaishnavi Sagariya | 2203031080013 | | | |
 | Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
