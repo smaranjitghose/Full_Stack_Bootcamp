@@ -34,7 +34,7 @@
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/random |https://jsprojects3.pages.dev/random_password |https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 |https://jsprojects-daw.pages.dev/random|https://jsprojects-daw.pages.dev/randompass|https://github.com/hanivaghani/JSprojects|
 | Harsh Surani | 2203031080123 |[Task 7](https://2203031080123-assignment-7.netlify.app/number%20guessing%20game) | [Task 8](https://2203031080123-assignment-7.netlify.app/password%20generator) | [Github](https://github.com/suraniharsh/Assignments/tree/Assignment-7) |
-| Yash Sakhareliya | 2203031080015 | | | |
+| Yash Sakhareliya | 2203031080015 |[Task 7](https://js-tasks-nine.vercel.app/Task%207/) |[Task 8](https://js-tasks-nine.vercel.app/Task%208/) |[GitHub URL](https://github.com/Yashsakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | | |
 | Vraj Mehta | 2303031087034 | | | |
 | Alisha Kaur | 2203031080202 | | | |
