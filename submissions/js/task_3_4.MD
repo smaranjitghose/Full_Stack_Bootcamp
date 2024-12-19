@@ -10,3 +10,5 @@
 | vishang Lad | 2203031080035   | [https://jsprojects3.pages.dev/counter](#) | [https://jsprojects3.pages.dev/3D_calculator](#)|[https://github.com/vishangl/JSprojects](#)|
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
 |MAnn Solanki|2203031080260|[Deployment URL](https://mann-projects.netlify.app/counter)|[Deployment URL](https://mann-projects.netlify.app/calculator)|[GitHub Repository URL](https://github.com/HarmonyHacker/javascript_projects)|
+| Raj Patel | 2203031080105 |  [Counter](https://js-five-beta.vercel.app/counter.html) | [Geometry](https://js-five-beta.vercel.app/geometry.html)|[Github](https://github.com/RajPatel08/JS)|
+
