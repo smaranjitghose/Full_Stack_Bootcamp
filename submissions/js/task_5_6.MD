@@ -35,3 +35,4 @@
 | Deep Menpara       | 2203031080091     |              |              |                   |
 | Shubham Karvariya  | 2203031080004     | [Dice Game](https://marvelous-pony-d1462f.netlify.app/dice/)|[Converter](https://marvelous-pony-d1462f.netlify.app/task6/)|[Github](https://github.com/5hubhm/J_S)|
 | Meet Sondarva      | 2203031080146     | https://javascript-projects-livid.vercel.app/dice.html | https://javascript-projects-livid.vercel.app/converter.html | https://github.com/meetsondarva/javascript_projects |
+| Meet Sondarva      | 2203031080146   |  https://javascript-projects-livid.vercel.app/dice.html |  https://javascript-projects-livid.vercel.app/converter.html |  https://github.com/meetsondarva/javascript_projects |
