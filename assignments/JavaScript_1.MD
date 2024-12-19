@@ -1,4 +1,56 @@
-1. Create a RESUME using HTML,CSS and JavaScript
+```markdown
+# 📄 Task 1: Professional Resume Creation
+
+## 📝 Task Description
+Create a professional resume that is clean, well-structured, and maintains proper spacing and alignment.
+
+## ✅ Requirements
+1. Create a header section with:
+   - Your full name (large, centered)
+   - Contact information (aligned center/right)
+     * Email
+     * Phone number
+     * LinkedIn/GitHub (optional)
+
+2. Create dedicated sections for:
+   - Education
+     * Degree/Course name
+     * University/Institution name
+     * Year of study
+     * CGPA/Percentage if applicable
+   
+   - Technical Skills
+     * Programming languages
+     * Web technologies
+     * Development tools
+     * Other relevant skills
+   
+   - Projects (2-3 entries)
+     * Project name
+     * Brief description
+     * Technologies used
+     * Your role/contribution
+   
+   - Experience (if any)
+     * Position
+     * Company/Organization
+     * Duration
+     * Key responsibilities
+
+## 🛠️ Technical Requirements
+1. Use proper HTML semantic elements
+2. Implement clean CSS styling
+3. Maintain consistent spacing and alignment
+4. Ensure mobile responsiveness
+
+## ⭐ Bonus Challenges
+- Add subtle animations on hover
+- Include a print stylesheet
+- Make it downloadable as PDF
+```
+
+---
+
 # 📝 Task 2: Student Feedback Form
 
 ## 📝 Task Description
