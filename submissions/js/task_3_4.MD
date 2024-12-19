@@ -1,6 +1,7 @@
 | Student Name | Enrollment Number | Task 3 URL | Task 4 URL | GitHub Repository URL |
 |--------------|------------------|------------|------------|----------------------|
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/task3 | https://bucolic-torrone-ee6617.netlify.app/task4 | https://github.com/Alishakaur431/javascript |
+| Ankit Kumar | 2203031080184 | https://java-script-projects-lime.vercel.app/counter.html | https://java-script-projects-lime.vercel.app/calculator.html | https://github.com/Ankiitsuthar/JavaScript-Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task/index.html | https://jstasks.vercel.app/Task%204/index.html | https://github.com/bhavinSOL/JS_task |
 | Dabhi Rajdeepsinh | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/3D_calculator.html | https://github.com/Rajdeepsinh1410/JSPROJECT.git |
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/counter | https://js-project-b2n.pages.dev/geometric | https://github.com/Darshkalani28/JS_Project |

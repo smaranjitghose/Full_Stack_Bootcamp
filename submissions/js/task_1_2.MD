@@ -1,6 +1,7 @@
 | Student Name | Enrollment Number | Deployment URL | GitHub Repository URL |
 |--------------|------------------|----------------|----------------------|
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/ | https://github.com/Alishakaur431/javascript |
+| Ankit Kumar | 2203031080184 | https://java-script-projects-lime.vercel.app/ | https://github.com/Ankiitsuthar/JavaScript-Project |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/ | https://github.com/aaryanvekariya/javascript |
 | Ashish Yadav | 2203031080161 | https://java-script-project-seven.vercel.app/ | https://github.com/AshishIT611/JavaScript_Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/ | https://github.com/bhavinsol/js_task |
@@ -33,4 +34,4 @@
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/ | https://github.com/Vinitpatel28/JS-Projects.git |
 | Vira Ravi | 2203031080018 | https://assignment-4-js-beige.vercel.app/ | https://github.com/Ravi-vira/assignment-4-JS |
 | Vishang Lad | 2203031080035 | https://bb624daa.jsprojects-bpo.pages.dev/ | https://github.com/vishangl/JSprojects |
-| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/ | https://github.com/YashSakhareliya/JS_Task |
+| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/ | https://github.com/Yashsakhareliya/JS_Task |
