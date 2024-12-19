@@ -34,4 +34,4 @@
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/ | https://github.com/Vinitpatel28/JS-Projects.git |
 | Vira Ravi | 2203031080018 | https://assignment-4-js-beige.vercel.app/ | https://github.com/Ravi-vira/assignment-4-JS |
 | Vishang Lad | 2203031080035 | https://bb624daa.jsprojects-bpo.pages.dev/ | https://github.com/vishangl/JSprojects |
-| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/ | https://github.com/YashSakhareliya/JS_Task |
+| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/ | https://github.com/Yashsakhareliya/JS_Task |
