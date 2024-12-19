@@ -4,7 +4,7 @@
 | pranav faladu      | 2303031087022     | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter |https://github.com/PranavFaladu/JSprojects |
 | Rishabh            | 2203031080114     |              |              |                   |
 | Vekariya Aryan     | 2203031080125     |              |              |                   |
-| Rajdeepsinh        | 2203031080069     |              |              |                   |
+| Rajdeepsinh        | 2203031080069     | [task-5](https://jsproject-nu.vercel.app/Dice.html) |[task-6](https://jsproject-nu.vercel.app/converter.html)|[GitHub](https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34)                   |
 | vishang lad        | 2203031080035     |https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects                  |
 | Rutuja             | 2303031087089     |              |              |                   |
 | Bharvi             | 2303031087002     |              |              |                   |
@@ -12,7 +12,7 @@
 | raj                | 2203031080105     |              |              |                   |
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
-| Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
+| Harsh Surani       | 2203031080123     |              |              |                   |
 | utsav hirapra      | 2203031080002     |              |              |                   |
 | Bhavin             | 2203031080042     |              |              |                   |
 | Pratik             | 2203031080174     |              |              |                   |
@@ -27,7 +27,7 @@
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
 | Sagariya Vaishnavi | 2203031080013     | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html |     https://github.com/sagariyavaishnavi/js_pro |
 | Jenish             | 2203031080007     |              |              |                   |
-| Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
+| Yash               | 2203031080015     |              |              |                   |
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
 | Mansha             | 2203031080121     | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter |https://github.com/mansha-6/JS-Project|
