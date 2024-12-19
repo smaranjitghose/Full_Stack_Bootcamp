@@ -20,6 +20,7 @@
 | Raj | 2203031080105 | https://js-five-beta.vercel.app/task%205/index.html | https://js-five-beta.vercel.app/Task%206/index.html | https://github.com/RajPatel08/JS |
 | Rajdeepsinh | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/converter.html | https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34 |
 | Ravi Vira | 2203031080018 | https://assignment-4-js-beige.vercel.app/dice.html | https://assignment-4-js-beige.vercel.app/converter.html | https://github.com/Ravi-vira/assignment-4-JS |
+| Rutuja Waghchaure | 2303031087089 | https://jsproject-cin.pages.dev/d_index | https://jsproject-cin.pages.dev/c_index | https://github.com/rutujawaghchaure/jsproject |
 | Sagariya Vaishnavi | 2203031080013 | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html | https://github.com/sagariyavaishnavi/js_pro |
 | Satyam Singh | 2203031080232 | https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/converter.html | https://js-102-j4p6ghvbi-satyam-singhs-projects-af8065ca.vercel.app/dice.html | https://github.com/mrSinghSatyam/JS102 |
 | Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/dice/ | https://marvelous-pony-d1462f.netlify.app/task6/ | https://github.com/5hubhm/J_S |
@@ -28,6 +29,6 @@
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/dice.html | https://js-eosin.vercel.app/conveter.html | https://github.com/utsav1213/JS |
 | Vekariya Aryan | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task5.html | https://js-projects-fw8k.vercel.app/Task6.html | https://github.com/Vinitpatel28/JS-Projects |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%205/ | https://js-tasks-nine.vercel.app/Task%206/ | https://github.com/Yashsakhareliya/JS_Task |
-| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task5.html | https://js-projects-fw8k.vercel.app/Task6.html | https://github.com/Vinitpatel28/JS-Projects |
