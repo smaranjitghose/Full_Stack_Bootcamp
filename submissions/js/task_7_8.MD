@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
 | Satyam Singh | 2203031080232 | | | |
 | Vaishnavi Sagariya | 2203031080013 | | | |
-| Jenish Paghadal | 2203031080007 | | | |
+| Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 | | | |
