@@ -1,5 +1,34 @@
 1. Create a RESUME using HTML,CSS and JavaScript
-2. Create a Feedback form using HTML,CSS and JavaScript
+# 📝 Task 2: Student Feedback Form
+
+## 📝 Task Description
+Create a feedback form that collects student information and displays a personalized thank you message. The form should collect data and show it both on the webpage and in the console.
+
+## ✅ Requirements
+1. Create a form with:
+  - Input field for student name
+  - Input field for enrollment number
+  - Select box for division (A, B, C)
+  - Textarea for comments
+  - Submit button
+
+2. When form is submitted:
+  - Show message "Thank you [student name] for your feedback!" on the webpage
+  - Print all collected data to console
+  - Clear all form fields after submission
+
+## 🛠️ Technical Requirements
+1. Use proper HTML form elements
+2. Handle form submission with JavaScript
+3. Extract values from form fields
+4. Display output without page refresh
+
+## ⭐ Bonus Challenges
+- Add basic form validation
+- Style the success message
+- Show all submitted data on page
+
+---
 
 # 🔢 Task 3: Interactive Counter Application
 
@@ -30,6 +59,7 @@ Create an interactive counter application that displays a number and allows user
 - Prevent the counter from going below 0
 - Add keyboard shortcuts (arrow up/down for +/- and 'R' for reset)
 
+---
 
 # 📐 Task 4: 3D Geometry Calculator & Cheatsheet
 
