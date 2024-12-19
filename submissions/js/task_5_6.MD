@@ -30,6 +30,6 @@
 | Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
 | Suhani             | 2203031080260     |              |              |                   |
 | Hani               | 2303031087088     |https://jsprojects-daw.pages.dev/dice|https://jsprojects-daw.pages.dev/dynamic|https://github.com/hanivaghani/JSprojects|
-| Mansha             | 2203031080121     |              |              |                   |
+| Mansha             | 2203031080121     | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter |https://github.com/mansha-6/JS-Project|
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
