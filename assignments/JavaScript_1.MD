@@ -72,6 +72,8 @@ Create an interactive calculator that computes volume and surface area for vario
 - Add animations or 3D visualizations of shapes
 - Include a "compare shapes" feature to display multiple results side by side
 
+---
+
 # 🎲 Task 5: Dice Game Simulator
 
 ## 📝 Task Description
@@ -108,4 +110,38 @@ Create a two-player dice game where each player rolls a die, and the player with
 - Include dice face graphics instead of numbers
 - Add a "Best of 3" game mode
 
-6. Random Number Guesser
+---
+
+# 🎯 Task 6: Number Guessing Game with While Loop
+
+## 📝 Task Description
+Create a number guessing game that uses a while loop to continuously ask for user input until they guess the correct number. The program should generate a random number between a minimum and maximum value provided by the user.
+
+## ✅ Requirements
+1. The program should:
+   - Ask user for minimum and maximum range using prompt()
+   - Generate a random number in that range
+   - Use a while loop to:
+     * Keep asking for guesses
+     * Continue until user guesses correctly
+     * Display "Too high" or "Too low" for each wrong guess
+
+2. Handle these cases:
+   - Invalid inputs (not a number)
+   - Out of range guesses
+   - User cancelling the game
+
+## 🛠️ Technical Requirements
+1. Must use a while loop
+2. Must use prompt() for inputs
+3. Must keep track of all guesses
+4. Must display game progress in a log
+
+## ⭐ Bonus Challenges
+- Count number of attempts
+- Show guess history at the end
+- Add option to play again
+
+---
+
+
