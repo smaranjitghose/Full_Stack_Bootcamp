@@ -25,7 +25,7 @@
 | Ravi Vira | 2203031080018 | | | |
 | Deep Menpara | 2203031080091 | | | |
 | Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
-| Darsh Kalani | 2203031080032 | | | |
+| Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/game | https://js-project-b2n.pages.dev/passgen | https://github.com/Darshkalani28/JS_Project |
 | Vignesh Gaddam | 2203031080131 | | | |
 | Vrushangi Mistry | 2203031080222 | | | |
 | Achal Ladani | 2203031080229 | | | |
