@@ -8,7 +8,7 @@
 | vishang lad        | 2203031080035     |https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects                  |
 | Rutuja             | 2303031087089     |              |              |                   |
 | Bharvi             | 2303031087002     |              |              |                   |
-| Sparsh Patel       | 2203031080053     |              |              |                   |
+| Sparsh Patel       | 2203031080053     | [task 5](https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/dice.html)|[task 6](https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/converter.html)|[GitHub](https://github.com/SparshPatel1115/JS_Project/tree/js-task34)  |
 | raj                | 2203031080105     |[dise](https://js-five-beta.vercel.app/task%205/index.html)|[Converter](https://js-five-beta.vercel.app/Task%206/index.html)|[Github](https://github.com/RajPatel08/JS)|
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
