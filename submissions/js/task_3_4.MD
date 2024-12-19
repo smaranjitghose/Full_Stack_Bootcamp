@@ -25,3 +25,4 @@
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/counter.html | https://javascript-projects-tau-azure.vercel.app/calculator.html | https://github.com/dhyanpatel3/javascript_projects|
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/counter | https://js-project-b2n.pages.dev/geometric | https://github.com/Darshkalani28/JS_Project |
 | Pratik Patel | 2203031080174 |  [Counter](https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/counter.html) | [Geometry](https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/3D_calculator.html)|[Github](https://github.com/Pratik00531/JavascriptProjects-)|
+
