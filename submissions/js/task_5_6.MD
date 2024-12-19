@@ -25,7 +25,7 @@
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
 | Alisha             | 2203031080202     |              |              |                   |
 | Vignesh Gaddam     | 2203031080131     |              |              |                   |
-| Sagariya Vaishnavi | 2203031080013     |              |              |                   |
+| Sagariya Vaishnavi | 2203031080013     | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html |     https://github.com/sagariyavaishnavi/js_pro |
 | Jenish             | 2203031080007     |              |              |                   |
 | Yash               | 2203031080015     | [Task 5](https://js-tasks-nine.vercel.app/Task%205/index.html)| [Task 6](https://js-tasks-nine.vercel.app/Task%206/index.html)| [Repository URL](https://github.com/YashSakhareliya/JS_Task)|
 | Suhani             | 2203031080260     |              |              |                   |
