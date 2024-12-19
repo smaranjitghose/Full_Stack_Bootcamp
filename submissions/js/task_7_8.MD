@@ -2,7 +2,7 @@
 |---|---|---|---|---|
 | Shubham Karvariya | 2203031080004 | | | |
 | Ayush | 2203031080028 | | | |
-| Mansha Soni | 2203031080121 | | | |
+| Mansha Soni | 2203031080121 | https://js-project-pink.vercel.app/task7.html |https://js-project-pink.vercel.app/randompw.html |https://github.com/mansha-6/JS-Project |
 | Bhavin Parmar | 2203031080042 | | | |
 | Pranjal Pandey | 2203031080144 | | | |
 | Ashish Yadav | 2203031080161 | | | |
