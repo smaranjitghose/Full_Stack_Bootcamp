@@ -34,3 +34,4 @@
 | Mansha             | 2203031080121     | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter |https://github.com/mansha-6/JS-Project|
 | Ankit kumar        | 2203031080184     |              |              |                   |
 | Deep Menpara       | 2203031080091     |              |              |                   |
+| Meet Sondarva      | 2203031080146     | https://javascript-projects-livid.vercel.app/dice.html | https://javascript-projects-livid.vercel.app/converter.html | https://github.com/meetsondarva/javascript_projects |
