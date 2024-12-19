@@ -18,7 +18,7 @@
 | Rajdeepsinh Dabhi | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/converter.html | https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34 |
 | Ankit Kumar | 2203031080184 | | | |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
-| Sahil Bharude | 2203031080235 | | | |
+| Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/dice.html | https://js-101-phi.vercel.app/converter.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
 | Sparsh Patel | 2203031080053 | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/dice.html | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/converter.html | https://github.com/SparshPatel1115/JS_Project/tree/js-task34 |
 | Pratik Patel | 2203031080174 | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/currency%20converter.html | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/dice.html | https://github.com/Pratik00531/JavascriptProjects- |
