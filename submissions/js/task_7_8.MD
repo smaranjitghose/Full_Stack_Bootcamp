@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | | | |
 | Hardeep Ijardar | 2203031080031 | | | |
 | Sahil Bharude | 2203031080235 | | | |
-| Aryan Vekariya | 2203031080125 | | | |
+| Aryan Vekariya | 2203031080125 |[Guess Game](https://javascript-ecru-seven.vercel.app/task7/Guess%20Game.html) |[Password generator](https://javascript-ecru-seven.vercel.app/task8/Password.html) |[Github](https://github.com/aaryanvekariya/javascript) |
 | Sparsh Patel | 2203031080053 | | | |
 | Pratik Patel | 2203031080174 | | | |
 | Ravi Vira | 2203031080018 | | | |
