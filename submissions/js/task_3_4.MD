@@ -30,3 +30,4 @@
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/counter.html | https://js-101-theta.vercel.app/shape.html | https://github.com/mrvigneshgaddam/JS101 |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/counter | https://jsprojects3.pages.dev/3D_calculator | https://github.com/vishangl/JSprojects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%203/counter.html | https://js-tasks-nine.vercel.app/Task%204/ | https://github.com/Yashsakhareliya/JS_Task |
+|Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task3.html | https://js-projects-fw8k.vercel.app/Task4.html | https://github.com/Vinitpatel28/JS-Projects.git |
