@@ -12,6 +12,7 @@
 |  Bhavin Parmar | 2203031080042  | [URL](https://jstasks.vercel.app/task/index.html) |[URL](https://jstasks.vercel.app/Task%204/index.html) |[GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
 | vishang Lad | 2203031080035   | [https://jsprojects3.pages.dev/counter](#) | [https://jsprojects3.pages.dev/3D_calculator](#)|[https://github.com/vishangl/JSprojects](#)|
+|alisha kaur|2203031080202| [https://bucolic-torrone-ee6617.netlify.app/task3] | [https://bucolic-torrone-ee6617.netlify.app/task4]| [https://github.com/Alishakaur431/javascript]|
 | Dabhi Rajdeepsinh | 2203031080069 | [Counter](https://jsproject-nu.vercel.app/Dice.html) | [ Calculator ](https://jsproject-nu.vercel.app/3D_calculator.html)|[GitHub](https://github.com/Rajdeepsinh1410/JSPROJECT.git)|
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/counter.html |https://js-101-theta.vercel.app/shape.html | https://github.com/mrvigneshgaddam/JS101 |
 | Meet Sondarva | 2203031080146|https://javascript-projects-livid.vercel.app/counter.html | https://javascript-projects-livid.vercel.app/calculator.html | https://github.com/meetsondarva/javascript_projects |
