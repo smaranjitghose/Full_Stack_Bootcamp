@@ -28,4 +28,5 @@
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
 | Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%205/ | https://js-tasks-nine.vercel.app/Task%206/ | https://github.com/Yashsakhareliya/JS_Task |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task5.html | https://js-projects-fw8k.vercel.app/Task6.html | https://github.com/Vinitpatel28/JS-Projects |
 
