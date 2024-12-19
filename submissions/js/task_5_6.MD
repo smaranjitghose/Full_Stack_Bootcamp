@@ -26,4 +26,4 @@
 | Vekariya Aryan | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/dice.html | https://js-101-theta.vercel.app/convertor.html | https://github.com/mrvigneshgaddam/JS101 |
 | Vishang Lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
-| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%203/counter.html | https://js-tasks-nine.vercel.app/Task%204/ | https://github.com/Yashsakhareliya/JS_Task |
+| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%205/ | https://js-tasks-nine.vercel.app/Task%206/ | https://github.com/Yashsakhareliya/JS_Task |
