@@ -12,10 +12,9 @@
 | raj                | 2203031080105     |[dise](https://js-five-beta.vercel.app/task%205/index.html)|[Converter](https://js-five-beta.vercel.app/Task%206/index.html)|[Github](https://github.com/RajPatel08/JS)|
 | Vinit Patel        | 2203031080139     |              |              |                   |
 | mann               | 2203031080260     |              |              |                   |
-| Harsh Surani       | 2203031080123     |              |              |                   |
 | Harsh Surani       | 2203031080123     | [Task 5](https://2203031080123-assignment-6.netlify.app/dice%20throw%20game)             | [Task 6](https://2203031080123-assignment-6.netlify.app/lol)             | [GitHub Repository](https://github.com/suraniharsh/Assignments/tree/Assignment-6)                  |
 | utsav hirapra      | 2203031080002     | [dice](https://js-eosin.vercel.app/dice.html) | [converter](https://js-eosin.vercel.app/conveter.html) |  [github](https://github.com/utsav1213/JS)  |
-| Bhavin             | 2203031080042     |              |              |                   |
+| Bhavin             | 2203031080042     |[Dise](https://jstasks.vercel.app/task%205/index.html)| [Converter](https://jstasks.vercel.app/Task%206/index.html)| [GItHUB](https://github.com/bhavinSOL/JS_task) |
 | Pratik             | 2203031080174     |              |              |                   |
 | dhyan patel        | 2203031080216     |              |              |                   |
 | Darsh Kalani       | 2203031080032     |              |              |                   |
