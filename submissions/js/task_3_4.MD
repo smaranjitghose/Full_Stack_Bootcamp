@@ -14,6 +14,7 @@
 | Meet Patel | 2203031080011 | https://java-script-practice-lac.vercel.app/shapes.html | https://java-script-practice-lac.vercel.app/counter.html | https://github.com/MeetPatel54/JavaScript_practice.git |
 | Meet Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/counter.html | https://javascript-projects-livid.vercel.app/calculator.html | https://github.com/meetsondarva/javascript_projects |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/counter | https://jsprojects-6m1.pages.dev/calculator | https://github.com/Neetidarji/Jsprojects |
+| Pranjal Pandey | 2203031080144 | https://assignment4-gamma-eight.vercel.app/ | https://assignment4-gamma-eight.vercel.app/ | https://github.com/Pranjallpandey1504/assignment4 |
 | Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/count | https://inquisitive-croquembouche-acec27.netlify.app/calculator | https://github.com/PranavFaladu/JSprojects |
 | Pratik Patel | 2203031080174 | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/counter.html | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/3D_calculator.html | https://github.com/Pratik00531/JavascriptProjects- |
 | Raj Patel | 2203031080105 | https://js-five-beta.vercel.app/counter.html | https://js-five-beta.vercel.app/geometry.html | https://github.com/RajPatel08/JS |
