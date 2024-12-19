@@ -21,7 +21,7 @@
 | Vishang lad | 2203031080035 | https://jsprojects3.pages.dev/dice | https://jsprojects3.pages.dev/converter | https://github.com/vishangl/JSprojects |
 | Hani | 2303031087088 | https://jsprojects-daw.pages.dev/dice | https://jsprojects-daw.pages.dev/dynamic | https://github.com/hanivaghani/JSprojects |
 | Harsh Surani | 2203031080123 | https://2203031080123-assignment-6.netlify.app/dice%20throw%20game | https://2203031080123-assignment-6.netlify.app/lol | https://github.com/suraniharsh/Assignments/tree/Assignment-6 |
-| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%203/counter.html | https://js-tasks-nine.vercel.app/Task%204/ | https://github.com/Yashsakhareliya/JS_Task |
+| Yash Sakhareliya | 2203031080015 | https://js-tasks-nine.vercel.app/Task%205/ | https://js-tasks-nine.vercel.app/Task%206/ | https://github.com/Yashsakhareliya/JS_Task |
 | Meet Patel | 2203031080011 | https://java-script-practice-lac.vercel.app/currencyCon.html | https://java-script-practice-lac.vercel.app/Dice-game.html | https://github.com/MeetPatel54/JavaScript_practice.git |
 | Alisha | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/dice | https://bucolic-torrone-ee6617.netlify.app/converter | https://github.com/Alishakaur431/javascript |
 | Pranav faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter | https://github.com/PranavFaladu/JSprojects |
