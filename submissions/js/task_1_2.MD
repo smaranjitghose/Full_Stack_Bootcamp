@@ -10,7 +10,7 @@
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/ | https://github.com/dhyanpatel3/javascript_projects |
 | Hani | 230303108708 | https://jsprojects-daw.pages.dev/ | https://github.com/hanivaghani/JSprojects |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/ | https://github.com/HardeepIjardar/JS-Projects |
-| Harsh choudhary | 2203031080132 | https://wdf-js-qmxh.vercel.app/ | https://github.com/mrHarshchoudhary/WDF_JS |
+| Harsh Choudhary | 2203031080132 | https://wdf-js-qmxh.vercel.app/ | https://github.com/mrHarshchoudhary/WDF_JS |
 | Harsh Surani | 2203031080123 | https://2203031080123-assignment-4.netlify.app/ | https://github.com/suraniharsh/Assignments/tree/Assignment-4 |
 | Jenish Paghadal | 2203031080007 | https://jsassignment-omega.vercel.app/ | https://github.com/ItsJESH/JSAssignment |
 | Mann Solanki | 2203031080260 | https://mann-projects.netlify.app/ | https://github.com/HarmonyHacker/javascript_projects |
@@ -26,6 +26,7 @@
 | Rutuja Waghcaure | 2303031087089 | https://jsproject-cin.pages.dev/ | https://github.com/rutujawaghchaure/jsproject |
 | Sagariya Vaishnavi | 2203031080013 | https://js-pro-nine.vercel.app/ | https://github.com/sagariyavaishnavi/js_pro |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/ | https://github.com/BharudeSahil/JS_101 |
+| Satyam Singh | 2203031080232 | https://js-102.vercel.app/ | https://github.com/mrSinghSatyam/JS102 |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/ | https://github.com/utsav1213/JS |
 | Vignesh Gaddam | 2203031080131 | https://js-101-theta.vercel.app/ | https://github.com/mrvigneshgaddam/JS101 |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/ | https://github.com/Vinitpatel28/JS-Projects.git |
