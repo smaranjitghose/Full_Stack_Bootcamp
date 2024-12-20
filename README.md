@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/smaranjitghose/Full_Stack_Bootcamp?style=social)
 ![Forks](https://img.shields.io/github/forks/smaranjitghose/Full_Stack_Bootcamp?style=social)
 
-A comprehensive 10-week journey into modern web development.
+A comprehensive 10-week journey into modern web development
 
 ## 👨‍🏫 Course Instructor
 **Professor Smaranjit Ghose**
