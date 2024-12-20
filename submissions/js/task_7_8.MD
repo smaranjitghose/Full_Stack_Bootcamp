@@ -37,7 +37,7 @@
 | Yash Sakhareliya | 2203031080015 |[Task 7](https://js-tasks-nine.vercel.app/Task%207/) |[Task 8](https://js-tasks-nine.vercel.app/Task%208/) |[GitHub URL](https://github.com/Yashsakhareliya/JS_Task) |
 | Meet Patel | 2203031080011 |[Task-7](https://java-script-practice-lac.vercel.app/RandomNumber.html) |[Task-8](https://java-script-practice-lac.vercel.app/RandomPassword.html) |[GitHub](https://github.com/MeetPatel54/JavaScript_practice.git) |
 | Vraj Mehta | 2303031087034 | | | |
-| Alisha Kaur | 2203031080202 | | | |
+| Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/guess| https://bucolic-torrone-ee6617.netlify.app/randompassword|https://github.com/Alishakaur431/javascript |
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/guessnumber|https://inquisitive-croquembouche-acec27.netlify.app/rendompass|https://github.com/PranavFaladu/JSprojects|
 | Bharvi Valand | 2303031087002 | https://celebrated-pegasus-172baa.netlify.app/numbergame | https://celebrated-pegasus-172baa.netlify.app/randompass | https://github.com/bharvivaland/JSprojects.git |
 | Neeti Darji | 2303031087080 |https://jsprojects-6m1.pages.dev/randomnumber | https://jsprojects-6m1.pages.dev/passwordgenerator | https://github.com/Neetidarji/Jsprojects |
