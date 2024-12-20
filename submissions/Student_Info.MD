@@ -34,3 +34,4 @@
 |Ankit kumar|2203031080184|Linkedin|[Github](https://github.com/Ankiitsuthar)|
 |Deep Menpara|2203031080091|[Linkedin](https://www.linkedin.com/in/deep-menpara-628617326/)|[Github](https://github.com/Deep7133)|
 | mann |2203031080260|https://www.linkedin.com/in/mannsolanki/|https://github.com/HarmonyHacker/|
+| Meet Sondarva | 2203031080146 | https://www.linkedin.com/in/meet-sondarva | https://github.com/meetsondarva |

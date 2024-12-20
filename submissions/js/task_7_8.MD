@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | | | |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task7.html | https://js-projects-fw8k.vercel.app/Task8.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Utsav Hirapra | 2203031080002 |[Guess Number](https://js-eosin.vercel.app/Task%207/guess.html) |[Password Generator](https://js-eosin.vercel.app/Task%208/index.html) |[Github](https://github.com/utsav1213/JS)|
-| Meet Savadasbhai Sondarva | 2203031080146 | | | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/randomguess.html | https://javascript-projects-livid.vercel.app/randompassword.html | https://github.com/meetsondarva/javascript_projects |
 | Satyam Singh | 2203031080232 | | | |
 | Vaishnavi Sagariya | 2203031080013 | [Number guess game](https://js-pro-nine.vercel.app/Number%20Guessing%20Game/numguess.html)|[Password Generator](https://js-pro-nine.vercel.app/Random%20Password%20Generator/password.html) | [GitHub](https://github.com/sagariyavaishnavi/js_pro)|
 | Jenish Paghadal | 2203031080007 |[Number Guess Game](https://jsassignment-omega.vercel.app/randomguesse.html) | [Password Generator](https://jsassignment-omega.vercel.app/randompass.html) | [GitHub](https://github.com/ItsJESH/)|
