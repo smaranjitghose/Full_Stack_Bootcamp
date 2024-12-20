@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | https://js-project-pink.vercel.app/task7.html |https://js-project-pink.vercel.app/randompw.html |https://github.com/mansha-6/JS-Project |
 | Bhavin Parmar | 2203031080042 |[Game](https://jstasks.vercel.app/Task%207/index.html) |[Pass](https://jstasks.vercel.app/Task%208/index.html)|[GitHub](https://github.com/bhavinSOL/JS_task) |
 | Pranjal Pandey | 2203031080144 | | | |
-| Ashish Yadav | 2203031080161 | | | |
+| Ashish Yadav | 2203031080161 | [Game](https://java-script-project-seven.vercel.app/random.html)| [Random Password](https://java-script-project-seven.vercel.app/pass.html) | [GitHub]() |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task7.html | https://js-projects-fw8k.vercel.app/Task8.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Utsav Hirapra | 2203031080002 |[Guess Number](https://js-eosin.vercel.app/Task%207/guess.html) |[Password Generator](https://js-eosin.vercel.app/Task%208/index.html) |[Github](https://github.com/utsav1213/JS)|
 | Meet Savadasbhai Sondarva | 2203031080146 | | | |
