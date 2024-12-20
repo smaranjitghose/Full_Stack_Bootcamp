@@ -15,7 +15,7 @@
 | Umang Patel | 2203031080107 | | | |
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 |https://javascript-projects-tau-azure.vercel.app/randomguess.html | https://javascript-projects-tau-azure.vercel.app/randompassword.html | https://github.com/dhyanpatel3/javascript_projects |
-| Rajdeepsinh Dabhi | 2203031080069 | | | |
+| Rajdeepsinh Dabhi | 2203031080069 |[Number Guess](https://jsproject-nu.vercel.app/randomGuessNumber.html) |[Random Password](https://jsproject-nu.vercel.app/randomPassword.html) |[GitHub](https://github.com/Rajdeepsinh1410/JSPROJECT.git) |
 | Ankit Kumar | 2203031080184 | | | |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/guess.html | https://js-101-phi.vercel.app/pass.html | https://github.com/BharudeSahil/JS_101 |
