@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter | https://github.com/mansha-6/JS-Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task%205/index.html | https://jstasks.vercel.app/Task%206/index.html | https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 | | | |
-| Ashish Yadav | 2203031080161 | | | |
+| Ashish Yadav | 2203031080161 | | https://java-script-project-seven.vercel.app/dice.html | https://java-script-project-seven.vercel.app/convert.html | |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task5.html | https://js-projects-fw8k.vercel.app/Task6.html | https://github.com/Vinitpatel28/JS-Projects |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/dice.html | https://js-eosin.vercel.app/conveter.html | https://github.com/utsav1213/JS |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/dice.html | https://javascript-projects-livid.vercel.app/converter.html | https://github.com/meetsondarva/javascript_projects |
