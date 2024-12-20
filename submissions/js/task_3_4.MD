@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 3 URL | 🔗 Task 4 URL | 🐱 GitHub Repository URL |
 |---|---|---|---|---|
 | Shubham Karvariya | 2203031080004 | https://marvelous-pony-d1462f.netlify.app/counter/ | https://marvelous-pony-d1462f.netlify.app/task4/ | https://github.com/5hubhm/J_S |
-| Ayush | 2203031080028 | | | |
+| Ayush | 2203031080028 | https://ayush-projects.vercel.app/counter.html | https://ayush-projects.vercel.app/calculator.html | https://github.com/ayushvadodariya/javascript-project |
 | Mansha Soni | 2203031080121 | https://js-project-dka.pages.dev/count | https://js-project-dka.pages.dev/geometry | https://github.com/mansha-6/JS-Project.git |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task/index.html | https://jstasks.vercel.app/Task%204/index.html | https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 | https://assignment4-gamma-eight.vercel.app/ | https://assignment4-gamma-eight.vercel.app/ | https://github.com/Pranjallpandey1504/assignment4 |
@@ -18,7 +18,7 @@
 | Rajdeepsinh Dabhi | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/3D_calculator.html | https://github.com/Rajdeepsinh1410/JSPROJECT.git |
 | Ankit Kumar | 2203031080184 | https://java-script-projects-lime.vercel.app/counter.html | https://java-script-projects-lime.vercel.app/calculator.html | https://github.com/Ankiitsuthar/JavaScript-Project |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/counter | https://js-projects-2t4.pages.dev/3D_calculator | https://github.com/HardeepIjardar/JS-Projects |
-| Sahil Bharude | 2203031080235 | | | |
+| Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/count.html | https://js-101-phi.vercel.app/geometry.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/task3/index.html | https://javascript-ecru-seven.vercel.app/task4/task4.html | https://github.com/aaryanvekariya/javascript |
 | Sparsh Patel | 2203031080053 | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/AddCart.html | https://jsprojet-git-js-task34-sparsh-patels-projects.vercel.app/3D_calculator.html | https://github.com/SparshPatel1115/JS_Project/tree/js-task34 |
 | Pratik Patel | 2203031080174 | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/counter.html | https://javascript-projects-crq08z97a-pratiks-projects-2b6c1394.vercel.app/3D_calculator.html | https://github.com/Pratik00531/JavascriptProjects- |
