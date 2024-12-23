@@ -44,3 +44,4 @@
 | Suhani Tandel | 2203031080160 | https://sage-marigold-86659c.netlify.app/task5 | https://sage-marigold-86659c.netlify.app/ | https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 | | | |
 | Rutuja Waghchaure | 2303031087089 | https://jsproject-cin.pages.dev/d_index | https://jsproject-cin.pages.dev/c_index | https://github.com/rutujawaghchaure/jsproject |
+| Ankit Kumar | 2203031080184 | https://java-script-project-ecru.vercel.app/Dice.html | https://java-script-project-ecru.vercel.app/converter.html | https://github.com/Ankiitsuthar/JavaScript-Project |
