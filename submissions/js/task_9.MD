@@ -33,7 +33,7 @@
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://jsprojects-bpo.pages.dev/image_Classifier |https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | | |
+| Harsh Surani | 2203031080123 | [pokehunt](https://pokehunt.suraniharsh.codes/) | [suraniharsh](https://github.com/suraniharsh/) |
 | Yash Sakhareliya | 2203031080015 |[Task 9](https://js-tasks-nine.vercel.app/Task%209/index.html) |[Git Hub](https://github.com/YashSakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
