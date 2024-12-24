@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
-| Pranjal Pandey | 2203031080144 | | |
+| Pranjal Pandey | 2203031080144 |https://image-classifier-amber.vercel.app/ |https://github.com/Pranjallpandey1504/image-classifier |
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 |[Image Classification](https://js-eosin.vercel.app/Task%209/index.html) |[GitHub](https://github.com/utsav1213/JS) |
