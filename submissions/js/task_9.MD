@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task9.html | https://github.com/Vinitpatel28/JS-Projects |
 | Utsav Hirapra | 2203031080002 |[Image Classification](https://js-eosin.vercel.app/Task%209/index.html) |[GitHub](https://github.com/utsav1213/JS) |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/model.html | https://github.com/meetsondarva/javascript_projects |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 |[Image Classifier](https://jsassignment-omega.vercel.app/imgclassification.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
