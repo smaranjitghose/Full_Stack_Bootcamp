@@ -223,3 +223,73 @@ Create a number guessing game that uses a while loop to continuously ask for use
 - Count number of attempts
 - Show guess history at the end
 - Add option to play again
+
+
+
+## 📄 Project 9: Custom Image Classification using ML5.js
+
+### 📝 Description
+Create an interactive web application that performs image classification using a custom trained model from Teachable Machine and ML5.js. The application should allow users to upload images, process them appropriately, and display classification results in a user-friendly manner.
+
+### ✅ Requirements
+1. Model Training Requirements:
+   - Train a custom image classification model using Teachable Machine
+   - Include at least 3 different classes/categories
+   - Use minimum 20 images per class for training
+   - Export the model in a format compatible with ML5.js
+
+2. User Interface Requirements:
+   - Create a clean, intuitive interface with:
+     * Clear instructions for users
+     * File upload button/area for images
+     * Preview area for uploaded image
+     * Section to display classification results
+     * Loading indicator while processing
+
+3. Image Processing Features:
+   - Implement image upload handling:
+     * Accept common image formats (jpg, png, etc.)
+     * Resize images to appropriate dimensions if needed
+     * Display preview of uploaded image
+     * Validate file types and sizes
+   
+   - Classification Display:
+     * Show top prediction(s) with confidence scores
+     * Display results in a clear, readable format
+     * Update results in real-time for new uploads
+     * Handle and display any processing errors
+
+4. Application Flow:
+   - Proper loading and initialization of ML5.js model
+   - Clear user feedback during:
+     * Model loading
+     * Image processing
+     * Classification process
+   - Smooth transition between states
+
+### 🛠️ Technical Requirements
+1. Implementation Requirements:
+   - Use ML5.js for image classification
+   - Implement proper error handling
+   - Ensure responsive design
+   - Follow clean code practices
+   
+2. Code Organization:
+   - Separate HTML, CSS, and JavaScript files
+   - Clear commenting and documentation
+   - Proper variable and function naming
+   - Modular code structure
+
+3. Performance Considerations:
+   - Optimize image processing
+   - Handle asynchronous operations properly
+   - Implement appropriate loading states
+   - Ensure smooth user experience
+
+### ⭐ Bonus Challenges
+- Add webcam support for real-time classification
+- Implement batch processing for multiple images
+- Create a confusion matrix for model evaluation
+- Add visual representations of confidence scores (graphs/charts)
+- Include option to switch between different custom models
+- Implement image preprocessing options (brightness, contrast adjustments)
