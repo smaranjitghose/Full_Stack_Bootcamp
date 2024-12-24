@@ -2,7 +2,7 @@
 |-----------------|-------------------|--------------|----------------------|
 | Shubham Karvariya | 2203031080004 | | |
 | Ayush | 2203031080028 | | |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |[Image Classifier](https://js-project-pink.vercel.app/MLProject/index.html) | [Github](https://github.com/mansha-6/JS-Project)|
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
