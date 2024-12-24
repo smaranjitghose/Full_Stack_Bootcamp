@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/image_Classifier| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
