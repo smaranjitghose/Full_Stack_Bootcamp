@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
-| Suhani Tandel | 2203031080160 | https://coruscating-alpaca-272189.netlify.app/ | https://github.com/SuhaniTandel/JS-Project |
+| Suhani Tandel | 2203031080160 | [Task 9] https://coruscating-alpaca-272189.netlify.app/ |[git] https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 |[Task 9](https://js-coral-psi.vercel.app/class/index.html) |[git](https://github.com/Rishabhrai29/js) |
 | Rutuja Waghchaure | 2303031087089 | | |
