@@ -27,20 +27,20 @@
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
 | Vignesh Gaddam | 2203031080131 | | |
-| Vrushangi Mistry | 2203031080222 | | |
+| Vrushangi Mistry | 2203031080222 | https://vrushicodesjs.vercel.app/ImageClassification.html| https://github.com/Vrushi14/JavaScriptProjects|
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://wdf-js.vercel.app/img.html |https://github.com/mrHarshchoudhary/WDF_JS |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://jsprojects-bpo.pages.dev/image_Classifier |https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 |https://zingy-tulumba-3b3c4b.netlify.app/index1|https://github.com/hanivaghani/JSprojects|
-| Harsh Surani | 2203031080123 | | |
-| Yash Sakhareliya | 2203031080015 | | |
+| Harsh Surani | 2203031080123 | [pokehunt](https://pokehunt.suraniharsh.codes/) | [suraniharsh](https://github.com/suraniharsh/) |
+| Yash Sakhareliya | 2203031080015 |[Task 9](https://js-tasks-nine.vercel.app/Task%209/index.html) |[Git Hub](https://github.com/YashSakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | https://vermillion-fudge-417f60.netlify.app/ | https://github.com/Alishakaur431/image-classifier|
 | Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Task 9] https://coruscating-alpaca-272189.netlify.app/ |[git] https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 |[Task 9](https://js-coral-psi.vercel.app/class/index.html) |[git](https://github.com/Rishabhrai29/js) |
 | Rutuja Waghchaure | 2303031087089 | | |
