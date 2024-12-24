@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 |https://javascript-projects-tau-azure.vercel.app/randomguess.html | https://javascript-projects-tau-azure.vercel.app/randompassword.html | https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 |[Number Guess](https://jsproject-nu.vercel.app/randomGuessNumber.html) |[Random Password](https://jsproject-nu.vercel.app/randomPassword.html) |[GitHub](https://github.com/Rajdeepsinh1410/JSPROJECT.git) |
-| Ankit Kumar | 2203031080184 | | | |
+| Ankit Kumar | 2203031080184 |[Number Guess Game](https://java-script-project-ecru.vercel.app/Random_No.html) |[Password Generator](https://java-script-project-ecru.vercel.app/Password.html) |[GitHub](https://github.com/Ankiitsuthar/JavaScript-Project) |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/random-number-guess | https://js-projects-2t4.pages.dev/random-password-generator| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/guess.html | https://js-101-phi.vercel.app/pass.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 |[Guess Game](https://javascript-ecru-seven.vercel.app/task7/Guess%20Game.html) |[Password generator](https://javascript-ecru-seven.vercel.app/task8/Password.html) |[Github](https://github.com/aaryanvekariya/javascript) |
