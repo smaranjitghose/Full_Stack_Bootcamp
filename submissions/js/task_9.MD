@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
-| Pranjal Pandey | 2203031080144 |https://image-classifier-amber.vercel.app/ |https://github.com/Pranjallpandey1504/image-classifier |
+| Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 |[Image Classification](https://js-eosin.vercel.app/Task%209/index.html) |[GitHub](https://github.com/utsav1213/JS) |
@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | https://vermillion-fudge-417f60.netlify.app/ | https://github.com/Alishakaur431/image-classifier|
 | Pranav Faladu | 2303031087022 | | |
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |https://celebrated-pegasus-172baa.netlify.app/index1|https://github.com/bharvivaland/JSprojects.git|
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 |[Task 9](https://js-coral-psi.vercel.app/class/index.html) |[git](https://github.com/Rishabhrai29/js) |
