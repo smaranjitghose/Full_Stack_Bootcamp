@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
-| Ashish Yadav | 2203031080161 | [Task 9](https://java-script-project-seven.vercel.app/index9.html) |  |
+| Ashish Yadav | 2203031080161 | [Task 9](https://java-script-project-seven.vercel.app/index9.html) | [GitHub](https://github.com/AshishIT611/JavaScript_Project) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
