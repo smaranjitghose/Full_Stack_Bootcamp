@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | | |
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/dice.html | https://javascript-projects-tau-azure.vercel.app/converter.html | https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/converter.html | https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34 |
-| Ankit Kumar | 2203031080184 | | | |
+| Ankit Kumar | 2203031080184 |https://java-script-project-ecru.vercel.app/Dice.html |https://java-script-project-ecru.vercel.app/converter.html |https://github.com/Ankiitsuthar/JavaScript-Project |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/dice.html | https://js-101-phi.vercel.app/converter.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |
