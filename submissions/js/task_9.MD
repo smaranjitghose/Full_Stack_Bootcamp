@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 9 URL | 🐱 GitHub Repository URL |
 |-----------------|-------------------|--------------|----------------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 |[Image Classification](https://marvelous-pony-d1462f.netlify.app/task9/)|[GITHUB](https://github.com/5hubhm/J_S/tree/js-8) |
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
