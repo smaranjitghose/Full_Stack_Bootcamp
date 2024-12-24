@@ -2,7 +2,7 @@
 |-----------------|-------------------|--------------|----------------------|
 | Shubham Karvariya | 2203031080004 |[Image Classification](https://marvelous-pony-d1462f.netlify.app/task9/)|[GITHUB](https://github.com/5hubhm/J_S/tree/js-8) |
 | Ayush | 2203031080028 | | |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |[Image Classifier](https://js-project-pink.vercel.app/MLProject/index.html) | [Github](https://github.com/mansha-6/JS-Project)|
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
 | Pranjal Pandey | 2203031080144 |https://image-classifier-amber.vercel.app/ |https://github.com/Pranjallpandey1504/image-classifier |
 | Ashish Yadav | 2203031080161 | | |
