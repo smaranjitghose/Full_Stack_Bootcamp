@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://javascript-projects-zeta-seven.vercel.app/Car%20model/carmodel.html |https://github.com/Pratik00531/JavascriptProjects- |
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
