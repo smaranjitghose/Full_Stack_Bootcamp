@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | https://js-project-dka.pages.dev/dicethrow | https://js-project-dka.pages.dev/tempconverter | https://github.com/mansha-6/JS-Project |
 | Bhavin Parmar | 2203031080042 | https://jstasks.vercel.app/task%205/index.html | https://jstasks.vercel.app/Task%206/index.html | https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 | | | |
-| Ashish Yadav | 2203031080161 | | | |
+| Ashish Yadav | 2203031080161 | | https://java-script-project-seven.vercel.app/dice.html | https://java-script-project-seven.vercel.app/convert.html | |
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task5.html | https://js-projects-fw8k.vercel.app/Task6.html | https://github.com/Vinitpatel28/JS-Projects |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/dice.html | https://js-eosin.vercel.app/conveter.html | https://github.com/utsav1213/JS |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/dice.html | https://javascript-projects-livid.vercel.app/converter.html | https://github.com/meetsondarva/javascript_projects |
@@ -13,10 +13,10 @@
 | Vaishnavi Sagariya | 2203031080013 | https://js-pro-nine.vercel.app/dice.html | https://js-pro-nine.vercel.app/converter.html | https://github.com/sagariyavaishnavi/js_pro |
 | Jenish Paghadal | 2203031080007 | https://jsassignment-omega.vercel.app/dice.html | https://jsassignment-omega.vercel.app/conv.html | https://github.com/ItsJESH |
 | Umang Patel | 2203031080107 | | | |
-| Mann Solanki | 2203031080260 | | | |
+| Mann Solanki | 2203031080260 |https://javascriptproject000.netlify.app/dice|https://javascriptproject000.netlify.app/temperature |https://github.com/HarmonyHacker/javascript_projects |
 | Dhyan Patel | 2203031080216 | https://javascript-projects-tau-azure.vercel.app/dice.html | https://javascript-projects-tau-azure.vercel.app/converter.html | https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 | https://jsproject-nu.vercel.app/Dice.html | https://jsproject-nu.vercel.app/converter.html | https://github.com/Rajdeepsinh1410/JSPROJECT/tree/js-task34 |
-| Ankit Kumar | 2203031080184 | | | |
+| Ankit Kumar | 2203031080184 |https://java-script-project-ecru.vercel.app/Dice.html |https://java-script-project-ecru.vercel.app/converter.html |https://github.com/Ankiitsuthar/JavaScript-Project |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/dice | https://js-projects-2t4.pages.dev/converter | https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/dice.html | https://js-101-phi.vercel.app/converter.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 | https://javascript-ecru-seven.vercel.app/task5/dice.html | https://javascript-ecru-seven.vercel.app/task6/Converter.html | https://github.com/aaryanvekariya/javascript |

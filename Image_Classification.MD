@@ -1,3 +1,14 @@
+
+- Problem: Classification of fruit images
+- Source: URL
+- Classes:
+    1. Cherry - 24 images 
+    2. Banana - 30 images
+
+
+
+---
+
 HTML
 
 ```
