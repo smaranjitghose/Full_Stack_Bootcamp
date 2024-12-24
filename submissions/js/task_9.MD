@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 |[Image Classifier](https://js-pro-nine.vercel.app/Image_classifier/index.html) |[github](https://github.com/sagariyavaishnavi/js_pro) |
 | Jenish Paghadal | 2203031080007 |[Image Classifier](https://jsassignment-omega.vercel.app/imgclassification.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |[Image Classifier](https://javascriptproject000.netlify.app/soiltypeclassification/) |[Github](https://github.com/HarmonyHacker/javascript_projects) |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
