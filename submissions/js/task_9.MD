@@ -35,7 +35,7 @@
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | | |
 | Yash Sakhareliya | 2203031080015 |[Task 9](https://js-tasks-nine.vercel.app/Task%209/index.html) |[Git Hub](https://github.com/YashSakhareliya/JS_Task) |
-| Meet Upendrakumar Patel | 2203031080011 | | |
+| Meet Upendrakumar Patel | 2203031080011 |[Task 9](https://ml-5.vercel.app/) |[Git Hub](https://github.com/MeetPatel54/Ml-5.git) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | https://vermillion-fudge-417f60.netlify.app/ | https://github.com/Alishakaur431/image-classifier|
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/index1|https://github.com/PranavFaladu/JSprojects|
