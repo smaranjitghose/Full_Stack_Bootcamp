@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 |[Image Classification](https://jstasks.vercel.app/classification/index.html) | [GITHUB](https://github.com/bhavinSOL/JS_task)|
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task9.html | https://github.com/Vinitpatel28/JS-Projects |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
