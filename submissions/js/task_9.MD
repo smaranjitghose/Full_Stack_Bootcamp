@@ -20,7 +20,7 @@
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/image_Classifier| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
-| Sparsh Patel | 2203031080053 | | |
+| Sparsh Patel | 2203031080053 |[Image Classifier](https://jsprojet-git-js-task78-sparsh-patels-projects.vercel.app/imagerecogniton.html)|[Github] (https://github.com/SparshPatel1115/JS_Project)|
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
