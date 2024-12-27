@@ -4,4 +4,45 @@
 
 3. db.products.updateOne({name:"Wireless Headphones"},{$set:{stock:40}})
 
+4.db.products.deleteMany({ category: "Gaming" });
 
+5.db.products.find({},{name:true,_id:false}).sort({price:-1})
+
+6. db.products.find({stock:{$gt:50,$lt:100}},{name:true,_id:false})
+
+7.db.product.find({tags:"text"})
+  db.products.find({$text:{$search:"wireless bluetooth"}})
+
+8.db.products.aggregate([  { $addFields: { averageRating: { $avg: "$ratings" } } },  { $match: { averageRating: { $gt: 4.5 } } }])
+
+9.db.products.find({ lastUpdated: { $gt: new Date("2024-02-01")}}, { name: true, lastUpdated: true, _id: false })
+
+10.db.products.find({ ratings: { $size: 3 } },{ name: true, ratings: true, _id: false })
+
+11.db.products.createIndex({tags:"text"})
+   db.products.find({$text:{$search:"wireless charging"}})
+
+12.db.products.creatIndex({description:"text"})
+ db.products.find({$text:{$search:"programmable"}},{name:true,_id:false})
+
+13.db.products.creatIndex({description:"text"})
+db.products.find({$text:{$search:"programmable"}},{name:true,_id:false})
+
+14.db.products.getIndexes();
+
+15.db.products.createIndex({price:1,stock:1})
+
+16.db.products.find({$text:{$search:"Sports"}},{name:true,_id:false,price:true}).sort({price:1})
+
+17.db.products.createIndex({category:"text"})
+  db.products.find({$text:{$search:"Sports"}},{name:true,_id:false},{score:{$meta:"textScore"}}).sort({ score: { $meta: "textScore" } });
+
+18.db.products.find({stock:{$gt:100}},{name:true,_id:false},{$mul:{price:0.9}})
+
+19.db.products.updateMany(
+  { $expr: { $gt: [{ $avg: "$ratings" }, 4.5] } },
+  { $set: { featured: true } }
+)
+
+20.db.products.createIndex({category:"text"})
+ db.products.find({price:{$gt:50,$lt:200},$text:{$search:"Electronics"}},{name:true,_id:false})
