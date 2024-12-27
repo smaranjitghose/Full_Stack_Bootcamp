@@ -293,3 +293,61 @@ Create an interactive web application that performs image classification using a
 - Add visual representations of confidence scores (graphs/charts)
 - Include option to switch between different custom models
 - Implement image preprocessing options (brightness, contrast adjustments)
+
+
+
+
+## 📄 Project 10: Face Recognition Attendance System using Teachable Machine
+
+## 📝 Description
+Build a simple attendance system using Teachable Machine that can recognize your face through a webcam. When it sees you, it should welcome you; otherwise, it should show "Invalid User".
+
+### ✅ Core Requirements
+
+#### 1. Model Training:
+* Create a model on Teachable Machine website
+* Two classes only: "Me" and "Other"
+* Take at least 30 pictures of yourself
+* Take at least 50 pictures of other people/faces
+* Export the model for ML5.js
+
+#### 2. Basic Interface:
+* Webcam video display
+* Status message area (Welcome/Invalid User)
+* Simple attendance log
+* Start/Stop camera button
+
+#### 3. Main Features:
+* Camera access and display
+* Real-time face recognition
+* Simple message display:
+    * "Welcome [Your Name]" for you
+    * "Invalid User" for others
+* Basic timestamp logging
+
+### 🛠️ Technical Setup
+
+1. Required Files:
+* index.html
+* style.css
+* script.js
+* Your trained model files
+
+
+2. Required Libraries:
+* ML5.js
+* P5.js (for webcam)
+
+3. Basic Code Structure:
+```javascript
+// 1. Load your model
+// 2. Start webcam
+// 3. Check faces
+// 4. Show results
+```
+
+### ⭐Bonus CHallenges:
+* Add a simple table to show entry times
+* Add a beep sound for detection
+* Add a light/dark theme switch
+* Export attendance to CSV
