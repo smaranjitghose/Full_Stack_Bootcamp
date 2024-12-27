@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 | http://127.0.0.1:5501/face_recognigation.html| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
