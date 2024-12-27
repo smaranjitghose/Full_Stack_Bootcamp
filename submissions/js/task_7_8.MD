@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | https://js-101-phi.vercel.app/guess.html | https://js-101-phi.vercel.app/pass.html | https://github.com/BharudeSahil/JS_101 |
 | Aryan Vekariya | 2203031080125 |[Guess Game](https://javascript-ecru-seven.vercel.app/task7/Guess%20Game.html) |[Password generator](https://javascript-ecru-seven.vercel.app/task8/Password.html) |[Github](https://github.com/aaryanvekariya/javascript) |
 | Sparsh Patel | 2203031080053 |[Guess random number](https://jsprojet.vercel.app/guessrandomnumber.html) |[Password Generator](https://jsprojet.vercel.app/randompassword.html)|[Github] (https://github.com/SparshPatel1115/JS_Project)|
-| Pratik Patel | 2203031080174 | | | |
+| Pratik Patel | 2203031080174 |[Guess random number](https://javascript-projects-zeta-seven.vercel.app/game.html) | [Password Generator](https://javascript-projects-zeta-seven.vercel.app/password.html)|[Github](https://github.com/Pratik00531/JavascriptProjects-)|
 | Deep Menpara | 2203031080091 |https://deepjsprojects.vercel.app/random.html |https://deepjsprojects.vercel.app/pwd.html |https://github.com/Deep7133/javascript |
 | Ravi Vira | 2203031080018 |[Number Guessing](https://assignment-4-js-beige.vercel.app/gusse.html) | [password generator](https://assignment-4-js-beige.vercel.app/password.html) |[GitHub](https://github.com/Ravi-vira/assignment-4-JS) |
 | Raj Patel | 2203031080105 |[Game](https://js-five-beta.vercel.app/Task%207/index.html) |[Password Gen](https://js-five-beta.vercel.app/Task%208/index.html) |[Github](https://github.com/RajPatel08/JS) |
