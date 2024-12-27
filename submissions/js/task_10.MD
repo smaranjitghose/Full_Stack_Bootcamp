@@ -29,7 +29,7 @@
 | Vignesh Gaddam | 2203031080131 |[Attendance System ](https://js-101-theta.vercel.app/attendance.html) | [Git Hub](https://github.com/mrvigneshgaddam/JS101)|
 | Vrushangi Mistry | 2203031080222 |https://vrushicodesjs.vercel.app/Attendance.html|https://github.com/Vrushi14/JavaScriptProjects|
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |https://wdf-js.pages.dev/attendance |https://github.com/mrHarshchoudhary/WDF_JS |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/face_reconigition|https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 |https://jsprojects1.pages.dev/attendance|https://github.com/hanivaghani/JSprojects |
