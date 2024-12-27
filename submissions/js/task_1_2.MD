@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | | |
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/ | https://bucolic-torrone-ee6617.netlify.app/ | https://github.com/Alishakaur431/javascript |
 | Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/ | https://inquisitive-croquembouche-acec27.netlify.app/ | https://github.com/PranavFaladu/JSprojects |
-| Bharvi Valand | 2303031087002 | | | |
+| Bharvi Valand | 2303031087002 | https://celebrated-pegasus-172baa.netlify.app/resume | https://celebrated-pegasus-172baa.netlify.app/feedback | https://github.com/bharvivaland/JSprojects.git |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/ | https://jsprojects-6m1.pages.dev/ | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | https://6761503c1139fd0acd0933f7--inquisitive-puffpuff-6fd63f.netlify.app/ | https://6761503c1139fd0acd0933f7--inquisitive-puffpuff-6fd63f.netlify.app/ | https://github.com/SuhaniTandel/JS-Project.git |
 | Rishabh Rai | 2203031080114 | https://js-coral-psi.vercel.app/ | https://js-coral-psi.vercel.app/ | https://github.com/Rishabhrai29/js |
