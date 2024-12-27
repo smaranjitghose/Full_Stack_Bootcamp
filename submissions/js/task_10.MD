@@ -3,7 +3,7 @@
 | Shubham Karvariya | 2203031080004 | [AI Attendance System](https://marvelous-pony-d1462f.netlify.app/task10/)|[Github](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
-| Bhavin Parmar | 2203031080042 | | |
+| Bhavin Parmar | 2203031080042 |https://jstasks.vercel.app/Attendance/index.html|https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
 | Ashish Yadav | 2203031080161 | [Task10](https://java-script-project-seven.vercel.app/index10.html) | [GitHub](https://github.com/AshishIT611/JavaScript_Project) |
 | Vinit Patel | 2203031080139 | | |
