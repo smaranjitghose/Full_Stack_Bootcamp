@@ -60,4 +60,4 @@ db.movies.find({ streamingOn: { $all: matrixStreaming, $size: matrixStreaming.le
 
 14. db.movies.find({ "genre.0": "Action" });
 
-15. 
+15. db.movies.find({ cast: { $size: 3 } });
