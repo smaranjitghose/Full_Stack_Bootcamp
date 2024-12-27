@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 10 URL | 🐱 GitHub Repository URL |
 |-----------------|-------------------|--------------|----------------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 | [AI Attendance System](https://marvelous-pony-d1462f.netlify.app/task10/)|[Github](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
