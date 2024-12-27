@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+</head>
+<body>
+    <h1>Product Comparison</h1>
+
+    <table border="1">
+        <caption>Comparison of Smartphones</caption>
+        <colgroup>
+            <col span="1" style="background-color: #f0f0f0;">
+            <col span="3">
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Model A</th>
+                <th scope="col">Model B</th>
+                <th scope="col">Model C</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$699</td>
+                <td>$799</td>
+                <td>$899</td>
+            </tr>
+            <tr>
+                <th scope="row">Battery</th>
+                <td>4000 mAh</td>
+                <td>4500 mAh</td>
+                <td>5000 mAh</td>
+            </tr>
+            <tr>
+                <th scope="row">Camera</th>
+                <td>
+                    <table border="1">
+                        <caption>Model A Camera Specs</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Rear</th>
+                                <th scope="col">Front</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>12 MP</td>
+                                <td>8 MP</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>48 MP / 12 MP</td>
+                <td>64 MP / 32 MP</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row" colspan="4">Summary: Model C offers the best features but is the most expensive.</th>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
