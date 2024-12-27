@@ -1,17 +1,17 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 10 URL | 🐱 GitHub Repository URL |
 |-----------------|-------------------|--------------|----------------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 | [AI Attendance System](https://marvelous-pony-d1462f.netlify.app/task10/)|[Github](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
-| Pranjal Pandey | 2203031080144 | | |
+| Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[AI Attendance System](https://jsassignment-omega.vercel.app/Task9/index.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
@@ -19,19 +19,19 @@
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
-| Aryan Vekariya | 2203031080125 | | |
+| Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 | | |
-| Deep Menpara | 2203031080091 | | |
+| Deep Menpara | 2203031080091 |https://ai-attendence.vercel.app/ |https://github.com/Deep7133/AI-Attendence |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | https://js-project-ashen.vercel.app/attendance.html | https://github.com/Darshkalani28/JS_Project |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://wdf-js.pages.dev/attendance |https://github.com/mrHarshchoudhary/WDF_JS |
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
+| Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/face_reconigition|https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | | |
 | Yash Sakhareliya | 2203031080015 | | |
