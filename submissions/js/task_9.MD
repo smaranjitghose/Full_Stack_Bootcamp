@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 |https://javascript-projects-tau-azure.vercel.app/models.html |https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 |[Image Classification](https://java-script-project-ecru.vercel.app/Classification.html) |[Github](https://github.com/Ankiitsuthar/JavaScript-Project) |
 | Hardeep Ijardar | 2203031080031 | https://js-projects-2t4.pages.dev/image_Classifier| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Task9](https://javascript-ecru-seven.vercel.app/task9/imgclassify.html) |[Github](https://github.com/aaryanvekariya/javascript) |
