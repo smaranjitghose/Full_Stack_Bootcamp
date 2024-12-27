@@ -21,10 +21,10 @@
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |[Task 10](https://javascript-projects-1tvov1uje-pratiks-projects-2b6c1394.vercel.app/face-recognition-attendance-system/index.html) |[Github](https://github.com/Pratik00531/JavascriptProjects-) |
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 |https://ai-attendence.vercel.app/ |https://github.com/Deep7133/AI-Attendence |
-| Raj Patel | 2203031080105 |https://ai-attendence-tan.vercel.app/ |https://github.com/RajPatel08/ai-attendence |
+| Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | https://js-project-ashen.vercel.app/attendance.html | https://github.com/Darshkalani28/JS_Project |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
