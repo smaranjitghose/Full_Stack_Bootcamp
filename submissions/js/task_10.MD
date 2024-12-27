@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
-| Rutuja Waghchaure | 2303031087089 |[https://jsproject-cin.pages.dev/attendance] |[https://github.com/rutujawaghchaure/jsproject] |
+| Rutuja Waghchaure | 2303031087089 |https://jsproject-cin.pages.dev/attendance |https://github.com/rutujawaghchaure/jsproject|
