@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 |[Image Classifier](https://jsprojet-git-js-task78-sparsh-patels-projects.vercel.app/imagerecogniton.html)|[Github] (https://github.com/SparshPatel1115/JS_Project)|
 | Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 | https://ml-project-psi-black.vercel.app/ | https://github.com/Ravi-vira/ML-FILE |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | https://js-project-b2n.pages.dev/classifier | https://github.com/Darshkalani28/JS_Project |
