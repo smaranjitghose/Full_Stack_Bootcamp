@@ -7,7 +7,7 @@
 | Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
-| Utsav Hirapra | 2203031080002 | | |
+| Utsav Hirapra | 2203031080002 |[AI Attendance System](https://js-eosin.vercel.app/Task%2010/index.html)  |[Github](https://github.com/utsav1213/JS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://satyamprojects.vercel.app/attendance.html|https://github.com/mrSinghSatyam/JS102|
 | Vaishnavi Sagariya | 2203031080013 | | |
