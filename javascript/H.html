@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+
+    .resume-container {
+      width: 60%;
+      margin: 0 auto;
+      background-color: #fff;
+      border: 2px solid black;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      text-align: left;
+    }
+
+    h1, h2, h3 {
+      text-align: center;
+      color: #333;
+      margin: 10px 0;
+    }
+
+    #myname {
+      font-size: 2em;
+      font-weight: bold;
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+
+    table {
+      width: 100%;
+      margin: 0 auto;
+      border-collapse: collapse;
+    }
+
+    table, th, td {
+      border: 1px solid #333;
+      padding: 8px;
+      text-align: center;
+    }
+
+    #contact-links a {
+      margin: 0 10px;
+    }
+
+    img {
+      width: 40px;
+      margin-right: 10px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume-container">
+    <img src="resume.png" alt="Resume Logo" width="90px">
+    
+    <h1>Resume</h1>
+    <section>
+      <h2 id="myname"></h2>  
+      <p><strong>Mobile:</strong> 7877188718</p>
+
+      <div id="contact-links">
+        <a href="https://github.com/mrHarshchoudhary" target="_blank">
+          <img src="github.png" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/mrharshchoudhary" target="_blank">
+          <img src="linkedin.png" alt="LinkedIn">
+        </a>
+        <a href="mailto:mrharshchoudhary@example.com" target="_blank">
+          <img src="email.png" alt="Email">
+        </a>
+      </div>
+    </section>
+
+    <section>
+      <h2 id="okk"></h2>
+      <p id="career"></p>
+    </section>
+
+    <section>
+      <h3>Skills</h3>
+      <ul>
+        <li>Programming Languages: Java, Python, C</li>
+        <li>Web Development: React, Spring Boot, HTML, CSS, JavaScript</li>
+        <li>Databases: MySQL, MongoDB</li>
+        <li>Tools & Platforms: GitHub, Eclipse, Power BI</li>
+        <li>Frameworks & Libraries: Hibernate, NumPy, Pandas</li>
+        <li>Other Skills: Data Structures, Algorithms, Problem-Solving</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Achievements & Certifications</h3>
+      <ul>
+        <li>Database & SQL Certificate: [Infosys | Springboard]</li>
+        <li>Data Analytics: [Parul Institute of Engineering & Technology]</li>
+        <li>Completed certifications in Computer Networks (NPTEL)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <h3 id="project1"></h3>
+      <p>Developed a React-based mini social media application where users can create posts, delete posts, and manage login/signup functionalities. Implemented an intuitive UI and seamless user interaction for an engaging experience.</p>
+    </section>
+
+    <section>
+      <h2 id="edu">Education</h2>
+      <table>
+        <tr>
+          <th>Course</th>
+          <th>College/School</th>
+          <th>Perc/CPI</th>
+          <th>Passing Year</th>
+        </tr>
+        <tr>
+          <td>B.Tech</td>
+          <td>Parul University</td>
+          <td>7.92</td>
+          <td>2026</td>
+        </tr>
+        <tr>
+          <td>HSC</td>
+          <td>M.V.M Pali Raj.</td>
+          <td>93.22%</td>
+          <td>2021</td>
+        </tr>
+      </table>
+    </section>
+  </div>
+  <script src="resume.js"></script>
+</body>
+</html>

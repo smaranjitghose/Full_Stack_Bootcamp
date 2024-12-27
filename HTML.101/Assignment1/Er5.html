@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+
+    <h2>Customer Satisfaction Survey</h2>
+
+    <form action="/submit" method="post">
+
+        
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name"><br><br>
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email"><br><br>
+        </fieldset>
+
+       
+        <fieldset>
+            <legend>Gender</legend>
+            <label for="male">Male</label>
+            <input type="radio" id="male" name="gender" value="male" required>
+
+            <label for="female">Female</label>
+            <input type="radio" id="female" name="gender" value="female" required>
+
+            <label for="other">Other</label>
+            <input type="radio" id="other" name="gender" value="other" required><br><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Feedback</legend>
+            <label for="satisfaction">How satisfied are you with our product?</label><br>
+            <input type="radio" id="very-satisfied" name="satisfaction" value="Very Satisfied" required>
+            <label for="very-satisfied">Very Satisfied</label><br>
+
+            <input type="radio" id="satisfied" name="satisfaction" value="Satisfied" required>
+            <label for="satisfied">Satisfied</label><br>
+
+            <input type="radio" id="neutral" name="satisfaction" value="Neutral" required>
+            <label for="neutral">Neutral</label><br>
+
+            <input type="radio" id="dissatisfied" name="satisfaction" value="Dissatisfied" required>
+            <label for="dissatisfied">Dissatisfied</label><br>
+
+            <input type="radio" id="very-dissatisfied" name="satisfaction" value="Very Dissatisfied" required>
+            <label for="very-dissatisfied">Very Dissatisfied</label><br><br>
+        </fieldset>
+              
+        <fieldset>
+            <legend>Preferred Contact Method</legend>
+            <label for="contact">Choose your preferred contact method:</label><br>
+            <select id="contact" name="contact" required>
+                <option value="email">Email</option>
+                <option value="phone">Phone</option>
+                <option value="none">No Preference</option>
+            </select><br><br>
+        </fieldset>
+        <fieldset>
+            <legend>Additional Comments</legend>
+            <label for="comments">Please share any comments or suggestions:</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="50" placeholder="Your comments here..."></textarea><br><br>
+        </fieldset>
+
+        
+        <button type="submit">Submit Survey</button>
+
+    </form>
+
+</body>
+</html>
