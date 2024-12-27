@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | | |
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/dice | https://bucolic-torrone-ee6617.netlify.app/converter | https://github.com/Alishakaur431/javascript |
 | Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/multiplayerdicegame | https://inquisitive-croquembouche-acec27.netlify.app/converter | https://github.com/PranavFaladu/JSprojects |
-| Bharvi Valand | 2303031087002 | | | |
+| Bharvi Valand | 2303031087002 | https://celebrated-pegasus-172baa.netlify.app/dice | https://celebrated-pegasus-172baa.netlify.app/converter | https://github.com/bharvivaland/JSprojects.git |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/Dice | https://jsprojects-6m1.pages.dev/converter | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | https://sage-marigold-86659c.netlify.app/task5 | https://sage-marigold-86659c.netlify.app/ | https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 | | | |
