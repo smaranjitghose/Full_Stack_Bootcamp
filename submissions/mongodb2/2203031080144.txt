@@ -37,4 +37,3 @@ Q.18) db.products.updateMany({ stock: { $gt: 100}},{ $mul: {price: 0.9}});
 
 Q.19) db.products.updateMany({$expr:{$gt:[{$avg:"$ratings"},4.5]}},{ $set: { featured: true }});
 
-Q.20) db.products.find({category: "Electronics",price:{$gte: 50, $lte: 200}},{name:1,_id:0});
