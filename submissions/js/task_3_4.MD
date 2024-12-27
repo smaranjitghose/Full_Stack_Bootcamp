@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task3.html | https://js-projects-fw8k.vercel.app/Task4.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/counter.html | https://js-eosin.vercel.app/calc.html | https://github.com/utsav1213/JS |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/counter.html | https://javascript-projects-livid.vercel.app/calculator.html | https://github.com/meetsondarva/javascript_projects |
-| Satyam | 2203031080232 | (https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html) | (https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/geometry.html) | (https://github.com/mrSinghSatyam/JS102) |
+| Satyam | 2203031080232 |(https://satyamprojects.vercel.app/count.html)|(https://satyamprojects.vercel.app/geometry.html)|(https://github.com/mrSinghSatyam/JS102) |
 | Vaishnavi Sagariya | 2203031080013 | https://js-pro-nine.vercel.app/count.html | https://js-pro-nine.vercel.app/geometry.html | https://github.com/sagariyavaishnavi/js_pro |
 | Jenish Paghadal | 2203031080007 | https://jsassignment-git-jsass4-jenish-paghadals-projects.vercel.app/counter.html | https://jsassignment-omega.vercel.app/calc.html | https://github.com/ItsJESH/JSAssignment |
 | Umang Patel | 2203031080107 | | | |
