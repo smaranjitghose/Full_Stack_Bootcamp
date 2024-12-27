@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 | https://ai-face-attendenc.vercel.app/ | https://github.com/Ravi-vira/AI-FaceAttendenc |
 | Deep Menpara | 2203031080091 |https://ai-attendence.vercel.app/ |https://github.com/Deep7133/AI-Attendence |
 | Raj Patel | 2203031080105 |https://ai-attendence-tan.vercel.app/ |https://github.com/RajPatel08/ai-attendence |
 | Darsh Kalani | 2203031080032 | https://js-project-ashen.vercel.app/attendance.html | https://github.com/Darshkalani28/JS_Project |
