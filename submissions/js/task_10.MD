@@ -34,7 +34,7 @@
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/face_reconigition|https://github.com/vishangl/JSprojects |
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | | |
-| Yash Sakhareliya | 2203031080015 | | |
+| Yash Sakhareliya | 2203031080015 |[Task 10](https://js-tasks-nine.vercel.app/Task%2010/index.html) |[Git Hub URL](https://github.com/Yashsakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
