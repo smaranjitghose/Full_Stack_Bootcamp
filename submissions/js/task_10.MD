@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
-| Satyam | 2203031080232 | | |
+| Satyam | 2203031080232 |https://satyamprojects.vercel.app/attendance.html|https://github.com/mrSinghSatyam/JS102|
 | Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 |[AI Attendance System](https://jsassignment-omega.vercel.app/Task9/index.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
 | Umang Patel | 2203031080107 | | |
