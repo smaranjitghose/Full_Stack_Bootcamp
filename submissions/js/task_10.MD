@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | 🔗 Task 10 URL | 🐱 GitHub Repository URL |
 |-----------------|-------------------|--------------|----------------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 | [AI Attendance System](https://marvelous-pony-d1462f.netlify.app/task10/)|[Github](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
@@ -19,11 +19,11 @@
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
-| Aryan Vekariya | 2203031080125 | | |
+| Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 | | |
-| Deep Menpara | 2203031080091 | | |
+| Deep Menpara | 2203031080091 |https://ai-attendence.vercel.app/ |https://github.com/Deep7133/AI-Attendence |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | https://js-project-ashen.vercel.app/attendance.html | https://github.com/Darshkalani28/JS_Project |
 | Vignesh Gaddam | 2203031080131 | | |
