@@ -37,7 +37,7 @@
 | Yash Sakhareliya | 2203031080015 |[Task 10](https://js-tasks-nine.vercel.app/Task%2010/index.html) |[Git Hub URL](https://github.com/Yashsakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
-| Alisha Kaur | 2203031080202 | | |
+| Alisha Kaur | 2203031080202 |https://studentattendancee.netlify.app/ |https://github.com/Alishakaur431/student-attendance |
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/faceattandance|https://github.com/PranavFaladu/JSprojects|
 | Bharvi Valand | 2303031087002 |https://celebrated-pegasus-172baa.netlify.app/attendindex|https://github.com/bharvivaland/JSprojects|
 | Neeti Darji | 2303031087080 | | |
