@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 |[Task 10](https://jsprojects-6m1.pages.dev/Attendencesystem) |[Github Repository](https://github.com/Neetidarji/Jsprojects)
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
-| Rutuja Waghchaure | 2303031087089 | | |
+| Rutuja Waghchaure | 2303031087089 |https://jsproject-cin.pages.dev/attendance |https://github.com/rutujawaghchaure/jsproject|
