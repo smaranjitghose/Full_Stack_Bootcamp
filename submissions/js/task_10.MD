@@ -32,7 +32,7 @@
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://jsprojects3.pages.dev/face_reconigition|https://github.com/vishangl/JSprojects |
-| Hani Vaghani | 2303031087088 | | |
+| Hani Vaghani | 2303031087088 |https://jsprojects1.pages.dev/attendance|https://github.com/hanivaghani/JSprojects |
 | Harsh Surani | 2203031080123 | [Task 10](https://imageclassificationattendancesystem.netlify.app/) | [suraniharsh](https://github.com/suraniharsh/imageClassificationAttendanceSystem-) |
 | Yash Sakhareliya | 2203031080015 |[Task 10](https://js-tasks-nine.vercel.app/Task%2010/index.html) |[Git Hub URL](https://github.com/Yashsakhareliya/JS_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
