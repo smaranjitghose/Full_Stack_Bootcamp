@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
-| Ashish Yadav | 2203031080161 | | |
+| Ashish Yadav | 2203031080161 | [Task10](https://java-script-project-seven.vercel.app/index10.html) | [GitHub]() |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
