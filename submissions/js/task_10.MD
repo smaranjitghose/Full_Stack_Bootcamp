@@ -35,7 +35,7 @@
 | Hani Vaghani | 2303031087088 |https://jsprojects1.pages.dev/attendance|https://github.com/hanivaghani/JSprojects |
 | Harsh Surani | 2203031080123 | [Task 10](https://imageclassificationattendancesystem.netlify.app/) | [suraniharsh](https://github.com/suraniharsh/imageClassificationAttendanceSystem-) |
 | Yash Sakhareliya | 2203031080015 |[Task 10](https://js-tasks-nine.vercel.app/Task%2010/index.html) |[Git Hub URL](https://github.com/Yashsakhareliya/JS_Task) |
-| Meet Upendrakumar Patel | 2203031080011 | | |
+| Meet Upendrakumar Patel | 2203031080011 |[Task-10](https://ai-face-attendance-system.vercel.app/) |[Github](https://github.com/MeetPatel54/Ai-Face-Attendance-System.git) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://studentattendancee.netlify.app/ |https://github.com/Alishakaur431/student-attendance |
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/faceattandance|https://github.com/PranavFaladu/JSprojects|
