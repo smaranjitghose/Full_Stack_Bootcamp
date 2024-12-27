@@ -10,7 +10,7 @@
 | Utsav Hirapra | 2203031080002 |[AI Attendance System](https://js-eosin.vercel.app/Task%2010/index.html)  |[Github](https://github.com/utsav1213/JS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://satyamprojects.vercel.app/attendance.html|https://github.com/mrSinghSatyam/JS102|
-| Vaishnavi Sagariya | 2203031080013 | | |
+| Vaishnavi Sagariya | 2203031080013 |[Attendance System](https://js-pro-nine.vercel.app/Attendance_System/index.html) |[GitHUB](https://github.com/sagariyavaishnavi/js_pro/tree/main/Attendance_System) |
 | Jenish Paghadal | 2203031080007 |[AI Attendance System](https://jsassignment-omega.vercel.app/Task9/index.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
