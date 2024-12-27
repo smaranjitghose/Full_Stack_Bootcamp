@@ -3,6 +3,8 @@
 ## 📝 Description
 Create JavaScript application that interacts with a local LLaMA 3.2 model through Ollama to generate responses to prompts. Your application should be able to send text prompts and receive AI-generated responses.
 
+---
+
 ## ✅ Core Requirements
 
 ### 1. Model Setup:
@@ -21,6 +23,8 @@ Create JavaScript application that interacts with a local LLaMA 3.2 model throug
 * Receive generated response
 * Display formatted output
 * Basic error handling
+
+---
 
 ## 🚀 Example Tasks to Test
 
@@ -49,10 +53,11 @@ Create JavaScript application that interacts with a local LLaMA 3.2 model throug
 * Create social media posts
 * Generate marketing emails
 
-## 📜 README
+---
+
+## 📜 Document your responses!
 
 1. Add a README.MD File
-## 📝 README Requirements
 
 2. The following should be added in the README:
 
@@ -71,26 +76,28 @@ Create a table with columns:
 
 Include at least one test from each category with actual model responses.
 
-## 📚 Git Setup and Submission
+---
 
-### 1. Initialize Git:
+## 📚 Add git and make it official
+
+1. Initialize Git:
 ```bash
 git init
 git branch -M main
 ```
 
-### 2. Stage and Commit:
+2. Stage and Commit:
 ```bash
 git add .
 git commit -m "v0.0.1"
 ```
 
-### 3. Create GitHub Repository:
+3. Create GitHub Repository:
 * Create a new repository named "OpenTalkJS"
 * Initialize without README
 * Copy the repository URL
 
-### 4. Push to GitHub:
+4. Push to GitHub:
 ```bash
 git remote add origin <your-repo-url>
 git push -u origin main
