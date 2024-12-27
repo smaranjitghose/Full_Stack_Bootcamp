@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 | https://ai-face-attendenc.vercel.app/ | https://github.com/Ravi-vira/AI-FaceAttendenc |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
