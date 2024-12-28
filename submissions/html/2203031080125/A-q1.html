@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Mug Design Order Form</title>
+</head>
+<body>
+    <h1>Custom Mug Design Order Form</h1>
+    <p>Use this form to order your customized mug with basic options.</p>
+    
+    <form action="#" method="POST" enctype="multipart/form-data">
+        
+        <!-- Input for color selection -->
+        <label for="color">Choose a Mug Color:</label>
+        <select id="color" name="mugColor">
+            <option value="white">White</option>
+            <option value="black">Black</option>
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+        </select>
+        <br><br>
+
+        <!-- Input for quantity/size selection -->
+        <label for="quantity">Choose Quantity (1-10):</label>
+        <select id="quantity" name="quantity">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
+        <br><br>
+
+        <!-- Input for delivery date -->
+        <label for="deliveryDate">Delivery Date:</label>
+        <input type="date" id="deliveryDate" name="deliveryDate">
+        <br><br>
+
+        <!-- Input for delivery time -->
+        <label for="deliveryTime">Delivery Time:</label>
+        <input type="time" id="deliveryTime" name="deliveryTime">
+        <br><br>
+
+        <!-- Input for custom design upload -->
+        <label for="designUpload">Upload Custom Design (Optional):</label>
+        <input type="file" id="designUpload" name="customDesign" accept="image/*">
+        <br><br>
+
+        <!-- Datalist for preset options -->
+        <label for="presetDesigns">Choose a Preset Design:</label>
+        <input type="text" id="presetDesigns" name="presetDesign" list="designOptions" placeholder="Select a design">
+        <datalist id="designOptions">
+            <option value="Plain Mug">
+            <option value="Striped Pattern">
+            <option value="Polka Dots">
+            <option value="Nature Theme">
+        </datalist>
+        <br><br>
+
+        <!-- Submit button -->
+        <input type="submit" value="Place Order">
+    </form>
+</body>
+</html>

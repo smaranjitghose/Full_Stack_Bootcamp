@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Assessment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        progress {
+            width: 100%;
+            height: 20px;
+            margin-top: 10px;
+        }
+
+        meter {
+            width: 100%;
+            height: 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Skills Assessment</h1>
+
+    
+    <section>
+        <h2>Course Completion</h2>
+        <p>Course completion:
+            <progress value="70" max="100">70%</progress>
+        </p>
+    </section>
+
+   
+    <section>
+        <h2>Skill Level in Web Development</h2>
+        <p>Skill level (out of 10):
+            <meter value="8" min="0" max="10" optimum="9">8 out of 10</meter>
+        </p>
+        <p><strong>Level breakdown:</strong></p>
+        <ul>
+            <li><strong>Low:</strong> <meter value="3" min="0" max="10">Low</meter></li>
+            <li><strong>Medium:</strong> <meter value="6" min="0" max="10" optimum="7">Medium</meter></li>
+            <li><strong>High:</strong> <meter value="9" min="0" max="10" optimum="9">High</meter></li>
+        </ul>
+    </section>
+
+    
+    <section>
+        <h2>Performance Rating</h2>
+        <p>Performance level:
+            <meter value="4" min="0" max="5" optimum="4" low="2" high="4.5">4 out of 5</meter>
+        </p>
+        <p><strong>Performance:</strong> <span style="color: green;">Good</span></p>
+    </section>
+
+</body>
+</html>

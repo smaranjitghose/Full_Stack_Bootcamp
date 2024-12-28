@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization Form</title>
+</head>
+<body>
+    <h1>Customize Your Product</h1>
+    <form>
+        <label for="product-color">Choose product color:</label>
+        <input type="color" id="product-color" name="product-color" value="#ff0000">
+        <br><br>
+        <label for="size">Select size (cm):</label>
+        <input type="range" id="size" name="size" min="10" max="50" value="25" oninput="document.getElementById('size-display').textContent = this.value">
+        <span id="size-display">25</span> cm
+        <br><br>
+        <label for="delivery-date">Select delivery date:</label>
+        <input type="date" id="delivery-date" name="delivery-date">
+        <br><br>
+        <label for="delivery-time">Select delivery time:</label>
+        <input type="time" id="delivery-time" name="delivery-time">
+        <br><br>
+        <label for="custom-design">Upload custom design:</label>
+        <input type="file" id="custom-design" name="custom-design" accept=".png, .jpg, .jpeg, .svg">
+        <br><br>
+        <label for="preset-options">Choose a preset option:</label>
+        <input list="options" id="preset-options" name="preset-options">
+        <datalist id="options">
+            <option value="Standard Design">
+            <option value="Premium Design">
+            <option value="Custom Design">
+        </datalist>
+        <br><br>
+        <button type="submit">Submit Customization</button>
+    </form>
+</body>
+</html>

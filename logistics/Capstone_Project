@@ -1,0 +1,97 @@
+# 🚀 MERN Stack Capstone Project Guidelines
+
+## 📋 Overview
+The capstone project is a culmination of your Full stack bootcamp journey. You'll build a fully functional SaaS (Software as a Service) application that demonstrates your proficiency in both frontend and backend development.
+
+## 💡 Suggested Project Ideas
+1. 🎫 Ticket Booking Platform (like BookMyShow)
+   - Event listing and discovery
+   - Seat selection system
+   - Payment processing
+   - QR code ticket generation
+   - Event analytics dashboard
+
+2. 📝 Note-Taking Workspace (like Notion)
+   - Rich text editor
+   - Collaborative editing
+   - Template system
+   - File embedding
+   - Database views
+
+3. 🎥 Video Recording Platform (like Loom)
+   - Screen recording
+   - Video hosting
+   - Custom video player
+   - Team sharing capabilities
+   - Analytics dashboard
+
+4. 💾 Cloud Storage Solution (like Google Drive)
+   - File upload/download
+   - Folder organization
+   - File sharing
+   - Search functionality
+   - Storage management
+
+5. 💬 Testimonial Platform (like testimonial.to)
+   - Testimonial collection
+   - Custom styling options
+   - Widget generation
+   - Embed code generation
+   - Analytics dashboard
+
+6. ✅ Task Management Platform (like ClickUp)
+   - Multiple view options (list, board, calendar)
+   - Team collaboration
+   - Time tracking
+   - Custom workflows
+   - Reporting dashboard
+
+7. 🔗 Link Management Platform (like LinkTree)
+   - Custom link pages
+   - Analytics tracking
+   - Theme customization
+   - Social media integration
+   - Traffic insights
+
+## ❌ Projects to Avoid
+These projects are often overused and may not showcase your full potential:
+
+1. Basic Chat Applications
+   - Limited technical complexity
+   - Overdone in portfolios
+
+2. Currency/Crypto Converters
+   - Simple API integration
+   - Limited feature scope
+
+3. Generic E-Commerce Platforms
+   - Common implementation
+   - Oversaturated idea
+
+4. Social Media Clones
+   - Too broad in scope
+   - Hard to implement well
+
+5. URL Shorteners
+   - Limited functionality
+   - Basic database operations
+
+6. Simple ToDo Apps
+   - Too basic
+   - Limited learning outcome
+
+## ✨ Evaluation Criteria
+- Technical implementation: code quality, feature completeness, security
+- User experience: design, responsiveness, navigation
+- Project documentation and organization
+- Innovation and creativity in solution
+
+## 📌 Final Notes
+- Start early and plan thoroughly
+- Commit regularly
+- Test extensively
+- Document as you go
+- Focus on core functionality first
+- Ask for help when needed
+- Keep security in mind
+- Deploy early and often
