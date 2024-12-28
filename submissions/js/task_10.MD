@@ -3,12 +3,12 @@
 | Shubham Karvariya | 2203031080004 | [AI Attendance System](https://marvelous-pony-d1462f.netlify.app/task10/)|[Github](https://github.com/5hubhm/J_S)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 |[Attendance](https://js-project-pink.vercel.app/task10.html) | [Github](https://github.com/mansha-6/JS-Project)|
-| Bhavin Parmar | 2203031080042 | | |
+| Bhavin Parmar | 2203031080042 |https://jstasks.vercel.app/Attendance/index.html|https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
 | Ashish Yadav | 2203031080161 | [Task10](https://java-script-project-seven.vercel.app/index10.html) | [GitHub](https://github.com/AshishIT611/JavaScript_Project) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 |[AI Attendance System](https://js-eosin.vercel.app/Task%2010/index.html)  |[Github](https://github.com/utsav1213/JS) |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/attendance.html| https://github.com/meetsondarva/javascript_projects|
 | Satyam | 2203031080232 |https://satyamprojects.vercel.app/attendance.html|https://github.com/mrSinghSatyam/JS102|
 | Vaishnavi Sagariya | 2203031080013 |[Attendance System](https://js-pro-nine.vercel.app/Attendance_System/index.html) |[GitHUB](https://github.com/sagariyavaishnavi/js_pro/tree/main/Attendance_System) |
 | Jenish Paghadal | 2203031080007 |[AI Attendance System](https://jsassignment-omega.vercel.app/Task9/index.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 | http://127.0.0.1:5501/face_recognigation.html| https://github.com/HardeepIjardar/JS-Projects |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Task10](https://javascript-ecru-seven.vercel.app/task10/Attendance.html) |[Github](https://github.com/aaryanvekariya/javascript)|
 | Sparsh Patel | 2203031080053 | | |
