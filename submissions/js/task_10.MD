@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 |https://jstasks.vercel.app/Attendance/index.html|https://github.com/bhavinSOL/JS_task |
 | Pranjal Pandey | 2203031080144 |https://face-recognition-attendance-steel.vercel.app/ |https://github.com/Pranjallpandey1504/face-recognition-attendance|
 | Ashish Yadav | 2203031080161 | [Task10](https://java-script-project-seven.vercel.app/index10.html) | [GitHub](https://github.com/AshishIT611/JavaScript_Project) |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task10.html | https://github.com/Vinitpatel28/JS-Projects |
 | Utsav Hirapra | 2203031080002 |[AI Attendance System](https://js-eosin.vercel.app/Task%2010/index.html)  |[Github](https://github.com/utsav1213/JS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/attendance.html| https://github.com/meetsondarva/javascript_projects|
 | Satyam | 2203031080232 |https://satyamprojects.vercel.app/attendance.html|https://github.com/mrSinghSatyam/JS102|
