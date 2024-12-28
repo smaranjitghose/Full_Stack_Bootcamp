@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        colgroup {
+            background-color: #f4f4f4;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #e2e2e2;
+        }
+
+        tfoot {
+            font-weight: bold;
+        }
+
+        .nested-table {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .nested-table th, .nested-table td {
+            border: 1px solid #ddd;
+        }
+
+        .nested-table td {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Product Comparison Table</h1>
+
+    <table>
+        <colgroup>
+            <col span="1" style="background-color: #ffeb3b;">
+            <col span="1" style="background-color: #8bc34a;">
+            <col span="1" style="background-color: #2196f3;">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th scope="col">Product Features</th>
+                <th scope="col">Product A</th>
+                <th scope="col">Product B</th>
+                <th scope="col">Product C</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <th scope="row">Price</th>
+                <td>$99</td>
+                <td>$129</td>
+                <td>$149</td>
+            </tr>
+            <tr>
+                <th scope="row">Rating</th>
+                <td>4.5/5</td>
+                <td>4.2/5</td>
+                <td>4.7/5</td>
+            </tr>
+            <tr>
+                <th scope="row">Warranty</th>
+                <td>1 Year</td>
+                <td>2 Years</td>
+                <td>1 Year</td>
+            </tr>
+            <tr>
+                <th scope="row">Features</th>
+                <td>
+                    <table class="nested-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Feature</th>
+                                <th scope="col">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Bluetooth</td>
+                                <td>Yes</td>
+                            </tr>
+                            <tr>
+                                <td>Camera</td>
+                                <td>8MP</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table class="nested-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Feature</th>
+                                <th scope="col">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Bluetooth</td>
+                                <td>Yes</td>
+                            </tr>
+                            <tr>
+                                <td>Camera</td>
+                                <td>12MP</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table class="nested-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Feature</th>
+                                <th scope="col">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Bluetooth</td>
+                                <td>Yes</td>
+                            </tr>
+                            <tr>
+                                <td>Camera</td>
+                                <td>10MP</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <th scope="row">Summary</th>
+                <td>$99 | 4.5/5 | 1 Year Warranty</td>
+                <td>$129 | 4.2/5 | 2 Years Warranty</td>
+                <td>$149 | 4.7/5 | 1 Year Warranty</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>

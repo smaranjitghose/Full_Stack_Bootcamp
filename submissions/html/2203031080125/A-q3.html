@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C Programming Basics Tutorial</title>
+</head>
+<body>
+    <h1>C Programming Basics Tutorial</h1>
+    <p>Welcome to the C programming tutorial. This guide covers the basic concepts of C programming, including writing a simple program, using variables, and handling user input.</p>
+
+    <h2>1. Writing Your First C Program</h2>
+    <p>To start, let’s write a simple "Hello, World!" program in C. Here’s how:</p>
+    <pre>
+<code>
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+</code>
+    </pre>
+    <p>This code will display <samp>Hello, World!</samp> when compiled and run.</p>
+
+    <h2>2. Understanding Variables</h2>
+    <p>Variables are used to store data. Here's an example of using an integer variable:</p>
+    <pre>
+<code>
+#include <stdio.h>
+
+int main() {
+    int <var>num</var> = 5;
+    printf("The value of num is: %d\n", <var>num</var>);
+    return 0;
+}
+</code>
+    </pre>
+    <p>When you run this code, it will output:</p>
+    <samp>The value of num is: 5</samp>
+
+    <h2>3. Taking User Input</h2>
+    <p>You can also take input from the user using the <code>scanf()</code> function:</p>
+    <pre>
+<code>
+#include <stdio.h>
+
+int main() {
+    int <var>age</var>;
+    printf("Enter your age: ");
+    scanf("%d", &<var>age</var>);
+    printf("You are %d years old.\n", <var>age</var>);
+    return 0;
+}
+</code>
+    </pre>
+    <p>If the user enters <kbd>25</kbd>, the output will be:</p>
+    <samp>You are 25 years old.</samp>
+
+    <h2>4. Conditional Statements</h2>
+    <p>In C, you can use <code>if</code> statements to make decisions based on conditions:</p>
+    <pre>
+<code>
+#include <stdio.h>
+
+int main() {
+    int <var>age</var>;
+    printf("Enter your age: ");
+    scanf("%d", &<var>age</var>);
+
+    if (<var>age</var> >= 18) {
+        printf("You are an adult.\n");
+    } else {
+        printf("You are a minor.\n");
+    }
+    return 0;
+}
+</code>
+    </pre>
+    <p>If the user enters <kbd>20</kbd>, the output will be:</p>
+    <samp>You are an adult.</samp>
+
+    <h2>5. Keyboard Shortcuts</h2>
+    <ul>
+        <li><kbd>Ctrl</kbd> + <kbd>S</kbd>: Save your C program.</li>
+        <li><kbd>Ctrl</kbd> + <kbd>C</kbd>: Compile your C program (in some environments).</li>
+        <li><kbd>F5</kbd>: Run your program after compilation.</li>
+    </ul>
+
+    <h2>6. Conclusion</h2>
+    <p>You've now written basic C programs! With practice, you'll get better at using variables, functions, and control flow structures. Continue exploring C's features to become a proficient C programmer.</p>
+</body>
+</html>

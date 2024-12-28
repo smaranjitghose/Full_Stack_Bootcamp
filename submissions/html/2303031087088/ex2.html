@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Customization Form</title>
+</head>
+<body>
+    <h1>Product Customization Form</h1>
+    <form action="#" method="post" enctype="multipart/form-data">
+        <label for="color">Select Color:</label>
+        <input type="color" id="color" name="color" value="#000000"><br><br>
+
+        <label for="size">Select Size/Quantity:</label>
+        <input type="range" id="size" name="size" min="1" max="100" value="50">
+        <output for="size" id="sizeOutput">50</output><br><br>
+
+        <label for="delivery-date">Delivery Date:</label>
+        <input type="date" id="delivery-date" name="delivery-date" required><br><br>
+
+        <label for="delivery-time">Delivery Time:</label>
+        <input type="time" id="delivery-time" name="delivery-time" required><br><br>
+
+        <label for="custom-design">Upload Custom Design:</label>
+        <input type="file" id="custom-design" name="custom-design" accept="image/*"><br><br>
+
+        <label for="preset-options">Choose a preset option:</label>
+        <input list="preset-options" id="preset" name="preset">
+        <datalist id="preset-options">
+            <option value="Option 1">
+            <option value="Option 2">
+            <option value="Option 3">
+            <option value="Option 4">
+        </datalist><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        // Update the output element with the current value of the range input
+        const sizeInput = document.getElementById('size');
+        const sizeOutput = document.getElementById('sizeOutput');
+        sizeInput.addEventListener('input', function() {
+            sizeOutput.value = sizeInput.value;
+        });
+    </script>
+</body>
+</html>
