@@ -1,0 +1,6 @@
+{
+
+  "dependencies": {
+    "ollama": "^0.5.11"
+  }
+}
