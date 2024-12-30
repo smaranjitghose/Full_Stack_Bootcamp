@@ -32,7 +32,7 @@
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/WDF_Test |https://wdf-test.pages.dev/|
-| Hani Vaghani | 2303031087088 | | |
+| Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/WDF_Test|https://wdf-test-7cb.pages.dev/|
 | Harsh Surani | 2203031080123 | [Github](https://github.com/suraniharsh/Surprise-Test-1) | [solution](https://2203031080123-surprise-test-1.netlify.app/) |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
