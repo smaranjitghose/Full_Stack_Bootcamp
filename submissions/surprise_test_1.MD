@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 | https://github.com/sagariyavaishnavi/WDF_test| https://wdf-test-beta.vercel.app/|
 | Jenish Paghadal | 2203031080007 | [GitHub](https://github.com/ItsJESH/WDF_Test)|[Vercel](https://suprisetest.vercel.app/) |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/WDF_Test |https://todolistandcategoris.netlify.app/ |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 |[GitHub](https://github.com/Rajdeepsinh1410/wdf_test_.git)|[Vercel](https://surprisetest.vercel.app/) |
 | Ankit Kumar | 2203031080184 | | |
