@@ -2,7 +2,7 @@
 |-----------------|-------------------|-------------|----------------|
 | Shubham Karvariya | 2203031080004 | | |
 | Ayush | 2203031080028 | | |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |https://github.com/mansha-6/WDF_test | https://wdf-test-chi.vercel.app/|
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/WDF_Test |https://wdf-test-seven.vercel.app/ |
 | Ashish Yadav | 2203031080161 | | |
