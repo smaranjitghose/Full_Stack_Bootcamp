@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/WDF_Test | https://wdf-test-89g.pages.dev |
 | Sahil Bharude | 2203031080235 | | |
-| Aryan Vekariya | 2203031080125 | | |
+| Aryan Vekariya | 2203031080125 |[Github](https://github.com/aaryanvekariya/WDF_Test)|[Deployment](https://wdf-test-4ctpos3qs-aryan-vekariyas-projects.vercel.app/)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | [Github](https://github.com/Pratik00531/WDF_Test)|[Vercel](https://wdf-test.vercel.app/) |
 | Ravi Vira | 2203031080018 | | |
@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 |[Github](https://github.com/PranavFaladu/test)|[soluction](https://luminous-mermaid-f06546.netlify.app/)|
+| Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
