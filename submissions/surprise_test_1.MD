@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |[Github](https://github.com/PranavFaladu/test)|[soluction](https://luminous-mermaid-f06546.netlify.app/)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Github](https://github.com/Neetidarji/WDF_Test) |[Solution](https://wdf-test-1h9.pages.dev/) |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Github] https://github.com/SuhaniTandel/WDF_Test |[Solution] https://poetic-selkie-67b6a4.netlify.app/|
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 |https://github.com/rutujawaghchaure/WDF-Test |https://wdf-test-8wv.pages.dev/ |
