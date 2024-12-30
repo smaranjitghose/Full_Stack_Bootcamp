@@ -32,7 +32,7 @@
 | Harsh Choudhary | 2203031080132 | |
 | Jeet Dhake | 2303031087082 | |
 | Vishang Lad | 2203031080035 | |
-| Hani Vaghani | 2303031087088 | |
+| Hani Vaghani | 2303031087088 |[Solution](https://docs.google.com/document/d/114rzw1HFr-VD7NRinutpMZz94vFLuU3eDcVe_QOBjZM/edit?tab=t.0)|
 | Harsh Surani | 2203031080123 | |
 | Yash Sakhareliya | 2203031080015 | |
 | Meet Upendrakumar Patel | 2203031080011 | |
