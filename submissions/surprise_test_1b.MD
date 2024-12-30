@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 | |
 | Bharvi Valand | 2303031087002 | |
 | Neeti Darji | 2303031087080 | |
-| Suhani Tandel | 2203031080160 | |
+| Suhani Tandel | 2203031080160 | https://docs.google.com/document/d/1-NGubBtYG9lsy_pjQFGfN7Dc5tOwu1YFUqBw_OghV8Y/edit?tab=t.0 |
 | Rishabh Rai | 2203031080114 | |
 | Rutuja Waghchaure | 2303031087089 | |
