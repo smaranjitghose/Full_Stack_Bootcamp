@@ -1,0 +1,277 @@
+```
+// courses collection
+[
+    {
+        "courseId": "CS101",
+        "title": "Introduction to Programming",
+        "department": "Computer Science",
+        "credits": 4,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 60,
+        "currentEnrollment": 45,
+        "instructor": "PROF001",
+        "schedule": {
+            "days": ["Monday", "Wednesday"],
+            "time": "10:00-11:30",
+            "room": "Tech-201"
+        },
+        "prerequisites": [],
+        "isActive": true,
+        "materials": ["textbook", "slides", "code samples"],
+        "languages": ["Python", "JavaScript"]
+    },
+    {
+        "courseId": "CS201",
+        "title": "Data Structures",
+        "department": "Computer Science",
+        "credits": 4,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 55,
+        "currentEnrollment": 52,
+        "instructor": "PROF002",
+        "schedule": {
+            "days": ["Tuesday", "Thursday"],
+            "time": "14:00-15:30",
+            "room": "Tech-305"
+        },
+        "prerequisites": ["CS101"],
+        "isActive": true,
+        "materials": ["textbook", "practice problems"],
+        "languages": ["Java", "Python"]
+    },
+    {
+        "courseId": "CS301",
+        "title": "Database Systems",
+        "department": "Computer Science",
+        "credits": 3,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 45,
+        "currentEnrollment": 30,
+        "instructor": "PROF003",
+        "schedule": {
+            "days": ["Monday", "Wednesday"],
+            "time": "13:00-14:30",
+            "room": "Tech-103"
+        },
+        "prerequisites": ["CS201"],
+        "isActive": true,
+        "materials": ["textbook", "slides", "case studies"],
+        "languages": ["SQL", "MongoDB"]
+    },
+    {
+        "courseId": "MATH201",
+        "title": "Calculus I",
+        "department": "Mathematics",
+        "credits": 4,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 70,
+        "currentEnrollment": 65,
+        "instructor": "PROF004",
+        "schedule": {
+            "days": ["Monday", "Wednesday", "Friday"],
+            "time": "09:00-10:00",
+            "room": "Math-101"
+        },
+        "prerequisites": [],
+        "isActive": true,
+        "materials": ["textbook", "problem sets"]
+    },
+    {
+        "courseId": "CS401",
+        "title": "Artificial Intelligence",
+        "department": "Computer Science",
+        "credits": 3,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 40,
+        "currentEnrollment": 25,
+        "instructor": "PROF001",
+        "schedule": {
+            "days": ["Tuesday", "Thursday"],
+            "time": "15:30-17:00",
+            "room": "Tech-401"
+        },
+        "prerequisites": ["CS201", "MATH201"],
+        "isActive": true,
+        "materials": ["slides", "research papers"],
+        "languages": ["Python", "R"]
+    },
+    {
+        "courseId": "CS102",
+        "title": "Web Development",
+        "department": "Computer Science",
+        "credits": 3,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 50,
+        "currentEnrollment": 35,
+        "instructor": "PROF006",
+        "schedule": {
+            "days": ["Monday", "Wednesday"],
+            "time": "15:00-16:30",
+            "room": "Tech-202"
+        },
+        "prerequisites": ["CS101"],
+        "isActive": true,
+        "materials": ["slides", "code samples"],
+        "languages": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "courseId": "CS501",
+        "title": "Advanced Programming",
+        "department": "Computer Science",
+        "credits": 4,
+        "semester": "Spring 2024",
+        "enrollmentLimit": 30,
+        "currentEnrollment": 0,
+        "instructor": "PROF002",
+        "schedule": {
+            "days": ["Monday", "Wednesday"],
+            "time": "14:00-15:30",
+            "room": "Tech-301"
+        },
+        "prerequisites": ["CS201"],
+        "isActive": false,
+        "materials": ["textbook", "project materials"],
+        "languages": ["C++", "Python"]
+    },
+    {
+        "courseId": "CS601",
+        "title": "Machine Learning",
+        "department": "Computer Science",
+        "credits": 4,
+        "semester": "Fall 2024",
+        "enrollmentLimit": 35,
+        "currentEnrollment": 33,
+        "instructor": "PROF001",
+        "schedule": {
+            "days": ["Tuesday", "Thursday"],
+            "time": "13:00-14:30",
+            "room": "Tech-401"
+        },
+        "prerequisites": ["CS401", "MATH201"],
+        "isActive": true,
+        "materials": ["research papers", "project materials", "slides"],
+        "languages": ["Python", "R"]
+    }
+]
+
+// faculty collection
+[
+    {
+        "facultyId": "PROF001",
+        "name": "Dr. Robert Smith",
+        "department": "Computer Science",
+        "position": "Associate Professor",
+        "email": "robert@university.edu",
+        "officeHours": {
+            "day": "Tuesday",
+            "time": "14:00-16:00",
+            "location": "Faculty Wing-A102"
+        },
+        "coursesTeaching": ["CS101", "CS401", "CS601"],
+        "researchAreas": ["AI", "Machine Learning"],
+        "joinDate": "2020-08-15",
+        "isActive": true
+    },
+    {
+        "facultyId": "PROF002",
+        "name": "Dr. Sarah Johnson",
+        "department": "Computer Science",
+        "position": "Professor",
+        "email": "sarah@university.edu",
+        "officeHours": {
+            "day": "Wednesday",
+            "time": "10:00-12:00",
+            "location": "Faculty Wing-A103"
+        },
+        "coursesTeaching": ["CS201", "CS501"],
+        "researchAreas": ["Algorithms", "Data Structures"],
+        "joinDate": "2015-08-15",
+        "isActive": true
+    },
+    {
+        "facultyId": "PROF003",
+        "name": "Dr. Michael Chen",
+        "department": "Computer Science",
+        "position": "Assistant Professor",
+        "email": "michael@university.edu",
+        "officeHours": {
+            "day": "Thursday",
+            "time": "13:00-15:00",
+            "location": "Faculty Wing-A104"
+        },
+        "coursesTeaching": ["CS301"],
+        "researchAreas": ["Database Systems", "Data Mining"],
+        "joinDate": "2021-08-15",
+        "isActive": true
+    },
+    {
+        "facultyId": "PROF004",
+        "name": "Dr. Emily Brown",
+        "department": "Mathematics",
+        "position": "Professor",
+        "email": "emily@university.edu",
+        "officeHours": {
+            "day": "Monday",
+            "time": "11:00-13:00",
+            "location": "Math Wing-B101"
+        },
+        "coursesTeaching": ["MATH201"],
+        "researchAreas": ["Calculus", "Linear Algebra"],
+        "joinDate": "2010-08-15",
+        "isActive": true
+    },
+    {
+        "facultyId": "PROF006",
+        "name": "Dr. Lisa Anderson",
+        "department": "Computer Science",
+        "position": "Assistant Professor",
+        "email": "lisa@university.edu",
+        "officeHours": {
+            "day": "Tuesday",
+            "time": "11:00-13:00",
+            "location": "Faculty Wing-A105"
+        },
+        "coursesTeaching": ["CS102"],
+        "researchAreas": ["Web Technologies", "UI/UX"],
+        "joinDate": "2022-08-15",
+        "isActive": true
+    },
+    {
+        "facultyId": "PROF007",
+        "name": "Dr. David Lee",
+        "department": "Computer Science",
+        "position": "Professor",
+        "email": "davidlee@university.edu",
+        "officeHours": {
+            "day": "Monday",
+            "time": "14:00-16:00",
+            "location": "Faculty Wing-A106"
+        },
+        "coursesTeaching": [],
+        "researchAreas": ["Cybersecurity", "Network Systems"],
+        "joinDate": "2008-08-15",
+        "isActive": false
+    }
+]
+```
+
+## 📝 Instructions
+Create a database named `university_db` and insert the data for courses and faculty collections provided in the dataset. Write MongoDB queries for the following operations:
+
+1. Find all courses with current enrollment less than 40
+2. Find all faculty members who joined before 2020
+3. List all courses that teach Python
+4. Find courses that have more than 3 credits
+5. Find courses scheduled on Monday
+6. List faculty members with office hours on Tuesday
+7. Find courses in Tech-401 room
+8. Find courses that teach both Python and JavaScript
+9. List courses with more than 2 prerequisites
+10. Find faculty members researching AI or Machine Learning
+11. Add a new language to CS101
+12. Update office hours for PROF001
+13. Increase current enrollment for a specific course
+14. Mark a faculty member as inactive
+15. Remove all inactive courses
+16. Delete courses with zero enrollment
+17. Remove specific programming language from a course
