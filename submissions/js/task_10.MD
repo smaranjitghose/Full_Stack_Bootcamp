@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/faceattandance|https://github.com/PranavFaladu/JSprojects|
 | Bharvi Valand | 2303031087002 |https://celebrated-pegasus-172baa.netlify.app/attendindex|https://github.com/bharvivaland/JSprojects|
 | Neeti Darji | 2303031087080 |[Task 10](https://jsprojects-6m1.pages.dev/Attendencesystem) |[Github Repository](https://github.com/Neetidarji/Jsprojects)
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | https://app.netlify.com/sites/visionary-faun-c4a618/overview | https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 |https://jsproject-cin.pages.dev/attendance |https://github.com/rutujawaghchaure/jsproject|
