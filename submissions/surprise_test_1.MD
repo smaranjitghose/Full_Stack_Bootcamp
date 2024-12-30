@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/WDF_Test | https://wdf-test-89g.pages.dev |
+| Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
@@ -25,7 +25,7 @@
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 |[Github](https://github.com/Darshkalani28/WDF_Test)|[Vercel](https://wdf-test-sigma.vercel.app/todo.html)|
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
