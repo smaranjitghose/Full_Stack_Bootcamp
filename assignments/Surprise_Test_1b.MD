@@ -1,4 +1,4 @@
-# 🎯 Question A
+# 🎯 Question 0
 
 ## 📝 Instructions
 Create a database named `university_db` and insert the data for courses and faculty collections provided below. Write MongoDB queries for the following operations:
@@ -283,7 +283,7 @@ Create a database named `university_db` and insert the data for courses and facu
 
 ---
 
-# 🎯 Question B
+# 🎯 Question 1
 
 
 ## 📝 Instructions
@@ -499,7 +499,7 @@ Create a database named `hospital_db` and insert the data for patients and docto
 
 ---
 
-# 🎯  Question C
+# 🎯  Question 2
 
 ## 📝 Instructions
 Create a database named `library_db` and insert the data for books and members collections provided below. Write MongoDB queries for the following operations:
