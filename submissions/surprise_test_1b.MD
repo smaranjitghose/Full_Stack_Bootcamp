@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | |
 | Mansha Soni | 2203031080121 | |
 | Bhavin Parmar | 2203031080042 | |
-| Pranjal Pandey | 2203031080144 | |
+| Pranjal Pandey | 2203031080144 |https://docs.google.com/document/d/14AD7rmrFbAGJrmwOR3Voffbpg0Mzwdw1juSOdi_ruFY/edit?usp=sharing |
 | Ashish Yadav | 2203031080161 | |
 | Vinit Patel | 2203031080139 | |
 | Utsav Hirapra | 2203031080002 | |
