@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/WDF_Test |https://wdf-test-seven.vercel.app/ |
 | Ashish Yadav | 2203031080161 | | |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 | https://github.com/Vinitpatel28/WDF_Test| https://wdf-test-three.vercel.app/|
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://github.com/meetsondarva/WDF_TEST| https://wdf-test-xi.vercel.app/q1.html |
 | Satyam | 2203031080232 | | |
