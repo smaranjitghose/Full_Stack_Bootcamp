@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://github.com/meetsondarva/WDF_TEST| https://wdf-test-xi.vercel.app/q1.html |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | https://github.com/sagariyavaishnavi/WDF_test| https://wdf-test-beta.vercel.app/|
 | Jenish Paghadal | 2203031080007 | | |
