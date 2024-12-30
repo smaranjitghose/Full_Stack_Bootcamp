@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | |
 | Vinit Patel | 2203031080139 | |
 | Utsav Hirapra | 2203031080002 | |
-| Meet Savadasbhai Sondarva | 2203031080146 | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://docs.google.com/document/d/1biiByq1w3rb0ZQvXdAJ6kqnefHPQRKljcvSnEfmZW9w/edit?tab=t.0|
 | Satyam | 2203031080232 | |
 | Vaishnavi Sagariya | 2203031080013 | |
 | Jenish Paghadal | 2203031080007 | |
