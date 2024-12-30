@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Source Code | Deployment URL |
 |-----------------|-------------------|-------------|----------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 |[Github](https://github.com/5hubhm/WDF_Test/tree/master)|[Netlify](https://surprise-test.netlify.app/)|
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
