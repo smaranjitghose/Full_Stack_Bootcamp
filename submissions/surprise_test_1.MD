@@ -15,7 +15,7 @@
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
-| Rajdeepsinh Dabhi | 2203031080069 |[GitHub](https://github.com/Rajdeepsinh1410/wdf_test_.git)|[Vercel](https://surprisetest.vercel.app/) |
+| Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
@@ -27,7 +27,7 @@
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 |[Github](https://github.com/Darshkalani28/WDF_Test)|[Vercel](https://wdf-test-sigma.vercel.app/)|
 | Vignesh Gaddam | 2203031080131 | [GitHub](https://github.com/mrvigneshgaddam/WDF_Test)|[Vercel](https://wdf-test-wine.vercel.app/) |
-| Vrushangi Mistry | 2203031080222 | | |
+| Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/WDF_Test| https://vercel.com/vrushangimistrys-projects-1f43209b/wdf-test|
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/WDF_Test |https://wdf-test-dun.vercel.app/ |
 | Jeet Dhake | 2303031087082 | | |
@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 | | |
+| Pranav Faladu | 2303031087022 |[Github](https://github.com/PranavFaladu/test)|[soluction](https://luminous-mermaid-f06546.netlify.app/)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Github](https://github.com/Neetidarji/WDF_Test) |[Solution](https://wdf-test-1h9.pages.dev/) |
 | Suhani Tandel | 2203031080160 | | |
