@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 | | |
+| Pranav Faladu | 2303031087022 |[Github](https://github.com/PranavFaladu/test)|[soluction](https://luminous-mermaid-f06546.netlify.app/)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
