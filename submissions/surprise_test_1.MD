@@ -23,7 +23,7 @@
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | [Github](https://github.com/Pratik00531/WDF_Test)|[Vercel](https://wdf-test.vercel.app/) |
 | Ravi Vira | 2203031080018 | | |
-| Deep Menpara | 2203031080091 | | |
+| Deep Menpara | 2203031080091 |https://github.com/Deep7133/WDF_TEST |https://wdf-test-deep-menparas-projects.vercel.app/ |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
 | Vignesh Gaddam | 2203031080131 | | |
