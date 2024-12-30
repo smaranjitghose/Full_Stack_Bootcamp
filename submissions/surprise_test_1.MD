@@ -14,7 +14,7 @@
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 | | |
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/WDF_Test |https://wdf-test-j1idka8qt-dhyan-patels-projects-58fd379d.vercel.app/q1.html |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
