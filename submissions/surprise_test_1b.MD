@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | |
 | Utsav Hirapra | 2203031080002 | |
 | Meet Savadasbhai Sondarva | 2203031080146 | |
-| Satyam | 2203031080232 | |
+| Satyam | 2203031080232 |https://drive.google.com/file/d/1RFgGF2rPcGRmX_8zdO3gGE8qoaGt4RHg/view?usp=sharing |
 | Vaishnavi Sagariya | 2203031080013 | |
 | Jenish Paghadal | 2203031080007 | |
 | Umang Patel | 2203031080107 | |
