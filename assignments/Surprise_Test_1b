@@ -1,5 +1,9 @@
+# 🎯 Surprise Test 1
 
-```js
+## 📝 Instructions
+Create a database named `university_db` and insert the data for courses and faculty collections provided below. Write MongoDB queries for the following operations:
+
+```javascript
 // courses collection
 [
     {
@@ -255,9 +259,6 @@
     }
 ]
 ```
-
-## 📝 Instructions
-Create a database named `university_db` and insert the data for courses and faculty collections provided in the dataset. Write MongoDB queries for the following operations:
 
 1. Find all courses with current enrollment less than 40
 2. Find all faculty members who joined before 2020
