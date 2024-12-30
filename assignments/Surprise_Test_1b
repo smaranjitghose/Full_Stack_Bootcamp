@@ -1,4 +1,6 @@
+
 ```
+
 // courses collection
 [
     {
@@ -253,6 +255,7 @@
         "isActive": false
     }
 ]
+
 ```
 
 ## 📝 Instructions
