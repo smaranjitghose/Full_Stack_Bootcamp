@@ -18,7 +18,7 @@
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/WDF_Test | https://wdf-test-89g.pages.dev |
-| Sahil Bharude | 2203031080235 | | |
+| Sahil Bharude | 2203031080235 | https://wdf-test-pi.vercel.app/Q1.html | https://wdf-test-pi.vercel.app/Q5.html |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | [Github](https://github.com/Pratik00531/WDF_Test)|[Vercel](https://wdf-test.vercel.app/) |
