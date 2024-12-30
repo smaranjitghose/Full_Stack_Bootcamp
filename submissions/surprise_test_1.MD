@@ -10,12 +10,12 @@
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
-| Vaishnavi Sagariya | 2203031080013 | https://github.com/sagariyavaishnavi/WDF_test| https://wdf-test-beta.vercel.app/|
+| Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
-| Rajdeepsinh Dabhi | 2203031080069 | | |
+| Rajdeepsinh Dabhi | 2203031080069 |[GitHub](https://github.com/Rajdeepsinh1410/wdf_test_.git)|[Vercel](https://surprisetest.vercel.app/) |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/WDF_Test | https://wdf-test-89g.pages.dev |
 | Sahil Bharude | 2203031080235 | | |
@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 |[Github](https://github.com/PranavFaladu/test)|[soluction](https://luminous-mermaid-f06546.netlify.app/)|
+| Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
