@@ -4,6 +4,7 @@
 Create a database named `university_db` and insert the data for courses and faculty collections provided below. Write MongoDB queries for the following operations:
 
 ```javascript
+
 // courses collection
 [
     {
@@ -258,6 +259,7 @@ Create a database named `university_db` and insert the data for courses and facu
         "isActive": false
     }
 ]
+
 ```
 
 1. Find all courses with current enrollment less than 40
