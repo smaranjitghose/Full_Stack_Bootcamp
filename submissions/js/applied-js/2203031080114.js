@@ -9,9 +9,7 @@ function squareNumbers(input) {
   console.log(squareNumbers(input));
   
   
-  
-  
-  
+
   // Task 2: Custom Filter Function
   // Create a function filterEvenNumbers(arr) using filter() and arrow functions
   
@@ -61,6 +59,6 @@ function squareNumbers(input) {
       return arr.reduce((acc, word) => word.length > acc.length ? word : acc, '');
   }
   
-  input = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
+  input = ['apple', 'banana', 'cherry', 'day', 'elderberry'];
   console.log(findLongestWord(input));
   
