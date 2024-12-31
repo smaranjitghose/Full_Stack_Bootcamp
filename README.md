@@ -29,7 +29,7 @@ This intensive course takes you from zero programming knowledge to building full
 | 4 | 🗄️ MongoDB | CRUD Operations, Aggregation, Mongoose ODM |  | [Quiz 7](https://forms.gle/a5XLEpxW9iS5VgcZ7) | |
 | 5 | 📝 HTML | Intro to HTML, Headings, Text Formatting, Unordered and Ordered Lists, URLs, Images, Tables, Forms-input&buttons, Div | [MDN Docs - HTML](developer.mozilla.org/en-us/docs/web/html) | [Quiz 9](https://forms.gle/gvg7nwN7aKhXc8QJ6) | [HTML Assignment 1](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/HTML_1.MD), [HTML Assignment 2](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/HTML_2.MD)|
 | 6 | 🎨 CSS | CSS3, Flexbox, Grid, Animations | | T.B.D  | |
-| 7 | 💻 JavaScript Deep Dive | ES6+, DOM, Async Programming | |T.B.D  | [JS Basic Projects](./assignments/JavaScript_1.MD)  |
+| 7 | 💻 JavaScript Deep Dive | ES6+, DOM, Async Programming | |[OOPs Quiz](https://forms.gle/DXNHN1AzfnuvSYhN7)| [JS Basic Projects](./assignments/JavaScript_1.MD)  |
 | 8 | 🔙 Backend with Node/Express | RESTful APIs, Middleware, Error Handling | |T.B.D  |  |
 | 9 | 🔐 Auth & Security | JWT, OAuth, Security Best Practices | |T.B.D  |  |
 | 10 | 🧪 Testing & Performance | Jest, Performance Optimization, SEO ||T.B.D  |  |
