@@ -61,6 +61,6 @@ function squareNumbers(input) {
       return arr.reduce((acc, word) => word.length > acc.length ? word : acc, '');
   }
   
-  input = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
+  input = ['apple', 'banana', 'cherry', 'orange', 'elderberry'];
   console.log(findLongestWord(input));
   
