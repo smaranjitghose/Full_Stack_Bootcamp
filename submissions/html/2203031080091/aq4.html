@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions (FAQ)</title>
+    <style>
+        details {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        details[open] {
+            background-color: #e6f7ff;
+        }
+
+        details[open] summary {
+            color: #0056b3;
+        }
+
+        details p {
+            margin-top: 10px;
+        }
+
+        details code {
+            background-color: #f1f1f1;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Frequently Asked Questions</h1>
+
+    <section>
+        <details>
+            <summary>What is HTML?</summary>
+            <p><strong>HTML</strong> stands for <em>HyperText Markup Language</em>. It is the standard language used to create web pages and web applications. HTML provides the structure for web content.</p>
+        </details>
+
+        <details>
+            <summary>What is CSS?</summary>
+            <p><strong>CSS</strong> stands for <em>Cascading Style Sheets</em>. It is used to style HTML elements, such as changing colors, fonts, and layout of a webpage.</p>
+        </details>
+
+        <details>
+            <summary>What is JavaScript?</summary>
+            <p><strong>JavaScript</strong> is a programming language used to make websites interactive. It allows you to manipulate the content of a webpage and create dynamic behavior.</p>
+            <details>
+                <summary>Can I use JavaScript for back-end development?</summary>
+                <p>Yes, JavaScript can be used for back-end development through environments like <code>Node.js</code>. This allows you to run JavaScript on the server side, enabling full-stack development with a single language.</p>
+            </details>
+        </details>
+
+        <details>
+            <summary>What is the difference between <code>var</code>, <code>let</code>, and <code>const</code> in JavaScript?</summary>
+            <p>The difference lies in the scope and mutability of the variables:</p>
+            <ul>
+                <li><strong><code>var</code></strong>: A function-scoped or globally-scoped variable (before ES6). It can be re-assigned and re-declared.</li>
+                <li><strong><code>let</code></strong>: A block-scoped variable introduced in ES6. It can be re-assigned but not re-declared within the same scope.</li>
+                <li><strong><code>const</code></strong>: A block-scoped constant introduced in ES6. It cannot be re-assigned or re-declared once initialized.</li>
+            </ul>
+        </details>
+
+        <details>
+            <summary>How do I start learning web development?</summary>
+            <p>To start learning web development, focus on mastering the following topics:</p>
+            <ol>
+                <li><strong>HTML</strong> - Learn the structure of web pages.</li>
+                <li><strong>CSS</strong> - Learn how to style your web pages and create responsive layouts.</li>
+                <li><strong>JavaScript</strong> - Learn how to add interactivity to your pages.</li>
+                <li>After mastering the basics, explore frameworks and libraries like <em>React</em>, <em>Vue.js</em>, or <em>Angular</em>.</li>
+            </ol>
+            <details>
+                <summary>Any resources for beginners?</summary>
+                <p>Here are some great resources to get started:</p>
+                <ul>
+                    <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+                    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN Web Docs</a></li>
+                    <li><a href="https://www.w3schools.com/">W3Schools</a></li>
+                </ul>
+            </details>
+        </details>
+
+    </section>
+
+</body>
+</html>

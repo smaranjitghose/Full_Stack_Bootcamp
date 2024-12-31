@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: center; }
+        th { background-color: #f4f4f4; }
+        tfoot { font-weight: bold; background-color: #f9f9f9; }
+    </style>
+</head>
+<body>
+
+    <h1>Product Comparison</h1>
+
+    <table>
+        <caption>Product Features</caption>
+        <colgroup>
+            <col style="background-color: #e1f5fe;">
+            <col style="background-color: #e1f5fe;">
+            <col style="background-color: #e1f5fe;">
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Product A</th>
+                <th scope="col">Product B</th>
+                <th scope="col">Product C</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><th scope="row">Price</th><td>$499</td><td>$399</td><td>$299</td></tr>
+            <tr><th scope="row">Weight</th><td>1.5kg</td><td>1.2kg</td><td>1.8kg</td></tr>
+            <tr><th scope="row">Display</th><td>6.5" LCD</td><td>6.7" OLED</td><td>6.3" LED</td></tr>
+            <tr><th scope="row">Battery Life</th><td>10hrs</td><td>12hrs</td><td>9hrs</td></tr>
+            <tr><th scope="row">Features</th><td>Bluetooth 5.0</td><td>5G</td><td>Wireless Charging</td></tr>
+        </tbody>
+        <tfoot>
+            <tr><th scope="row" colspan="2">Average Price</th><td colspan="2">$399</td></tr>
+            <tr><th scope="row" colspan="2">Winner</th><td colspan="2">Product B</td></tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>
