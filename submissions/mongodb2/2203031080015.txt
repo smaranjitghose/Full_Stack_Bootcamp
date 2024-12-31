@@ -1,0 +1,26 @@
+1.  db.products.insertOne({_id:16,name:'rechargable mouse',brand:'logitech',category:'Electronics',price:45,stock:10,ratings:[4.6,5,4.2],description:'Fast wireless and rechargable mouse multi divice support',tags:['mouse','wireless','rechargable','electronics'],lastUpdated:ISODate('2024-01-01')})
+
+2.  db.products.find({price:{$lt:100 }})
+
+3.  db.products.updateOne({name:'Wireless Headphones'},{$set:{stock:40}}) 
+
+4.  db.products.deleteMany({category:'Gaming'})
+
+5. db.products.find().sort({price:-1})
+
+6. db.products.find({stock:{$gt:50, $lt:100}})
+
+7. db.products.find({tags:{$in:['bluetooth','wireless']}})
+
+8. db.products.find({$expr: { $gt: [{ $avg: "$ratings" }, 4.5] }},{name:1,_id:0});
+
+
+9.   db.products.find({lastUpdated: { $gt: new Date("2024-02-01") }},{name:1,_id:0});
+
+
+10.   db.products.find({ratings:{ $size:3}},{name:1,_id:0});
+
+
+11.  db.products.find({$text:{$search:"wireless charging"}},{name:1,_id:0});
+
+12.  db.products.find({$text:{$search:"programmable"}},{name:1,_id:0});
