@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | |
 | Hardeep Ijardar | 2203031080031 | https://docs.google.com/document/d/1cwMr9WZIDNc7q9nv2LqMKa2A-NH6E7cHAjEEYJNHjmo/edit?usp=sharing |
 | Sahil Bharude | 2203031080235 | |
-| Aryan Vekariya | 2203031080125 | |
+| Aryan Vekariya | 2203031080125 |[Task](https://github.com/aaryanvekariya/Mongo_Assignment2/blob/master/QUARIES.txt)|
 | Sparsh Patel | 2203031080053 | |
 | Pratik Patel | 2203031080174 | |
 | Ravi Vira | 2203031080018 | |
