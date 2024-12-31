@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | |
 | Vinit Patel | 2203031080139 | |
 | Utsav Hirapra | 2203031080002 | |
-| Meet Savadasbhai Sondarva | 2203031080146 | |
+| Meet Savadasbhai Sondarva | 2203031080146 | https://docs.google.com/document/d/1biiByq1w3rb0ZQvXdAJ6kqnefHPQRKljcvSnEfmZW9w/edit?tab=t.0|
 | Satyam | 2203031080232 | |
 | Vaishnavi Sagariya | 2203031080013 | |
 | Jenish Paghadal | 2203031080007 | [MongoDB Solution](https://github.com/ItsJESH/WDF_Test/blob/main/Mongo.MD) |
@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | |
 | Hardeep Ijardar | 2203031080031 | https://docs.google.com/document/d/1cwMr9WZIDNc7q9nv2LqMKa2A-NH6E7cHAjEEYJNHjmo/edit?usp=sharing |
 | Sahil Bharude | 2203031080235 | |
-| Aryan Vekariya | 2203031080125 | |
+| Aryan Vekariya | 2203031080125 |[Task](https://github.com/aaryanvekariya/Mongo_Assignment2/blob/master/QUARIES.txt)|
 | Sparsh Patel | 2203031080053 | |
 | Pratik Patel | 2203031080174 | |
 | Ravi Vira | 2203031080018 | |
@@ -29,7 +29,7 @@
 | Vignesh Gaddam | 2203031080131 | |
 | Vrushangi Mistry | 2203031080222 | |
 | Achal Ladani | 2203031080229 | |
-| Harsh Choudhary | 2203031080132 | |
+| Harsh Choudhary | 2203031080132 |[Google Doc](https://docs.google.com/document/d/18pf1GU97iJZ0qvOTSzphLMdqVgyUetVk6mQM0Tvsf2w/edit?tab=t.0) |
 | Jeet Dhake | 2303031087082 | |
 | Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
 | Hani Vaghani | 2303031087088 | |
@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 | |
 | Suhani Tandel | 2203031080160 | |
 | Rishabh Rai | 2203031080114 | |
-| Rutuja Waghchaure | 2303031087089 | |
+| Rutuja Waghchaure | 2303031087089 |https://docs.google.com/document/d/1loC4SaqyrD1mvXYa0SjL6wG-RX5fPtoNyIw-S2iQQRo/edit?usp=sharing |
