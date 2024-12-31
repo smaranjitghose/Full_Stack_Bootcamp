@@ -31,7 +31,7 @@
 | Achal Ladani | 2203031080229 | |
 | Harsh Choudhary | 2203031080132 |[Google Doc](https://docs.google.com/document/d/18pf1GU97iJZ0qvOTSzphLMdqVgyUetVk6mQM0Tvsf2w/edit?tab=t.0) |
 | Jeet Dhake | 2303031087082 | |
-| Vishang Lad | 2203031080035 | |
+| Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
 | Hani Vaghani | 2303031087088 | |
 | Harsh Surani | 2203031080123 | |
 | Yash Sakhareliya | 2203031080015 | |
