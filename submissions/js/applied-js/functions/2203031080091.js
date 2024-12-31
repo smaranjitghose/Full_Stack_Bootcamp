@@ -50,4 +50,4 @@ const findLongestWord = (...arr) => {
     return arr.reduce((longest, word) => word.length > longest.length ? word : longest, '');
 }
 
-console.log(findLongestWord('yash', 'jenish', 'deep', 'risabh', 'pavan'));
+console.log(findLongestWord('yash', 'jenish', 'deep', 'risabh', 'umang'));
