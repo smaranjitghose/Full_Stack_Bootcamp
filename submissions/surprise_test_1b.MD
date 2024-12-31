@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | |
 | Alisha Kaur | 2203031080202 | |
 | Pranav Faladu | 2303031087022 | |
-| Bharvi Valand | 2303031087002 | |
+| Bharvi Valand | 2303031087002 | [Queries](https://docs.google.com/document/d/1F8J7FCABSzy0I3-iEXzh6SOwnaAMOXah_6sqOuk6tSI/edit?usp=sharing) |
 | Neeti Darji | 2303031087080 | |
 | Suhani Tandel | 2203031080160 | |
 | Rishabh Rai | 2203031080114 | |
