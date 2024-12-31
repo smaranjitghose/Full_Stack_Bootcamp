@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | https://js-projects-fw8k.vercel.app/Task3.html | https://js-projects-fw8k.vercel.app/Task4.html | https://github.com/Vinitpatel28/JS-Projects.git |
 | Utsav Hirapra | 2203031080002 | https://js-eosin.vercel.app/counter.html | https://js-eosin.vercel.app/calc.html | https://github.com/utsav1213/JS |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://javascript-projects-livid.vercel.app/counter.html | https://javascript-projects-livid.vercel.app/calculator.html | https://github.com/meetsondarva/javascript_projects |
-| Satyam | 2203031080232 | https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/count.html | https://js-102-l7jmpvzgw-satyam-singhs-projects-af8065ca.vercel.app/geometry.html | https://github.com/mrSinghSatyam/JS102 |
+| Satyam | 2203031080232 |(https://satyamprojects.vercel.app/count.html)|(https://satyamprojects.vercel.app/geometry.html)|(https://github.com/mrSinghSatyam/JS102) |
 | Vaishnavi Sagariya | 2203031080013 | https://js-pro-nine.vercel.app/count.html | https://js-pro-nine.vercel.app/geometry.html | https://github.com/sagariyavaishnavi/js_pro |
 | Jenish Paghadal | 2203031080007 | https://jsassignment-git-jsass4-jenish-paghadals-projects.vercel.app/counter.html | https://jsassignment-omega.vercel.app/calc.html | https://github.com/ItsJESH/JSAssignment |
 | Umang Patel | 2203031080107 | | | |
@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | | |
 | Alisha Kaur | 2203031080202 | https://bucolic-torrone-ee6617.netlify.app/task3 | https://bucolic-torrone-ee6617.netlify.app/task4 | https://github.com/Alishakaur431/javascript |
 | Pranav Faladu | 2303031087022 | https://inquisitive-croquembouche-acec27.netlify.app/count | https://inquisitive-croquembouche-acec27.netlify.app/calculator | https://github.com/PranavFaladu/JSprojects |
-| Bharvi Valand | 2303031087002 | | | |
+| Bharvi Valand | 2303031087002 | https://celebrated-pegasus-172baa.netlify.app/counter | https://celebrated-pegasus-172baa.netlify.app/3d_calculator | https://github.com/bharvivaland/JSprojects.git |
 | Neeti Darji | 2303031087080 | https://jsprojects-6m1.pages.dev/counter | https://jsprojects-6m1.pages.dev/calculator | https://github.com/Neetidarji/Jsprojects |
 | Suhani Tandel | 2203031080160 | https://6761ad146a4f359d1e758efc--sage-rugelach-208f6d.netlify.app/task3 | https://6761ad146a4f359d1e758efc--sage-rugelach-208f6d.netlify.app/task4 | https://github.com/SuhaniTandel/JS-Project.git |
 | Rishabh Rai | 2203031080114 | https://js-coral-psi.vercel.app/counter.html | https://js-coral-psi.vercel.app/Shapes/index.html | https://github.com/Rishabhrai29/js |
