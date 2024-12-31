@@ -40,7 +40,7 @@
 | Alisha Kaur | 2203031080202 | |
 | Pranav Faladu | 2303031087022 | |
 | Bharvi Valand | 2303031087002 | [Queries](https://docs.google.com/document/d/1F8J7FCABSzy0I3-iEXzh6SOwnaAMOXah_6sqOuk6tSI/edit?usp=sharing) |
-| Neeti Darji | 2303031087080 | |
+| Neeti Darji | 2303031087080 |[Solution](https://docs.google.com/document/d/1cTJgcssqY9RmeWkXfjq3EWktfRLwHpEiRNEMmU3pKZM/edit?tab=t.0)|
 | Suhani Tandel | 2203031080160 | |
 | Rishabh Rai | 2203031080114 | |
 | Rutuja Waghchaure | 2303031087089 |https://docs.google.com/document/d/1loC4SaqyrD1mvXYa0SjL6wG-RX5fPtoNyIw-S2iQQRo/edit?usp=sharing |
