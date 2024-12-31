@@ -15,7 +15,7 @@
 | Umang Patel | 2203031080107 | |
 | Mann Solanki | 2203031080260 | |
 | Dhyan Patel | 2203031080216 | https://docs.google.com/document/d/1GmuYY_yYDdq7YCjoSbFNyRfdUvSuJQPJpsqZ3FpZHn4/edit?tab=t.0 |
-| Rajdeepsinh Dabhi | 2203031080069 | |
+| Rajdeepsinh Dabhi | 2203031080069 |[MongoDbQueries](https://docs.google.com/document/d/17Y8ig6RYcxkRajiMueNvRKZMHMRDnjhPSpm5nMqPvTY/edit?usp=sharing) |
 | Ankit Kumar | 2203031080184 | |
 | Hardeep Ijardar | 2203031080031 | https://docs.google.com/document/d/1cwMr9WZIDNc7q9nv2LqMKa2A-NH6E7cHAjEEYJNHjmo/edit?usp=sharing |
 | Sahil Bharude | 2203031080235 | |
