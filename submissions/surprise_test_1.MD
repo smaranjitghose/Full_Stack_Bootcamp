@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 | https://github.com/Vinitpatel28/WDF_Test| https://wdf-test-three.vercel.app/|
 | Utsav Hirapra | 2203031080002 |[Github](https://github.com/utsav1213/WDF_Test) |[Vercel](https://wdf-test-nu.vercel.app/) |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://github.com/meetsondarva/WDF_TEST| https://wdf-test-xi.vercel.app/q1.html |
-| Satyam | 2203031080232 | | |
+| Satyam | 2203031080232 |https://github.com/mrSinghSatyam/Test |https://test-rose-theta-97.vercel.app/q1.html |
 | Vaishnavi Sagariya | 2203031080013 | https://github.com/sagariyavaishnavi/WDF_test| https://wdf-test-beta.vercel.app/|
 | Jenish Paghadal | 2203031080007 | [GitHub](https://github.com/ItsJESH/WDF_Test)|[Vercel](https://suprisetest.vercel.app/) |
 | Umang Patel | 2203031080107 | | |
