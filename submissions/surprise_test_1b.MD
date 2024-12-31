@@ -23,13 +23,13 @@
 | Sparsh Patel | 2203031080053 | |
 | Pratik Patel | 2203031080174 | |
 | Ravi Vira | 2203031080018 | |
-| Deep Menpara | 2203031080091 | |
+| Deep Menpara | 2203031080091 |https://docs.google.com/document/d/1Bq2zQUg9glIGSnf5T8Qmt71a3dxKqNePJZT7epynqxU/edit?usp=sharing |
 | Raj Patel | 2203031080105 | |
 | Darsh Kalani | 2203031080032 | |
 | Vignesh Gaddam | 2203031080131 | |
 | Vrushangi Mistry | 2203031080222 | |
 | Achal Ladani | 2203031080229 | |
-| Harsh Choudhary | 2203031080132 | |
+| Harsh Choudhary | 2203031080132 |[Google Doc](https://docs.google.com/document/d/18pf1GU97iJZ0qvOTSzphLMdqVgyUetVk6mQM0Tvsf2w/edit?tab=t.0) |
 | Jeet Dhake | 2303031087082 | |
 | Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
 | Hani Vaghani | 2303031087088 | |
@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 | |
 | Suhani Tandel | 2203031080160 | |
 | Rishabh Rai | 2203031080114 | |
-| Rutuja Waghchaure | 2303031087089 | |
+| Rutuja Waghchaure | 2303031087089 |https://docs.google.com/document/d/1loC4SaqyrD1mvXYa0SjL6wG-RX5fPtoNyIw-S2iQQRo/edit?usp=sharing |
