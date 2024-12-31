@@ -30,16 +30,7 @@ let getNames=(arr) => {
     return arr.map(arr => arr.name )
 } 
 
-let obj =[
-    {
-        name:"Vignesh"
-    },
-    {
-        name:"Harsh"
-    },
-    {
-        name:"Dev"
-    },
+let obj =[{name:"Vignesh"},{name:"Harsh"},{name:"Dev"},
     {
         name:"Harshit"
     },
