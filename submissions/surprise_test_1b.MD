@@ -7,7 +7,7 @@
 | Pranjal Pandey | 2203031080144 | |
 | Ashish Yadav | 2203031080161 | [GoogleDoc](https://docs.google.com/document/d/1UXwYIJ2fKjHtKvONBZ0w9cWaAXyR6A7X_ySI-Mppong/edit?tab=t.0) |
 | Vinit Patel | 2203031080139 | https://docs.google.com/document/d/1SotZsglN79t0aLjcJfoDyQdEED4IKG6V_HJBGeNlaVw/edit?tab=t.0 |
-| Utsav Hirapra | 2203031080002 | |
+| Utsav Hirapra | 2203031080002 |https://docs.google.com/document/d/1-Uj6voVLxRIR4lmmFzHbOwwRLcztfJeDvTCxKyjsrKs/edit?tab=t.0 |
 | Meet Savadasbhai Sondarva | 2203031080146 | https://docs.google.com/document/d/1biiByq1w3rb0ZQvXdAJ6kqnefHPQRKljcvSnEfmZW9w/edit?tab=t.0|
 | Satyam | 2203031080232 | |
 | Vaishnavi Sagariya | 2203031080013 | https://docs.google.com/document/d/1LIkd7Bl7evvWXrtgSQ2k208EkD-o_R6fQI5MVHnUHvc/edit?tab=t.0|
