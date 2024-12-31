@@ -35,7 +35,7 @@
 | Hani Vaghani | 2303031087088 | |
 | Harsh Surani | 2203031080123 | |
 | Yash Sakhareliya | 2203031080015 | |
-| Meet Upendrakumar Patel | 2203031080011 | |
+| Meet Upendrakumar Patel | 2203031080011 |[doc link](https://1drv.ms/w/c/7fd5ba442110abe8/EULrkSq4wqVDrGsD_qjV5vQBCIeLddE4EplEZ_gKdn43rw?e=iDm1oQ) |
 | Vraj Mehta | 2303031087034 | |
 | Alisha Kaur | 2203031080202 | |
 | Pranav Faladu | 2303031087022 | |
