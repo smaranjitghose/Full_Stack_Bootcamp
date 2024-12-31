@@ -4,7 +4,7 @@ Animal.prototype.speak = function() {
     return 'Animal speaking';
 };
 
-function Dog() {}
+function Dog() {} // for the dog class
 Dog.prototype = Object.create(Animal.prototype);
 Dog.prototype.constructor = Dog;
 Dog.prototype.bark = function() {
@@ -14,7 +14,7 @@ Dog.prototype.bark = function() {
 // Demonstration
 const dog = new Dog();
 console.log(dog.speak()); // Animal speaking
-console.log(dog.bark()); // Woof!
+console.log(dog.bark()); // for the Woof!
 console.log(dog instanceof Dog); // true
 console.log(dog instanceof Animal); // true
 
