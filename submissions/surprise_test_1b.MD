@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | |
 | Aryan Vekariya | 2203031080125 |[Task](https://github.com/aaryanvekariya/Mongo_Assignment2/blob/master/QUARIES.txt)|
 | Sparsh Patel | 2203031080053 | |
-| Pratik Patel | 2203031080174 | |
+| Pratik Patel | 2203031080174 |[Google Docs](https://docs.google.com/document/d/1QKhdafNoTDdwjQ-A8fmqUn1GrPtyO1FpDJ7fDm0WxIA/edit?usp=sharing)|
 | Ravi Vira | 2203031080018 | |
 | Deep Menpara | 2203031080091 |https://docs.google.com/document/d/1Bq2zQUg9glIGSnf5T8Qmt71a3dxKqNePJZT7epynqxU/edit?usp=sharing |
 | Raj Patel | 2203031080105 | |
