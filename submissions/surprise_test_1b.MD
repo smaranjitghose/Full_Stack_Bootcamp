@@ -34,7 +34,7 @@
 | Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
 | Hani Vaghani | 2303031087088 | |
 | Harsh Surani | 2203031080123 | [Test-1B](https://2203031080123-surprise-test-1.netlify.app/html/hospital_queries) |
-| Yash Sakhareliya | 2203031080015 | |
+| Yash Sakhareliya | 2203031080015 |[URL](https://docs.google.com/document/d/11EShezBVD343SWYaSZkZ84VuYvt_OH-0j3gcrRwEWOU/edit?usp=sharing) |
 | Meet Upendrakumar Patel | 2203031080011 | |
 | Vraj Mehta | 2303031087034 | |
 | Alisha Kaur | 2203031080202 | |
