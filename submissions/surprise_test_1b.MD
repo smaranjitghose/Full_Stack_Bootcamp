@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | |
 | Satyam | 2203031080232 | |
 | Vaishnavi Sagariya | 2203031080013 | |
-| Jenish Paghadal | 2203031080007 | |
+| Jenish Paghadal | 2203031080007 | [MongoDB Solution](https://github.com/ItsJESH/WDF_Test/blob/main/Mongo.MD) |
 | Umang Patel | 2203031080107 | |
 | Mann Solanki | 2203031080260 | |
 | Dhyan Patel | 2203031080216 | https://docs.google.com/document/d/1GmuYY_yYDdq7YCjoSbFNyRfdUvSuJQPJpsqZ3FpZHn4/edit?tab=t.0 |
