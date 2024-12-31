@@ -33,7 +33,7 @@
 | Jeet Dhake | 2303031087082 | |
 | Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
 | Hani Vaghani | 2303031087088 | |
-| Harsh Surani | 2203031080123 | |
+| Harsh Surani | 2203031080123 | [Test-1B](https://2203031080123-surprise-test-1.netlify.app/html/hospital_queries) |
 | Yash Sakhareliya | 2203031080015 | |
 | Meet Upendrakumar Patel | 2203031080011 | |
 | Vraj Mehta | 2303031087034 | |
