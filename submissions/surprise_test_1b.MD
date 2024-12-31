@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 | |
 | Jenish Paghadal | 2203031080007 | |
 | Umang Patel | 2203031080107 | |
-| Mann Solanki | 2203031080260 | |
+| Mann Solanki | 2203031080260 | https://docs.google.com/document/d/1YSiSZNmW_b0IhzYwaLzNHZNgb4T5_c1ZGRuDCpH8Wcw/edit?tab=t.0 |
 | Dhyan Patel | 2203031080216 | |
 | Rajdeepsinh Dabhi | 2203031080069 | |
 | Ankit Kumar | 2203031080184 | |
