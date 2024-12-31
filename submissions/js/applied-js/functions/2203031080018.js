@@ -33,7 +33,7 @@ function squareNumbers(input) {
       return arr.filter((num) => num > 0).reduce((acc, num) => acc + num, 0);
   }
   
-  input = [1, -2, 3, -4, 5];
+  input = [1, 2, 3, -4, 5];
   console.log(sumPositiveNumbers(input));
   
   
@@ -54,7 +54,7 @@ function squareNumbers(input) {
   
   
   
-  // Task 5: Find the Longest Word
+  // Task 5: Find the Longest Wor
   // Write a function findLongestWord(arr) that takes an array of strings and returns the longest word using reduce() and an arrow function
   
   function findLongestWord(arr){   
