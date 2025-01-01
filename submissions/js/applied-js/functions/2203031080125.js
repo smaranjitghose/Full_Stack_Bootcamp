@@ -48,3 +48,36 @@ function squareNumbers(input) {
   
   input = ['Kiwi', 'Banana', 'Berry', 'Fig', 'Pineapple'];
   console.log(findLongestWord(input));git 
+
+
+
+//   ================================================================================================================================
+
+
+// Prototypes and Object Oriented
+//Q1
+function Animal() {}
+Animal.prototype.speak = function() {
+    return 'Animal speaking';
+}
+
+function Dog() {}
+Dog.prototype = Object.create(Animal.prototype);
+Dog.prototype.constructor = Dog;
+Dog.prototype.bark = function() {
+    return 'Woof!';
+}
+const myDog = new Dog()
+console.log(myDog.speak())
+console.log(myDog.bark())
+
+//Q2
+function Person(name, age) {
+    this.name = name;
+    this.age = age;
+}
+Person.prototype.greet = function() {
+    return `Hello, my name is ${this.name}`;
+}
+const person1 = new Person('Hardeep', 16)
+console.log(person1.greet())
