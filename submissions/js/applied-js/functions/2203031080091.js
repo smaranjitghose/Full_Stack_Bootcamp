@@ -50,7 +50,7 @@ const findLongestWord = (...arr) => {
     return arr.reduce((longest, word) => word.length > longest.length ? word : longest, '');
 }
 
-console.log(findLongestWord('yash', 'jenish', 'deep', 'risabh', 'umang'));
+console.log(findLongestWord('smit', 'jenish', 'dhamo', 'risabh', 'umang'));
 
 // Task 1
 //Create a constructor function Animal that has a method speak() that return 'Animal speaking'.
