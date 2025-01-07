@@ -14,10 +14,10 @@
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 | | |
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/NodeJS101/blob/main/node_a1.js |https://github.com/dhyanpatel3/NodeJS101 |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/NodeJS101/blob/main/node_a1.js | https://github.com/HardeepIjardar/NodeJS101 |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
@@ -25,14 +25,14 @@
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | https://github.com/Darshkalani28/NodeJS101/blob/main/node_a1.js | https://github.com/Darshkalani28/NodeJS101 |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
-| Hani Vaghani | 2303031087088 | | |
+| Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/NodeJS101/blob/main/node_a1.js|https://github.com/hanivaghani/NodeJS101|
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/NodeJS101/blob/main/node_a1.js) | [Github](https://github.com/suraniharsh/NodeJS101) |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
@@ -40,7 +40,7 @@
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/index.js|https://github.com/PranavFaladu?tab=repositories|
 | Bharvi Valand | 2303031087002 | | |
-| Neeti Darji | 2303031087080 | | |
+| Neeti Darji | 2303031087080 |[Task](https://github.com/Neetidarji/NodeJS101/blob/main/node_a1.js) |[Github Repo](https://github.com/Neetidarji/NodeJS101) |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 | | |
