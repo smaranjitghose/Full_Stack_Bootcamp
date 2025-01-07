@@ -5,9 +5,9 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
-| Ashish Yadav | 2203031080161 | | |
-| Vinit Patel | 2203031080139 | | |
-| Utsav Hirapra | 2203031080002 | | |
+| Ashish Yadav | 2203031080161 | [Task 1](https://github.com/AshishIT611/NodeJS101/blob/main/node_a1.js) | [GitHub](https://github.com/AshishIT611/NodeJS101) |
+| Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/NodeJS101/blob/main/node_a1.js |https://github.com/Vinitpatel28/NodeJS101 |
+| Utsav Hirapra | 2203031080002 |[Task 1](https://github.com/utsav1213/Backend_learning/blob/main/NodeJS101/node_a1.js) |[GitHub](https://github.com/utsav1213/Backend_learning) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/NodeJS101/blob/main/node_a1.js |https://github.com/dhyanpatel3/NodeJS101 |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 |https://github.com/Ankiitsuthar/NodeJS101/blob/main/node_a1.js | https://github.com/Ankiitsuthar/NodeJS101|
 | Hardeep Ijardar | 2203031080031 | https://github.com/HardeepIjardar/NodeJS101/blob/main/node_a1.js | https://github.com/HardeepIjardar/NodeJS101 |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
@@ -25,11 +25,11 @@
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | https://github.com/Darshkalani28/NodeJS101/blob/main/node_a1.js | https://github.com/Darshkalani28/NodeJS101 |
+| Darsh Kalani | 2203031080032 | https://github.com/Darshkalani28/NodeJS101/blob/node-q1/index.js | https://github.com/Darshkalani28/NodeJS101 |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/NodeJS101/blob/main/node_a1.js | https://github.com/Vrushi14|
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/NodeJS101/blob/main/node_a1.js | https://github.com/mrHarshchoudhary/NodeJS101|
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/NodeJS101/blob/main/node_a1.js|https://github.com/hanivaghani/NodeJS101|
@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/index.js|https://github.com/PranavFaladu?tab=repositories|
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |[Task](https://github.com/bharvivaland/NodeJS101/blob/main/node_a1.js)|[Github](https://github.com/bharvivaland/NodeJS101.git)|
 | Neeti Darji | 2303031087080 |[Task](https://github.com/Neetidarji/NodeJS101/blob/main/node_a1.js) |[Github Repo](https://github.com/Neetidarji/NodeJS101) |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
