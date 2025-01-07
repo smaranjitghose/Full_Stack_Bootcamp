@@ -15,7 +15,7 @@
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
-| Rajdeepsinh Dabhi | 2203031080069 |(node_a1)[https://github.com/Rajdeepsinh1410/NodeJS101/blob/main/node_a1.js] |(Github)[https://github.com/Rajdeepsinh1410/NodeJS101.git] |
+| Rajdeepsinh Dabhi | 2203031080069 |[node_a1](https://github.com/Rajdeepsinh1410/NodeJS101/blob/main/node_a1.js) |[Github](https://github.com/Rajdeepsinh1410/NodeJS101.git) |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
