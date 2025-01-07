@@ -117,6 +117,8 @@ git push -u origin main
 - Push your changes to GitHub
 - Make appropriate changes to your README to update the usage instructions (if neeeded)
 
+![](./assignment_genai_1_stage2.png)
+
 
 
 
