@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/NodeJS101/blob/main/node_a1.js |https://github.com/Vinitpatel28/NodeJS101 |
 | Utsav Hirapra | 2203031080002 |[Task 1](https://github.com/utsav1213/Backend_learning/blob/main/NodeJS101/node_a1.js) |[GitHub](https://github.com/utsav1213/Backend_learning) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
-| Satyam | 2203031080232 | | |
+| Satyam | 2203031080232 |https://github.com/mrSinghSatyam/NodeJS101/blob/main/node_a1.js |https://github.com/mrSinghSatyam/NodeJS101 |
 | Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 | [Node A1](https://github.com/ItsJESH/NodeJS101/blob/main/node_a1.js) | [GitHub](https://github.com/ItsJESH/NodeJS101/) |
 | Umang Patel | 2203031080107 | | |
