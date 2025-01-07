@@ -33,12 +33,12 @@
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | | |
+| Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/NodeJS101/blob/main/node_a1.js) | [Github](https://github.com/suraniharsh/NodeJS101) |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 | | |
+| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/index.js|https://github.com/PranavFaladu?tab=repositories|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
