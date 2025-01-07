@@ -10,7 +10,7 @@
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
-| Vaishnavi Sagariya | 2203031080013 | | |
+| Vaishnavi Sagariya | 2203031080013 |[Task-1](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS)|
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
