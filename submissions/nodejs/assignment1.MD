@@ -1,8 +1,10 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 1 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
+| Shubham Karvariya | 2203031080004 | | |
+| Ayush | 2203031080028 | | |
+| Mansha Soni | 2203031080121 |[Task-1](https://github.com/mansha-6/NodeJS101/blob/main/node_a1.js)|[Github](https://github.com/mansha-6/NodeJS101) |
 | Shubham Karvariya | 2203031080004 | [node_a1](https://github.com/5hubhm/NodeJS101/blob/main/node_a1.js)|[Github](https://github.com/5hubhm/NodeJS101)|
 | Ayush | 2203031080028 |[Task1](https://github.com/ayushvadodariya/NodeJS101/blob/main/node_a1.js) | [Github](https://github.com/ayushvadodariya/NodeJS101) |
-| Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/NodeJS101/blob/main/node_a1.js |https://github.com/Pranjallpandey1504/NodeJS101|
 | Ashish Yadav | 2203031080161 | [Task 1](https://github.com/AshishIT611/NodeJS101/blob/main/node_a1.js) | [GitHub](https://github.com/AshishIT611/NodeJS101) |
