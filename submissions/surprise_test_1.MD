@@ -29,7 +29,7 @@
 | Raj Patel | 2203031080105 |[Github](https://github.com/RajPatel08/surprise-test) |[vercel](https://surprise-test-five.vercel.app/) |
 | Darsh Kalani | 2203031080032 |[Github](https://github.com/Darshkalani28/WDF_Test)|[Vercel](https://wdf-test-sigma.vercel.app/)|
 | Vignesh Gaddam | 2203031080131 | [GitHub](https://github.com/mrvigneshgaddam/WDF_Test)|[Vercel](https://wdf-test-wine.vercel.app/) |
-| Vrushangi Mistry | 2203031080222 | | |
+| Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/WDF_Test| https://wdf-test-sage.vercel.app/|
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/WDF_Test |https://wdf-test-dun.vercel.app/ |
 | Jeet Dhake | 2303031087082 | | |
