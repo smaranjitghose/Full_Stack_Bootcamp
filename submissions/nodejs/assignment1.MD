@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/index.js|https://github.com/PranavFaladu?tab=repositories|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Task](https://github.com/Neetidarji/NodeJS101/blob/main/node_a1.js) |[Github Repo](https://github.com/Neetidarji/NodeJS101) |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Task] (https://github.com/SuhaniTandel/NodeJS101/blob/main/index.js)|[Github] https://github.com/SuhaniTandel/NodeJS101|
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 | | |
