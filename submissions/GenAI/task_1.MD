@@ -44,6 +44,6 @@
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/task_1.MD|https://github.com/PranavFaladu/OpenTalkJS|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Task 1](https://github.com/SuhaniTandel/OpenTalkJS/blob/master/Task_1.MD) | [github] (https://github.com/SuhaniTandel/OpenTalkJS) |
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 | | |
