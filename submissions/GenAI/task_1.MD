@@ -31,7 +31,6 @@
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
-
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
