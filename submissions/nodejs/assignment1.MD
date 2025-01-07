@@ -34,7 +34,7 @@
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/NodeJS101/blob/main/node_a1.js|https://github.com/hanivaghani/NodeJS101|
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/NodeJS101/blob/main/node_a1.js) | [Github](https://github.com/suraniharsh/NodeJS101) |
-| Yash Sakhareliya | 2203031080015 | | |
+| Yash Sakhareliya | 2203031080015 |[Task 1 url](https://github.com/YashSakhareliya/Backend_Task/blob/main/main.js) |[Github](https://github.com/yashSakhareliya/Backend_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
