@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 1 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | | |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 |[Task1](https://github.com/ayushvadodariya/NodeJS101/blob/main/node_a1.js) | [Github](https://github.com/ayushvadodariya/NodeJS101) |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
