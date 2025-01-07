@@ -23,7 +23,7 @@
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/Node_101/blob/main/node_a1.js | https://github.com/BharudeSahil/Node_101 |
 | Aryan Vekariya | 2203031080125 |[Task](https://github.com/aaryanvekariya/Backend-JS/blob/master/index.js)|[Repository](https://github.com/aaryanvekariya/Backend-JS) |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 | https://github.com/Pratik00531/NodeJs-101/blob/node-q1/index.js |https://github.com/Pratik00531/NodeJs-101/tree/node-q1 |
 | Ravi Vira | 2203031080018 | [task-1] (https://github.com/Ravi-vira/Backend/blob/main/node_a1.js/index.js) |[git](https://github.com/Ravi-vira/Backend) |
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/backend-/tree/main/node-q1 |https://github.com/Deep7133/backend- |
 | Raj Patel | 2203031080105 | | |
