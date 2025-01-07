@@ -19,7 +19,9 @@
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
-| Aryan Vekariya | 2203031080125 | | |
+| Aryan Vekariya | 2203031080125 |[Github](https://github.com/aaryanvekariya/WDF_Test)|[Deployment](https://wdf-test-jvgaqxmkb-aryan-vekariyas-projects.vercel.app/)|
+| Sparsh Patel | 2203031080053 | | |
+
 | Sparsh Patel | 2203031080053 | (https://github.com/SparshPatel1115/WDF_Test1)| (https://wdf-test1-sparsh-patels-projects.vercel.app/) |
 | Pratik Patel | 2203031080174 | [Github](https://github.com/Pratik00531/WDF_Test)|[Vercel](https://wdf-test.vercel.app/) |
 | Ravi Vira | 2203031080018 |[github] (https://github.com/Ravi-vira/WDF_Test) | [Vercel](https://wdf-test-zeta.vercel.app/) |
