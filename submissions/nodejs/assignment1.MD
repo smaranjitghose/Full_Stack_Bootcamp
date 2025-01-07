@@ -43,4 +43,4 @@
 | Neeti Darji | 2303031087080 |[Task](https://github.com/Neetidarji/NodeJS101/blob/main/node_a1.js) |[Github Repo](https://github.com/Neetidarji/NodeJS101) |
 | Suhani Tandel | 2203031080160 | [Task] (https://github.com/SuhaniTandel/NodeJS101/blob/main/index.js)|[Github] https://github.com/SuhaniTandel/NodeJS101|
 | Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/node-q1/blob/main/node_a1.js |https://github.com/Rishabhrai29/NodeJS101 |
-| Rutuja Waghchaure | 2303031087089 | | |
+| Rutuja Waghchaure | 2303031087089 |https://github.com/rutujawaghchaure/NodeJS101/blob/main/node_a1.js|https://github.com/rutujawaghchaure/NodeJS101|
