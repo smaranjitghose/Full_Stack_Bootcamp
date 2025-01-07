@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | |
 | Mansha Soni | 2203031080121 | |
 | Bhavin Parmar | 2203031080042 |[MongoDB](https://github.com/bhavinbvn/WDF_Test/blob/main/MongoDBSol.MD) |
-| Pranjal Pandey | 2203031080144 | |
+| Pranjal Pandey | 2203031080144 |https://docs.google.com/document/d/14AD7rmrFbAGJrmwOR3Voffbpg0Mzwdw1juSOdi_ruFY/edit?usp=sharing |
 | Ashish Yadav | 2203031080161 | [GoogleDoc](https://docs.google.com/document/d/1UXwYIJ2fKjHtKvONBZ0w9cWaAXyR6A7X_ySI-Mppong/edit?tab=t.0) |
 | Vinit Patel | 2203031080139 | https://docs.google.com/document/d/1SotZsglN79t0aLjcJfoDyQdEED4IKG6V_HJBGeNlaVw/edit?tab=t.0 |
 | Utsav Hirapra | 2203031080002 |https://docs.google.com/document/d/1-Uj6voVLxRIR4lmmFzHbOwwRLcztfJeDvTCxKyjsrKs/edit?tab=t.0 |
@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | |
 | Vraj Mehta | 2303031087034 | |
 | Alisha Kaur | 2203031080202 | |
-| Pranav Faladu | 2303031087022 | |
+| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/test/blob/main/MONGODB.MD|
 | Bharvi Valand | 2303031087002 | [Queries](https://docs.google.com/document/d/1F8J7FCABSzy0I3-iEXzh6SOwnaAMOXah_6sqOuk6tSI/edit?usp=sharing) |
 | Neeti Darji | 2303031087080 |[Solution](https://docs.google.com/document/d/1cTJgcssqY9RmeWkXfjq3EWktfRLwHpEiRNEMmU3pKZM/edit?tab=t.0)|
 | Suhani Tandel | 2203031080160 | |
