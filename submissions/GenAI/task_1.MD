@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
-| Ashish Yadav | 2203031080161 | | |
+| Ashish Yadav | 2203031080161 | [Task 1](https://github.com/AshishIT611/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
