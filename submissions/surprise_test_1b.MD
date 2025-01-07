@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | |
 | Mansha Soni | 2203031080121 | |
 | Bhavin Parmar | 2203031080042 |[MongoDB](https://github.com/bhavinbvn/WDF_Test/blob/main/MongoDBSol.MD) |
-| Pranjal Pandey | 2203031080144 | |
+| Pranjal Pandey | 2203031080144 |https://docs.google.com/document/d/14AD7rmrFbAGJrmwOR3Voffbpg0Mzwdw1juSOdi_ruFY/edit?usp=sharing |
 | Ashish Yadav | 2203031080161 | [GoogleDoc](https://docs.google.com/document/d/1UXwYIJ2fKjHtKvONBZ0w9cWaAXyR6A7X_ySI-Mppong/edit?tab=t.0) |
 | Vinit Patel | 2203031080139 | https://docs.google.com/document/d/1SotZsglN79t0aLjcJfoDyQdEED4IKG6V_HJBGeNlaVw/edit?tab=t.0 |
 | Utsav Hirapra | 2203031080002 |https://docs.google.com/document/d/1-Uj6voVLxRIR4lmmFzHbOwwRLcztfJeDvTCxKyjsrKs/edit?tab=t.0 |
@@ -32,15 +32,15 @@
 | Harsh Choudhary | 2203031080132 |[Google Doc](https://docs.google.com/document/d/18pf1GU97iJZ0qvOTSzphLMdqVgyUetVk6mQM0Tvsf2w/edit?tab=t.0) |
 | Jeet Dhake | 2303031087082 | |
 | Vishang Lad | 2203031080035 |https://docs.google.com/document/d/1LRBaRF6HbEFMEbys5nCuINF66FzM9BwteG40bqntpag/edit?usp=sharing |
-| Hani Vaghani | 2303031087088 | |
+| Hani Vaghani | 2303031087088 |[Solution](https://docs.google.com/document/d/114rzw1HFr-VD7NRinutpMZz94vFLuU3eDcVe_QOBjZM/edit?tab=t.0)|
 | Harsh Surani | 2203031080123 | [Test-1B](https://2203031080123-surprise-test-1.netlify.app/html/hospital_queries) |
 | Yash Sakhareliya | 2203031080015 |[URL](https://docs.google.com/document/d/11EShezBVD343SWYaSZkZ84VuYvt_OH-0j3gcrRwEWOU/edit?usp=sharing) |
 | Meet Upendrakumar Patel | 2203031080011 | |
 | Vraj Mehta | 2303031087034 | |
 | Alisha Kaur | 2203031080202 | |
-| Pranav Faladu | 2303031087022 | |
+| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/test/blob/main/MONGODB.MD|
 | Bharvi Valand | 2303031087002 | [Queries](https://docs.google.com/document/d/1F8J7FCABSzy0I3-iEXzh6SOwnaAMOXah_6sqOuk6tSI/edit?usp=sharing) |
-| Neeti Darji | 2303031087080 | |
+| Neeti Darji | 2303031087080 |[Solution](https://docs.google.com/document/d/1cTJgcssqY9RmeWkXfjq3EWktfRLwHpEiRNEMmU3pKZM/edit?tab=t.0)|
 | Suhani Tandel | 2203031080160 | |
 | Rishabh Rai | 2203031080114 | |
 | Rutuja Waghchaure | 2303031087089 |https://docs.google.com/document/d/1loC4SaqyrD1mvXYa0SjL6wG-RX5fPtoNyIw-S2iQQRo/edit?usp=sharing |
