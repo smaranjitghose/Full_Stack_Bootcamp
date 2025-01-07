@@ -42,5 +42,5 @@
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Task](https://github.com/Neetidarji/NodeJS101/blob/main/node_a1.js) |[Github Repo](https://github.com/Neetidarji/NodeJS101) |
 | Suhani Tandel | 2203031080160 | | |
-| Rishabh Rai | 2203031080114 | | |
+| Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/node-q1/blob/main/node_a1.js |https://github.com/Rishabhrai29/NodeJS101 |
 | Rutuja Waghchaure | 2303031087089 | | |
