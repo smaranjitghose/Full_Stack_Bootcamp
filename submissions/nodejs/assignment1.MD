@@ -26,7 +26,7 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | https://github.com/Darshkalani28/NodeJS101/blob/node-q1/index.js | https://github.com/Darshkalani28/NodeJS101 |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task 1](https://github.com/mrvigneshgaddam/NodeJS101/blob/main/node_a1.js) |[GitHub](https://github.com/mrvigneshgaddam/NodeJS101)|
 | Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/NodeJS101/blob/main/node_a1.js | https://github.com/Vrushi14|
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/NodeJS101/blob/main/node_a1.js | https://github.com/mrHarshchoudhary/NodeJS101|
