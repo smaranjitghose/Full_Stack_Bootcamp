@@ -35,7 +35,7 @@
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/OpenTalkJS/blob/main/script.js|https://github.com/hanivaghani/OpenTalkJS|
 | Harsh Surani | 2203031080123 | [Task 3 ](https://github.com/suraniharsh/GenAI/blob/main/readme.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Yash Sakhareliya | 2203031080015 |[Task 3](https://github.com/YashSakhareliya/OpenTalkJS/blob/Stage3/index.js) |[Github](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) |
-| Meet Upendrakumar Patel | 2203031080011 | | |
+| Meet Upendrakumar Patel | 2203031080011 |[Task 3](https://github.com/MeetPatel54/OpenTalkJS/blob/main/script.js) |[GitHub](https://github.com/MeetPatel54/OpenTalkJS.git) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/OpenTalkJS/blob/main/bulk_work/app.js | https://github.com/Alishakaur431/OpenTalkJS/tree/main/bulk_work|
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/script1.js|https://github.com/PranavFaladu/OpenTalkJS|
