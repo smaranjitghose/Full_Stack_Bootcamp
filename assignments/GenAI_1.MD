@@ -119,7 +119,11 @@ git push -u origin main
 
 ![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/3142f43bf73f3a70a78e1f5bb1ebedd1089c0fc8/assignment_genai_1_stage2.png)
 
+## Stage 3
 
+![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/6dced3f84819c92f7f05411878061a7f96ca5c20/genai_1_stage_3.png)
 
+## Stage 4
 
+![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/64d66ec36c065f6c639524a885d45e62ff931db4/genai_1_stage_4.png)
 
