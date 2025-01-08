@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 |[Task 4](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 |[Task-3](https://github.com/mansha-6/OpenTalkJS/blob/main/task_3.js) |[Github](https://github.com/mansha-6/OpenTalkJS) |
 | Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS) |
-| Pranjal Pandey | 2203031080144 | | |
+| Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/bulk_work/app.js |https://github.com/Pranjallpandey1504/OpenTalkJS |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 |[Task 3](https://github.com/utsav1213/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/utsav1213/OpenTalkJS) |
