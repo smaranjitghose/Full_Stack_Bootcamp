@@ -13,19 +13,19 @@
 | Vaishnavi Sagariya | 2203031080013 | [Task2](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script1.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 | | |
+| Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/main.js | https://github.com/HarmonyHacker/OpenTalkJS|
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/main.js |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/tree/firstname-14) |[GitHub](https://github.com/Rajdeepsinh1410/openTalkJS) |
 | Ankit Kumar | 2203031080184 | https://github.com/Ankiitsuthar/OpenTalkJS/blob/main/task2.js | https://github.com/Ankiitsuthar/OpenTalkJS |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/Assignment-14.js|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task2.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/stage1/script.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 |[task-2](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 | https://github.com/Deep7133/OPENTALKJS/blob/main/script.js | https://github.com/Deep7133/OPENTALKJS |
-| Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Raj Patel | 2203031080105 |https://github.com/RajPatel08/OPENTALKJS/blob/main/main.js |https://github.com/RajPatel08/OPENTALKJS |
+| Darsh Kalani | 2203031080032 | [Task 2](https://github.com/Darshkalani28/OpenTalkJS/blob/darsh-14/task1.md) | [Repo](https://github.com/Darshkalani28/OpenTalkJS/tree/darsh-14) |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/main.js | https://github.com/Vrushi14/OpenTalkJS |
 | Vignesh Gaddam | 2203031080131 | [Task_2](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/main.js) | [GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
@@ -45,5 +45,5 @@
 | Bharvi Valand | 2303031087002 |[Task_2](https://github.com/bharvivaland/OpenTalkJS/blob/main/script.js)|[Github](https://github.com/bharvivaland/OpenTalkJS.git)|
 | Neeti Darji | 2303031087080 | [script](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) | [github](https://github.com/Neetidarji/OpenTalkJS) |
 | Suhani Tandel | 2203031080160 |[Task 2](https://github.com/SuhaniTandel/OpenTalkJS/blob/master/script.js) | [Github](https://github.com/SuhaniTandel/OpenTalkJS)|
-| Rishabh Rai | 2203031080114 | | |
+| Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/OpenTalkJS/blob/main/main.js  |https://github.com/Rishabhrai29/OpenTalkJS |
 | Rutuja Waghchaure | 2303031087089 | https://github.com/rutujawaghchaure/OpenTalkJS/blob/main/script.js | https://github.com/rutujawaghchaure/OpenTalkJS/tree/main |
