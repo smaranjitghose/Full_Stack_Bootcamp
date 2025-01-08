@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/script1.js|https://github.com/PranavFaladu/OpenTalkJS|
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |[Task3](https://github.com/bharvivaland/OpenTalkJS/blob/7a7cd6bbb6646e07f8feb20eaa94fce59005b5cd/script.js)|[Github](https://github.com/bharvivaland/OpenTalkJS.git)|
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
