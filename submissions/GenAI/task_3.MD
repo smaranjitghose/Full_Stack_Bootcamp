@@ -3,7 +3,7 @@
 | Shubham Karvariya | 2203031080004 | | |
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
-| Bhavin Parmar | 2203031080042 | | |
+| Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS) |
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
