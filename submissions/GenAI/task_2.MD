@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 | [Task2](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script1.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/main.js | https://github.com/HarmonyHacker/OpenTalkJS|
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/main.js |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/tree/firstname-14) |[GitHub](https://github.com/Rajdeepsinh1410/openTalkJS) |
 | Ankit Kumar | 2203031080184 | https://github.com/Ankiitsuthar/OpenTalkJS/blob/main/task2.js | https://github.com/Ankiitsuthar/OpenTalkJS |
