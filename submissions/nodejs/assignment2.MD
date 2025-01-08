@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Task2](https://github.com/aaryanvekariya/Node-JS/blob/node-q2/todo.js)|[Repository](https://github.com/aaryanvekariya/Node-JS/tree/node-q2)|
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/node-q2/todo.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
