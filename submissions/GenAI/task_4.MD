@@ -25,7 +25,7 @@
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | [Task 4](https://github.com/Darshkalani28/OpenTalkJS/blob/darsh-1/Task-4/script.js) | [Repo](https://github.com/Darshkalani28/OpenTalkJS/tree/darsh-1/Task-4) |
 | Vignesh Gaddam | 2203031080131 |[Task_4](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/task4.js) | [GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
