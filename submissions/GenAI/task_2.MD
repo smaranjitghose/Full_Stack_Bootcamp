@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 2 Script | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 |[Task 2](https://github.com/5hubhm/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/5hubhm/OpenTalkJS) |
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/tree/firstname-14) |[GitHub](https://github.com/Rajdeepsinh1410/openTalkJS) |
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 | https://github.com/Ankiitsuthar/OpenTalkJS/blob/main/task2.js|https://github.com/Ankiitsuthar/OpenTalkJS |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
@@ -26,19 +26,16 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task_2](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/main.js) |[GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/second.js |https://github.com/mrHarshchoudhary/OpenTalkJS |
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
+| Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/script1.js|https://github.com/vishangl/OpenTalkJS |
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
-| Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/task_1.MD|https://github.com/vishangl/OpenTalkJS| 
-| Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | | |
-| Yash Sakhareliya | 2203031080015 | | |
-| Meet Upendrakumar Patel | 2203031080011 | | |
+| Yash Sakhareliya | 2203031080015 |[Task 2](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/YashSakhareliya/OpenTalkJS/) |
+| Meet Upendrakumar Patel | 2203031080011 |[Task 2](https://github.com/MeetPatel54/OpenTalkJS/blob/main/script.js) |[GitHub](https://github.com/MeetPatel54/OpenTalkJS) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/task_1.MD|https://github.com/PranavFaladu/OpenTalkJS|
