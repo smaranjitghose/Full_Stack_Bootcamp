@@ -31,12 +31,10 @@
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/Task1.md |https://github.com/mrHarshchoudhary/OpenTalkJS |
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
-| Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
+(https://github.com/suraniharsh/GenAI) |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/task_1.MD|https://github.com/vishangl/OpenTalkJS| 
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/OpenTalkJS/blob/main/task_1.MD |https://github.com/hanivaghani/OpenTalkJS |
-| Harsh Surani | 2203031080123 | | |
+| Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI]
 | Yash Sakhareliya | 2203031080015 |[Task 1](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/YashSakhareliya/OpenTalkJS) |
 | Meet Upendrakumar Patel | 2203031080011 |[Task 1](https://github.com/MeetPatel54/GenAI/blob/main/Task_1.md) |[GitHub](https://github.com/MeetPatel54/OpenTalkJS.git) |
 | Vraj Mehta | 2303031087034 | | |
