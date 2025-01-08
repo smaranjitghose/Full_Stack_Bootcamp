@@ -19,7 +19,7 @@
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task3.js | https://github.com/BharudeSahil/OpenTalkJS |
-| Aryan Vekariya | 2203031080125 | | |
+| Aryan Vekariya | 2203031080125 |[Task3](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/index.js)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS) |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 | | |
