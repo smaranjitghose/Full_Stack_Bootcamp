@@ -8,16 +8,16 @@
 | Ashish Yadav | 2203031080161 | [Task 1](https://github.com/AshishIT611/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/OpenTalkJS/blob/main/task_1.MD |https://github.com/Vinitpatel28/OpenTalkJS.git|
 | Utsav Hirapra | 2203031080002 |[Task 1](https://github.com/utsav1213/OpenTalkJS/blob/main/task1.md) |[GitHib](https://github.com/utsav1213/OpenTalkJS) |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
-| Satyam | 2203031080232 | | |
-| Vaishnavi Sagariya | 2203031080013 |[Task-1](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS)|
-| Jenish Paghadal | 2203031080007 | [GenAI](https://github.com/ItsJESH/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/ItsJESH/OpenTalkJS/) |
+| Meet Savadasbhai Sondarva | 2203031080146 |https://github.com/meetsondarva/OpenTalkJS/blob/main/task_1.MD |https://github.com/meetsondarva/OpenTalkJS |
+| Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |
+| Vaishnavi Sagariya | 2203031080013 | | |
+| Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+ Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/app.js |https://github.com/HarmonyHacker |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/task_1.MD |https://github.com/dhyanpatel3/OpenTalkJS |
-| Rajdeepsinh Dabhi | 2203031080069 | | |
+| Rajdeepsinh Dabhi | 2203031080069 |[Task -1](https://github.com/Rajdeepsinh1410/openTalkJS/blob/main/task.MD) |[GitHub] (https://github.com/Rajdeepsinh1410/openTalkJS)|
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/task1.md|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task1.md | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 |[Task1](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/Task.md)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS)|
 | Sparsh Patel | 2203031080053 | | |
