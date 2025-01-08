@@ -24,7 +24,7 @@
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 |[task-1](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/OPENTALKJS/blob/main/script.js |https://github.com/Deep7133/OPENTALKJS |
-| Raj Patel | 2203031080105 | | |
+| Raj Patel | 2203031080105 |[task-1](https://github.com/RajPatel08/OPENTALKJS/blob/main/script.js) |[git](https://github.com/RajPatel08/OPENTALKJS) |
 | Darsh Kalani | 2203031080032 | [Task 1](https://github.com/Darshkalani28/OpenTalkJS/blob/darsh-1/task1.md) | [Repo](https://github.com/Darshkalani28/OpenTalkJS) |
 | Vignesh Gaddam | 2203031080131 |[Task](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/Task1.md) |[GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/OpenTalkJS | https://github.com/Vrushi14|
