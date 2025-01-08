@@ -2,7 +2,7 @@
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Task 1](https://github.com/5hubhm/OpenTalkJS/blob/main/Task.md)| [Github](https://github.com/5hubhm/OpenTalkJS)|
 | Ayush | 2203031080028 | [Task 1](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |https://github.com/mansha-6/OpenTalkJS/blob/main/task_1.MD|https://github.com/mansha-6/OpenTalkJS.git|
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/task_1.MD |https://github.com/Pranjallpandey1504/OpenTalkJS |
 | Ashish Yadav | 2203031080161 | | |
