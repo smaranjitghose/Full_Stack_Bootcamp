@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/a16.js|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
@@ -26,10 +26,10 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task_4](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/task4.js) | [GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/task4.js | https://github.com/mrHarshchoudhary/OpenTalkJS|
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 | | |
