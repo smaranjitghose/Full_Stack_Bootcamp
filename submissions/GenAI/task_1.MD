@@ -3,7 +3,7 @@
 | Shubham Karvariya | 2203031080004 | [Task 1](https://github.com/5hubhm/OpenTalkJS/blob/main/Task.md)| [Github](https://github.com/5hubhm/OpenTalkJS)|
 | Ayush | 2203031080028 | [Task 1](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 |https://github.com/mansha-6/OpenTalkJS/blob/main/task_1.MD|https://github.com/mansha-6/OpenTalkJS.git|
-| Bhavin Parmar | 2203031080042 | | |
+| Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/task_1.MD |https://github.com/Pranjallpandey1504/OpenTalkJS |
 | Ashish Yadav | 2203031080161 | [Task 1](https://github.com/AshishIT611/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/OpenTalkJS/blob/main/task_1.MD |https://github.com/Vinitpatel28/OpenTalkJS.git|
@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 |https://github.com/meetsondarva/OpenTalkJS/blob/main/script.js|https://github.com/meetsondarva/OpenTalkJS |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[Task 1](https://github.com/ItsJESH/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/) |
 | Umang Patel | 2203031080107 | | |
  Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/app.js |https://github.com/HarmonyHacker |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/task_1.MD |https://github.com/dhyanpatel3/OpenTalkJS |
