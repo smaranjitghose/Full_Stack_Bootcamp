@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 |[Task4](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/index.js)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS) |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/stage4/script.js |https://github.com/Pratik00531/OpenTalkJS |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 |[task-4](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/OPENTALKJS/blob/main/script.js |https://github.com/Deep7133/OPENTALKJS |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | [Task 4](https://github.com/Darshkalani28/OpenTalkJS/blob/darsh-1/Task-4/script.js) | [Repo](https://github.com/Darshkalani28/OpenTalkJS/tree/darsh-1/Task-4) |
