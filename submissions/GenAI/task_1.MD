@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 |https://github.com/meetsondarva/OpenTalkJS/blob/main/script.js|https://github.com/meetsondarva/OpenTalkJS |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[Task 1](https://github.com/ItsJESH/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/) |
 | Umang Patel | 2203031080107 | | |
  Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/app.js |https://github.com/HarmonyHacker |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/task_1.MD |https://github.com/dhyanpatel3/OpenTalkJS |
