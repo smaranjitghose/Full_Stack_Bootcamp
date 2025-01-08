@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/stage-4/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS/) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/task4/index.js |https://github.com/Pranjallpandey1504/OpenTalkJS |
-| Ashish Yadav | 2203031080161 | [Task 4](https://github.com/AshishIT611/OpenTalkJS/blob/main/index.js) | [GitHub]() |
+| Ashish Yadav | 2203031080161 | [Task 4](https://github.com/AshishIT611/OpenTalkJS/blob/main/index.js) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
