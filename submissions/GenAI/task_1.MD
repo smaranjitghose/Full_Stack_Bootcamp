@@ -9,9 +9,9 @@
 | Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/OpenTalkJS/blob/main/task_1.MD |https://github.com/Vinitpatel28/OpenTalkJS.git|
 | Utsav Hirapra | 2203031080002 |[Task 1](https://github.com/utsav1213/OpenTalkJS/blob/main/task1.md) |[GitHib](https://github.com/utsav1213/OpenTalkJS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
-| Satyam | 2203031080232 | | |
-| Vaishnavi Sagariya | 2203031080013 |[Task-1](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS)|
-| Jenish Paghadal | 2203031080007 | [GenAI](https://github.com/ItsJESH/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/ItsJESH/OpenTalkJS/) |
+| Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/README.md |
+| Vaishnavi Sagariya | 2203031080013 | | |
+| Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
  Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/app.js |https://github.com/HarmonyHacker |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/task_1.MD |https://github.com/dhyanpatel3/OpenTalkJS |
