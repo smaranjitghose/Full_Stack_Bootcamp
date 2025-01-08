@@ -7,7 +7,7 @@
 | Pranjal Pandey | 2203031080144 | https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/script.js | https://github.com/Pranjallpandey1504/OpenTalkJS/tree/main |
 | Ashish Yadav | 2203031080161 | [Task 2](https://github.com/AshishIT611/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 | [Task 2](https://github.com/Vinitpatel28/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/Vinitpatel28/OpenTalkJS) |
-| Utsav Hirapra | 2203031080002 | | |
+| Utsav Hirapra | 2203031080002 |[Task 2](https://github.com/utsav1213/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/utsav1213/OpenTalkJS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/main.js | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/main.js |
 | Vaishnavi Sagariya | 2203031080013 | [Task2](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script1.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
