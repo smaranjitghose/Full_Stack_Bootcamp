@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 4 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Task 4](https://github.com/5hubhm/OpenTalkJS/blob/stage-4/index.js) | [Github](https://github.com/5hubhm/OpenTalkJS) |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 |[Task 4](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 |[Task-4](https://github.com/mansha-6/OpenTalkJS/blob/main/index2.js)|[Github](https://github.com/mansha-6/OpenTalkJS) |
 | Bhavin Parmar | 2203031080042 | [Task](https://github.com/bhavinSOL/OpenTalkJS/blob/stage-4/index.js) | [GitHub](https://github.com/bhavinSOL/OpenTalkJS/) |
 | Pranjal Pandey | 2203031080144 | https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/task4/index.js | https://github.com/Pranjallpandey1504/OpenTalkJS |
@@ -10,7 +10,7 @@
 | Utsav Hirapra | 2203031080002 | [Task-4](https://github.com/utsav1213/OpenTalkJS/blob/Stage-4/script.js) | [GitHub](https://github.com/utsav1213/OpenTalkJS/tree/main) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/task.js | https://github.com/mrSinghSatyam/OpenTalkJS |
-| Vaishnavi Sagariya | 2203031080013 | | |
+| Vaishnavi Sagariya | 2203031080013 | [Task-4](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/app.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
@@ -42,4 +42,4 @@
 | Neeti Darji | 2303031087080 | [Task 4](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) | [Github](https://github.com/Neetidarji/OpenTalkJS) |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/OpenTalkJS/blob/main/script4.js | https://github.com/Rishabhrai29/OpenTalkJS |
-| Rutuja Waghchaure | 2303031087089 | | |
+| Rutuja Waghchaure | 2303031087089 | https://github.com/rutujawaghchaure/OpenTalkJS/blob/main/script1.js | https://github.com/rutujawaghchaure/OpenTalkJS/tree/main |
