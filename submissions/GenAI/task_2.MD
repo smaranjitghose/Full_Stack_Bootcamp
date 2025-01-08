@@ -33,8 +33,13 @@
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/script1.js|https://github.com/vishangl/OpenTalkJS |
 | Hani Vaghani | 2303031087088 | | |
+<<<<<<< HEAD
 | Harsh Surani | 2203031080123 | [Task 2](https://github.com/suraniharsh/GenAI/blob/main/readme.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Yash Sakhareliya | 2203031080015 | | |
+=======
+| Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
+| Yash Sakhareliya | 2203031080015 |[Task 2](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/YashSakhareliya/OpenTalkJS/) |
+>>>>>>> 7a319b336c1f87089b2e78f6b73c487f480293a9
 | Meet Upendrakumar Patel | 2203031080011 |[Task 2](https://github.com/MeetPatel54/OpenTalkJS/blob/main/script.js) |[GitHub](https://github.com/MeetPatel54/OpenTalkJS) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
