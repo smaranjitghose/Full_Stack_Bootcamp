@@ -42,7 +42,7 @@
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
-| Neeti Darji | 2303031087080 | | |
+| Neeti Darji | 2303031087080 |[Task 4](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js)|[Github](https://github.com/Neetidarji/OpenTalkJS)|
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 | | |
