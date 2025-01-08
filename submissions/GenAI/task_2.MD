@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 2 Script | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 |[Task 2](https://github.com/5hubhm/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/5hubhm/OpenTalkJS) |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 |[Task-2](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
