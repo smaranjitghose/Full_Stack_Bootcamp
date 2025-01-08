@@ -12,7 +12,7 @@
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 | | |
-| Umang Patel | 2203031080107 | | |
+| Umang Patel | 2203031080107 |[Task 4](https://github.com/ItsJESH/OpenTalkJS/blob/Stage4/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage4) |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
