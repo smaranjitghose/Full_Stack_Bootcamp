@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 | | |
+| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/todo.js|https://github.com/PranavFaladu/NODEJS101/tree/main|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
