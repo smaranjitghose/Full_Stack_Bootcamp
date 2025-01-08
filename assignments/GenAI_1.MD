@@ -1,6 +1,8 @@
 # 📄 Project 1: JS Based Personal LLM
 
-## 📝 Description
+## Stage 1
+
+### 📝 Description
 Create JavaScript application that interacts with a local LLaMA 3.2 model through Ollama to generate responses to prompts. Your application should be able to send text prompts and receive AI-generated responses.
 
 ---
@@ -102,4 +104,24 @@ git commit -m "v0.0.1"
 git remote add origin <your-repo-url>
 git push -u origin main
 ```
+
+
+## Stage 2
+
+- Create a file `q.txt` and paste any of the questions mentioned above
+- Modify the `script.js` to read and parse the question from `q.txt` using the `fs` module
+- Pass the question to the local llm via ollama and get a response
+- Instead of storing the response, store it in a file called `a.txt` in the root of the project diretory
+- Stage Your Changes
+- Commit with the message "v0.0.2"
+- Push your changes to GitHub
+- Make appropriate changes to your README to update the usage instructions (if neeeded)
+
+![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/3142f43bf73f3a70a78e1f5bb1ebedd1089c0fc8/assignment_genai_1_stage2.png)
+
+## Stage 3
+
+![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/6dced3f84819c92f7f05411878061a7f96ca5c20/genai_1_stage_3.png)
+
+
 
