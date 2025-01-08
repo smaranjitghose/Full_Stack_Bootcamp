@@ -17,7 +17,7 @@
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/task_1.MD |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task -1](https://github.com/Rajdeepsinh1410/openTalkJS/blob/main/task.MD) |[GitHub] (https://github.com/Rajdeepsinh1410/openTalkJS)|
 | Ankit Kumar | 2203031080184 | | |
-| Hardeep Ijardar | 2203031080031 | | |
+| Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/task1.md|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task1.md | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 |[Task1](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/Task.md)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS)|
 | Sparsh Patel | 2203031080053 | | |
