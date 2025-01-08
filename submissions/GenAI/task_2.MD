@@ -44,5 +44,5 @@
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
-| Rishabh Rai | 2203031080114 | | |
+| Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/OpenTalkJS/blob/main/main.js | https://github.com/Rishabhrai29/OpenTalkJS |
 | Rutuja Waghchaure | 2303031087089 | | |
