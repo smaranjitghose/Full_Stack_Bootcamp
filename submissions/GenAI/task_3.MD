@@ -16,7 +16,7 @@
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/index.js |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/blob/main/index.js) |[GitHub] (https://github.com/Rajdeepsinh1410/openTalkJS)|
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 |[Task 3](https://github.com/Ankiitsuthar/OpenTalkJS/blob/main/task3.js)|[GitHub](https://github.com/Ankiitsuthar/OpenTalkJS) |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/a15.js|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task3.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 |[Task3](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/index.js)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS) |
