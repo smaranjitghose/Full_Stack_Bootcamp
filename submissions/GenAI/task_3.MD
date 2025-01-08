@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 1 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Task 3](https://github.com/5hubhm/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/5hubhm/OpenTalkJS) |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 |[Task 4](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 |[Task-3](https://github.com/mansha-6/OpenTalkJS/blob/main/task_3.js) |[Github](https://github.com/mansha-6/OpenTalkJS) |
 | Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS) |
 | Pranjal Pandey | 2203031080144 | | |
@@ -10,7 +10,7 @@
 | Utsav Hirapra | 2203031080002 |[Task 3](https://github.com/utsav1213/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/utsav1213/OpenTalkJS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/app.js |https://github.com/mrSinghSatyam/OpenTalkJS |
-| Vaishnavi Sagariya | 2203031080013 | | |
+| Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script2.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 |[Task 3](https://github.com/ItsJESH/OpenTalkJS/blob/Stage3/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage3) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
