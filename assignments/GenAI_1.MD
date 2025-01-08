@@ -117,5 +117,9 @@ git push -u origin main
 - Push your changes to GitHub
 - Make appropriate changes to your README to update the usage instructions (if neeeded)
 
+![](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/3142f43bf73f3a70a78e1f5bb1ebedd1089c0fc8/assignment_genai_1_stage2.png)
+
+
+
 
 
