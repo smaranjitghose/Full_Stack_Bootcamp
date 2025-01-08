@@ -7,7 +7,7 @@
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/OpenTalkJS/blob/main/task_1.MD |https://github.com/Pranjallpandey1504/OpenTalkJS |
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 |https://github.com/Vinitpatel28/OpenTalkJS/blob/main/task_1.MD |https://github.com/Vinitpatel28/OpenTalkJS.git|
-| Utsav Hirapra | 2203031080002 | | |
+| Utsav Hirapra | 2203031080002 |[Task 1](https://github.com/utsav1213/OpenTalkJS/blob/main/task1.md) |[GitHib](https://github.com/utsav1213/OpenTalkJS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 |[Task-1](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/task_1.MD) | [GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS)|
