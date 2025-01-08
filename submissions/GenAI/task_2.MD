@@ -32,8 +32,8 @@
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/second.js |https://github.com/mrHarshchoudhary/OpenTalkJS |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/script1.js|https://github.com/vishangl/OpenTalkJS |
-| Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | [Task 2](https://github.com/suraniharsh/GenAI/blob/main/readme.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
+| Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/OpenTalkJS/blob/main/script.js|https://github.com/hanivaghani/OpenTalkJS/tree/main|
+
 | Yash Sakhareliya | 2203031080015 | | |
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Yash Sakhareliya | 2203031080015 |[Task 2](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) |[Github](https://github.com/YashSakhareliya/OpenTalkJS/) |
