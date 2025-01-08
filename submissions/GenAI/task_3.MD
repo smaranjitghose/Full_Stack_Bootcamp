@@ -11,14 +11,14 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[Task 2](https://github.com/ItsJESH/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
-| Sahil Bharude | 2203031080235 | | |
+| Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task3.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
@@ -26,22 +26,19 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task3](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/task3.js) |[GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
-| Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/task_1.MD|https://github.com/vishangl/OpenTalkJS| 
 | Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | | |
+| Harsh Surani | 2203031080123 | [Task 3 ](https://github.com/suraniharsh/GenAI/blob/main/readme.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
-| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/task_1.MD|https://github.com/PranavFaladu/OpenTalkJS|
+| Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/script1.js|https://github.com/PranavFaladu/OpenTalkJS|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
