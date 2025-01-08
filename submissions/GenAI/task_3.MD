@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 |[Task](https://github.com/bhavinSOL/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/bhavinSOL/OpenTalkJS) |
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 |[Task 3](https://github.com/Vinitpatel28/OpenTalkJS/blob/main/app.js) |[GitHub](https://github.com/Vinitpatel28/OpenTalkJS) |
 | Utsav Hirapra | 2203031080002 |[Task 3](https://github.com/utsav1213/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/utsav1213/OpenTalkJS) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/app.js |https://github.com/mrSinghSatyam/OpenTalkJS |
@@ -14,14 +14,14 @@
 | Jenish Paghadal | 2203031080007 |[Task 3](https://github.com/ItsJESH/OpenTalkJS/blob/Stage3/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage3) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 | | |
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/index.js |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/blob/main/index.js) |[GitHub] (https://github.com/Rajdeepsinh1410/openTalkJS)|
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/a15.js|https://github.com/HardeepIjardar/GenAI|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task3.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 |[Task3](https://github.com/aaryanvekariya/OpenTalk-JS/blob/main/index.js)|[Repository](https://github.com/aaryanvekariya/OpenTalk-JS) |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/stage3/script.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 |[task-3](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/OPENTALKJS/blob/main/script.js |https://github.com/Deep7133/OPENTALKJS |
 | Raj Patel | 2203031080105 | | |
@@ -40,7 +40,7 @@
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/script1.js|https://github.com/PranavFaladu/OpenTalkJS|
 | Bharvi Valand | 2303031087002 |[Task3](https://github.com/bharvivaland/OpenTalkJS/blob/7a7cd6bbb6646e07f8feb20eaa94fce59005b5cd/script.js)|[Github](https://github.com/bharvivaland/OpenTalkJS.git)|
-| Neeti Darji | 2303031087080 | | |
+| Neeti Darji | 2303031087080 |[task 3](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) |[github](https://github.com/Neetidarji/OpenTalkJS) |
 | Suhani Tandel | 2203031080160 | | |
-| Rishabh Rai | 2203031080114 | | |
+| Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/OpenTalkJS/blob/main/script3.js|https://github.com/Rishabhrai29/OpenTalkJS |
 | Rutuja Waghchaure | 2303031087089 | | |
