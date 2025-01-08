@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script2.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 |[Task 3](https://github.com/ItsJESH/OpenTalkJS/blob/Stage3/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage3) |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |[Task 3](https://github.com/HarmonyHacker/OpenTalkJS/blob/main/index.js)|[Github](https://github.com/HarmonyHacker/OpenTalkJS)|
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/index.js |https://github.com/dhyanpatel3/OpenTalkJS |
 | Rajdeepsinh Dabhi | 2203031080069 |[Task](https://github.com/Rajdeepsinh1410/openTalkJS/blob/main/index.js) |[GitHub] (https://github.com/Rajdeepsinh1410/openTalkJS)|
 | Ankit Kumar | 2203031080184 |[Task 3](https://github.com/Ankiitsuthar/OpenTalkJS/blob/main/task3.js)|[GitHub](https://github.com/Ankiitsuthar/OpenTalkJS) |
@@ -41,7 +41,7 @@
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/OpenTalkJS/blob/main/script1.js|https://github.com/PranavFaladu/OpenTalkJS|
 | Bharvi Valand | 2303031087002 |[Task3](https://github.com/bharvivaland/OpenTalkJS/blob/7a7cd6bbb6646e07f8feb20eaa94fce59005b5cd/script.js)|[Github](https://github.com/bharvivaland/OpenTalkJS.git)|
 | Neeti Darji | 2303031087080 |[task 3](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) |[github](https://github.com/Neetidarji/OpenTalkJS) |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Task 3](https://github.com/SuhaniTandel/OpenTalkJS/blob/master/app.js)|[Github](https://github.com/SuhaniTandel/OpenTalkJS) |
 | Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/OpenTalkJS/blob/main/script3.js|https://github.com/Rishabhrai29/OpenTalkJS |
 | Rutuja Waghchaure | 2303031087089 |https://github.com/rutujawaghchaure/OpenTalkJS/blob/main/script.js|https://github.com/rutujawaghchaure/OpenTalkJS/tree/main|
 
