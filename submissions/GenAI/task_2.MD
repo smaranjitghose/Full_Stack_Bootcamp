@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task2.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/stage1/script.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 |[task-2](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 | https://github.com/Deep7133/OPENTALKJS/blob/main/script.js | https://github.com/Deep7133/OPENTALKJS |
 | Raj Patel | 2203031080105 | | |
