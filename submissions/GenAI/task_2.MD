@@ -29,7 +29,7 @@
 | Vignesh Gaddam | 2203031080131 |[Task_2](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/main.js) |[GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/second.js |https://github.com/mrHarshchoudhary/OpenTalkJS |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/script1.js|https://github.com/vishangl/OpenTalkJS |
 | Hani Vaghani | 2303031087088 | | |
