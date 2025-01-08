@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | | |
 | Pranav Faladu | 2303031087022 | | |
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |[Assignment2](https://github.com/bharvivaland/NodeJS101/blob/main/MyTodo.js)|[Github](https://github.com/bharvivaland/NodeJS101.git)|
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | | |
