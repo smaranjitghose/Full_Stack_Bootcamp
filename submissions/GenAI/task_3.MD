@@ -43,4 +43,5 @@
 | Neeti Darji | 2303031087080 |[task 3](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) |[github](https://github.com/Neetidarji/OpenTalkJS) |
 | Suhani Tandel | 2203031080160 | | |
 | Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/OpenTalkJS/blob/main/script3.js|https://github.com/Rishabhrai29/OpenTalkJS |
-| Rutuja Waghchaure | 2303031087089 | | |
+| Rutuja Waghchaure | 2303031087089 |https://github.com/rutujawaghchaure/OpenTalkJS/blob/main/script.js|https://github.com/rutujawaghchaure/OpenTalkJS/tree/main|
+
