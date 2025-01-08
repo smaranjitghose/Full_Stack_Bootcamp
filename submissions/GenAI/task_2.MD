@@ -36,7 +36,7 @@
 | Yash Sakhareliya | 2203031080015 | [Task 2](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) | [GitHub](https://github.com/YashSakhareliya/OpenTalkJS/) |
 | Meet Upendrakumar Patel | 2203031080011 | [Task 2](https://github.com/MeetPatel54/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/MeetPatel54/OpenTalkJS) |
 | Vraj Mehta | 2303031087034 | | |
-| Alisha Kaur | 2203031080202 | | |
+| Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/OpenTalkJS/blob/main/script.js |https://github.com/Alishakaur431/OpenTalkJS |
 | Pranav Faladu | 2303031087022 | [Task 2](https://github.com/PranavFaladu/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/PranavFaladu/OpenTalkJS) |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | [Task 2](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/Neetidarji/OpenTalkJS) |
