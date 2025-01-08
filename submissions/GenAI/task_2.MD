@@ -26,8 +26,13 @@
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/OPENTALKJS/blob/main/script.js |https://github.com/Deep7133/OPENTALKJS |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
+
+| Vignesh Gaddam | 2203031080131 | | |
+| Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/OpenTalkJS/blob/main/main.js | https://github.com/Vrushi14/OpenTalkJS|
+
 | Vignesh Gaddam | 2203031080131 |[Task_2](https://github.com/mrvigneshgaddam/OpenTalkJS/blob/main/main.js) |[GitHub](https://github.com/mrvigneshgaddam/OpenTalkJS) |
 | Vrushangi Mistry | 2203031080222 | | |
+
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |https://github.com/mrHarshchoudhary/OpenTalkJS/blob/main/second.js |https://github.com/mrHarshchoudhary/OpenTalkJS |
 | Jeet Dhake | 2303031087082 | | |
