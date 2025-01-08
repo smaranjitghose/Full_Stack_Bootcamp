@@ -21,10 +21,17 @@
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task2.js | https://github.com/BharudeSahil/OpenTalkJS |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
+
+| Pratik Patel | 2203031080174 | | |
+| Ravi Vira | 2203031080018 | | |
+| Deep Menpara | 2203031080091 | | |
+| Raj Patel | 2203031080105 | https://github.com/RajPatel08/OPENTALKJS/blob/main/main.js|https://github.com/RajPatel08/OPENTALKJS |
+
 | Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/stage1/script.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 |[task-2](https://github.com/Ravi-vira/OpenTalkJS/blob/main/script.js) |[git](https://github.com/Ravi-vira/OpenTalkJS) |
 | Deep Menpara | 2203031080091 | https://github.com/Deep7133/OPENTALKJS/blob/main/script.js | https://github.com/Deep7133/OPENTALKJS |
-| Raj Patel | 2203031080105 | | |
+| Raj Patel | 2203031080105 |https://github.com/RajPatel08/OPENTALKJS/blob/main/main.js |https://github.com/RajPatel08/OPENTALKJS |
+
 | Darsh Kalani | 2203031080032 | | |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/main.js | https://github.com/Vrushi14/OpenTalkJS |
