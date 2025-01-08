@@ -35,7 +35,7 @@
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | [Task 1](https://github.com/suraniharsh/GenAI/blob/main/Task_1.md) | [GenAI](https://github.com/suraniharsh/GenAI) |
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/OpenTalkJS/blob/main/task_1.MD|https://github.com/vishangl/OpenTalkJS| 
-| Hani Vaghani | 2303031087088 | | |
+| Hani Vaghani | 2303031087088 |[script](https://github.com/hanivaghani/OpenTalkJS/blob/main/script.js)[github](https://github.com/hanivaghani/OpenTalkJS/tree/main)|
 | Harsh Surani | 2203031080123 | | |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
