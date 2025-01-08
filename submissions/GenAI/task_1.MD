@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Task 1 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 | [Task 1](https://github.com/5hubhm/OpenTalkJS/blob/main/Task.md)| [Github](https://github.com/5hubhm/OpenTalkJS)|
 | Ayush | 2203031080028 | [Task 1](https://github.com/ayushvadodariya/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/OpenTalkJS) |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
