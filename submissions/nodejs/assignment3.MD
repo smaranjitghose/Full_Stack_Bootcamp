@@ -7,7 +7,7 @@
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel | 2203031080139 | | |
-| Utsav Hirapra | 2203031080002 | | |
+| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/inspactURL/blob/main/main.js |[github Repo](https://github.com/mrSinghSatyam/inspactURL)|
 | Vaishnavi Sagariya | 2203031080013 | | |
