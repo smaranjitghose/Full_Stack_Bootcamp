@@ -2,7 +2,7 @@
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | | |
 | Ayush | 2203031080028 | | |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |[Task](https://github.com/mansha-6/InspectURL/blob/main/main.js)|[Github](https://github.com/mansha-6/InspectURL) |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
