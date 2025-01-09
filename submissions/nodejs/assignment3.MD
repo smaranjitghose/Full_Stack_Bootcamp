@@ -17,7 +17,7 @@
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/LinkLens/blob/main/main.js|https://github.com/HardeepIjardar/LinkLens|
-| Sahil Bharude | 2203031080235 | | |
+| Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/URL_Spect | https://github.com/BharudeSahil/URL_Spect/blob/main/main.js |
 | Aryan Vekariya | 2203031080125 |[Assignmnet18](https://github.com/aaryanvekariya/Inspect_URL/blob/node-q3/index.js)|[Repository](https://github.com/aaryanvekariya/Inspect_URL)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 |https://github.com/Pratik00531/InspectURL/blob/node-q3/main.js | https://github.com/Pratik00531/InspectURL|
