@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/todo.js |https://github.com/mrSinghSatyam/OpenTalkJS |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 |[ToDoList](https://github.com/ItsJESH/NodeJS101/blob/main/ToDoList/index.js) |[Github](https://github.com/ItsJESH/NodeJS101/) |
+| Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
@@ -42,5 +42,5 @@
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Assignment 17](https://github.com/Neetidarji/NodeJS101/blob/main/todo.js)|[Github](https://github.com/Neetidarji/NodeJS101)|
 | Suhani Tandel | 2203031080160 |[Assignment 2](https://github.com/SuhaniTandel/NodeJS101/blob/main/todo.js) |[Github](https://github.com/SuhaniTandel/NodeJS101) |
-| Rishabh Rai | 2203031080114 | | |
+| Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/NodeJS101/blob/main/todo.js|https://github.com/Rishabhrai29/NodeJS101 |
 | Rutuja Waghchaure | 2303031087089 | | |
