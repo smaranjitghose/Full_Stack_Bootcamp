@@ -33,7 +33,7 @@
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
 | Hani Vaghani | 2303031087088 | | |
-| Harsh Surani | 2203031080123 | [Assignment 18]() | [Github](https://github.com/suraniharsh/NodeJS101) |
+| Harsh Surani | 2203031080123 | [Assignment 18](https://github.com/suraniharsh/NodeJS101/tree/Assignments-18) | [Github](https://github.com/suraniharsh/NodeJS101) |
 | Yash Sakhareliya | 2203031080015 |[URL](https://github.com/YashSakhareliya/Inspact_URL/blob/main/main.js) |[GitHub](https://github.com/YashSakhareliya/Inspact_URL/) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
