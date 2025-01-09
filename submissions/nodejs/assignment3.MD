@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |(https://github.com/PranavFaladu/InspectURL/blob/main/index.js)|(https://github.com/PranavFaladu/InspectURL.git)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 | [Assignment 3](https://github.com/SuhaniTandel/Inspect_URL/blob/main/main.js)|[Github](https://github.com/SuhaniTandel/Inspect_URL) |
 | Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/URL_VALIDATOR/blob/main/url.js |https://github.com/Rishabhrai29/URL_VALIDATOR |
 | Rutuja Waghchaure | 2303031087089 | | |
