@@ -30,7 +30,7 @@
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |[url](https://github.com/mrHarshchoudhary/Inspect_URL/blob/main/main.js) | [git](https://github.com/mrHarshchoudhary/Inspect_URL)|
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
+| Vishang Lad | 2203031080035 |https://github.com/vishangl/InspectUrl/blob/main/main.js|https://github.com/vishangl/InspectUrl|
 | Hani Vaghani | 2303031087088 | | |
 | Harsh Surani | 2203031080123 | [Assignment 18](https://github.com/suraniharsh/NodeJS101/tree/Assignments-18) | [Github](https://github.com/suraniharsh/NodeJS101) |
 | Yash Sakhareliya | 2203031080015 |[URL](https://github.com/YashSakhareliya/Inspact_URL/blob/main/main.js) |[GitHub](https://github.com/YashSakhareliya/Inspact_URL/) |
