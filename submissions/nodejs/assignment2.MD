@@ -10,8 +10,8 @@
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/todo.js |https://github.com/mrSinghSatyam/OpenTalkJS |
-| Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Vaishnavi Sagariya | 2203031080013 | [TODoList](https://github.com/sagariyavaishnavi/NodeJS101/blob/main/ToDoList/app.js)|[Github](https://github.com/sagariyavaishnavi/NodeJS101) |
+| Jenish Paghadal | 2203031080007 |[ToDoList](https://github.com/ItsJESH/NodeJS101/blob/main/ToDoList/index.js) |[Github](https://github.com/ItsJESH/NodeJS101/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
