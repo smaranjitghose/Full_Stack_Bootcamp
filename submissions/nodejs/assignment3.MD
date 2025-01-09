@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Assignment 18 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Assignment 18](https://github.com/5hubhm/Inspect_URL/blob/main/index.js) | [Github](https://github.com/5hubhm/Inspect_URL)
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 | [Assignment 18](https://github.com/ayushvadodariya/NodeJS101/blob/main/InspectUrl/app.js) | [GitHub](https://github.com/ayushvadodariya/NodeJS101) |
 | Mansha Soni | 2203031080121 |[Task](https://github.com/mansha-6/InspectURL/blob/main/main.js)|[Github](https://github.com/mansha-6/InspectURL) |
 | Bhavin Parmar | 2203031080042 |[Assignment](https://github.com/bhavinbvn/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/bhavinbvn/Inspect_URL) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
