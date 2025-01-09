@@ -9,7 +9,7 @@
 | Vinit Patel | 2203031080139 |[Assignment 3](https://github.com/Vinitpatel28/Inspect_URL/blob/main/main.js) | [GitHub](https://github.com/Vinitpatel28/Inspect_URL)|| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/inspactURL/blob/main/main.js |[github Repo](https://github.com/mrSinghSatyam/inspactURL)|
-| Vaishnavi Sagariya | 2203031080013 | | |
+| Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/Inspect_url/blob/main/app.js)|[GitHub](https://github.com/sagariyavaishnavi/Inspect_url) |
 | Jenish Paghadal | 2203031080007 |[Inspect URL](https://github.com/ItsJESH/Inspect_URL/blob/main/index.js) |[Github](https://github.com/ItsJESH/Inspect_URL/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
