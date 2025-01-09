@@ -12,8 +12,10 @@
 | Satyam | 2203031080232 | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/task.js | https://github.com/mrSinghSatyam/OpenTalkJS |
 | Vaishnavi Sagariya | 2203031080013 | [Task-4](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/app.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 | | |
-| Umang Patel | 2203031080107 | | |
+| Umang Patel | 2203031080107 |[Task 4](https://github.com/ItsJESH/OpenTalkJS/blob/Stage4/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage4) |
 | Mann Solanki | 2203031080260 |[Task16](https://github.com/HarmonyHacker/OpenTalkJS/blob/main/task4.js)|[Github](https://github.com/HarmonyHacker/OpenTalkJS)|
+| Dhyan Patel | 2203031080216 | | |
+| Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 | | |
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/OpenTalkJS/blob/main/task4.js | https://github.com/BharudeSahil/OpenTalkJS |
