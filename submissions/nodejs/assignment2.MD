@@ -25,7 +25,7 @@
 | Ravi Vira | 2203031080018 |[URL](https://github.com/Ravi-vira/OpenTalkJS/blob/TODO/Todo.js) |[git](https://github.com/Ravi-vira/OpenTalkJS/tree/TODO) |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | [Task 2](https://github.com/Darshkalani28/NodeJS101/blob/node-q1/todo.js) | [Repo](https://github.com/Darshkalani28/NodeJS101/blob/node-q1)|
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/todo.js| https://github.com/Vrushi14/OpenTalkJS/tree/main|
 | Achal Ladani | 2203031080229 | | |
