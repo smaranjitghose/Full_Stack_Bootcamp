@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya | 2203031080013 | | |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[Inspect URL](https://github.com/ItsJESH/Inspect_URL/blob/main/index.js) |[Github](https://github.com/ItsJESH/Inspect_URL/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
