@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
-| Pranjal Pandey | 2203031080144 | | |
+| Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub](https://github.com/AshishIT611/InspectURL) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/InspectURL/blob/node-q3/main.js | https://github.com/Pratik00531/InspectURL|
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
