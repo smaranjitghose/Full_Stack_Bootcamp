@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/NodeJS101/blob/main/index.js | https://github.com/Alishakaur431/NodeJS101|
 | Pranav Faladu | 2303031087022 |https://github.com/PranavFaladu/NODEJS101/blob/main/todo.js|https://github.com/PranavFaladu/NODEJS101/tree/main|
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |[Assignment2](https://github.com/bharvivaland/NodeJS101/blob/main/MyTodo.js)|[Github](https://github.com/bharvivaland/NodeJS101.git)|
 | Neeti Darji | 2303031087080 |[Assignment 17](https://github.com/Neetidarji/NodeJS101/blob/main/todo.js)|[Github](https://github.com/Neetidarji/NodeJS101)|
 | Suhani Tandel | 2203031080160 |[Assignment 2](https://github.com/SuhaniTandel/NodeJS101/blob/main/todo.js) |[Github](https://github.com/SuhaniTandel/NodeJS101) |
 | Rishabh Rai | 2203031080114 | https://github.com/Rishabhrai29/NodeJS101/blob/main/todo.js|https://github.com/Rishabhrai29/NodeJS101 |
