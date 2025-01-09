@@ -6,8 +6,7 @@
 | Bhavin Parmar | 2203031080042 |[Assignment](https://github.com/bhavinbvn/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/bhavinbvn/Inspect_URL) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub](https://github.com/AshishIT611/InspectURL) |
-| Vinit Patel | 2203031080139 | | |
-| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
+| Vinit Patel | 2203031080139 |[Assignment 3](https://github.com/Vinitpatel28/Inspect_URL/blob/main/main.js) | [GitHub](https://github.com/Vinitpatel28/Inspect_URL)|| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/inspactURL/blob/main/main.js |[github Repo](https://github.com/mrSinghSatyam/inspactURL)|
 | Vaishnavi Sagariya | 2203031080013 | | |
