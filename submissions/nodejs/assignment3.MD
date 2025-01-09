@@ -15,7 +15,7 @@
 | Mann Solanki | 2203031080260 | | |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 |[Inspect URL](https://github.com/Ankiitsuthar/Inspect_URL/blob/main/app.js) |[GitHub](https://github.com/Ankiitsuthar/Inspect_URL) |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/LinkLens/blob/main/main.js|https://github.com/HardeepIjardar/LinkLens|
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Assignmnet18](https://github.com/aaryanvekariya/Inspect_URL/blob/node-q3/index.js)|[Repository](https://github.com/aaryanvekariya/Inspect_URL)|
