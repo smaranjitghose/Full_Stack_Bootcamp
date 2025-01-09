@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/main.js | https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/main.js |
 | Vaishnavi Sagariya | 2203031080013 | [Task2](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script1.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
-| Jenish Paghadal | 2203031080007 | | |
+| Jenish Paghadal | 2203031080007 |[Task 2](https://github.com/ItsJESH/OpenTalkJS/blob/Stage1-2/index.js) |[Github](https://github.com/ItsJESH/OpenTalkJS/tree/Stage1-2) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 |https://github.com/HarmonyHacker/OpenTalkJS/blob/main/main.js | https://github.com/HarmonyHacker/OpenTalkJS|
 | Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/main.js |https://github.com/dhyanpatel3/OpenTalkJS |
@@ -40,7 +40,7 @@
 | Yash Sakhareliya | 2203031080015 | [Task 2](https://github.com/YashSakhareliya/OpenTalkJS/blob/main/index.js) | [Github](https://github.com/YashSakhareliya/OpenTalkJS/) |
 | Meet Upendrakumar Patel | 2203031080011 | [Task 2](https://github.com/MeetPatel54/OpenTalkJS/blob/main/script.js) | [GitHub](https://github.com/MeetPatel54/OpenTalkJS) |
 | Vraj Mehta | 2303031087034 | | |
-| Alisha Kaur | 2203031080202 | | |
+| Alisha Kaur | 2203031080202 | https://github.com/Alishakaur431/OpenTalkJS/blob/main/bulk_work/app.js| https://github.com/Alishakaur431/OpenTalkJS/tree/main/bulk_work|
 | Pranav Faladu | 2303031087022 | https://github.com/PranavFaladu/OpenTalkJS/blob/main/script.js | https://github.com/PranavFaladu/OpenTalkJS |
 | Bharvi Valand | 2303031087002 |[Task_2](https://github.com/bharvivaland/OpenTalkJS/blob/main/script.js)|[Github](https://github.com/bharvivaland/OpenTalkJS.git)|
 | Neeti Darji | 2303031087080 | [script](https://github.com/Neetidarji/OpenTalkJS/blob/main/script.js) | [github](https://github.com/Neetidarji/OpenTalkJS) |
