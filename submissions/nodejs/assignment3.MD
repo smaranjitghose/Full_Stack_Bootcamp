@@ -26,7 +26,7 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task3](https://github.com/mrvigneshgaddam/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/mrvigneshgaddam/Inspect_URL) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |[url](https://github.com/mrHarshchoudhary/Inspect_URL/blob/main/main.js) | [git](https://github.com/mrHarshchoudhary/Inspect_URL)|
