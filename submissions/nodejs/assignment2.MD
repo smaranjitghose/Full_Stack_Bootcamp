@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 |[Assignment](https://github.com/bhavinSOL/NodeJS_Task/blob/main/TODO/main.js) |[GitHub](https://github.com/bhavinSOL/NodeJS_Task) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/NodeJS101/blob/main/todo.js | https://github.com/Pranjallpandey1504/NodeJS101|
 | Ashish Yadav | 2203031080161 | [Task 2](https://github.com/AshishIT611/NodeJS101/blob/main/todo.js) | [GitHub](https://github.com/AshishIT611/NodeJS101) |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 | [Assignment 2](https://github.com/Vinitpatel28/NodeJS101/blob/main/todo.js)|[GitHub](https://github.com/Vinitpatel28/NodeJS101) |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/todo.js |https://github.com/mrSinghSatyam/OpenTalkJS |
