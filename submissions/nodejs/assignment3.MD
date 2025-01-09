@@ -38,7 +38,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/Inspect-URL/blob/main/index.js | https://github.com/Alishakaur431/Inspect-URL|
 | Pranav Faladu | 2303031087022 |(https://github.com/PranavFaladu/InspectURL/blob/main/index.js)|(https://github.com/PranavFaladu/InspectURL.git)|
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 |(https://github.com/bharvivaland/Inspect_URL/blob/main/main.js)|(https://github.com/bharvivaland/Inspect_URL.git)|
 | Neeti Darji | 2303031087080 | | |
 | Suhani Tandel | 2203031080160 | [Assignment 3](https://github.com/SuhaniTandel/Inspect_URL/blob/main/main.js)|[Github](https://github.com/SuhaniTandel/Inspect_URL) |
 | Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/URL_VALIDATOR/blob/main/url.js |https://github.com/Rishabhrai29/URL_VALIDATOR |
