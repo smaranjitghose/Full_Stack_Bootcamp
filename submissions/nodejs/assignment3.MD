@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Assignment 18 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 | [Assignment 18](https://github.com/5hubhm/Inspect_URL/blob/main/index.js) | [Github](https://github.com/5hubhm/Inspect_URL)
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
