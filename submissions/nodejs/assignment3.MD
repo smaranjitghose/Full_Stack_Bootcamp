@@ -5,7 +5,7 @@
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
-| Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub]() |
+| Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub](https://github.com/AshishIT611/InspectURL) |
 | Vinit Patel | 2203031080139 | | |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
