@@ -22,7 +22,7 @@
 | Aryan Vekariya | 2203031080125 |[Task2](https://github.com/aaryanvekariya/Node-JS/blob/node-q2/todo.js)|[Repository](https://github.com/aaryanvekariya/Node-JS/tree/node-q2)|
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 |[URL](https://github.com/Ravi-vira/OpenTalkJS/blob/TODO/Todo.js) |[git](https://github.com/Ravi-vira/OpenTalkJS/tree/TODO) |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | | |
