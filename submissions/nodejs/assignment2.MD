@@ -14,7 +14,7 @@
 | Jenish Paghadal | 2203031080007 |[ToDoList](https://github.com/ItsJESH/NodeJS101/blob/main/ToDoList/index.js) |[Github](https://github.com/ItsJESH/NodeJS101/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/OpenTalkJS/blob/main/todo.js | https://github.com/dhyanpatel3/OpenTalkJS|
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/NodeJS101/blob/main/todo.js | https://github.com/dhyanpatel3/NodeJS101|
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/GenAI/blob/main/todo.js|https://github.com/HardeepIjardar/GenAI|
