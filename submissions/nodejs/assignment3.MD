@@ -24,7 +24,7 @@
 | Pratik Patel | 2203031080174 |https://github.com/Pratik00531/InspectURL/blob/node-q3/main.js | https://github.com/Pratik00531/InspectURL|
 | Ravi Vira | 2203031080018 |[url](https://github.com/Ravi-vira/Inspect-URl-Node-App/blob/main/main.js) |[git](https://github.com/Ravi-vira/Inspect-URl-Node-App) |
 | Deep Menpara | 2203031080091 | | |
-| Raj Patel | 2203031080105 | | |
+| Raj Patel | 2203031080105 |https://github.com/RajPatel08/url_validator/blob/main/url.js |https://github.com/RajPatel08/url_validator |
 | Darsh Kalani | 2203031080032 | | |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
