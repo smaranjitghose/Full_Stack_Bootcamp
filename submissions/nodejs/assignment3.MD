@@ -37,7 +37,7 @@
 | Yash Sakhareliya | 2203031080015 |[URL](https://github.com/YashSakhareliya/Inspact_URL/blob/main/main.js) |[GitHub](https://github.com/YashSakhareliya/Inspact_URL/) |
 | Meet Upendrakumar Patel | 2203031080011 |[URL](https://github.com/MeetPatel54/InspectURL/blob/main/main.js) |[GitHub](https://github.com/MeetPatel54/InspectURL.git) |
 | Vraj Mehta | 2303031087034 | | |
-| Alisha Kaur | 2203031080202 | | |
+| Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/Inspect-URL/blob/main/index.js | https://github.com/Alishakaur431/Inspect-URL|
 | Pranav Faladu | 2303031087022 |(https://github.com/PranavFaladu/InspectURL/blob/main/index.js)|(https://github.com/PranavFaladu/InspectURL.git)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
