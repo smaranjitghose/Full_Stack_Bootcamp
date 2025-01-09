@@ -21,16 +21,12 @@
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/Node_101/blob/main/index.js | https://github.com/BharudeSahil/Node_101 |
 | Aryan Vekariya | 2203031080125 |[Task2](https://github.com/aaryanvekariya/Node-JS/blob/node-q2/todo.js)|[Repository](https://github.com/aaryanvekariya/Node-JS/tree/node-q2)|
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 |[URL](https://github.com/Ravi-vira/OpenTalkJS/blob/TODO/Todo.js) |[git](https://github.com/Ravi-vira/OpenTalkJS/tree/TODO) |
+| Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/node-q2/todo.js |https://github.com/Pratik00531/OpenTalkJS |
+| Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
-
-
 | Darsh Kalani | 2203031080032 | | |
-
 | Raj Patel | 2203031080105 |https://github.com/RajPatel08/NodeJS101/blob/main/todo.js |https://github.com/RajPatel08/NodeJS101 |
 | Darsh Kalani | 2203031080032 | [Task 2](https://github.com/Darshkalani28/NodeJS101/blob/node-q1/todo.js) | [Repo](https://github.com/Darshkalani28/NodeJS101/blob/node-q1)|
-
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/todo.js| https://github.com/Vrushi14/OpenTalkJS/tree/main|
 | Achal Ladani | 2203031080229 | | |
