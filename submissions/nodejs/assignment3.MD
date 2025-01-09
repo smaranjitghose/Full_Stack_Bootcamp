@@ -3,7 +3,7 @@
 | Shubham Karvariya | 2203031080004 | [Assignment 18](https://github.com/5hubhm/Inspect_URL/blob/main/index.js) | [Github](https://github.com/5hubhm/Inspect_URL)
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | | |
-| Bhavin Parmar | 2203031080042 | | |
+| Bhavin Parmar | 2203031080042 |[Assignment](https://github.com/bhavinbvn/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/bhavinbvn/Inspect_URL) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub](https://github.com/AshishIT611/InspectURL) |
 | Vinit Patel | 2203031080139 | | |
