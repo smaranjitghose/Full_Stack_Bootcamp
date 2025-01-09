@@ -23,14 +23,9 @@
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
 | Ravi Vira | 2203031080018 |[URL](https://github.com/Ravi-vira/OpenTalkJS/blob/TODO/Todo.js) |[git](https://github.com/Ravi-vira/OpenTalkJS/tree/TODO) |
-| Deep Menpara | 2203031080091 | | |
-
-
-| Darsh Kalani | 2203031080032 | | |
-
+| Deep Menpara | 2203031080091 |[todo](https://github.com/Deep7133/backend-/tree/main/todo) |https://github.com/Deep7133/backend- |
 | Raj Patel | 2203031080105 |https://github.com/RajPatel08/NodeJS101/blob/main/todo.js |https://github.com/RajPatel08/NodeJS101 |
 | Darsh Kalani | 2203031080032 | [Task 2](https://github.com/Darshkalani28/NodeJS101/blob/node-q1/todo.js) | [Repo](https://github.com/Darshkalani28/NodeJS101/blob/node-q1)|
-
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/todo.js| https://github.com/Vrushi14/OpenTalkJS/tree/main|
 | Achal Ladani | 2203031080229 | | |
@@ -39,7 +34,7 @@
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/NodeJS101/blob/main/Todo.js |https://github.com/vishangl/NodeJS101 |
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/NodeJS101/blob/main/todo.js|https://github.com/hanivaghani/NodeJS101|
 | Harsh Surani | 2203031080123 | [Assignment 2](https://github.com/suraniharsh/NodeJS101/blob/main/todo.js) | [Github](https://github.com/suraniharsh/NodeJS101) |
-| Yash Sakhareliya | 2203031080015 |[TO-DO App] (https://github.com/YashSakhareliya/Backend_Task/blob/main/TODO/script.js)|[Git Hub](https://github.com/YashSakhareliya/Backend_Task) |
+| Yash Sakhareliya | 2203031080015 |[TO-DO App](https://github.com/YashSakhareliya/Backend_Task/blob/main/TODO/script.js)|[Git Hub](https://github.com/YashSakhareliya/Backend_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/NodeJS101/blob/main/index.js | https://github.com/Alishakaur431/NodeJS101|
