@@ -24,10 +24,9 @@
 | Pratik Patel | 2203031080174 |https://github.com/Pratik00531/OpenTalkJS/blob/node-q2/todo.js |https://github.com/Pratik00531/OpenTalkJS |
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | | |
-| Darsh Kalani | 2203031080032 | | |
 | Raj Patel | 2203031080105 |https://github.com/RajPatel08/NodeJS101/blob/main/todo.js |https://github.com/RajPatel08/NodeJS101 |
 | Darsh Kalani | 2203031080032 | [Task 2](https://github.com/Darshkalani28/NodeJS101/blob/node-q1/todo.js) | [Repo](https://github.com/Darshkalani28/NodeJS101/blob/node-q1)|
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Task2](https://github.com/mrvigneshgaddam/NodeJS101/blob/main/index.js) |[GitHub](https://github.com/mrvigneshgaddam/NodeJS101) |
 | Vrushangi Mistry | 2203031080222 | https://github.com/Vrushi14/OpenTalkJS/blob/main/todo.js| https://github.com/Vrushi14/OpenTalkJS/tree/main|
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |[Assignment17](https://github.com/mrHarshchoudhary/NodeJS101/blob/main/index.js) |[repo](https://github.com/mrHarshchoudhary/NodeJS101) |
@@ -35,7 +34,7 @@
 | Vishang Lad | 2203031080035 |https://github.com/vishangl/NodeJS101/blob/main/Todo.js |https://github.com/vishangl/NodeJS101 |
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/NodeJS101/blob/main/todo.js|https://github.com/hanivaghani/NodeJS101|
 | Harsh Surani | 2203031080123 | [Assignment 2](https://github.com/suraniharsh/NodeJS101/blob/main/todo.js) | [Github](https://github.com/suraniharsh/NodeJS101) |
-| Yash Sakhareliya | 2203031080015 |[TO-DO App] (https://github.com/YashSakhareliya/Backend_Task/blob/main/TODO/script.js)|[Git Hub](https://github.com/YashSakhareliya/Backend_Task) |
+| Yash Sakhareliya | 2203031080015 |[TO-DO App](https://github.com/YashSakhareliya/Backend_Task/blob/main/TODO/script.js)|[Git Hub](https://github.com/YashSakhareliya/Backend_Task) |
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/NodeJS101/blob/main/index.js | https://github.com/Alishakaur431/NodeJS101|
