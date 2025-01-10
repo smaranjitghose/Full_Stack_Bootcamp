@@ -41,7 +41,7 @@
 | Pranav Faladu         | 2303031087022        |(https://github.com/PranavFaladu/Barterx/blob/main/app.js)|(https://github.com/PranavFaladu/Barterx.git)|
 | Alisha Kaur           | 2203031080202        |https://github.com/Alishakaur431/BarterX/blob/main/index.js                 |  https://github.com/Alishakaur431/BarterX           |
 | Pranav Faladu         | 2303031087022        |                   |             |
-| Rutuja Waghchaure     | 2303031087089        |                   |             |
+| Rutuja Waghchaure     | 2303031087089        |https://github.com/rutujawaghchaure/BarterX/blob/main/index.js|https://github.com/rutujawaghchaure/BarterX/tree/main|
 | Bharvi Valand         | 2303031087002        |[BarterX](https://github.com/bharvivaland/BarterX/blob/main/index.js)|[Github](https://github.com/bharvivaland/BarterX.git)|
 | Neeti Darji           | 2303031087080        |                   |             |
 | Suhani Tandel         | 2203031080160        |                   |             |
