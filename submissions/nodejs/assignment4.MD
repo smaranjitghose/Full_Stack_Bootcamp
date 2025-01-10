@@ -32,7 +32,7 @@
 | Harsh Choudhary       | 2203031080132        |                   |             |
 | Jeet Dhake            | 2303031087082        |                   |             |
 | vishang Lad           | 2203031080035        |https://github.com/vishangl/Barterx/blob/main/index.js|https://github.com/vishangl/Barterx|
-| Hani Vaghani          | 2303031087088        |                   |             |
+| Hani Vaghani          | 2303031087088        |https://github.com/hanivaghani/BarterX/blob/main/index.js|https://github.com/hanivaghani/BarterX|
 | Harsh Surani          | 2203031080123        | [Assignment 19](https://github.com/suraniharsh/BarterX/blob/main/index.js)                  | [GitHub](https://github.com/suraniharsh/BarterX/tree/main)             |
 | Yash Sakhareliya      | 2203031080015        |                   |             |
 | Meet Upendrakumar Patel | 2203031080011      |[URL](https://github.com/MeetPatel54/BarterX/blob/main/index.js)                  |[GitHub](https://github.com/MeetPatel54/BarterX.git)             |
