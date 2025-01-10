@@ -42,15 +42,10 @@ console.log(man1.greet())
 
 // Task 3
   // i): Class Inheritance
-  
   // Create a class Vehicle with properties make and model, and a method getDetails() that returns a string "Make: [make], Model: [model]". Create a subclass Car that extends Vehicle and adds a method startEngine() that returns "Engine started".
-  
   // ii): Method Overriding in Inheritance
-  
   // Extend the Vehicle class from the previous task to include a method move() that returns "The vehicle is moving". Then, override the move() method in the Car class to return "The car is driving".
-  
   // iii): Static Methods in Classes
-  
   // Add a static method isVehicle(obj) to the Vehicle class that checks if a given object is an instance of Vehicle. The method should return true if the object is a Vehicle or a subclass of Vehicle, and false otherwise.
   
   function Vehicle(make, model) {
@@ -99,14 +94,9 @@ console.log(man1.greet())
   
 
   // i): Encapsulation Using Getters and Setters
-  
   // Create a class BankAccount with a private property _balance. Add methods deposit(amount) and withdraw(amount). Use getters and setters to access and modify the _balance while ensuring the balance never goes negative.
-  
   // ii): Polymorphism with Method Overriding
-  
   // Create a class Shape with a method area() that returns 0. Create two subclasses Circle and Rectangle that override the area() method to calculate the area of a circle and a rectangle, respectively.
-  
-  
   class BankAccount {
     constructor() {
       this._balance = 0;
@@ -128,7 +118,7 @@ console.log(man1.greet())
       }
     }
   }
-  
+
   let account = new BankAccount();
   account.deposit(100);
   console.log(account.balance);
@@ -151,9 +141,7 @@ console.log(man1.greet())
       area() {
           return Math.PI * this.radius ** 2;
       }
-  }
-  
-  class Rectangle extends Shape {
+  }class Rectangle extends Shape {
       constructor(width, height) {
           super();
           this.width = width;
