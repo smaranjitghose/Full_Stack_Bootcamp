@@ -35,7 +35,7 @@
 | Hani Vaghani          | 2303031087088        |                   |             |
 | Harsh Surani          | 2203031080123        | [Assignment 19](https://github.com/suraniharsh/BarterX/blob/main/index.js)                  | [GitHub](https://github.com/suraniharsh/BarterX/tree/main)             |
 | Yash Sakhareliya      | 2203031080015        |                   |             |
-| Meet Upendrakumar Patel | 2203031080011      |                   |             |
+| Meet Upendrakumar Patel | 2203031080011      |[URL](https://github.com/MeetPatel54/BarterX/blob/main/index.js)                  |[GitHub](https://github.com/MeetPatel54/BarterX.git)             |
 | Vraj Mehta            | 2303031087034        |                   |             |
 | Alisha Kaur           | 2203031080202        |                   |             |
 | Pranav Faladu         | 2303031087022        |                   |             |
