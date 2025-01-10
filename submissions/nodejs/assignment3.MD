@@ -6,7 +6,8 @@
 | Bhavin Parmar | 2203031080042 |[Assignment](https://github.com/bhavinbvn/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/bhavinbvn/Inspect_URL) |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/Inspect-URL/blob/main/index.js |https://github.com/Pranjallpandey1504/Inspect-URL |
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/InspectURL/blob/main/main.js) | [GitHub](https://github.com/AshishIT611/InspectURL) |
-| Vinit Patel | 2203031080139 |[Assignment 3](https://github.com/Vinitpatel28/Inspect_URL/blob/main/main.js) | [GitHub](https://github.com/Vinitpatel28/Inspect_URL)|| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
+| Vinit Patel | 2203031080139 |[Assignment 3](https://github.com/Vinitpatel28/Inspect_URL/blob/main/main.js) | [GitHub](https://github.com/Vinitpatel28/Inspect_URL)|
+| Utsav Hirapra | 2203031080002 |[Inspect Url](https://github.com/utsav1213/inspect_url/blob/main/main.js) |[GitHub](https://github.com/utsav1213/inspect_url) |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/inspactURL/blob/main/main.js |[github Repo](https://github.com/mrSinghSatyam/inspactURL)|
 | Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/Inspect_url/blob/main/app.js)|[GitHub](https://github.com/sagariyavaishnavi/Inspect_url) |
@@ -14,7 +15,7 @@
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 |[Task](https://github.com/MannSolanki/Inspect_URL/blob/main/url.js) |[Github](https://github.com/MannSolanki/Inspect_URL/) |
 | Dhyan Patel | 2203031080216 | | |
-| Rajdeepsinh Dabhi | 2203031080069 | | |
+| Rajdeepsinh Dabhi | 2203031080069 |[Assignment-18](https://github.com/Rajdeepsinh1410/InspectUrl/blob/main/main.js) |[GitHub](https://github.com/Rajdeepsinh1410/InspectUrl) |
 | Ankit Kumar | 2203031080184 |[Inspect URL](https://github.com/Ankiitsuthar/Inspect_URL/blob/main/app.js) |[GitHub](https://github.com/Ankiitsuthar/Inspect_URL) |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/LinkLens/blob/main/main.js|https://github.com/HardeepIjardar/LinkLens|
 | Sahil Bharude | 2203031080235 | https://github.com/BharudeSahil/URL_Spect | https://github.com/BharudeSahil/URL_Spect/blob/main/main.js |
@@ -42,5 +43,3 @@
 | Neeti Darji | 2303031087080 |[Assignment 18](https://github.com/Neetidarji/InspectURL/blob/main/main.js)|[Github](https://github.com/Neetidarji/InspectURL)|
 | Suhani Tandel | 2203031080160 | [Assignment 3](https://github.com/SuhaniTandel/Inspect_URL/blob/main/main.js)|[Github](https://github.com/SuhaniTandel/Inspect_URL) |
 | Rishabh Rai | 2203031080114 |https://github.com/Rishabhrai29/URL_VALIDATOR/blob/main/url.js |https://github.com/Rishabhrai29/URL_VALIDATOR |
-
-
