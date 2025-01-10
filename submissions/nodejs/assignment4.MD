@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya    | 2203031080013        |                   |             |
 | Jenish Paghadal       | 2203031080007        | [BarterX](https://github.com/ItsJESH/BarterX/blob/main/index.js) |[GitHub](https://github.com/ItsJESH/BarterX/)             |
 | Umang Patel           | 2203031080107        |                   |             |
-| Mann Solanki          | 2203031080260        |                   |             |
+| Mann Solanki          | 2203031080260        |[BarterX](https://github.com/MannSolanki/BarterX/blob/main/index.js)|[Github](https://github.com/MannSolanki/BarterX)|
 | Dhyan Patel           | 2203031080216        |                   |             |
 | Rajdeepsinh Dabhi     | 2203031080069        |                   |             |
 | Ankit Kumar           | 2203031080184        |                   |             |
