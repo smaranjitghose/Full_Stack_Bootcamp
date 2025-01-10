@@ -2,7 +2,7 @@
 |-----------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya     | 2203031080004        |                   |             |
 | Ayush                 | 2203031080028        |                   |             |
-| Mansha Soni           | 2203031080121        |                   |             |
+| Mansha Soni           | 2203031080121        |    https://github.com/mansha-6/BarterX/blob/main/index.js               |    https://github.com/mansha-6/BarterX         |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        |https://github.com/Pranjallpandey1504/BarterX/blob/main/index.js                   |https://github.com/Pranjallpandey1504/BarterX             |
 | Ashish Yadav          | 2203031080161        |                   |             |
