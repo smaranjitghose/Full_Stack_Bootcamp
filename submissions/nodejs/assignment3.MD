@@ -24,7 +24,7 @@
 | Ravi Vira | 2203031080018 |[url](https://github.com/Ravi-vira/Inspect-URl-Node-App/blob/main/main.js) |[git](https://github.com/Ravi-vira/Inspect-URl-Node-App) |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 |https://github.com/RajPatel08/url_validator/blob/main/url.js |https://github.com/RajPatel08/url_validator |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | [Task 3](https://github.com/Darshkalani28/inspectURL/blob/main/script.js) | [Repo](https://github.com/Darshkalani28/inspectURL) |
 | Vignesh Gaddam | 2203031080131 |[Task3](https://github.com/mrvigneshgaddam/Inspect_URL/blob/main/main.js) |[GitHub](https://github.com/mrvigneshgaddam/Inspect_URL) |
 | Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/Inspect_Url/blob/main/main.js | https://github.com/Vrushi14/Inspect_Url/tree/main|
 | Achal Ladani | 2203031080229 | | |
