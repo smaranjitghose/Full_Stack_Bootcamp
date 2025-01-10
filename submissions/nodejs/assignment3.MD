@@ -12,7 +12,7 @@
 | Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/Inspect_url/blob/main/app.js)|[GitHub](https://github.com/sagariyavaishnavi/Inspect_url) |
 | Jenish Paghadal | 2203031080007 |[Inspect URL](https://github.com/ItsJESH/Inspect_URL/blob/main/index.js) |[Github](https://github.com/ItsJESH/Inspect_URL/) |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |[Task](https://github.com/MannSolanki/Inspect_URL/blob/main/url.js) |[Github](https://github.com/MannSolanki/Inspect_URL/) |
 | Dhyan Patel | 2203031080216 | | |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
