@@ -45,4 +45,4 @@
 | Bharvi Valand         | 2303031087002        |[BarterX](https://github.com/bharvivaland/BarterX/blob/main/index.js)|[Github](https://github.com/bharvivaland/BarterX.git)|
 | Neeti Darji           | 2303031087080        |                   |             |
 | Suhani Tandel         | 2203031080160        |                   |             |
-| Rishabh Rai           | 2203031080114        |                   |             |
+| Rishabh Rai           | 2203031080114        | https://github.com/Rishabhrai29/barterX/blob/main/index.js                  | https://github.com/Rishabhrai29/barterX            |
