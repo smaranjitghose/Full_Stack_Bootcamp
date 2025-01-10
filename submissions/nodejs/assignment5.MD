@@ -41,6 +41,6 @@
 | Pranav Faladu         | 2303031087022        |                   |             |
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
 | Bharvi Valand         | 2303031087002        |                   |             |
-| Neeti Darji           | 2303031087080        |                   |             |
+| Neeti Darji           | 2303031087080        |[BarterX BUN](https://github.com/Neetidarji/BarterX/blob/bun/index1.js)|[Github](https://github.com/Neetidarji/BarterX/tree/bun)|
 | Suhani Tandel         | 2203031080160        |                   |             |
 | Rishabh Rai           | 2203031080114        |                   |             |
