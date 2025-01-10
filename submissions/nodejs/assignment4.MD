@@ -4,7 +4,7 @@
 | Ayush                 | 2203031080028        |                   |             |
 | Mansha Soni           | 2203031080121        |                   |             |
 | Bhavin Parmar         | 2203031080042        |                   |             |
-| Pranjal Pandey        | 2203031080144        |                   |             |
+| Pranjal Pandey        | 2203031080144        |https://github.com/Pranjallpandey1504/BarterX/blob/main/index.js                   |https://github.com/Pranjallpandey1504/BarterX             |
 | Ashish Yadav          | 2203031080161        |                   |             |
 | Vinit Patel           | 2203031080139        |                   |             |
 | Utsav Hirapra         | 2203031080002        |                   |             |
@@ -17,7 +17,7 @@
 | Dhyan Patel           | 2203031080216        |                   |             |
 | Rajdeepsinh Dabhi     | 2203031080069        |                   |             |
 | Ankit Kumar           | 2203031080184        |                   |             |
-| Hardeep Ijardar       | 2203031080031        |                   |             |
+| Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/main/index.js|https://github.com/HardeepIjardar/BarterX|
 | Sahil Bharude         | 2203031080235        |                   |             |
 | Aryan Vekariya        | 2203031080125        |                   |             |
 | Sparsh Patel          | 2203031080053        |                   |             |
@@ -35,12 +35,12 @@
 | Hani Vaghani          | 2303031087088        |                   |             |
 | Harsh Surani          | 2203031080123        | [Assignment 19](https://github.com/suraniharsh/BarterX/blob/main/index.js)                  | [GitHub](https://github.com/suraniharsh/BarterX/tree/main)             |
 | Yash Sakhareliya      | 2203031080015        |[Assignment-19](https://github.com/YashSakhareliya/BarterX/blob/main/index.js)|[Github](https://github.com/YashSakhareliya/BarterX/)  |
-| Meet Upendrakumar Patel | 2203031080011      |                   |             |
+| Meet Upendrakumar Patel | 2203031080011      |[URL](https://github.com/MeetPatel54/BarterX/blob/main/index.js)                  |[GitHub](https://github.com/MeetPatel54/BarterX.git)             |
 | Vraj Mehta            | 2303031087034        |                   |             |
-| Alisha Kaur           | 2203031080202        |                   |             |
+| Alisha Kaur           | 2203031080202        |https://github.com/Alishakaur431/BarterX/blob/main/index.js                 |  https://github.com/Alishakaur431/BarterX           |
 | Pranav Faladu         | 2303031087022        |                   |             |
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
-| Bharvi Valand         | 2303031087002        |                   |             |
+| Bharvi Valand         | 2303031087002        |[BarterX](https://github.com/bharvivaland/BarterX/blob/main/index.js)|[Github](https://github.com/bharvivaland/BarterX.git)|
 | Neeti Darji           | 2303031087080        |                   |             |
 | Suhani Tandel         | 2203031080160        |                   |             |
 | Rishabh Rai           | 2203031080114        |                   |             |
