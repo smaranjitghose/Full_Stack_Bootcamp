@@ -40,7 +40,7 @@
 | Alisha Kaur           | 2203031080202        |                   |             |
 | Pranav Faladu         | 2303031087022        |                   |             |
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
-| Bharvi Valand         | 2303031087002        |                   |             |
+| Bharvi Valand         | 2303031087002        |[BarterX](https://github.com/bharvivaland/BarterX/blob/main/index.js)|[Github](https://github.com/bharvivaland/BarterX.git)|
 | Neeti Darji           | 2303031087080        |                   |             |
 | Suhani Tandel         | 2203031080160        |                   |             |
 | Rishabh Rai           | 2203031080114        |                   |             |
