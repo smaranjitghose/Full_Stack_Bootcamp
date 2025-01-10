@@ -14,7 +14,7 @@
 | Jenish Paghadal | 2203031080007 |[Inspect URL](https://github.com/ItsJESH/Inspect_URL/blob/main/index.js) |[Github](https://github.com/ItsJESH/Inspect_URL/) |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 |[Task](https://github.com/MannSolanki/Inspect_URL/blob/main/url.js) |[Github](https://github.com/MannSolanki/Inspect_URL/) |
-| Dhyan Patel | 2203031080216 | | |
+| Dhyan Patel | 2203031080216 |https://github.com/dhyanpatel3/NodeJS101/blob/main/url.js |https://github.com/dhyanpatel3/NodeJS101 |
 | Rajdeepsinh Dabhi | 2203031080069 |[Assignment-18](https://github.com/Rajdeepsinh1410/InspectUrl/blob/main/main.js) |[GitHub](https://github.com/Rajdeepsinh1410/InspectUrl) |
 | Ankit Kumar | 2203031080184 |[Inspect URL](https://github.com/Ankiitsuthar/Inspect_URL/blob/main/app.js) |[GitHub](https://github.com/Ankiitsuthar/Inspect_URL) |
 | Hardeep Ijardar | 2203031080031 |https://github.com/HardeepIjardar/LinkLens/blob/main/main.js|https://github.com/HardeepIjardar/LinkLens|
