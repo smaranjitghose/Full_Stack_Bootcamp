@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name       | 🆔 Enrollment Number | Assignment 20 URL | GitHub Repo |
 |-----------------------|----------------------|-------------------|-------------|
-| Shubham Karvariya     | 2203031080004        |                   |             |
+| Shubham Karvariya     | 2203031080004        | [Assignment-20](https://github.com/5hubhm/BarterX/blob/Bun_code/index.js)|[Github](https://github.com/5hubhm/BarterX/blob/Bun_code)
 | Ayush                 | 2203031080028        |                   |             |
 | Mansha Soni           | 2203031080121        |                   |             |
 | Bhavin Parmar         | 2203031080042        |                   |             |
