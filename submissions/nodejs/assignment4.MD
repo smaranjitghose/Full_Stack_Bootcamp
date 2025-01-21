@@ -5,7 +5,7 @@
 | Mansha Soni           | 2203031080121        |                   |             |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        |https://github.com/Pranjallpandey1504/BarterX/blob/main/index.js                   |https://github.com/Pranjallpandey1504/BarterX             |
-| Ashish Yadav          | 2203031080161        |                   |             |
+| Ashish Yadav          | 2203031080161        |   [BarterX](https://github.com/AshishIT611/BarterX/blob/main/index.js)                |     [GitHub](https://github.com/AshishIT611/BarterX)        |
 | Vinit Patel           | 2203031080139        | [BarterX](https://github.com/Vinitpatel28/BarterX/blob/main/index.js)| [GitHub](https://github.com/Vinitpatel28/BarterX)|
 | Utsav Hirapra         | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva | 2203031080146    |                   |             |
@@ -26,7 +26,7 @@
 | Deep Menpara          | 2203031080091        |                   |             |
 | Raj Patel             | 2203031080105        |                   |             |
 | Darsh Kalani          | 2203031080032        |                   |             |
-| Vignesh Gaddam        | 2203031080131        |                   |             |
+| Vignesh Gaddam        | 2203031080131        |[BarterX](https://github.com/mrvigneshgaddam/BarterX/blob/main/index.js) |[GitHub](https://github.com/mrvigneshgaddam/BarterX) |
 | Vrushangi Mistry      | 2203031080222        |                   |             |
 | Achal Ladani          | 2203031080229        |                   |             |
 | Harsh Choudhary       | 2203031080132        |                   |             |
@@ -44,5 +44,5 @@
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
 | Bharvi Valand         | 2303031087002        |[BarterX](https://github.com/bharvivaland/BarterX/blob/main/index.js)|[Github](https://github.com/bharvivaland/BarterX.git)|
 | Neeti Darji           | 2303031087080        |[Barter X](https://github.com/Neetidarji/BarterX/blob/main/index.js)|[Github](https://github.com/Neetidarji/BarterX)|
-| Suhani Tandel         | 2203031080160        |                   |             |
+| Suhani Tandel         | 2203031080160        | [BartrX](https://github.com/SuhaniTandel/BarterX/blob/main/index.js)| [Github](https://github.com/SuhaniTandel/BarterX)|
 | Rishabh Rai           | 2203031080114        |                   |             |
