@@ -32,7 +32,7 @@
 | Harsh Choudhary | 2203031080132 | | |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad | 2203031080035 | | |
-| Hani Vaghani | 2303031087088 | | |
+| Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/GlowDerma/blob/master/index.js|https://github.com/hanivaghani/GlowDerma/tree/master|
 | Harsh Surani | 2203031080123 | [Assignment 21](https://github.com/suraniharsh/GlowDerma) | [Github](https://github.com/suraniharsh/GlowDerma) |
 | Yash Sakhareliya | 2203031080015 | | |
 | Meet Upendrakumar Patel | 2203031080011 | | |
