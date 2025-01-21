@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 | | |
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 | | |
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 |https://github.com/SuhaniTandel/GlowDerma/blob/main/index.js |[GitHub] https://github.com/SuhaniTandel/GlowDerma|
 | Rishabh Rai | 2203031080114 | | |
 | Rutuja Waghchaure | 2303031087089 | | |
