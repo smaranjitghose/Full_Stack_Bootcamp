@@ -25,7 +25,7 @@
 | Ravi Vira             | 2203031080018        |                   |             |
 | Deep Menpara          | 2203031080091        |                   |             |
 | Raj Patel             | 2203031080105        |                   |             |
-| Darsh Kalani          | 2203031080032        |                   |             |
+| Darsh Kalani          | 2203031080032        | [BarterX](https://github.com/Darshkalani28/BarterX/index.js) | [Repo](https://github.com/Darshkalani28/BarterX) |
 | Vignesh Gaddam        | 2203031080131        |[BarterX](https://github.com/mrvigneshgaddam/BarterX/blob/main/index.js) |[GitHub](https://github.com/mrvigneshgaddam/BarterX) |
 | Vrushangi Mistry      | 2203031080222        |    https://github.com/Vrushi14/BarterX/blob/main/index.js               |     https://github.com/Vrushi14/BarterX/tree/main        |
 | Achal Ladani          | 2203031080229        |                   |             |
