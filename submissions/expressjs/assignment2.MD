@@ -1,4 +1,4 @@
-| 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 21 URL | GitHub Repo |
+| 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 22 URL | GitHub Repo |
 |---------------------------------|---------------------|-------------------|-------------|
 | Shubham Karvariya               | 2203031080004       |                   |             |
 | Ayush                           | 2203031080028       |                   |             |
@@ -34,7 +34,7 @@
 | Vishang Lad                     | 2203031080035       |                   |             |
 | Hani Vaghani                    | 2303031087088       |                   |             |
 | Harsh Surani                    | 2203031080123       |                   |             |
-| Yash Sakhareliya                | 2203031080015       |                   |             |
+| Yash Sakhareliya                | 2203031080015       |[URL](https://github.com/YashSakhareliya/GlowDerma-/blob/main/app.js) |[GitHUB](https://github.com/YashSakhareliya/GlowDerma-)            |
 | Meet Upendrakumar Patel         | 2203031080011       |                   |             |
 | Vraj Mehta                      | 2303031087034       |                   |             |
 | Alisha Kaur                     | 2203031080202       |                   |             |
