@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya              | 2203031080013       |                   |             |
 | Jenish Paghadal                 | 2203031080007       | [GlowDerma](https://github.com/ItsJESH/Express101/blob/main/GlowDerma/app.js) | [GitHub](https://github.com/ItsJESH/Express101/) |
 | Umang Patel                     | 2203031080107       |                   |             |
-| Mann Solanki                    | 2203031080260       |                   |             |
+| Mann Solanki                    | 2203031080260       | [GlowDerma](https://github.com/MannSolanki/GlowDerma/blob/master/app.js)|[Github](https://github.com/MannSolanki/GlowDerma)|
 | Dhyan Patel                     | 2203031080216       |                   |             |
 | Rajdeepsinh Dabhi               | 2203031080069       |                   |             |
 | Ankit Kumar                     | 2203031080184       |                   |             |
