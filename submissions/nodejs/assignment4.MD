@@ -7,7 +7,7 @@
 | Pranjal Pandey        | 2203031080144        |https://github.com/Pranjallpandey1504/BarterX/blob/main/index.js                   |https://github.com/Pranjallpandey1504/BarterX             |
 | Ashish Yadav          | 2203031080161        |   [BarterX](https://github.com/AshishIT611/BarterX/blob/main/index.js)                |     [GitHub](https://github.com/AshishIT611/BarterX)        |
 | Vinit Patel           | 2203031080139        | [BarterX](https://github.com/Vinitpatel28/BarterX/blob/main/index.js)| [GitHub](https://github.com/Vinitpatel28/BarterX)|
-| Utsav Hirapra         | 2203031080002        |                   |             |
+| Utsav Hirapra         | 2203031080002        |[BarterX](https://github.com/utsav1213/BarterX/blob/main/index.js)|[GitHub] (https://github.com/utsav1213/BarterX)  |
 | Meet Savadasbhai Sondarva | 2203031080146    |                   |             |
 | Satyam                | 2203031080232        | https://github.com/mrSinghSatyam/BarterX/blob/main/index.js|https://github.com/mrSinghSatyam/BarterX|
 | Vaishnavi Sagariya    | 2203031080013        |                   |             |
