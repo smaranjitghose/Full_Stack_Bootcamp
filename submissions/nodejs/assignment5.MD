@@ -19,7 +19,7 @@
 | Ankit Kumar           | 2203031080184        | [Bun](https://github.com/Ankiitsuthar/BarterX/blob/Bun/index.js)                  |  [GitHub](https://github.com/Ankiitsuthar/BarterX/tree/Bun)           |
 | Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/feature-bunjs/bun.js|https://github.com/HardeepIjardar/BarterX|
 | Sahil Bharude         | 2203031080235        |                   |             |
-| Aryan Vekariya        | 2203031080125        |                   |             |
+| Aryan Vekariya        | 2203031080125        |[Task](https://github.com/aaryanvekariya/BarterX/blob/Bun/index.js)|[Repository](https://github.com/aaryanvekariya/BarterX)|
 | Sparsh Patel          | 2203031080053        |                   |             |
 | Pratik Patel          | 2203031080174        |https://github.com/Pratik00531/BarterX/blob/node-q4/index.js|https://github.com/Pratik00531/BarterX             |
 | Ravi Vira             | 2203031080018        |                   |             |
@@ -31,7 +31,7 @@
 | Achal Ladani          | 2203031080229        |                   |             |
 | Harsh Choudhary       | 2203031080132        |[bun](https://github.com/mrHarshchoudhary/BarterX/blob/bun-app/index.js)                   |[git](https://github.com/mrHarshchoudhary/BarterX/tree/bun-app)             |
 | Jeet Dhake            | 2303031087082        |                   |             |
-| vishang Lad           | 2203031080035        |                   |             |
+| vishang Lad           | 2203031080035        |https://github.com/vishangl/Bun-/blob/main/index.js|https://github.com/vishangl/Bun-|
 | Hani Vaghani          | 2303031087088        |https://github.com/hanivaghani/BarterX/blob/bun/index.js|https://github.com/hanivaghani/BarterX/tree/bun|
 | Harsh Surani          | 2203031080123        |                   |             |
 | Yash Sakhareliya      | 2203031080015        |[Assignement 20](https://github.com/YashSakhareliya/BarterX/blob/bun/index.js)| [GitHub](https://github.com/YashSakhareliya/BarterX/tree/bun)  |
