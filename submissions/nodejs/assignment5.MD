@@ -2,7 +2,7 @@
 |-----------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya     | 2203031080004        | [Assignment-20](https://github.com/5hubhm/BarterX/blob/Bun_code/index.js)|[Github](https://github.com/5hubhm/BarterX/blob/Bun_code)
 | Ayush                 | 2203031080028        |                   |             |
-| Mansha Soni           | 2203031080121        |                   |             |
+| Mansha Soni           | 2203031080121        | [BarterX](https://github.com/mansha-6/BarterX/blob/bun-app/main.js)                  |     [Github]   (https://github.com/mansha-6/BarterX)     |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        | https://github.com/Pranjallpandey1504/BarterX/tree/assignment20                  | https://github.com/Pranjallpandey1504/BarterX            |
 | Ashish Yadav          | 2203031080161        |                   |             |
@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya    | 2203031080013        |                   |             |
 | Jenish Paghadal       | 2203031080007        |                   |             |
 | Umang Patel           | 2203031080107        |                   |             |
-| Mann Solanki          | 2203031080260        |                   |             |
+| Mann Solanki          | 2203031080260        | [Bun](https://github.com/MannSolanki/BarterX-Bun/blob/master/index.js)|[Github](https://github.com/MannSolanki/BarterX-Bun)  |
 | Dhyan Patel           | 2203031080216        |                   |             |
 | Rajdeepsinh Dabhi     | 2203031080069        |                   |             |
 | Ankit Kumar           | 2203031080184        |                   |             |
@@ -21,7 +21,7 @@
 | Sahil Bharude         | 2203031080235        |                   |             |
 | Aryan Vekariya        | 2203031080125        |                   |             |
 | Sparsh Patel          | 2203031080053        |                   |             |
-| Pratik Patel          | 2203031080174        |                   |             |
+| Pratik Patel          | 2203031080174        |https://github.com/Pratik00531/BarterX/blob/node-q4/index.js|https://github.com/Pratik00531/BarterX             |
 | Ravi Vira             | 2203031080018        |                   |             |
 | Deep Menpara          | 2203031080091        |                   |             |
 | Raj Patel             | 2203031080105        |                   |             |
