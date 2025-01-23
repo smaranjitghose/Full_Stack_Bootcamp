@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name       | 🆔 Enrollment Number | Assignment 20 URL | GitHub Repo |
 |-----------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya     | 2203031080004        | [Assignment-20](https://github.com/5hubhm/BarterX/blob/Bun_code/index.js)|[Github](https://github.com/5hubhm/BarterX/blob/Bun_code)
-| Ayush                 | 2203031080028        |                   |             |
+| Ayush                 | 2203031080028        |       [Assignment-20](https://github.com/ayushvadodariya/BarterX/blob/bun/index.js)            |     [GitHub](https://github.com/ayushvadodariya/BarterX/tree/bun)        |
 | Mansha Soni           | 2203031080121        | [BarterX](https://github.com/mansha-6/BarterX/blob/bun-app/main.js)                  |     [Github]   (https://github.com/mansha-6/BarterX)     |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        | https://github.com/Pranjallpandey1504/BarterX/tree/assignment20                  | https://github.com/Pranjallpandey1504/BarterX            |
@@ -16,7 +16,8 @@
 | Mann Solanki          | 2203031080260        | [Bun](https://github.com/MannSolanki/BarterX-Bun/blob/master/index.js)|[Github](https://github.com/MannSolanki/BarterX-Bun)  |
 | Dhyan Patel           | 2203031080216        |https://github.com/dhyanpatel3/BarterX/blob/main/bun.js|https://github.com/dhyanpatel3/BarterX|
 | Rajdeepsinh Dabhi     | 2203031080069        |  [Bun](https://github.com/Rajdeepsinh1410/Bun.git)                 |   [GitHub](https://github.com/Rajdeepsinh1410/Bun.git)          |
-| Ankit Kumar           | 2203031080184        |                   |             |
+| Ankit Kumar           | 2203031080184        | [Bun](https://github.com/Ankiitsuthar/BarterX/blob/Bun/index.js)                  |  [GitHub](https://github.com/Ankiitsuthar/BarterX/tree/Bun)           |
+
 | Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/feature-bunjs/bun.js|https://github.com/HardeepIjardar/BarterX|
 | Sahil Bharude         | 2203031080235        |                   |             |
 | Aryan Vekariya        | 2203031080125        |                   |             |
@@ -37,7 +38,7 @@
 | Yash Sakhareliya      | 2203031080015        |[Assignement 20](https://github.com/YashSakhareliya/BarterX/blob/bun/index.js)| [GitHub](https://github.com/YashSakhareliya/BarterX/tree/bun)  |
 | Meet Upendrakumar Patel | 2203031080011      |                   |             |
 | Vraj Mehta            | 2303031087034        |                   |             |
-| Alisha Kaur           | 2203031080202        |                   |             |
+| Alisha Kaur           | 2203031080202        | https://github.com/Alishakaur431/BarterX/blob/assignment20/index.js                |        https://github.com/Alishakaur431/BarterX/tree/assignment20     |
 | Pranav Faladu         | 2303031087022        |                   |             |
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
 | Bharvi Valand         | 2303031087002        |                   |             |
