@@ -2,7 +2,7 @@
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Assignment 21](https://github.com/5hubhm/ExpressJS101/blob/main/GlowDerm/app.js)|[Github](https://github.com/5hubhm/ExpressJS101) |
 | Ayush | 2203031080028 | [Assignment 21](https://github.com/ayushvadodariya/GlowDerma/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/GlowDerma) |
-| Mansha Soni | 2203031080121 | | |
+| Mansha Soni | 2203031080121 |[Assignment 21](https://github.com/mansha-6/GlowDerma/blob/main/index.js)|[Github](https://github.com/mansha-6/GlowDerma)|
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
@@ -26,7 +26,7 @@
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 |[Assignment 21](https://github.com/Darshkalani28/GlowDerma) | [Github](https://github.com/Darshkalani28/GlowDerma) |
-| Vignesh Gaddam | 2203031080131 | | |
+| Vignesh Gaddam | 2203031080131 |[Assignment 21](https://github.com/mrvigneshgaddam/GlowDerma/blob/main/index.js) |[GitHub](https://github.com/mrvigneshgaddam/GlowDerma) |
 | Vrushangi Mistry | 2203031080222 |https://github.com/Vrushi14/GlowDerma/blob/main/index.js |https://github.com/Vrushi14/GlowDerma |
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 | | |
