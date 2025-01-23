@@ -28,7 +28,7 @@
 | Raj Patel             | 2203031080105        |                   |             |
 | Darsh Kalani          | 2203031080032        | [Assignment 20](https://github.com/Darshkalani28/Bun-/blob/main/index.js) | [Repository](https://github.com/Darshkalani28/Bun-) |
 | Vignesh Gaddam        | 2203031080131        |[BarterX_Using_Bun](https://github.com/mrvigneshgaddam/BarterX/blob/bun-app/index.js)|[GitHub](https://github.com/mrvigneshgaddam/BarterX)|
-| Vrushangi Mistry      | 2203031080222        |                   |             |
+| Vrushangi Mistry      | 2203031080222        | https://github.com/Vrushi14/Bun/blob/main/index.js                  |  https://github.com/Vrushi14/Bun/tree/main           |
 | Achal Ladani          | 2203031080229        |                   |             |
 | Harsh Choudhary       | 2203031080132        |[bun](https://github.com/mrHarshchoudhary/BarterX/blob/bun-app/index.js)                   |[git](https://github.com/mrHarshchoudhary/BarterX/tree/bun-app)             |
 | Jeet Dhake            | 2303031087082        |                   |             |
