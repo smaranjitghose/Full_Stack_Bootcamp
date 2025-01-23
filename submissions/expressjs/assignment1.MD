@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Assignment 21 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Assignment 21](https://github.com/5hubhm/ExpressJS101/blob/main/GlowDerm/app.js)|[Github](https://github.com/5hubhm/ExpressJS101) |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 | [Assignment 21](https://github.com/ayushvadodariya/GlowDerma/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/GlowDerma) |
 | Mansha Soni | 2203031080121 | | |
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
