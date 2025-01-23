@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name       | 🆔 Enrollment Number | Assignment 20 URL | GitHub Repo |
 |-----------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya     | 2203031080004        | [Assignment-20](https://github.com/5hubhm/BarterX/blob/Bun_code/index.js)|[Github](https://github.com/5hubhm/BarterX/blob/Bun_code)
-| Ayush                 | 2203031080028        |                   |             |
+| Ayush                 | 2203031080028        |       [Assignment-20](https://github.com/ayushvadodariya/BarterX/blob/bun/index.js)            |     [GitHub](https://github.com/ayushvadodariya/BarterX/tree/bun)        |
 | Mansha Soni           | 2203031080121        | [BarterX](https://github.com/mansha-6/BarterX/blob/bun-app/main.js)                  |     [Github]   (https://github.com/mansha-6/BarterX)     |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        | https://github.com/Pranjallpandey1504/BarterX/tree/assignment20                  | https://github.com/Pranjallpandey1504/BarterX            |
