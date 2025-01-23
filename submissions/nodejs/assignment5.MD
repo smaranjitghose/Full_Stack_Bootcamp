@@ -37,7 +37,7 @@
 | Yash Sakhareliya      | 2203031080015        |[Assignement 20](https://github.com/YashSakhareliya/BarterX/blob/bun/index.js)| [GitHub](https://github.com/YashSakhareliya/BarterX/tree/bun)  |
 | Meet Upendrakumar Patel | 2203031080011      |                   |             |
 | Vraj Mehta            | 2303031087034        |                   |             |
-| Alisha Kaur           | 2203031080202        |                   |             |
+| Alisha Kaur           | 2203031080202        | https://github.com/Alishakaur431/BarterX/blob/assignment20/index.js                |        https://github.com/Alishakaur431/BarterX/tree/assignment20     |
 | Pranav Faladu         | 2303031087022        |                   |             |
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
 | Bharvi Valand         | 2303031087002        |                   |             |
