@@ -1,4 +1,4 @@
-# Assignment: Create an HTTP Server for BarterX
+# NodeJS 4: Create an HTTP Server for BarterX
 
 ## Objective:
 Create a Node.js HTTP server using the `http` core module to handle requests for a Used Goods Marketplace SaaS product called **BarterX**. The server should respond with specific messages for different routes, serve JSON data, HTML content, and handle errors gracefully. Test the server using **Postman** to ensure all routes work as expected.
@@ -132,4 +132,9 @@ img {
 
 3. Log File Requirements
 * Log all requests with date, time, HTTP method, and path
+
+
+# NodeJS 5: Create an HTTP Server for BarterX using Bun
+
+Replicate the same problem using Bun as the run time and without using any `http` module
 
