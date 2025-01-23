@@ -32,7 +32,7 @@
 | Harsh Choudhary       | 2203031080132        |[bun](https://github.com/mrHarshchoudhary/BarterX/blob/bun-app/index.js)                   |[git](https://github.com/mrHarshchoudhary/BarterX/tree/bun-app)             |
 | Jeet Dhake            | 2303031087082        |                   |             |
 | vishang Lad           | 2203031080035        |                   |             |
-| Hani Vaghani          | 2303031087088        |                   |             |
+| Hani Vaghani          | 2303031087088        |https://github.com/hanivaghani/BarterX/blob/bun/index.js|https://github.com/hanivaghani/BarterX/tree/bun|
 | Harsh Surani          | 2203031080123        |                   |             |
 | Yash Sakhareliya      | 2203031080015        |[Assignement 20](https://github.com/YashSakhareliya/BarterX/blob/bun/index.js)| [GitHub](https://github.com/YashSakhareliya/BarterX/tree/bun)  |
 | Meet Upendrakumar Patel | 2203031080011      |                   |             |
