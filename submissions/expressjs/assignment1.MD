@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Assignment 21 URL | GitHub Repo |
 |-----------------|-------------------|------------|-------------|
 | Shubham Karvariya | 2203031080004 | [Assignment 21](https://github.com/5hubhm/ExpressJS101/blob/main/GlowDerm/app.js)|[Github](https://github.com/5hubhm/ExpressJS101) |
-| Ayush | 2203031080028 | | |
+| Ayush | 2203031080028 | [Assignment 21](https://github.com/ayushvadodariya/GlowDerma/blob/main/app.js) |[GitHub](https://github.com/ayushvadodariya/GlowDerma) |
 | Mansha Soni | 2203031080121 |[Assignment 21](https://github.com/mansha-6/GlowDerma/blob/main/index.js)|[Github](https://github.com/mansha-6/GlowDerma)|
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/GlowDerma/blob/main/index.js |https://github.com/Pranjallpandey1504/GlowDerma |
@@ -41,6 +41,6 @@
 | Pranav Faladu | 2303031087022 |(https://github.com/PranavFaladu/GlowDerma/blob/main/index.js)|(https://github.com/PranavFaladu/GlowDerma/tree/main)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Assignment 21](https://github.com/Neetidarji/GlowDerma/blob/master/index.js)|[Github](https://github.com/Neetidarji/GlowDerma/tree/master)|
-| Suhani Tandel | 2203031080160 | | |
+| Suhani Tandel | 2203031080160 |https://github.com/SuhaniTandel/GlowDerma/blob/main/index.js|[GitHub] https://github.com/SuhaniTandel/GlowDerma|
 | Rishabh Rai | 2203031080114 |[Assignment 21] https://github.com/Rishabhrai29/Express1011 | [Github] https://github.com/Rishabhrai29/Express1011 |
 | Rutuja Waghchaure | 2303031087089 |https://github.com/rutujawaghchaure/Glowdarma/blob/main/index.js|https://github.com/rutujawaghchaure/Glowdarma|
