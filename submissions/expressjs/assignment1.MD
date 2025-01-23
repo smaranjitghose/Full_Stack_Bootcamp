@@ -6,7 +6,7 @@
 | Bhavin Parmar | 2203031080042 | | |
 | Pranjal Pandey | 2203031080144 | | |
 | Ashish Yadav | 2203031080161 | | |
-| Vinit Patel | 2203031080139 | | |
+| Vinit Patel | 2203031080139 | [Assignment 1](https://github.com/Vinitpatel28/GlowDerma/blob/main/index.js)|[GitHub](https://github.com/Vinitpatel28/GlowDerma.git) |
 | Utsav Hirapra | 2203031080002 | | |
 | Meet Savadasbhai Sondarva | 2203031080146 | | |
 | Satyam | 2203031080232 | | |
