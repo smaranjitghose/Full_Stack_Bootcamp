@@ -8,7 +8,7 @@
 | Ashish Yadav          | 2203031080161        |   [BarterX](https://github.com/AshishIT611/BarterX/blob/main/index.js)                |     [GitHub](https://github.com/AshishIT611/BarterX)        |
 | Vinit Patel           | 2203031080139        | [BarterX](https://github.com/Vinitpatel28/BarterX/blob/main/index.js)| [GitHub](https://github.com/Vinitpatel28/BarterX)|
 | Utsav Hirapra         | 2203031080002        |[BarterX](https://github.com/utsav1213/BarterX/blob/main/index.js)|[GitHub] (https://github.com/utsav1213/BarterX)  |
-| Meet Savadasbhai Sondarva | 2203031080146    |                   |             |
+| Meet Savadasbhai Sondarva | 2203031080146    |[BaterX](https://github.com/meetsondarva/BarterX/blob/main/index.js)|[Github](https://github.com/meetsondarva/BarterX)|
 | Satyam                | 2203031080232        | https://github.com/mrSinghSatyam/BarterX/blob/main/index.js|https://github.com/mrSinghSatyam/BarterX|
 | Vaishnavi Sagariya    | 2203031080013        | [Barterx](https://github.com/sagariyavaishnavi/BarterX/blob/main/index.js) | [GitHub](https://github.com/sagariyavaishnavi/BarterX) |
 | Jenish Paghadal       | 2203031080007        | [BarterX](https://github.com/ItsJESH/BarterX/blob/main/index.js) |[GitHub](https://github.com/ItsJESH/BarterX/)             |
@@ -21,7 +21,7 @@
 | Sahil Bharude         | 2203031080235        | https://github.com/BharudeSahil/BarterX/blob/main/script.js | https://github.com/BharudeSahil/BarterX |
 | Aryan Vekariya        | 2203031080125        |[Assignment19](https://github.com/aaryanvekariya/BarterX/blob/main/index.js)|[Repository](https://github.com/aaryanvekariya/BarterX)|
 | Sparsh Patel          | 2203031080053        |                   |             |
-| Pratik Patel          | 2203031080174        |                   |             |
+| Pratik Patel          | 2203031080174        | [BarterX](https://github.com/Pratik00531/BarterX/blob/node-q4/index.js) | [Repository](https://github.com/Pratik00531/BarterX) |
 | Ravi Vira             | 2203031080018        |                   |             |
 | Deep Menpara          | 2203031080091        |                   |             |
 | Raj Patel             | 2203031080105        | https://github.com/RajPatel08/BarterX/blob/main/index.js | https://github.com/RajPatel08/BarterX|
