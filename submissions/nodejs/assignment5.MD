@@ -19,7 +19,7 @@
 | Ankit Kumar           | 2203031080184        | [Bun](https://github.com/Ankiitsuthar/BarterX/blob/Bun/index.js)                  |  [GitHub](https://github.com/Ankiitsuthar/BarterX/tree/Bun)           |
 | Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/feature-bunjs/bun.js|https://github.com/HardeepIjardar/BarterX|
 | Sahil Bharude         | 2203031080235        |                   |             |
-| Aryan Vekariya        | 2203031080125        |                   |             |
+| Aryan Vekariya        | 2203031080125        |[Task](https://github.com/aaryanvekariya/BarterX/blob/Bun/index.js)|[Repository](https://github.com/aaryanvekariya/BarterX)|
 | Sparsh Patel          | 2203031080053        |                   |             |
 | Pratik Patel          | 2203031080174        |https://github.com/Pratik00531/BarterX/blob/node-q4/index.js|https://github.com/Pratik00531/BarterX             |
 | Ravi Vira             | 2203031080018        |                   |             |
@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011      |                   |             |
 | Vraj Mehta            | 2303031087034        |                   |             |
 | Alisha Kaur           | 2203031080202        | https://github.com/Alishakaur431/BarterX/blob/assignment20/index.js                |        https://github.com/Alishakaur431/BarterX/tree/assignment20     |
-| Pranav Faladu         | 2303031087022        |                   |             |
+| Pranav Faladu         | 2303031087022        |https://github.com/PranavFaladu/Barterx/blob/Bun/Bun.js|https://github.com/PranavFaladu/Barterx.git|
 | Rutuja Waghchaure     | 2303031087089        |                   |             |
 | Bharvi Valand         | 2303031087002        |                   |             |
 | Neeti Darji           | 2303031087080        |[BarterX BUN](https://github.com/Neetidarji/BarterX/blob/bun/index1.js)|[Github](https://github.com/Neetidarji/BarterX/tree/bun)|
