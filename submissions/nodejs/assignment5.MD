@@ -10,20 +10,20 @@
 | Utsav Hirapra         | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva | 2203031080146    |                   |             |
 | Satyam                | 2203031080232        |                   |             |
-| Vaishnavi Sagariya    | 2203031080013        |                   |             |
+| Vaishnavi Sagariya    | 2203031080013        |  [Barterx Bun] (https://github.com/sagariyavaishnavi/BarterX/blob/Bun/index.js) |[GitHub](https://github.com/sagariyavaishnavi/BarterX/tree/Bun)|
 | Jenish Paghadal       | 2203031080007        |                   |             |
 | Umang Patel           | 2203031080107        |                   |             |
 | Mann Solanki          | 2203031080260        | [Bun](https://github.com/MannSolanki/BarterX-Bun/blob/master/index.js)|[Github](https://github.com/MannSolanki/BarterX-Bun)  |
 | Dhyan Patel           | 2203031080216        |https://github.com/dhyanpatel3/BarterX/blob/main/bun.js|https://github.com/dhyanpatel3/BarterX|
 | Rajdeepsinh Dabhi     | 2203031080069        |                   |             |
-| Ankit Kumar           | 2203031080184        |                   |             |
+| Ankit Kumar           | 2203031080184        | [Bun](https://github.com/Ankiitsuthar/BarterX/blob/Bun/index.js)                  |  [GitHub](https://github.com/Ankiitsuthar/BarterX/tree/Bun)           |
 | Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/feature-bunjs/bun.js|https://github.com/HardeepIjardar/BarterX|
 | Sahil Bharude         | 2203031080235        |                   |             |
 | Aryan Vekariya        | 2203031080125        |                   |             |
 | Sparsh Patel          | 2203031080053        |                   |             |
 | Pratik Patel          | 2203031080174        |https://github.com/Pratik00531/BarterX/blob/node-q4/index.js|https://github.com/Pratik00531/BarterX             |
 | Ravi Vira             | 2203031080018        |                   |             |
-| Deep Menpara          | 2203031080091        |                   |             |
+| Deep Menpara          | 2203031080091        |https://github.com/Deep7133/BarterX/blob/main/index.js                   |https://github.com/Deep7133/BarterX             |
 | Raj Patel             | 2203031080105        |                   |             |
 | Darsh Kalani          | 2203031080032        |                   |             |
 | Vignesh Gaddam        | 2203031080131        |[BarterX_Using_Bun](https://github.com/mrvigneshgaddam/BarterX/blob/bun-app/index.js)|[GitHub](https://github.com/mrvigneshgaddam/BarterX)|

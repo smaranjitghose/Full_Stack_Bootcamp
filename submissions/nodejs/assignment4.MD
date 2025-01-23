@@ -2,7 +2,7 @@
 |-----------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya     | 2203031080004        |                   |             |
 | Ayush                 | 2203031080028        |  [BarterX](https://github.com/ayushvadodariya/BarterX/blob/main/index.js)                 | [GitHub](https://github.com/ayushvadodariya/BarterX)            |
-| Mansha Soni           | 2203031080121        |                   |             |
+| Mansha Soni           | 2203031080121        |    https://github.com/mansha-6/BarterX/blob/main/index.js               |    https://github.com/mansha-6/BarterX         |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        |https://github.com/Pranjallpandey1504/BarterX/blob/main/index.js                   |https://github.com/Pranjallpandey1504/BarterX             |
 | Ashish Yadav          | 2203031080161        |   [BarterX](https://github.com/AshishIT611/BarterX/blob/main/index.js)                |     [GitHub](https://github.com/AshishIT611/BarterX)        |
@@ -24,7 +24,7 @@
 | Pratik Patel          | 2203031080174        | [BarterX](https://github.com/Pratik00531/BarterX/blob/node-q4/index.js) | [Repository](https://github.com/Pratik00531/BarterX) |
 | Ravi Vira             | 2203031080018        |                   |             |
 | Deep Menpara          | 2203031080091        |                   |             |
-| Raj Patel             | 2203031080105        |                   |             |
+| Raj Patel             | 2203031080105        | https://github.com/RajPatel08/BarterX/blob/main/index.js | https://github.com/RajPatel08/BarterX|
 | Darsh Kalani          | 2203031080032        | [BarterX](https://github.com/Darshkalani28/BarterX/index.js) | [Repo](https://github.com/Darshkalani28/BarterX) |
 | Vignesh Gaddam        | 2203031080131        |[BarterX](https://github.com/mrvigneshgaddam/BarterX/blob/main/index.js) |[GitHub](https://github.com/mrvigneshgaddam/BarterX) |
 | Vrushangi Mistry      | 2203031080222        |    https://github.com/Vrushi14/BarterX/blob/main/index.js               |     https://github.com/Vrushi14/BarterX/tree/main        |
