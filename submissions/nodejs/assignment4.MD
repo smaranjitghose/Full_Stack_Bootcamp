@@ -18,7 +18,7 @@
 | Rajdeepsinh Dabhi     | 2203031080069        |                   |             |
 | Ankit Kumar           | 2203031080184        |                   |             |
 | Hardeep Ijardar       | 2203031080031        |https://github.com/HardeepIjardar/BarterX/blob/main/index.js|https://github.com/HardeepIjardar/BarterX|
-| Sahil Bharude         | 2203031080235        |                   |             |
+| Sahil Bharude         | 2203031080235        | https://github.com/BharudeSahil/BarterX/blob/main/script.js | https://github.com/BharudeSahil/BarterX |
 | Aryan Vekariya        | 2203031080125        |                   |             |
 | Sparsh Patel          | 2203031080053        |                   |             |
 | Pratik Patel          | 2203031080174        |                   |             |
