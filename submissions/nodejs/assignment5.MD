@@ -5,7 +5,7 @@
 | Mansha Soni           | 2203031080121        | [BarterX](https://github.com/mansha-6/BarterX/blob/bun-app/main.js)                  |     [Github]   (https://github.com/mansha-6/BarterX)     |
 | Bhavin Parmar         | 2203031080042        |                   |             |
 | Pranjal Pandey        | 2203031080144        | https://github.com/Pranjallpandey1504/BarterX/tree/assignment20                  | https://github.com/Pranjallpandey1504/BarterX            |
-| Ashish Yadav          | 2203031080161        |                   |             |
+| Ashish Yadav          | 2203031080161        |[BarterX Bun](https://github.com/AshishIT611/BarterX/blob/bun/index.js)                   |[GitHub](https://github.com/AshishIT611/BarterX)             |
 | Vinit Patel           | 2203031080139        | [BarterX](https://github.com/Vinitpatel28/BarterX/blob/bunapp/index.js)| [GitHub](https://github.com/Vinitpatel28/BarterX/tree/bunapp)|
 | Utsav Hirapra         | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva | 2203031080146    |                   |             |
