@@ -9,7 +9,7 @@
 | Vinit Patel                     | 2203031080139       |                   |             |
 | Utsav Hirapra                   | 2203031080002       | [URL](https://github.com/utsav1213/Express101/blob/main/GlowDerma/app.js)|[GIT](https://github.com/utsav1213/Express101)   |
 | Meet Savadasbhai Sondarva       | 2203031080146       |                   |             |
-| Satyam                          | 2203031080232       |                   |             |
+| Satyam                          | 2203031080232       |https://github.com/mrSinghSatyam/GlowDerma/blob/main/index.js|https://github.com/mrSinghSatyam/GlowDerma|
 | Vaishnavi Sagariya              | 2203031080013       |                   |             |
 | Jenish Paghadal                 | 2203031080007       | [GlowDerma](https://github.com/ItsJESH/Express101/blob/main/GlowDerma/app.js) | [GitHub](https://github.com/ItsJESH/Express101/) |
 | Umang Patel                     | 2203031080107       |                   |             |
