@@ -21,7 +21,7 @@
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 |[Assignment21](https://github.com/aaryanvekariya/Express_Work/blob/main/index.js) |[Repository](https://github.com/aaryanvekariya/Express_Work) |
 | Sparsh Patel | 2203031080053 | | |
-| Pratik Patel | 2203031080174 | | |
+| Pratik Patel | 2203031080174 | [Assignment 21](https://github.com/Pratik00531/GlowDerma/blob/master/app.js) | [Repository](https://github.com/Pratik00531/GlowDerma) |
 | Ravi Vira | 2203031080018 |[url] (https://github.com/Ravi-vira/Express101/blob/main/app.js) |[git](https://github.com/Ravi-vira/Express101) |
 | Deep Menpara | 2203031080091 | | |
 | Raj Patel | 2203031080105 | | |
