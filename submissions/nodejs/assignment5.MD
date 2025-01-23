@@ -21,7 +21,7 @@
 | Sahil Bharude         | 2203031080235        |                   |             |
 | Aryan Vekariya        | 2203031080125        |                   |             |
 | Sparsh Patel          | 2203031080053        |                   |             |
-| Pratik Patel          | 2203031080174        |                   |             |
+| Pratik Patel          | 2203031080174        |https://github.com/Pratik00531/BarterX/blob/node-q4/index.js|https://github.com/Pratik00531/BarterX             |
 | Ravi Vira             | 2203031080018        |                   |             |
 | Deep Menpara          | 2203031080091        |                   |             |
 | Raj Patel             | 2203031080105        |                   |             |

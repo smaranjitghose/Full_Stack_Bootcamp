@@ -45,3 +45,12 @@ Create handlers:
   - Process JSON body (id, name, price, qty)
   - Add item if all fields present
   - Return error if fields missing (Status 400)
+
+
+### 8. Postman Pre-request Script
+Using Postman, create a custom Pre-request Script that:
+
+- Defines an array of product names.
+- Randomly selects a product name from the array.
+- Sets the selected product name as an environment variable (randomITEMName).
+- Uses the environment variable in the /cart POST request body to dynamically populate the name field.
