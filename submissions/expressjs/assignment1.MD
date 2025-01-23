@@ -31,7 +31,7 @@
 | Achal Ladani | 2203031080229 | | |
 | Harsh Choudhary | 2203031080132 |[Assignment 21](https://github.com/mrHarshchoudhary/GlowDerma/blob/main/index.js) |[Github](https://github.com/mrHarshchoudhary/GlowDerma) |
 | Jeet Dhake | 2303031087082 | | |
-| Vishang Lad | 2203031080035 | | |
+| Vishang Lad | 2203031080035 |[Assignment 21](https://github.com/vishangl/GlowDerma/blob/main/index.js)|(https://github.com/vishangl/GlowDerma) |
 | Hani Vaghani | 2303031087088 |https://github.com/hanivaghani/GlowDerma/blob/master/index.js|https://github.com/hanivaghani/GlowDerma/tree/master|
 | Harsh Surani | 2203031080123 | [Assignment 21](https://github.com/suraniharsh/GlowDerma) | [Github](https://github.com/suraniharsh/GlowDerma) |
 | Yash Sakhareliya | 2203031080015 |[Assignment 21](https://github.com/YashSakhareliya/Express101/blob/main/app.js) |[GITHUB](https://github.com/YashSakhareliya/Express101/) |
