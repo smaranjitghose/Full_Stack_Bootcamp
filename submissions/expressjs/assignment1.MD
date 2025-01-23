@@ -38,7 +38,7 @@
 | Meet Upendrakumar Patel | 2203031080011 | | |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 |https://github.com/Alishakaur431/GlowDerma/blob/main/index.js |https://github.com/Alishakaur431/GlowDerma |
-| Pranav Faladu | 2303031087022 | | |
+| Pranav Faladu | 2303031087022 |(https://github.com/PranavFaladu/GlowDerma/blob/main/index.js)|(https://github.com/PranavFaladu/GlowDerma/tree/main)|
 | Bharvi Valand | 2303031087002 | | |
 | Neeti Darji | 2303031087080 |[Assignment 21](https://github.com/Neetidarji/GlowDerma/blob/master/index.js)|[Github](https://github.com/Neetidarji/GlowDerma/tree/master)|
 | Suhani Tandel | 2203031080160 | | |
