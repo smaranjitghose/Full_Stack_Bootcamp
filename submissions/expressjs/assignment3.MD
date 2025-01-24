@@ -18,7 +18,7 @@
 | Rajdeepsinh Dabhi               | 2203031080069       |                   |             |
 | Ankit Kumar                     | 2203031080184       |                   |             |
 | Sahil Bharude                   | 2203031080235       |                   |             |
-| Aryan Vekariya                  | 2203031080125       |                   |             |
+| Aryan Vekariya                  | 2203031080125       |[Assignment23](https://github.com/aaryanvekariya/Express_Work/blob/main/GlowDerma/index.js)|[Repository]    (https://github.com/aaryanvekariya/Express_Work)   |
 | Sparsh Patel                    | 2203031080053       |                   |             |
 | Pratik Patel                    | 2203031080174       |                   |             |
 | Ravi Vira                       | 2203031080018       |                   |             |
