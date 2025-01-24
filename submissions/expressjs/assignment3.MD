@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | | |
 | Vinit Patel                     | 2203031080139       | [Assignment 23](https://github.com/Vinitpatel28/GlowDerma/blob/main/index4.js) |[GitHub](https://github.com/Vinitpatel28/GlowDerma.git)|
 | Utsav Hirapra                   | 2203031080002       | [url](https://github.com/utsav1213/Express101/blob/main/GlowDerma/app.js) |[Git](https://github.com/utsav1213/Express101)             |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
+| Meet Savadasbhai Sondarva       | 2203031080146 |[Assignment 23](https://github.com/meetsondarva/GlowDerma/blob/main/index2.js)|[Github](https://github.com/meetsondarva/GlowDerma)|
 | Satyam | 2203031080232 | | |
 | Vaishnavi Sagariya              | 2203031080013       |  [Assignment 23](https://github.com/sagariyavaishnavi/GlowDerma/blob/main/index1.js) | [GitHub](https://github.com/sagariyavaishnavi/GlowDerma) |
 | Jenish Paghadal | 2203031080007 | | |
