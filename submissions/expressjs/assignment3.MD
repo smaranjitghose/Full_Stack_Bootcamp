@@ -16,7 +16,7 @@
 | Mann Solanki                    | 2203031080260       |[Assignment23](https://github.com/MannSolanki/GlowDerma/blob/master/index2.js)   |[Github](https://github.com/MannSolanki/GlowDerma) |
 | Dhyan Patel                     | 2203031080216       |https://github.com/dhyanpatel3/GlowDerma/blob/main/index2.js|https://github.com/dhyanpatel3/GlowDerma|
 | Rajdeepsinh Dabhi | 2203031080069 | | |
-| Ankit Kumar | 2203031080184 | | |
+| Ankit Kumar | 2203031080184 |[Assignment 23](https://github.com/Ankiitsuthar/GlowDerma/blob/main/index2.js) |[GitHub](https://github.com/Ankiitsuthar/GlowDerma) |
 | Sahil Bharude | 2203031080235 | | |
 | Aryan Vekariya | 2203031080125 | | |
 | Sparsh Patel | 2203031080053 | | |
