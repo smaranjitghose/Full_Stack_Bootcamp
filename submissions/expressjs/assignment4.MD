@@ -24,7 +24,7 @@
 | Ravi Vira | 2203031080018 | | |
 | Deep Menpara | 2203031080091 | |  |
 | Raj Patel | 2203031080105 | | |
-| Darsh Kalani | 2203031080032 | | |
+| Darsh Kalani | 2203031080032 | [Assignment 24](https://github.com/Darshkalani28/GlowDerma/blob/main/index.js ) | [Repository](https://github.com/Darshkalani28/GlowDerma) |
 | Vignesh Gaddam | 2203031080131 | | |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
