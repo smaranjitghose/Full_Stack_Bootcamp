@@ -1,6 +1,6 @@
 | 👩‍🎓 Student Name | 🆔 Enrollment Number | Assignment 24 URL | GitHub Repo |
 |-----------------|-------------------|-----------------|------------|
-| Shubham Karvariya | 2203031080004 | | |
+| Shubham Karvariya | 2203031080004 |[Assignment 24](https://github.com/5hubhm/ExpressJS101/blob/handlebars/GlowDerm/index.js) |[Github](https://github.com/5hubhm/ExpressJS101/tree/handlebars) |
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | |  |
 | Bhavin Parmar | 2203031080042 | | |
