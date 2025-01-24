@@ -28,7 +28,7 @@
 | Vignesh Gaddam | 2203031080131 |[Assignment 23](https://github.com/mrvigneshgaddam/GlowDerma/blob/main/index.js) | [GitHub](https://github.com/mrvigneshgaddam/GlowDerma) |
 | Vrushangi Mistry | 2203031080222 | | |
 | Achal Ladani | 2203031080229 | | |
-| Harsh Choudhary | 2203031080132 | | |
+| Harsh Choudhary | 2203031080132 |[Assignment 23](https://github.com/mrHarshchoudhary/GlowDerma/blob/main/index.js) |[git hub](https://github.com/mrHarshchoudhary/GlowDerma) |
 | Jeet Dhake | 2303031087082 | | |
 | Vishang Lad                     | 2203031080035       |https://github.com/vishangl/GlowDerma/blob/main/index.js|https://github.com/vishangl/GlowDerma|
 | Hani Vaghani | 2303031087088 | | |
