@@ -27,7 +27,7 @@
 | Raj Patel                       | 2203031080105       |                   |             |
 | Darsh Kalani                    | 2203031080032       |                   |             |
 | Vignesh Gaddam                  | 2203031080131       | [Assignment 22](https://github.com/mrvigneshgaddam/GlowDerma/blob/main/index.js) | [GitHub](https://github.com/mrvigneshgaddam/GlowDerma)  |
-| Vrushangi Mistry                | 2203031080222       |                   |             |
+| Vrushangi Mistry                | 2203031080222       |     https://github.com/Vrushi14/GlowDerma/blob/main/index.js              |    https://github.com/Vrushi14/GlowDerma         |
 | Achal Ladani                    | 2203031080229       |                   |             |
 | Harsh Choudhary                 | 2203031080132       |[Assignment 22](https://github.com/mrHarshchoudhary/GlowDerma/blob/main/index.js)                   |[Repo](https://github.com/mrHarshchoudhary/GlowDerma)             |
 | Jeet Dhake                      | 2303031087082       |                   |             |
