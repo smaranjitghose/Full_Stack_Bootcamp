@@ -1,11 +1,10 @@
-
 | 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 23 URL | GitHub Repo |
 |---------------------------------|---------------------|-------------------|-------------|
 | Shubham Karvariya               | 2203031080004       | [Assignment 23](https://github.com/5hubhm/ExpressJS101/blob/main/GlowDerm/app.js)|[Github](https://github.com/5hubhm/ExpressJS101)|
 | Ayush                           | 2203031080028       | [Assignment 23](https://github.com/ayushvadodariya/GlowDerma/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/GlowDerma) |
 | Mansha Soni                     | 2203031080121       | [Assignment 23](https://github.com/mansha-6/GlowDerma/blob/main/index3.js) | [Github](https://github.com/mansha-6/GlowDerma) |
 | Bhavin Parmar                   | 2203031080042       | [Assignment 23](https://github.com/bhavinbvn/GlowDerma/blob/main/app.js) |  [GitHub](https://github.com/bhavinbvn/GlowDerma) |
-| Pranjal Pandey                 | 2203031080144        |https://github.com/Pranjallpandey1504/GlowDerma/blob/main/index.js                   |https://github.com/Pranjallpandey1504/GlowDerma            |
+| Pranjal Pandey                  | 2203031080144       |https://github.com/Pranjallpandey1504/GlowDerma/blob/main/index.js                   |https://github.com/Pranjallpandey1504/GlowDerma            |
 | Ashish Yadav                    | 2203031080161       |                   |             |                    
 | Vinit Patel                     | 2203031080139       |                   |             |
 | Utsav Hirapra                   | 2203031080002       |                   |             |
@@ -17,7 +16,7 @@
 | Mann Solanki                    | 2203031080260       |                   |             |
 | Dhyan Patel                     | 2203031080216       |                   |             |
 | Rajdeepsinh Dabhi               | 2203031080069       |                   |             |
-| Ankit Kumar                     | 2203031080184       |                   |             |
+| Ankit Kumar                     | 2203031080184       |[Assignment 23](https://github.com/Ankiitsuthar/GlowDerma/blob/main/index2.js) |[GitHub](https://github.com/Ankiitsuthar/GlowDerma) |
 | Sahil Bharude                   | 2203031080235       | https://github.com/BharudeSahil/GlowDerma/blob/main/index1.js | https://github.com/BharudeSahil/GlowDerma |
 | Aryan Vekariya                  | 2203031080125       |[Assignment23](https://github.com/aaryanvekariya/Express_Work/blob/main/GlowDerma/index.js)|[Repository]    (https://github.com/aaryanvekariya/Express_Work)   |
 | Sparsh Patel                    | 2203031080053       |                   |             |
