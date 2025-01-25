@@ -8,7 +8,7 @@
 | Ashish Yadav | 2203031080161 | [Task 3](https://github.com/AshishIT611/OpenTalkJS/blob/main/app.js) | [GitHub](https://github.com/AshishIT611/OpenTalkJS) |
 | Vinit Patel | 2203031080139 |[Task 3](https://github.com/Vinitpatel28/OpenTalkJS/blob/main/app.js) |[GitHub](https://github.com/Vinitpatel28/OpenTalkJS) |
 | Utsav Hirapra | 2203031080002 |[Task 3](https://github.com/utsav1213/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/utsav1213/OpenTalkJS) |
-| Meet Savadasbhai Sondarva | 2203031080146 | | |
+| Meet Savadasbhai Sondarva | 2203031080146 |[Task 3](https://github.com/meetsondarva/OpenTalkJS/blob/main/index.js) |[GitHub](https://github.com/meetsondarva/OpenTalkJS) |
 | Satyam | 2203031080232 |https://github.com/mrSinghSatyam/OpenTalkJS/blob/main/app.js |https://github.com/mrSinghSatyam/OpenTalkJS |
 | Vaishnavi Sagariya | 2203031080013 | [Task-3](https://github.com/sagariyavaishnavi/OpenTalkJS/blob/main/script2.js)|[GitHub](https://github.com/sagariyavaishnavi/OpenTalkJS) |
 | Jenish Paghadal | 2203031080007 |[Task 3](https://github.com/ItsJESH/OpenTalkJS/blob/Stage3/index.js) |[GitHub](https://github.com/ItsJESH/OpenTalkJS/tree/Stage3) |
