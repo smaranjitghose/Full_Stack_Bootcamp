@@ -14,7 +14,7 @@
 | Jenish Paghadal       | 2203031080007        |                   |             |
 | Umang Patel           | 2203031080107        |                   |             |
 | Mann Solanki          | 2203031080260        | [Bun](https://github.com/MannSolanki/BarterX-Bun/blob/master/index.js)|[Github](https://github.com/MannSolanki/BarterX-Bun)  |
-| Dhyan Patel           | 2203031080216        |https://github.com/dhyanpatel3/BarterX/blob/main/bun.js|https://github.com/dhyanpatel3/BarterX|
+| Dhyan Patel           | 2203031080216        |[Bun](https://github.com/dhyanpatel3/BarterX/blob/main/bun.js)|[GitHub](https://github.com/dhyanpatel3/BarterX)|
 | Rajdeepsinh Dabhi     | 2203031080069        |  [Bun](https://github.com/Rajdeepsinh1410/Bun.git)                 |   [GitHub](https://github.com/Rajdeepsinh1410/Bun.git)          |
 | Ankit Kumar           | 2203031080184        | [Bun](https://github.com/Ankiitsuthar/BarterX/blob/Bun/index.js)                  |  [GitHub](https://github.com/Ankiitsuthar/BarterX/tree/Bun)           |
 
