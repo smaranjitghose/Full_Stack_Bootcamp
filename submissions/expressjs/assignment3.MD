@@ -1,15 +1,15 @@
 | 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 23 URL | GitHub Repo |
 |---------------------------------|---------------------|-------------------|-------------|
 | Shubham Karvariya               | 2203031080004       |                   |             |
-| Ayush                           | 2203031080028       |                   |             |
-| Mansha Soni                     | 2203031080121       |                   |             |
+| Ayush                           | 2203031080028       | [Assignment 23](https://github.com/ayushvadodariya/GlowDerma/blob/main/app.js) | [GitHub](https://github.com/ayushvadodariya/GlowDerma) |
+| Mansha Soni                     | 2203031080121       | [Assignment 23](https://github.com/mansha-6/GlowDerma/blob/main/index3.js) | [Github](https://github.com/mansha-6/GlowDerma) |
 | Bhavin Parmar                   | 2203031080042       |                   |             |
 | Pranjal Pandey                  | 2203031080144       |                   |             |
 | Ashish Yadav                    | 2203031080161       |                   |             |                    
 | Vinit Patel                     | 2203031080139       |                   |             |
 | Utsav Hirapra                   | 2203031080002       |                   |             |
 | Meet Savadasbhai Sondarva       | 2203031080146       |                   |             |
-| Satyam                          | 2203031080232       |https://github.com/mrSinghSatyam/GlowDerma/blob/main/index1.js|https://github.com/mrSinghSatyam/GlowDerma|
+| Satyam                          | 2203031080232       | https://github.com/mrSinghSatyam/GlowDerma/blob/main/index1.js | https://github.com/mrSinghSatyam/GlowDerma |
 | Vaishnavi Sagariya              | 2203031080013       |                   |             |
 | Jenish Paghadal                 | 2203031080007       |                   |             |
 | Umang Patel                     | 2203031080107       |                   |             |
@@ -17,7 +17,7 @@
 | Dhyan Patel                     | 2203031080216       |                   |             |
 | Rajdeepsinh Dabhi               | 2203031080069       |                   |             |
 | Ankit Kumar                     | 2203031080184       |                   |             |
-| Sahil Bharude                   | 2203031080235       |                   |             |
+| Sahil Bharude                   | 2203031080235       | https://github.com/BharudeSahil/GlowDerma/blob/main/index1.js | https://github.com/BharudeSahil/GlowDerma |
 | Aryan Vekariya                  | 2203031080125       |                   |             |
 | Sparsh Patel                    | 2203031080053       |                   |             |
 | Pratik Patel                    | 2203031080174       |                   |             |
@@ -30,15 +30,15 @@
 | Harsh Choudhary                 | 2203031080132       |                   |             |
 | Jeet Dhake                      | 2303031087082       |                   |             |
 | Vishang Lad                     | 2203031080035       |                   |             |
-| Hani Vaghani                    | 2303031087088       |                   |             |
+| Hani Vaghani                    | 2303031087088       | [assignment-22](https://github.com/hanivaghani/GlowDerma/blob/master/index.js) | [GitHub](https://github.com/hanivaghani/GlowDerma/tree/master) |
 | Harsh Surani                    | 2203031080123       |                   |             |
-| Yash Sakhareliya                | 2203031080015       |[URL](https://github.com/YashSakhareliya/GlowDerma-/blob/main/app.js)  |[Github](https://github.com/YashSakhareliya/GlowDerma-)   |
+| Yash Sakhareliya                | 2203031080015       | [URL](https://github.com/YashSakhareliya/GlowDerma-/blob/main/app.js) | [Github](https://github.com/YashSakhareliya/GlowDerma-) |
 | Meet Upendrakumar Patel         | 2203031080011       |                   |             |
 | Vraj Mehta                      | 2303031087034       |                   |             |
-| Alisha Kaur                     | 2203031080202       |                   |             |
+| Alisha Kaur                     | 2203031080202       | https://github.com/Alishakaur431/GlowDerma/blob/main/index.js | https://github.com/Alishakaur431/GlowDerma |
 | Pranav Faladu                   | 2303031087022       |                   |             |
 | Bharvi Valand                   | 2303031087002       |                   |             |
-| Neeti Darji                     | 2303031087080       |[Assignment 23](https://github.com/Neetidarji/GlowDerma/blob/master/index.js)|[Github](https://github.com/Neetidarji/GlowDerma/tree/master)|
-| Suhani Tandel                    | 2203031080160      |                   |             |             
+| Neeti Darji                     | 2303031087080       | [Assignment 23](https://github.com/Neetidarji/GlowDerma/blob/master/index.js) | [Github](https://github.com/Neetidarji/GlowDerma/tree/master) |
+| Suhani Tandel                   | 2203031080160       |                   |             |             
 | Rishabh Rai                     | 2203031080114       |                   |             |
 | Rutuja Waghchaure               | 2303031087089       |                   |             |
