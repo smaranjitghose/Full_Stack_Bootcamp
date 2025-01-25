@@ -22,7 +22,7 @@
 | Sparsh Patel                    | 2203031080053       |                   |             |
 | Pratik Patel                    | 2203031080174       |                   |             |
 | Ravi Vira                       | 2203031080018       |[url](https://github.com/Ravi-vira/Express101/blob/express-q2/GlowDerma%20Project/app.js)|[git](https://github.com/Ravi-vira/Express101) |
-| Raj Patel                       | 2203031080105       |                   |             |
+| Raj Patel                       | 2203031080105 |  [Assignment 23] https://github.com/RajPatel08/GlowDerma/blob/main/index1.js |[Github]https://github.com/RajPatel08/GlowDerma |
 | Darsh Kalani                    | 2203031080032       | [Assignment 23](https://github.com/Darshkalani28/GlowDerma/blob/main/index.js) | [GitHub](https://github.com/Darshkalani28/GlowDerma) |
 | Vignesh Gaddam                  | 2203031080131       |                   |             |
 | Vrushangi Mistry                | 2203031080222       |   https://github.com/Vrushi14/GlowDerma/blob/main/api.js/blob/main/api.js                |       https://github.com/Vrushi14/GlowDerma      |
