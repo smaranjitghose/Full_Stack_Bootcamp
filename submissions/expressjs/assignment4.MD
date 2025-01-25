@@ -21,7 +21,7 @@
 | Aryan Vekariya | 2203031080125 |[Assignment24](https://github.com/aaryanvekariya/Express_Work/blob/main/handlebars/handlebar.js) |[Repository](https://github.com/aaryanvekariya/Express_Work) |
 | Sparsh Patel | 2203031080053 | | |
 | Pratik Patel | 2203031080174 | | |
-| Ravi Vira | 2203031080018 | | |
+| Ravi Vira | 2203031080018 |[url](https://github.com/Ravi-vira/Express101/blob/express-q2/GlowDerma%20Project/server.js)|[git](https://github.com/Ravi-vira/Express101/tree/express-q2/GlowDerma%20Project)|
 | Deep Menpara | 2203031080091 |https://github.com/Deep7133/Express_101/blob/main/glow_derma/app.js |https://github.com/Deep7133/Express_101/tree/main/glow_derma  |
 | Raj Patel | 2203031080105 | | |
 | Darsh Kalani | 2203031080032 | [Assignment 24](https://github.com/Darshkalani28/GlowDerma/blob/main/index.js ) | [Repository](https://github.com/Darshkalani28/GlowDerma) |
