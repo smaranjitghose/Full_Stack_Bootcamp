@@ -41,4 +41,4 @@
 | Neeti Darji                     | 2303031087080       | [Assignment 23](https://github.com/Neetidarji/GlowDerma/blob/master/index.js) | [Github](https://github.com/Neetidarji/GlowDerma/tree/master) |
 | Suhani Tandel                   | 2203031080160       |                   |             |             
 | Rishabh Rai                     | 2203031080114       |                   |             |
-| Rutuja Waghchaure               | 2303031087089       |                   |             |
+| Rutuja Waghchaure               | 2303031087089       |https://github.com/rutujawaghchaure/Glowdarma/blob/main/index.js                 |https://github.com/rutujawaghchaure/Glowdarma/tree/main|
