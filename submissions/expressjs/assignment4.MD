@@ -4,7 +4,7 @@
 | Ayush | 2203031080028 | | |
 | Mansha Soni | 2203031080121 | [Assignment 24](https://github.com/mansha-6/GlowDerma/blob/main/app3.js)|[Github](https://github.com/mansha-6/GlowDerma)  |
 | Bhavin Parmar | 2203031080042 | | |
-| Pranjal Pandey | 2203031080144 | | |
+| Pranjal Pandey | 2203031080144 |https://github.com/Pranjallpandey1504/GlowDerma/blob/main/app2.js |https://github.com/Pranjallpandey1504/GlowDerma |
 | Ashish Yadav | 2203031080161 |[URL](https://github.com/AshishIT611/GLOWDERMA/blob/main/app3.js) |[GitHub](https://github.com/AshishIT611/GLOWDERMA) |
 | Vinit Patel | 2203031080139 |[Assignment 25](https://github.com/Vinitpatel28/GlowDerma/blob/main/app.js) |[GitHub](https://github.com/Vinitpatel28/GlowDerma)|
 | Utsav Hirapra | 2203031080002 |[URL](https://github.com/utsav1213/Express101/blob/main/GlowDerma/index.js) |[GIT](https://github.com/utsav1213/Express101) |
