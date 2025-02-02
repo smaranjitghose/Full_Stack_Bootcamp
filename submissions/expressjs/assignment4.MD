@@ -14,7 +14,7 @@
 | Jenish Paghadal | 2203031080007 | | |
 | Umang Patel | 2203031080107 | | |
 | Mann Solanki | 2203031080260 | | |
-| Dhyan Patel | 2203031080216 | | |
+| Dhyan Patel | 2203031080216 | [Assignment 24](https://github.com/dhyanpatel3/GlowDerma/blob/main/index3.js)|[GitHub](https://github.com/dhyanpatel3/GlowDerma/) |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 | | |
 | Sahil Bharude | 2203031080235 | | |
