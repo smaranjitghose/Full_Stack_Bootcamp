@@ -1,4 +1,4 @@
-| 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 38 URL | ReactJS Assignments Repo |
+| 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 39 URL | ReactJS Assignments Repo |
 |--------------------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya              | 2203031080004        |                   |             |
 | Ayush                          | 2203031080028        |                   |             |
