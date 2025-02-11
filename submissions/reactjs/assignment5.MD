@@ -19,7 +19,7 @@
 | Ankit Kumar                    | 2203031080184        |                   |             |
 | Hardeep Ijardar                | 2203031080031        |                   |             |
 | Sahil Bharude                  | 2203031080235        |                   |             |
-| Aryan Vekariya                 | 2203031080125        |[Assignment35](https://github.com/aaryanvekariya/React/blob/main/Task5/src/components/JSXRules.jsx)|[Github](https://github.com/aaryanvekariya/React)             |
+| Aryan Vekariya                 | 2203031080125        |[Assignment35](https://github.com/aaryanvekariya/React/blob/main/Task5/src/components/JSXRules.jsx)|[Github](https://github.com/aaryanvekariya/React) |
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |                   |             |
