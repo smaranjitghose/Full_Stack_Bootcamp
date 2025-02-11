@@ -29,7 +29,7 @@
 | Vignesh Gaddam                 | 2203031080131        |                   |             |
 | Vrushangi Mistry               | 2203031080222        |                   |             |
 | Achal Ladani                   | 2203031080229        |                   |             |
-| Harsh Choudhary                | 2203031080132        |                   |             |
+| Harsh Choudhary                | 2203031080132        |[Image]https://github.com/mrHarshchoudhary/ReactAssignment/blob/main/Assignment-1/public/zerodha.png                   |[Github]https://github.com/mrHarshchoudhary/ReactAssignment             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |https://github.com/vishangl/React_Assignments/blob/main/Assignment%201/Screenshot%202025-02-11%20111258.png                   |https://github.com/vishangl/React_Assignments|
 | Hani Vaghani                   | 2303031087088        |                   |             |
