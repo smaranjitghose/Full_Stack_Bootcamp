@@ -1,7 +1,7 @@
 | 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 31 URL | ReactJS Assignments Repo |
 |--------------------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya              | 2203031080004        |                   |             |
-| Ayush                          | 2203031080028        |                   |             |
+| Ayush                          | 2203031080028        |     [Assignment 31](https://github.com/ayushvadodariya/ReactAssignment/blob/main/public/q1.jpg)              |    [GitHub](https://github.com/ayushvadodariya/ReactAssignment)         |
 | Mansha Soni                    | 2203031080121        |                   |             |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
 | Pranjal Pandey                 | 2203031080144        |                   |             |
