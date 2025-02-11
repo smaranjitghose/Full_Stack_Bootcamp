@@ -33,7 +33,7 @@ This intensive course takes you from zero programming knowledge to building full
 | 8 | 🔙 Backend with Node/Express | RESTful APIs, Middleware, Error Handling | |T.B.D  | [ExpressJS Assignment 1](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/Express_1.MD)  |
 | 9 | 🔐 Auth & Security | JWT, OAuth, Security Best Practices | |T.B.D  |  |
 | 10 | 🧪 Testing & Performance | Jest, Performance Optimization, SEO ||T.B.D  |  |
-| 11 | ⚛️ Frontend with React | Components, Hooks, State Management | [ReactJS PPT](https://www.canva.com/design/DAGewP4WPM8/Z4LNCnEUZlzTbqZH2K-AiA/view?utm_content=DAGewP4WPM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60fc46b8da) | T.B.D |  |
+| 11 | ⚛️ Frontend with React | Components, Hooks, State Management | [ReactJS PPT](https://www.canva.com/design/DAGewP4WPM8/Z4LNCnEUZlzTbqZH2K-AiA/view?utm_content=DAGewP4WPM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60fc46b8da) | T.B.D | [ReactJS Foundational Problems](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/bbe7989b00f54298a77d2c13e9463998a03854aa/assignments/ReactJS.MD) |
 
 ## 🛠️ Technologies Covered
 
