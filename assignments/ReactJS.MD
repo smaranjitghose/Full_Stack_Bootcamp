@@ -17,8 +17,6 @@ Take a look at the provided UI. Your task is to divide it into multiple React co
 
 ## 3. Rendering Multiple Components and Nesting Components
 
-In this exercise, you will learn how to create multiple components and render one component inside another.
-
 Step 1: Create a Header Component
 
 1. Create a new file called `Header.jsx`.
@@ -71,7 +69,94 @@ export default App;
 ```
 
 
+## 4. Understanding JSX
+
+#### Step 1: Create a New Component
+
+1. Create a new file called `WelcomeMessage.jsx`.
+2. Inside this file, write a functional component called `WelcomeMessage`.
+3. The component should return a `<div>` that contains:
+   - A `<h1>` element that displays the message: `"Hello, World!"`
+   - A `<p>` element that displays the message: `"Welcome to learning JSX!"`
+
+#### Step 2: Render the Component in App.jsx
+
+1. Open the `App.jsx` file.
+2. Import the `WelcomeMessage` component at the top of the file:
+3. Inside the `App` component's return statement, render the
+
+#### Step 3: Run the Application
+
+1. Run the app in your development environment.
+2. You should see the `"Hello, World!"` message along with `"Welcome to learning JSX!"` displayed in your browser.
 
 
+## 5. JSX Rules
 
 
+#### Step 1: Create a New Component
+
+1. Create a new file called `JSXRules.jsx`.
+2. Inside this file, write a functional component called `JSXRules`.
+
+The component should return a `<div>` containing the following:
+
+- A `<h1>` element with the text `"JSX Rules"`.
+
+- A paragraph (`<p>`) that lists at least 3 rules of JSX:
+  - JSX must return a **single parent element**.
+  - JSX elements must be **properly closed**.
+  - JSX attributes are written using **camelCase** (e.g., `className` instead of `class`).
+
+
+## 6. JSX Expressions 
+
+#### Step 1: Create a `Greeting` Component
+
+1. Create a new file called `Greeting.jsx`.
+2. Inside this file, create a functional component named `Greeting`.
+3. The `Greeting` component should return a `<div>` containing:
+
+   - A `<h1>` element that dynamically displays a greeting message.
+   - A `<p>` element that dynamically displays the current date.
+
+4. Use JavaScript expressions inside `{}` to dynamically render the following:
+   - A `name` variable containing a name, such as `"John"`.
+   - A `new Date()` object to display the current date.
+
+#### Step 2: Create a `ProductInfo` Component
+
+1. Create a new file called `ProductInfo.jsx`.
+2. Inside this file, create a functional component named `ProductInfo`.
+3. The `ProductInfo` component should return a `<div>` that dynamically displays product details:
+
+   - Use a `product` object that contains the following properties:
+     - `name`: `"Laptop"`,
+     - `price`: `$1200`,
+     - `availability`: `"In stock"`
+
+4. Display the product name, price, and availability using `{}`.
+
+#### Step 3: Render Components in `App.jsx`
+
+1. In your `App.jsx` file, import the `Greeting` and `ProductInfo` components:
+
+   ```jsx
+   import Greeting from "./Greeting";
+   import ProductInfo from "./ProductInfo";
+   ```
+
+2. Inside the `App` component's return statement, render both components:
+
+   ```jsx
+   function App() {
+     return (
+       <div>
+         <Greeting />
+         <ProductInfo />
+       </div>
+     );
+   }
+
+   export default App;
+   ```
