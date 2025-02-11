@@ -16,7 +16,7 @@
 | Mann Solanki                   | 2203031080260        |                   |             |
 | Dhyan Patel                    | 2203031080216        |                   |             |
 | Rajdeepsinh Dabhi              | 2203031080069        |                   |             |
-| Ankit Kumar                    | 2203031080184        |                   |             |
+| Ankit Kumar                    | 2203031080184        |[Assignment 32](https://github.com/Ankiitsuthar/ReactJS/tree/main/Task2/Assignment2)|[GitHub](https://github.com/Ankiitsuthar/ReactJS)             |
 | Hardeep Ijardar                | 2203031080031        |                   |             |
 | Sahil Bharude                  | 2203031080235        |                   |             |
 | Sparsh Patel                   | 2203031080053        |                   |             |
