@@ -19,7 +19,6 @@
 | Ankit Kumar                    | 2203031080184        |                   |             |
 | Hardeep Ijardar                | 2203031080031        |                   |             |
 | Sahil Bharude                  | 2203031080235        |                   |             |
-| Aryan Vekariya                 | 2203031080125        |                   |             |
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |                   |             |
@@ -40,7 +39,7 @@
 | Alisha Kaur                    | 2203031080202        |                   |             |
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
 | Bharvi Valand                  | 2303031087002        |                   |             |
-| Neeti Darji                    | 2303031087080        |                   |             |
+| Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
 | Suhani Tandel                  | 2203031080160        |                   |             |
 | Rishabh Rai                    | 2203031080114        |                   |             |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
