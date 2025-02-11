@@ -1,8 +1,6 @@
-<h1 align = "center">ReactJS Foundational Problems</h1>
+# 🚀 ReactJS Foundational Problems
 
-
-
-##  ✏️ Common Instructions
+## ✏️ Common Instructions
 
 - Create a new repository on GitHub with name ReactJSTasks
 - Clone it in your local system
@@ -26,11 +24,8 @@ ReactJSTasks
       - Snapshot of Relevant Code
       - Snapshot of Corresponding Web Page
       - Commit Message, Feature Branch Name, PR Name as per description in issue
- 
 
-
-
-## 1. Break Down the UI into Components  
+## 1. 🔍 Break Down the UI into Components  
 
 - **Task**: Analyze the provided UI and divide it into multiple React components.  
 - **Instructions**:  
@@ -39,9 +34,7 @@ ReactJSTasks
 - **UI Image**:  
   ![UI Image](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/f681b71e60c357846a377f94de394bb16859beef/assignments/zerodha_components.png)
 
----
-
-## 2. Create a Greet Component  
+## 2. ✨ Create a Greet Component  
 
 - **Task**: Create a `Greet` component using both function declaration and arrow function syntax.  
 - **Steps**:  
@@ -50,9 +43,7 @@ ReactJSTasks
   3. Refactor the `Greet` component to use **arrow function** syntax.  
   4. Register the `Greet` component in `App.jsx` to see the result.  
 
----
-
-## 3. Rendering Multiple Components and Nesting Components  
+## 3. 🏗️ Rendering Multiple Components and Nesting Components  
 
 ### Step 1: Create a Header Component  
 1. Create `Header.jsx`.  
@@ -90,9 +81,7 @@ ReactJSTasks
    export default App;
    ```
 
----
-
-## 4. Understanding JSX  
+## 4. 📚 Understanding JSX  
 
 ### Step 1: Create a `WelcomeMessage` Component  
 1. Create `WelcomeMessage.jsx`.  
@@ -105,9 +94,7 @@ ReactJSTasks
 1. Import `WelcomeMessage` in `App.jsx`.  
 2. Render it inside the `App` component.  
 
----
-
-## 5. JSX Rules  
+## 5. 📏 JSX Rules  
 
 ### Step 1: Create a `JSXRules` Component  
 1. Create `JSXRules.jsx`.  
@@ -119,9 +106,7 @@ ReactJSTasks
      - JSX elements must be **properly closed**.  
      - JSX attributes use **camelCase** (e.g., `className`).  
 
----
-
-## 6. JSX Expressions  
+## 6. 💭 JSX Expressions  
 
 ### Step 1: Create a `Greeting` Component  
 1. Create `Greeting.jsx`.  
@@ -141,9 +126,7 @@ ReactJSTasks
 1. Import `Greeting` and `ProductInfo` in `App.jsx`.  
 2. Render them inside the `App` component.  
 
----
-
-## 7. Displaying a List of Data  
+## 7. 📝 Displaying a List of Data  
 
 ### Step 1: Create a `UserList` Component  
 1. Create `UserList.jsx`.  
@@ -173,9 +156,7 @@ ReactJSTasks
 1. Import `UserList` and `ProductList` in `App.jsx`.  
 2. Render them inside the `App` component.  
 
----
-
-## 8. Passing Props to Components  
+## 8. 🎁 Passing Props to Components  
 
 ### Step 1: Create a `Person` Component  
 1. Create `Person.jsx`.  
@@ -195,9 +176,7 @@ ReactJSTasks
 1. Import `Person` and `Product` in `App.jsx`.  
 2. Pass `name`, `age`, and `price` as props to these components.  
 
----
-
-## 9. Prop Destructuring  
+## 9. ⚡ Prop Destructuring  
 
 ### Step 1: Create a `Person` Component with Destructuring  
 1. Create `Person.jsx`.  
@@ -215,5 +194,4 @@ ReactJSTasks
 
 ### Step 3: Pass Props from `App.jsx`  
 1. Import `Person` and `Product` in `App.jsx`.  
-2. Pass `name`, `age`, and `price` as props to these components.  
-
+2. Pass `name`, `age`, and `price` as props to these components.
