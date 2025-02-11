@@ -10,7 +10,7 @@
 | Utsav Hirapra                  | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
 | Satyam                         | 2203031080232        |                   |             |
-| Vaishnavi Sagariya             | 2203031080013        |                   |             |
+| Vaishnavi Sagariya             | 2203031080013        |   [Assignment 31] (https://github.com/sagariyavaishnavi/React_project/blob/main/public/UI1.jpg)  |  [GitHub] (https://github.com/sagariyavaishnavi/React_project) |
 | Jenish Paghadal                | 2203031080007        |  [Assignment 31](https://github.com/ItsJESH/ReactAssignment/blob/main/public/Q1.png)                 | [GitHub](https://github.com/ItsJESH/ReactAssignment)            |
 | Umang Patel                    | 2203031080107        |                   |             |
 | Mann Solanki                   | 2203031080260        |                   |             |
