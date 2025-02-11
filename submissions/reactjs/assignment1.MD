@@ -2,7 +2,7 @@
 |--------------------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya              | 2203031080004        |                   |             |
 | Ayush                          | 2203031080028        |     [Assignment 31](https://github.com/ayushvadodariya/ReactAssignment/blob/main/public/q1.jpg)              |    [GitHub](https://github.com/ayushvadodariya/ReactAssignment)         |
-| Mansha Soni                    | 2203031080121        |                   |             |
+| Mansha Soni                    | 2203031080121        |    [Assignment 31](https://github.com/mansha-6/ReactJS/blob/main/public/image.jpg)               |     [Github] (https://github.com/mansha-6/ReactJS)        |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
 | Pranjal Pandey                 | 2203031080144        |                   |             |
 | Ashish Yadav                   | 2203031080161        |[Assignment 31](https://github.com/AshishIT611/ReactJS/blob/main/public/zerodha_components.png)                   |[GitHub](https://github.com/AshishIT611/ReactJS)             |
