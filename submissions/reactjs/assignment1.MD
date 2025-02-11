@@ -7,7 +7,7 @@
 | Pranjal Pandey                 | 2203031080144        |                   |             |
 | Ashish Yadav                   | 2203031080161        |[Assignment 31](https://github.com/AshishIT611/ReactJS/blob/main/public/zerodha_components.png)                   |[GitHub](https://github.com/AshishIT611/ReactJS)             |
 | Vinit Patel                    | 2203031080139        | [Assignment 31](https://github.com/Vinitpatel28/React/blob/main/public/snap.png)| [GitHub] (https://github.com/Vinitpatel28/React)|
-| Utsav Hirapra                  | 2203031080002        |                   |             |
+| Utsav Hirapra                  | 2203031080002        | [Assignment 31](https://github.com/utsav1213/ReactAssignments/blob/main/public/Q1.png)|[GitHub](https://github.com/ItsJESH/ReactAssignment)             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
 | Satyam                         | 2203031080232        |https://github.com/mrSinghSatyam/ReactJS/blob/main/source/Q1.jpg|https://github.com/mrSinghSatyam/ReactJS|
 | Vaishnavi Sagariya             | 2203031080013        |   [Assignment 31] (https://github.com/sagariyavaishnavi/React_project/blob/main/public/UI1.jpg)  |  [GitHub] (https://github.com/sagariyavaishnavi/React_project) |
