@@ -1,5 +1,35 @@
 <h1 align = "center">ReactJS Foundational Problems</h1>
 
+
+
+##  ✏️ Common Instructions
+
+- Create a new repository on GitHub with name ReactJSTasks
+- Clone it in your local system
+- For each task, create a separate sub-directory
+
+```
+ReactJSTasks
+  |-- Task 1
+  |-- Task 2
+  |-- Task 3
+  .
+  .
+  .
+```
+
+- For each task, except task 1, you must
+  - have a dedicated react project created via vite
+  - ensure the node_modules are not pushed to your remote repository
+  - Raise a PR on this course repository with the following
+      - Relevant Issue Number 
+      - Snapshot of Relevant Code
+      - Snapshot of Corresponding Web Page
+      - Commit Message, Feature Branch Name, PR Name as per description in issue
+ 
+
+
+
 ## 1. Break Down the UI into Components  
 
 - **Task**: Analyze the provided UI and divide it into multiple React components.  
