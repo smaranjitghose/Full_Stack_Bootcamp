@@ -42,5 +42,5 @@
 | Bharvi Valand                  | 2303031087002        |[Assignment31](https://github.com/bharvivaland/ReactAssignments/blob/main/images/finalReact.jpg)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Neeti Darji                    | 2303031087080|[Assignment-31](https://github.com/Neetidarji/React_Assignment/blob/main/task1/image.jpg)|[Github](https://github.com/Neetidarji/React_Assignment)|
 | Suhani Tandel                  | 2203031080160        | [Assignment 31] (https://github.com/SuhaniTandel/React/blob/main/public/snap.png) | [Github](https://github.com/SuhaniTandel/React)     |
-| Rishabh Rai                    | 2203031080114        |                   |             |
+| Rishabh Rai                    | 2203031080114        | [Assignment 31] (https://github.com/Rishabhrai29/classReact/blob/main/classReact/public/Q1.png)                |  (https://github.com/Rishabhrai29/classReact/tree/main/classReact)           |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
