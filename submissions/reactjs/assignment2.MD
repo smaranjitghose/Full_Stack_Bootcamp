@@ -23,13 +23,13 @@
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |                   |             |
-| Deep Menpara                   | 2203031080091        |                   |             |
+| Deep Menpara                   | 2203031080091        |https://github.com/Deep7133/ReactJS/blob/main/Frontend/components/Greet.jsx                   |https://github.com/Deep7133/ReactJS/tree/main/Frontend             |
 | Raj Patel                      | 2203031080105        |                   |             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
-| Vignesh Gaddam                 | 2203031080131        |                   |             |
+| Vignesh Gaddam                 | 2203031080131        |  [Assignment 32](https://github.com/mrvigneshgaddam/React-Assignment/tree/main/Assignment-2)                 |     [GitHub](https://github.com/mrvigneshgaddam/React-Assignment)        |
 | Vrushangi Mistry               | 2203031080222        |                   |             |
 | Achal Ladani                   | 2203031080229        |                   |             |
-| Harsh Choudhary                | 2203031080132        |                   |             |
+| Harsh Choudhary                | 2203031080132        |[Assignment32](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment-2)                   |[github](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |                   |             |
 | Hani Vaghani                   | 2303031087088        |                   |             |
