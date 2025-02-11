@@ -33,7 +33,7 @@
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |                   |             |
 | Hani Vaghani                   | 2303031087088        |                   |             |
-| Harsh Surani                   | 2203031080123        | [Assignment 34](https://github.com/suraniharsh/ReactJSTasks/tree/main/Task%205)                  | [Github](https://github.com/suraniharsh/ReactJSTasks)            |
+| Harsh Surani                   | 2203031080123        |                   |             |
 | Yash Sakhareliya               | 2203031080015        |                   |             |
 | Meet Upendrakumar Patel        | 2203031080011        |                   |             |
 | Vraj Mehta                     | 2303031087034        |                   |             |
