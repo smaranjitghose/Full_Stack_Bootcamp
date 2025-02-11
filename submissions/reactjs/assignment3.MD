@@ -5,7 +5,7 @@
 | Mansha Soni                    | 2203031080121        |                   |             |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
 | Pranjal Pandey                 | 2203031080144        |                   |             |
-| Ashish Yadav                   | 2203031080161        |                   |             |
+| Ashish Yadav                   | 2203031080161        |[Assignment 33](https://github.com/AshishIT611/ReactJS/tree/main/Task%203)                   |[GitHub](https://github.com/AshishIT611/ReactJS)             |
 | Vinit Patel                    | 2203031080139        |                   |             |
 | Utsav Hirapra                  | 2203031080002        |[Assignment 33](https://github.com/utsav1213/ReactAssignments/tree/main/Task%203)                   |[GitHub](https://github.com/utsav1213/ReactAssignments)            |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
