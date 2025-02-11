@@ -291,3 +291,51 @@ Refactor the GlowDerma project to implement proper code organization using Expre
      - Continue serving on port 5000
 
 
+## Task 6: MongoDB Integration with Mongoose 🗃️
+
+Enhance the GlowDerma project by integrating MongoDB, focusing on CRUD operations for the Product feature:
+
+1. Database Setup 🔌
+   - Create `config/db.js`:
+     ```javascript
+     // Connection URL
+     MONGODB_URI = "mongodb://localhost:27017/glowderma"
+     ```
+   - Install required packages:
+     ```bash
+     npm install mongoose dotenv
+     ```
+   - Implement MongoDB connection with error handling
+
+2. Create Product Model 📝
+   - Create `models/Product.js`:
+     ```javascript
+     {
+       name: String,         // "Retinol Serum"
+       price: Number,        // 1200
+       description: String,  // "Anti-aging serum..."
+       inStock: Boolean,     // true
+       quantity: Number      // 50
+     }
+     ```
+
+3. Modify Product Controller 🎮
+   - Update `productController.js` to implement:
+     ```javascript
+     // CRUD Operations
+     getAllProducts()   // GET /products
+     getProductById()  // GET /products/:id
+     createProduct()   // POST /products
+     updateProduct()   // PUT /products/:id
+     deleteProduct()   // DELETE /products/:id
+     ```
+
+4. Update Product Routes 🛣️
+   - Modify `routes/productRoutes.js` to include all CRUD endpoints
+   - Implement proper error handling
+   - Return appropriate HTTP status codes
+
+
+
+
+
