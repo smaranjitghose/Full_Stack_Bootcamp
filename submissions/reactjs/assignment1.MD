@@ -3,7 +3,7 @@
 | Shubham Karvariya              | 2203031080004        |                   |             |
 | Ayush                          | 2203031080028        |     [Assignment 31](https://github.com/ayushvadodariya/ReactAssignment/blob/main/public/q1.jpg)              |    [GitHub](https://github.com/ayushvadodariya/ReactAssignment)         |
 | Mansha Soni                    | 2203031080121        |    [Assignment 31](https://github.com/mansha-6/ReactJS/blob/main/public/image.jpg)               |     [Github] (https://github.com/mansha-6/ReactJS)        |
-| Bhavin Parmar                  | 2203031080042        |                   |             |
+| Bhavin Parmar                  | 2203031080042        |  [Assignment 31](https://github.com/bhavinbvn/React/blob/main/public/Q1.png)                 | [GitHub](https://github.com/bhavinbvn/React/)            |
 | Pranjal Pandey                 | 2203031080144        |                   |             |
 | Ashish Yadav                   | 2203031080161        |[Assignment 31](https://github.com/AshishIT611/ReactJS/blob/main/public/zerodha_components.png)                   |[GitHub](https://github.com/AshishIT611/ReactJS)             |
 | Vinit Patel                    | 2203031080139        | [Assignment 31](https://github.com/Vinitpatel28/React/blob/main/public/snap.png)| [GitHub] (https://github.com/Vinitpatel28/React)|
@@ -23,7 +23,7 @@
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |                   |             |
-| Deep Menpara                   | 2203031080091        |                   |             |
+| Deep Menpara                   | 2203031080091        |https://github.com/Deep7133/ReactJS/blob/main/Frontend/image.png                   |https://github.com/Deep7133/ReactJS/tree/main/Frontend             |
 | Raj Patel                      | 2203031080105        |                   |             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
 | Vignesh Gaddam                 | 2203031080131        | [Assignment Url](https://github.com/mrvigneshgaddam/React-Assignment/blob/main/Assignment-1/public/Assignment.png)                  |  [GitHub](https://github.com/mrvigneshgaddam/React-Assignment)           |
@@ -33,7 +33,7 @@
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |https://github.com/vishangl/React_Assignments/blob/main/Assignment%201/Screenshot%202025-02-11%20111258.png                   |https://github.com/vishangl/React_Assignments|
 | Hani Vaghani                   | 2303031087088        |                   |             |
-| Harsh Surani                   | 2203031080123        |                   |             |
+| Harsh Surani                   | 2203031080123        |[Assignment 31](https://github.com/suraniharsh/ReactJSTasks/commit/8c834d694c740641353b70bc1188aff61881de6b)                   |[Github](https://github.com/suraniharsh/ReactJSTasks)             |
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/blob/main/image.png)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |[Url](https://github.com/MeetPatel54/ReactWDF_Assignments/blob/main/zerodha_components.png)                   |[github](https://github.com/MeetPatel54/ReactWDF_Assignments.git)             |
 | Vraj Mehta                     | 2303031087034        |                   |             |
