@@ -44,4 +44,4 @@
 | Suhani Tandel                  | 2203031080160        |                   |             |
 | Rishabh Rai                    | 2203031080114        |                   |             |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
-| Jui
+| Jui kalan                      | 2203031260085        |                   |             | 
