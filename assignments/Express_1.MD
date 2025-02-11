@@ -113,7 +113,7 @@ Build the following features for GlowDerma's order management system 🏥:
 Continue with the GlowDerma project and implement the following middleware in `index.js` 🚀:
 
 1. Create a request logger middleware that outputs: 📝
-   `DATETIME | HTTP METHOD | PATH` for every incoming request
+   `DATETIME | HTTP METHOD | PATH` for every incoming request and simultaneously stores the same inside a `server.log` file
 
 2. Implement a 404 handler middleware that: 🚫
    - Catches requests to undefined routes
