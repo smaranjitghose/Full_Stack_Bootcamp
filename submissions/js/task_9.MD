@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya | 2203031080013 | | |
 | Jenish Paghadal | 2203031080007 |[Image Classifier](https://jsassignment-omega.vercel.app/imgclassification.html) |[Github](https://github.com/ItsJESH/JSAssignment) |
 | Umang Patel | 2203031080107 | | |
-| Mann Solanki | 2203031080260 | | |
+| Mann Solanki | 2203031080260 |[Image Classifier](https://javascriptproject000.netlify.app/soiltypeclassification/) |[Github](https://github.com/HarmonyHacker/javascript_projects) |
 | Dhyan Patel | 2203031080216 |https://javascript-projects-tau-azure.vercel.app/models.html |https://github.com/dhyanpatel3/javascript_projects |
 | Rajdeepsinh Dabhi | 2203031080069 | | |
 | Ankit Kumar | 2203031080184 |[Image Classification](https://java-script-project-ecru.vercel.app/Classification.html) |[Github](https://github.com/Ankiitsuthar/JavaScript-Project) |
@@ -38,8 +38,8 @@
 | Meet Upendrakumar Patel | 2203031080011 |[Task 9](https://ml-5.vercel.app/) |[Git Hub](https://github.com/MeetPatel54/Ml-5.git) |
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | https://vermillion-fudge-417f60.netlify.app/ | https://github.com/Alishakaur431/image-classifier|
-| Pranav Faladu | 2303031087022 | | |
-| Bharvi Valand | 2303031087002 | | |
+| Pranav Faladu | 2303031087022 |https://inquisitive-croquembouche-acec27.netlify.app/index1|https://github.com/PranavFaladu/JSprojects|
+| Bharvi Valand | 2303031087002 |https://celebrated-pegasus-172baa.netlify.app/index1|https://github.com/bharvivaland/JSprojects|
 | Neeti Darji | 2303031087080 |[Task 9](https://jsprojects-6m1.pages.dev/index1) | [Github Repository](https://github.com/Neetidarji/Jsprojects) |
 | Suhani Tandel | 2203031080160 | [Task 9] https://coruscating-alpaca-272189.netlify.app/ |[git] https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 |[Task 9](https://js-coral-psi.vercel.app/class/index.html) |[git](https://github.com/Rishabhrai29/js) |

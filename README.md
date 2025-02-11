@@ -30,10 +30,10 @@ This intensive course takes you from zero programming knowledge to building full
 | 5 | 📝 HTML | Intro to HTML, Headings, Text Formatting, Unordered and Ordered Lists, URLs, Images, Tables, Forms-input&buttons, Div | [MDN Docs - HTML](developer.mozilla.org/en-us/docs/web/html) | [Quiz 9](https://forms.gle/gvg7nwN7aKhXc8QJ6) | [HTML Assignment 1](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/HTML_1.MD), [HTML Assignment 2](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/HTML_2.MD)|
 | 6 | 🎨 CSS | CSS3, Flexbox, Grid, Animations | | T.B.D  | |
 | 7 | 💻 JavaScript Deep Dive | ES6+, DOM, Async Programming | |[OOPs Quiz](https://forms.gle/DXNHN1AzfnuvSYhN7)| [JS Basic Projects](./assignments/JavaScript_1.MD)  |
-| 8 | 🔙 Backend with Node/Express | RESTful APIs, Middleware, Error Handling | |T.B.D  |  |
+| 8 | 🔙 Backend with Node/Express | RESTful APIs, Middleware, Error Handling | |T.B.D  | [ExpressJS Assignment 1](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/main/assignments/Express_1.MD)  |
 | 9 | 🔐 Auth & Security | JWT, OAuth, Security Best Practices | |T.B.D  |  |
 | 10 | 🧪 Testing & Performance | Jest, Performance Optimization, SEO ||T.B.D  |  |
-| 11 | ⚛️ Frontend with React | Components, Hooks, State Management | | T.B.D |  |
+| 11 | ⚛️ Frontend with React | Components, Hooks, State Management | [ReactJS PPT](https://www.canva.com/design/DAGewP4WPM8/Z4LNCnEUZlzTbqZH2K-AiA/view?utm_content=DAGewP4WPM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60fc46b8da) | T.B.D | [ReactJS Foundational Problems](./assignments/ReactJS.MD) |
 
 ## 🛠️ Technologies Covered
 
