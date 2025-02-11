@@ -5,7 +5,7 @@
 Take a look at the provided UI. Your task is to divide it into multiple React components. You don't need to write any code for this step. Simply use a pen and paper or a photo editing tool to visualize how the UI can be split into different components. This exercise will help you get a better understanding of component structure in React.
 
 
-![UI Image](Zerodha.jpg)
+![UI Image](https://github.com/smaranjitghose/Full_Stack_Bootcamp/blob/f681b71e60c357846a377f94de394bb16859beef/assignments/zerodha_components.png)
 
 ## 2. Create a Greet Component
  
