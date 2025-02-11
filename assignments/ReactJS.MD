@@ -1,5 +1,4 @@
 <h1 align = "center">ReactJS Foundational Problems</h1>
----
 
 ## 1. Break Down the UI into Components  
 
