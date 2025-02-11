@@ -41,6 +41,6 @@
 | Pranav Faladu                  | 2303031087022        |                   |             |
 | Bharvi Valand                  | 2303031087002        |[Assignment31](https://github.com/bharvivaland/ReactAssignments/blob/main/images/finalReact.jpg)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Neeti Darji                    | 2303031087080        |                   |             |
-| Suhani Tandel                  | 2203031080160        |                   |             |
+| Suhani Tandel                  | 2203031080160        | [Assignment 31] (https://github.com/SuhaniTandel/React/blob/main/public/snap.png) | [Github](https://github.com/SuhaniTandel/React)     |
 | Rishabh Rai                    | 2203031080114        |                   |             |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
