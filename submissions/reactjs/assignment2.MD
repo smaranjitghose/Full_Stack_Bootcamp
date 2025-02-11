@@ -11,7 +11,7 @@
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
 | Satyam                         | 2203031080232        |https://github.com/mrSinghSatyam/ReactJS/tree/main/Assignment-2|https://github.com/mrSinghSatyam/ReactJS|
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
-| Jenish Paghadal                | 2203031080007        |                   |             |
+| Jenish Paghadal                | 2203031080007        |  [Assignment 32](https://github.com/ItsJESH/ReactAssignment/tree/main/Task2)        |[GitHub](https://github.com/ItsJESH/ReactAssignment/)             |
 | Umang Patel                    | 2203031080107        |                   |             |
 | Mann Solanki                   | 2203031080260        |                   |             |
 | Dhyan Patel                    | 2203031080216        |                   |             |
