@@ -42,4 +42,4 @@
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
 | Suhani Tandel                  | 2203031080160        |                   |             |
 | Rishabh Rai                    | 2203031080114        |                   |             |
-| Rutuja Waghchaure              | 2303031087089        |                   |             |
+| Rutuja Waghchaure              | 2303031087089        |[Assignment 32](https://github.com/rutujawaghchaure/ReactAssignment/tree/main/Task32/Task32)|[GitHub](https://github.com/rutujawaghchaure/ReactAssignment)|
