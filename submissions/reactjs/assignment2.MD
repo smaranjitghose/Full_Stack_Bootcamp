@@ -24,7 +24,7 @@
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |                   |             |
 | Deep Menpara                   | 2203031080091        |                   |             |
-| Raj Patel                      | 2203031080105        |                   |             |
+| Raj Patel                      | 2203031080105        | [Assignment-32](https://github.com/RajPatel08/ReactAssignment/blob/master/components/greet.jsx) | [Github](https://github.com/RajPatel08/ReactAssignment)             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
 | Vignesh Gaddam                 | 2203031080131        |                   |             |
 | Vrushangi Mistry               | 2203031080222        |                   |             |
