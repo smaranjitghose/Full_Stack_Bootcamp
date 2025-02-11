@@ -40,6 +40,6 @@
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
 | Bharvi Valand                  | 2303031087002        |                   |             |
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
-| Suhani Tandel                  | 2203031080160        |                   |             |
+| Suhani Tandel                  | 2203031080160        |  [Task 2](https://github.com/SuhaniTandel/React/tree/main/Task%202)| [Github](https://github.com/SuhaniTandel/React) |
 | Rishabh Rai                    | 2203031080114        |                   |             |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
