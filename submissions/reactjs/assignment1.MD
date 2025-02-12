@@ -22,7 +22,7 @@
 | Aryan Vekariya                 | 2203031080125        |[Assignment31](https://github.com/aaryanvekariya/React/blob/main/task1.png) |[Github](https://github.com/aaryanvekariya/React)             |
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
-| Ravi Vira                      | 2203031080018        |                   |             |
+| Ravi Vira                      | 2203031080018        |[assign 31](https://github.com/Ravi-vira/ReactWDF_assignment/blob/main/Task-1/zerodha_components.png)|[git](https://github.com/Ravi-vira/ReactWDF_assignment|
 | Deep Menpara                   | 2203031080091        |https://github.com/Deep7133/ReactJS/blob/main/Frontend/image.png                   |https://github.com/Deep7133/ReactJS/tree/main/Frontend             |
 | Raj Patel                      | 2203031080105        |                   |             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
