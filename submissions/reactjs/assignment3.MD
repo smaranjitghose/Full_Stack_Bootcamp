@@ -39,7 +39,7 @@
 | Vraj Mehta                     | 2303031087034        |                   |             |
 | Alisha Kaur                    | 2203031080202        |                   |             |
 | Pranav Faladu                  | 2303031087022        |                   |             |
-| Bharvi Valand                  | 2303031087002        |                   |             |
+| Bharvi Valand                  | 2303031087002        |[Task3](https://github.com/bharvivaland/ReactAssignments/blob/main/task3/Task3/src/App.jsx)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Neeti Darji                    | 2303031087080        |                   |             |
 | Suhani Tandel                  | 2203031080160        | [Task 3](https://github.com/SuhaniTandel/React/tree/main/Task3)| [Github](https://github.com/SuhaniTandel/React)           |
 | Rishabh Rai                    | 2203031080114        |                   |             |
