@@ -37,7 +37,7 @@
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/blob/main/image.png)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |[Url](https://github.com/MeetPatel54/ReactWDF_Assignments/blob/main/zerodha_components.png)                   |[github](https://github.com/MeetPatel54/ReactWDF_Assignments.git)             |
 | Vraj Mehta                     | 2303031087034        |                   |             |
-| Alisha Kaur                    | 2203031080202        |                   |             |
+| Alisha Kaur                    | 2203031080202        |https://github.com/Alishakaur431/React_Assignments/blob/main/public/assignment1.jpeg|   https://github.com/Alishakaur431/React_Assignments/tree/main/public          |
 | Pranav Faladu                  | 2303031087022        |                   |             |
 | Bharvi Valand                  | 2303031087002        |[Assignment31](https://github.com/bharvivaland/ReactAssignments/blob/main/images/finalReact.jpg)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Neeti Darji                    | 2303031087080|[Assignment-31](https://github.com/Neetidarji/React_Assignment/blob/main/task1/image.jpg)|[Github](https://github.com/Neetidarji/React_Assignment)|
