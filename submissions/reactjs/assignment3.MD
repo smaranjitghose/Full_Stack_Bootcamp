@@ -32,7 +32,7 @@
 | Harsh Choudhary                | 2203031080132        |[Assignment33](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment-3)                   |[gihub](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |                   |             |
-| Hani Vaghani                   | 2303031087088        |                   |             |
+| Hani Vaghani                   | 2303031087088        |https://github.com/hanivaghani/ReactJSAssignment/blob/main/task3/assignment3/src/App.js|https://github.com/hanivaghani/ReactJSAssignment/tree/main|
 | Harsh Surani                   | 2203031080123        |                   |             |
 | Yash Sakhareliya               | 2203031080015        |                   |             |
 | Meet Upendrakumar Patel        | 2203031080011        |                   |             |
