@@ -32,7 +32,7 @@
 | Harsh Choudhary                | 2203031080132        |[Image]https://github.com/mrHarshchoudhary/ReactAssignment/blob/main/Assignment-1/public/zerodha.png                   |[Github]https://github.com/mrHarshchoudhary/ReactAssignment             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |https://github.com/vishangl/React_Assignments/blob/main/Assignment%201/Screenshot%202025-02-11%20111258.png                   |https://github.com/vishangl/React_Assignments|
-| Hani Vaghani                   | 2303031087088        |                   |             |
+| Hani Vaghani                   | 2303031087088        |[Assignment 31](https://github.com/hanivaghani/ReactJSAssignment/blob/main/task1/assignment1/public/assignment-31.jfif)|[Github](https://github.com/hanivaghani/ReactJSAssignment/tree/main)|
 | Harsh Surani                   | 2203031080123        |[Assignment 31](https://github.com/suraniharsh/ReactJSTasks/commit/8c834d694c740641353b70bc1188aff61881de6b)                   |[Github](https://github.com/suraniharsh/ReactJSTasks)             |
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/blob/main/image.png)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |[Url](https://github.com/MeetPatel54/ReactWDF_Assignments/blob/main/zerodha_components.png)                   |[github](https://github.com/MeetPatel54/ReactWDF_Assignments.git)             |
