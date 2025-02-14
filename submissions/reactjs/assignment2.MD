@@ -36,7 +36,7 @@
 | Yash Sakhareliya               | 2203031080015        |                   |             |
 | Meet Upendrakumar Patel        | 2203031080011        |                   |             |
 | Vraj Mehta                     | 2303031087034        |                   |             |
-| Alisha Kaur                    | 2203031080202        |                   |             |
+| Alisha Kaur                    | 2203031080202        |[Task2](https://github.com/bharvivaland/ReactAssignments/blob/main/Assignment2/Task2/src/components/img/finalReact.jpg)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
 | Bharvi Valand                  | 2303031087002        |                   |             |
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
