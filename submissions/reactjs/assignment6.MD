@@ -1,12 +1,12 @@
 | 👩‍🎓 Student Name               | 🆔 Enrollment Number | Assignment 36 URL | ReactJS Assignments Repo |
 |--------------------------------|----------------------|-------------------|-------------|
 | Shubham Karvariya              | 2203031080004        |                   |             |
-| Ayush                          | 2203031080028        |                   |             |
+| Ayush                          | 2203031080028        |        [Assignment 36](https://github.com/ayushvadodariya/ReactAssignment/tree/main/task6)           |     [GitHub](https://github.com/ayushvadodariya/ReactAssignment)        |
 | Mansha Soni                    | 2203031080121        |                   |             |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
 | Pranjal Pandey                 | 2203031080144        |                   |             |
 | Ashish Yadav                   | 2203031080161        |                   |             |
-| Vinit Patel                    | 2203031080139        |                   |             |
+| Vinit Patel                    | 2203031080139        | [Assignment 36](https://github.com/Vinitpatel28/React/tree/main/Task6)|[GitHub](https://github.com/Vinitpatel28/React) |
 | Utsav Hirapra                  | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
 | Satyam                         | 2203031080232        |                   |             |
