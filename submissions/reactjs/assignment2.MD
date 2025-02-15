@@ -41,5 +41,5 @@
 | Bharvi Valand                  | 2303031087002        |                   |             |
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
 | Suhani Tandel                  | 2203031080160        |  [Task 2](https://github.com/SuhaniTandel/React/tree/main/Task%202)| [Github](https://github.com/SuhaniTandel/React) |
-| Rishabh Rai                    | 2203031080114        |                   |             |
+| Rishabh Rai                    | 2203031080114        | https://github.com/Rishabhrai29/classReact/blob/main/Assignment2/src/components/greet.jsx                  | https://github.com/Rishabhrai29/classReact/tree/main/Assignment2 |
 | Rutuja Waghchaure              | 2303031087089        |[Assignment 32](https://github.com/rutujawaghchaure/ReactAssignment/tree/main/Task32/Task32)|[GitHub](https://github.com/rutujawaghchaure/ReactAssignment)|
