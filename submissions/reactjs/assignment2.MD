@@ -32,7 +32,7 @@
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |                   |             |
 | Hani Vaghani                   | 2303031087088        |                   |             |
-| Harsh Surani                   | 2203031080123        |                   |             |
+| Harsh Surani                   | 2203031080123        | [Assignment 32](https://github.com/suraniharsh/ReactJSTasks/commit/7b9151d41b21797f691b72889febdbd42a31d1be)                   | [github](https://github.com/suraniharsh/ReactJSTasks)             |
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/tree/main/Task2)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |                   |             |
 | Vraj Mehta                     | 2303031087034        |                   |             |
