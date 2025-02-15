@@ -27,7 +27,7 @@
 | Raj Patel                      | 2203031080105        |  [Assignment-3](https://github.com/RajPatel08/ReactAssignment/tree/master/assignment-3) |[Github](https://github.com/RajPatel08/ReactAssignment)     |
 | Darsh Kalani                   | 2203031080032        |                   |             |
 | Vignesh Gaddam                 | 2203031080131        | [Assignment 3](https://github.com/mrvigneshgaddam/React-Assignment/tree/main/Assignment-3)                  | [GitHub](https://github.com/mrvigneshgaddam/React-Assignment)            |
-| Vrushangi Mistry               | 2203031080222        |                   |             |
+| Vrushangi Mistry               | 2203031080222        |      [Assignment 33](https://github.com/Vrushi14/ReactJS/tree/main/Task3)             |    [Github](https://github.com/Vrushi14/ReactJS/)         |
 | Achal Ladani                   | 2203031080229        |                   |             |
 | Harsh Choudhary                | 2203031080132        |[Assignment33](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment-3)                   |[gihub](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
