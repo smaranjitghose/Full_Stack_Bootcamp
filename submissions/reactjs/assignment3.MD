@@ -32,7 +32,7 @@
 | Harsh Choudhary                | 2203031080132        |[Assignment33](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment-3)                   |[gihub](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |[Assignment 33](https://github.com/vishangl/React_Assignments/tree/main/Assignment%203)|[repo](https://github.com/vishangl/React_Assignments)|
-| Hani Vaghani                   | 2303031087088        |                   |             |
+| Hani Vaghani                   | 2303031087088        |https://github.com/hanivaghani/ReactJSAssignment/blob/main/task3/assignment3/src/App.js|https://github.com/hanivaghani/ReactJSAssignment/tree/main|
 | Harsh Surani                   | 2203031080123        |[Assignment 33](https://github.com/suraniharsh/ReactJSTasks/commit/e79a6f76443a8131dc29e077b58472d18c84644d)                   |[Github](https://github.com/suraniharsh/ReactJSTasks)             |
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/tree/main/Task3)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |[Assignment33](https://github.com/MeetPatel54/ReactWDF_Assignments/blob/main/Task-3/src/App.jsx)                   |[github](https://github.com/MeetPatel54/ReactWDF_Assignments.git)             |
