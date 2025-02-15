@@ -36,7 +36,7 @@
 | Yash Sakhareliya               | 2203031080015        |[Assignment Url](https://github.com/YashSakhareliya/ReactWdfAssignments/tree/main/Task2)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
 | Meet Upendrakumar Patel        | 2203031080011        |[Task 2](https://github.com/MeetPatel54/ReactWDF_Assignments/blob/main/Task-2/Frontend/src/App.jsx)|[Github](https://github.com/MeetPatel54/ReactWDF_Assignments.git)|
 | Vraj Mehta                     | 2303031087034        |                   |             |
-| Alisha Kaur                    | 2203031080202        |                   |             |
+| Alisha Kaur                    | 2203031080202        |  https://github.com/Alishakaur431/React_Assignments/tree/main/Task2                 |https://github.com/Alishakaur431/React_Assignments|
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
 | Bharvi Valand                  | 2303031087002        |                   |             |
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
