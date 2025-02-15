@@ -43,4 +43,4 @@
 | Neeti Darji                    | 2303031087080        |[Task 3](https://github.com/Neetidarji/React_Assignment/blob/main/task%203/assignment3/src/App.jsx)|[Github](https://github.com/Neetidarji/React_Assignment)|
 | Suhani Tandel                  | 2203031080160        | [Task 3](https://github.com/SuhaniTandel/React/tree/main/Task3)| [Github](https://github.com/SuhaniTandel/React)           |
 | Rishabh Rai                    | 2203031080114        |                   |             |
-| Rutuja Waghchaure              | 2303031087089        |                   |             |
+| Rutuja Waghchaure              | 2303031087089        |[Assignment 33](https://github.com/rutujawaghchaure/ReactAssignment/tree/main/Task33)|[Github](https://github.com/rutujawaghchaure/ReactAssignment)|
