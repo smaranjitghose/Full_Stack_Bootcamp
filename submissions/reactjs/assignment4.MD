@@ -6,10 +6,10 @@
 | Bhavin Parmar                  | 2203031080042        |                   |             |
 | Pranjal Pandey                 | 2203031080144        |[Assignment 34](https://github.com/Pranjallpandey1504/React_Assignments/tree/main/Task4)                   | [GitHUb](https://github.com/Pranjallpandey1504/React_Assignments)             |
 | Ashish Yadav                   | 2203031080161        |                   |             |
-| Vinit Patel                    | 2203031080139        |                   |             |
+| Vinit Patel                    | 2203031080139        |  [Assignment 34](https://github.com/Vinitpatel28/React/tree/main/Task4)|[GotHub](https://github.com/Vinitpatel28/React) |
 | Utsav Hirapra                  | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
-| Satyam                         | 2203031080232        |                   |             |
+| Satyam                         | 2203031080232        |https://github.com/mrSinghSatyam/ReactJS/tree/main/Task-4|https://github.com/mrSinghSatyam/ReactJS/tree/main|
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
 | Jenish Paghadal                | 2203031080007        |  [Assignment 34](https://github.com/ItsJESH/ReactAssignment/tree/main/Task4)                 | [GitHUb](https://github.com/ItsJESH/ReactAssignment/)            |
 | Umang Patel                    | 2203031080107        |                   |             |
@@ -26,13 +26,13 @@
 | Deep Menpara                   | 2203031080091        |                   |             |
 | Raj Patel                      | 2203031080105        |                   |             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
-| Vignesh Gaddam                 | 2203031080131        |                   |             |
+| Vignesh Gaddam                 | 2203031080131        | [Assignment 34](https://github.com/mrvigneshgaddam/React-Assignment/tree/main/Assignment-4)                  |   [GitHub](https://github.com/mrvigneshgaddam/React-Assignment)          |
 | Vrushangi Mistry               | 2203031080222        |https://github.com/Vrushi14/ReactJS/tree/main/assignment1|https://github.com/Vrushi14/ReactJS|
 | Achal Ladani                   | 2203031080229        |                   |             |
 | Harsh Choudhary                | 2203031080132        |[Assignment34](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment4)                   |[Github](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
 | Vishang Lad                    | 2203031080035        |                   |             |
-| Hani Vaghani                   | 2303031087088        |                   |             |
+| Hani Vaghani                   | 2303031087088        |https://github.com/hanivaghani/ReactJSAssignment/blob/main/task4/assignment4/src/App.jsx|https://github.com/hanivaghani/ReactJSAssignment/tree/main|
 | Harsh Surani                   | 2203031080123        |                   |             |
 | Yash Sakhareliya               | 2203031080015        |                   |             |
 | Meet Upendrakumar Patel        | 2203031080011        |                   |             |
