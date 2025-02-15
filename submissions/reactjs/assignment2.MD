@@ -4,10 +4,10 @@
 | Ayush                          | 2203031080028        |                   |             |
 | Mansha Soni                    | 2203031080121        |                   |             |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
-| Pranjal Pandey                 | 2203031080144        |                   |             |
+| Pranjal Pandey                 | 2203031080144        |[Assignment 32](https://github.com/Pranjallpandey1504/React_Assignments/tree/main/Assignment2)                   |[GitHub](https://github.com/Pranjallpandey1504/React_Assignments)             |
 | Ashish Yadav                   | 2203031080161        |                   |             |
-| Vinit Patel                    | 2203031080139        |                   |             |
-| Utsav Hirapra                  | 2203031080002        |                   |             |
+| Vinit Patel                    | 2203031080139        |[Assignment 32](https://github.com/Vinitpatel28/React/tree/main/Task2) |[GitHub](https://github.com/Vinitpatel28/React)|
+| Utsav Hirapra                  | 2203031080002        |[Assignment 32](https://github.com/utsav1213/ReactAssignments/tree/main/Task%202)  |[GitHub](https://github.com/utsav1213/ReactAssignments)             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
 | Satyam                         | 2203031080232        |https://github.com/mrSinghSatyam/ReactJS/tree/main/Assignment-2|https://github.com/mrSinghSatyam/ReactJS|
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
@@ -40,6 +40,6 @@
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
 | Bharvi Valand                  | 2303031087002        |                   |             |
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
-| Suhani Tandel                  | 2203031080160        |                   |             |
+| Suhani Tandel                  | 2203031080160        |  [Task 2](https://github.com/SuhaniTandel/React/tree/main/Task%202)| [Github](https://github.com/SuhaniTandel/React) |
 | Rishabh Rai                    | 2203031080114        |                   |             |
 | Rutuja Waghchaure              | 2303031087089        |                   |             |
