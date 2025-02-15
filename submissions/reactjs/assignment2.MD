@@ -24,7 +24,7 @@
 | Ravi Vira                      | 2203031080018        |                   |             |
 | Deep Menpara                   | 2203031080091        |https://github.com/Deep7133/ReactJS/tree/main/Task2                   |https://github.com/Deep7133/ReactJS             |
 | Raj Patel                      | 2203031080105        |  [Assignment-32](https://github.com/RajPatel08/ReactAssignment/tree/master/assignment-2)                 |[Github](https://github.com/RajPatel08/ReactAssignment)             |
-| Darsh Kalani                   | 2203031080032        |                   |             |
+| Darsh Kalani                   | 2203031080032        | [Assignment 32](https://github.com/Darshkalani28/React_Assignments/tree/main/Assignment2) | [GitHub](https://github.com/Darshkalani28/React_Assignments) |
 | Vignesh Gaddam                 | 2203031080131        |  [Assignment 32](https://github.com/mrvigneshgaddam/React-Assignment/tree/main/Assignment-2)                 |     [GitHub](https://github.com/mrvigneshgaddam/React-Assignment)        |
 | Vrushangi Mistry               | 2203031080222        |     [Assignment 32](https://github.com/Vrushi14/ReactJS/tree/main/Task-2)              |     [Github](https://github.com/Vrushi14/ReactJS/)       |
 | Achal Ladani                   | 2203031080229        |                   |             |
