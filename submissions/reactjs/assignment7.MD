@@ -9,7 +9,7 @@
 | Vinit Patel                    | 2203031080139        | [Assignment 37](https://github.com/Vinitpatel28/React/tree/main/Task7)|[GitHub](https://github.com/Vinitpatel28/React)|
 | Utsav Hirapra                  | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
-| Satyam                         | 2203031080232        |                   |             |
+| Satyam                         | 2203031080232        |https://github.com/mrSinghSatyam/ReactJS/tree/main/Task-7|https://github.com/mrSinghSatyam/ReactJS|
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
 | Jenish Paghadal                | 2203031080007        |                   |             |
 | Umang Patel                    | 2203031080107        |                   |             |
