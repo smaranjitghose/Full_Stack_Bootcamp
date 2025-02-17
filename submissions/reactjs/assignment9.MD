@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
 | Jenish Paghadal                | 2203031080007        |  [Assignment 39](https://github.com/ItsJESH/ReactAssignment/tree/main/Task9) |[Github](https://github.com/ItsJESH/ReactAssignment/)         |
 | Umang Patel                    | 2203031080107        |                   |             |
-| Mann Solanki                   | 2203031080260        |                   |             |
+| Mann Solanki                   | 2203031080260        |[Assignment 39](https://github.com/MannSolanki/ReactWDFAssignment/tree/main/task9) |[Github](https://github.com/MannSolanki/ReactWDFAssignment/) |
 | Dhyan Patel                    | 2203031080216        |                   |             |
 | Rajdeepsinh Dabhi              | 2203031080069        |                   |             |
 | Ankit Kumar                    | 2203031080184        |                   |             |
