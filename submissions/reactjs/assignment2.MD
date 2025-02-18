@@ -38,7 +38,7 @@
 | Vraj Mehta                     | 2303031087034        |                   |             |
 | Alisha Kaur                    | 2203031080202        |  https://github.com/Alishakaur431/React_Assignments/tree/main/Task2                 |https://github.com/Alishakaur431/React_Assignments|
 | Pranav Faladu                  | 2303031087022        |(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2)|(https://github.com/PranavFaladu/ReactAssignment/tree/main/Assignment2/Assignment2)|
-| Bharvi Valand                  | 2303031087002        |                   |             |
+| Bharvi Valand                  | 2303031087002        |[Task2](https://github.com/bharvivaland/ReactAssignments/blob/main/Assignment2/Task2/src/components/img/finalReact.jpg)|[Github](https://github.com/bharvivaland/ReactAssignments.git)|
 | Neeti Darji                    | 2303031087080        |[Task 2](https://github.com/Neetidarji/React_Assignment/blob/main/task2/assignment2/src/components/Greet.jsx)|[Github](https://github.com/Neetidarji/React_Assignment/tree/main/task2/assignment2)|
 | Suhani Tandel                  | 2203031080160        |  [Task 2](https://github.com/SuhaniTandel/React/tree/main/Task%202)| [Github](https://github.com/SuhaniTandel/React) |
 | Rishabh Rai                    | 2203031080114        | https://github.com/Rishabhrai29/classReact/blob/main/Assignment2/src/components/greet.jsx                  | https://github.com/Rishabhrai29/classReact/tree/main/Assignment2 |
