@@ -19,7 +19,7 @@
 | Ankit Kumar                    | 2203031080184        |[Assignment 37] (https://github.com/Ankiitsuthar/ReactJS/tree/main/Task7/Assignment7)                  | [GitHub](https://github.com/Ankiitsuthar/ReactJS)            |
 | Hardeep Ijardar                | 2203031080031        |                   |             |
 | Sahil Bharude                  | 2203031080235        |                   |             |
-| Aryan Vekariya                 | 2203031080125        |                   |             |
+| Aryan Vekariya                 | 2203031080125        |[Assignment37](https://github.com/aaryanvekariya/React/blob/main/Task7/src/App.jsx) |[Github](https://github.com/aaryanvekariya/React) |
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |[Assignment-37](https://github.com/Ravi-vira/ReactWDF_assignment/blob/main/Task7/src/App.jsx)|[git](https://github.com/Ravi-vira/ReactWDF_assignment)|
