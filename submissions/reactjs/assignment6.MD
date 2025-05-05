@@ -5,7 +5,7 @@
 | Mansha Soni                    | 2203031080121        |[Assignment 36](https://github.com/mansha-6/ReactJS/tree/main/task6/Assignment6)               |     [Github](https://github.com/mansha-6/ReactJS)        |
 | Bhavin Parmar                  | 2203031080042        |[Assignment 36](https://github.com/bhavinbvn/React/tree/main/Task36)|[Github](https://github.com/bhavinbvn/React)             |
 | Pranjal Pandey                 | 2203031080144        |[Assignment 36](https://github.com/Pranjallpandey1504/React_Assignments/tree/main/Task6)                   |[Github](https://github.com/Pranjallpandey1504/React_Assignments)             |
-| Ashish Yadav                   | 2203031080161        |                   |             |
+| Ashish Yadav                   | 2203031080161        |[Assignment 36](https://github.com/AshishIT611/ReactJS/tree/main/Task%206)                   |[GitHub](https://github.com/AshishIT611/ReactJS)             |
 | Vinit Patel                    | 2203031080139        |[Assignment 36](https://github.com/Vinitpatel28/React/tree/main/Task6)|[GitHub](https://github.com/Vinitpatel28/React) |
 | Utsav Hirapra                  | 2203031080002        |[Assignment 36](https://github.com/utsav1213/ReactAssignments/tree/main/Task%206)                   |[GitHub](https://github.com/utsav1213/ReactAssignments)            |
 | Meet Savadasbhai Sondarva      | 2203031080146        |https://github.com/meetsondarva/ReactAssignmentWDF/tree/main/task6|https://github.com/meetsondarva/ReactAssignmentWDF/|
