@@ -4,7 +4,7 @@
 | Ayush                          | 2203031080028        |        [Assignment 36](https://github.com/ayushvadodariya/ReactAssignment/tree/main/task6)           |     [GitHub](https://github.com/ayushvadodariya/ReactAssignment)        |
 | Mansha Soni                    | 2203031080121        |   [Assignment 36](https://github.com/mansha-6/ReactJS/tree/main/task6/Assignment6)               |     [Github](https://github.com/mansha-6/ReactJS)        |
 | Bhavin Parmar                  | 2203031080042        |                   |             |
-| Pranjal Pandey                 | 2203031080144        |                   |             |
+| Pranjal Pandey                 | 2203031080144        |[Assignment 36](https://github.com/Pranjallpandey1504/React_Assignments/tree/main/Task6)                   |[Github](https://github.com/Pranjallpandey1504/React_Assignments)             |
 | Ashish Yadav                   | 2203031080161        |                   |             |
 | Vinit Patel                    | 2203031080139        | [Assignment 36](https://github.com/Vinitpatel28/React/tree/main/Task6)|[GitHub](https://github.com/Vinitpatel28/React) |
 | Utsav Hirapra                  | 2203031080002        |                   |             |
