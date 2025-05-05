@@ -23,7 +23,7 @@
 | Sparsh Patel                   | 2203031080053        |                   |             |
 | Pratik Patel                   | 2203031080174        |                   |             |
 | Ravi Vira                      | 2203031080018        |[A-36](https://github.com/Ravi-vira/ReactWDF_assignment/blob/main/Task6/src/App.jsx)    |[git](https://github.com/Ravi-vira/ReactWDF_assignment) |
-| Deep Menpara                   | 2203031080091        |                   |             |
+| Deep Menpara                   | 2203031080091        |https://github.com/Deep7133/ReactJS/tree/main/Task6                   |https://github.com/Deep7133/ReactJS             |
 | Raj Patel                      | 2203031080105        |                   |             |
 | Darsh Kalani                   | 2203031080032        |                   |             |
 | Vignesh Gaddam                 | 2203031080131        |                   |             |
