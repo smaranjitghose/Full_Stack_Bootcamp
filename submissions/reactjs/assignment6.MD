@@ -31,7 +31,7 @@
 | Achal Ladani                   | 2203031080229        |                   |             |
 | Harsh Choudhary                | 2203031080132        |[Assignment36](https://github.com/mrHarshchoudhary/ReactAssignment/tree/main/Assignment-6)                   |[Github](https://github.com/mrHarshchoudhary/ReactAssignment)             |
 | Jeet Dhake                     | 2303031087082        |                   |             |
-| Vishang Lad                    | 2203031080035        |                   |             |
+| Vishang Lad                    | 2203031080035        |https://github.com/vishangl/React_Assignments/tree/main/Assignment%206|https://github.com/vishangl/React_Assignments|
 | Hani Vaghani                   | 2303031087088        |https://github.com/hanivaghani/ReactJSAssignment/blob/main/task6/assignment6/src/App.jsx|https://github.com/hanivaghani/ReactJSAssignment/tree/main|
 | Harsh Surani                   | 2203031080123        |                   |             |
 | Yash Sakhareliya               | 2203031080015        |[Assignment 36](https://github.com/YashSakhareliya/ReactWdfAssignments/tree/main/Task6)| [Github](https://github.com/YashSakhareliya/ReactWdfAssignments)            |
