@@ -8,7 +8,7 @@
 | Ashish Yadav                   | 2203031080161        |                   |             |
 | Vinit Patel                    | 2203031080139        | [Assignment 36](https://github.com/Vinitpatel28/React/tree/main/Task6)|[GitHub](https://github.com/Vinitpatel28/React) |
 | Utsav Hirapra                  | 2203031080002        |                   |             |
-| Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
+| Meet Savadasbhai Sondarva      | 2203031080146        |https://github.com/meetsondarva/ReactAssignmentWDF/tree/main/task6|https://github.com/meetsondarva/ReactAssignmentWDF/|
 | Satyam                         | 2203031080232        |[Assignment 36](https://github.com/mrSinghSatyam/ReactJS/tree/main/Task-6)|[Github](https://github.com/mrSinghSatyam/ReactJS)|
 | Vaishnavi Sagariya             | 2203031080013        |                   |             |
 | Jenish Paghadal                | 2203031080007        |   [Assignment 36](https://github.com/ItsJESH/ReactAssignment/tree/main/Task6)                |[Github](https://github.com/ItsJESH/ReactAssignment/)             |
