@@ -9,8 +9,8 @@
 | Vinit Patel                    | 2203031080139        | [Assignment 35](https://github.com/Vinitpatel28/React/tree/main/Task5) |[GitHub](https://github.com/Vinitpatel28/React)|
 | Utsav Hirapra                  | 2203031080002        |                   |             |
 | Meet Savadasbhai Sondarva      | 2203031080146        |                   |             |
-| Satyam                         | 2203031080232        |                   |             |
-| Vaishnavi Sagariya             | 2203031080013        |[Assignment 35] (https://github.com/sagariyavaishnavi/React_project/tree/main/Task5) |  [GitHub] (https://github.com/sagariyavaishnavi/React_project) |
+| Satyam                         | 2203031080232        |[Assignment 35](https://github.com/mrSinghSatyam/ReactJS/tree/main/Task-5)|[Github](https://github.com/mrSinghSatyam/ReactJS/tree/main)|
+| Vaishnavi Sagariya             | 2203031080013        |                   |             |
 | Jenish Paghadal                | 2203031080007        | [Assignment 35](https://github.com/ItsJESH/ReactAssignment/tree/main/Task5)                  | [GitHub](https://github.com/ItsJESH/ReactAssignment/tree/main/Task5)            |
 | Umang Patel                    | 2203031080107        |                   |             |
 | Mann Solanki                   | 2203031080260        |[Assignment-35](https://github.com/MannSolanki/ReactWDFAssignment/tree/main/task5)  |[Github](https://github.com/MannSolanki/ReactWDFAssignment/) |
