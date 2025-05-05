@@ -13,7 +13,7 @@
 | Vaishnavi Sagariya             | 2203031080013        |  [Assignment 34] (https://github.com/sagariyavaishnavi/React_project/tree/main/Task4) |   [GitHUb] (https://github.com/sagariyavaishnavi/React_project) |
 | Jenish Paghadal                | 2203031080007        |  [Assignment 34](https://github.com/ItsJESH/ReactAssignment/tree/main/Task4)                 | [GitHUb](https://github.com/ItsJESH/ReactAssignment/)            |
 | Umang Patel                    | 2203031080107        |                   |             |
-| Mann Solanki                   | 2203031080260        |                   |             |
+| Mann Solanki                   | 2203031080260  | [Assignment 34](https://github.com/MannSolanki/ReactWDFAssignment/tree/main/task4)  |[Github](https://github.com/MannSolanki/ReactWDFAssignment/)|
 | Dhyan Patel                    | 2203031080216        |[Assignment 34](https://github.com/dhyanpatel3/ReactWDFAssignments/tree/main/task4)|[GitHub](https://github.com/dhyanpatel3/ReactWDFAssignments/)|
 | Rajdeepsinh Dabhi              | 2203031080069        |                   |             |
 | Ankit Kumar                    | 2203031080184        |[Assignment 34](https://github.com/Ankiitsuthar/ReactJS/tree/main/Task4/Assignment4)                   |[GitHub](https://github.com/Ankiitsuthar/ReactJS)             |
